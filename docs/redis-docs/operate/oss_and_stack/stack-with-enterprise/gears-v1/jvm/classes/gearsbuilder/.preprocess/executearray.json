@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:03c7cf08888b0025cd09fb494fbbf63e8d75d92b",
+  "generated_at": "2026-02-18T06:57:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Executearray document describes a Java native method for running Redis commands by accepting an array of strings.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "executeArray",
+    "Redis command",
+    "array of strings",
+    "command result",
+    "native method"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

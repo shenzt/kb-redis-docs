@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:43d9d15031fe68692aa8d39a8510dfeacca6c6be",
+  "generated_at": "2026-02-18T06:56:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis pipelining is a performance technique for issuing multiple commands at once without waiting for individual responses, addressing latency from round-trip time (RTT) in request/response protocols.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis pipelining",
+    "Request/Response protocol",
+    "Round-trip time (RTT)",
+    "TCP server",
+    "loopback interface"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

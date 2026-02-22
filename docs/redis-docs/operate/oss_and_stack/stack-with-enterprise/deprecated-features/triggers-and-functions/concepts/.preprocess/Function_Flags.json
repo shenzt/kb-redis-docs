@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2bc5966f5384d816a11010812204955425b47450",
+  "generated_at": "2026-02-18T06:57:06Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Function flags in Redis describe optional flags like NO_WRITES, ALLOW_OOM, and RAW_ARGUMENTS that define a function's behavior regarding writes, memory usage, and argument handling.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "redis.functionFlags.NO_WRITES",
+    "redis.functionFlags.ALLOW_OOM",
+    "redis.functionFlags.RAW_ARGUMENTS",
+    "function registration",
+    "ArrayBuffer"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

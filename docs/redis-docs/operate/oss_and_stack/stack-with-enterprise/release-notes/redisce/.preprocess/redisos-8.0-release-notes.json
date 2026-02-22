@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ae456ef2e664170bf514511e34f7338ff136643d",
+  "generated_at": "2026-02-18T06:57:28Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Open Source 8.0 release notes detail version-specific bug fixes, security updates, new features, and ACL behavior clarifications for commands and the Redis Query Engine.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "CVE",
+    "ACL",
+    "Bug fixes",
+    "Redis Query Engine",
+    "Release Notes"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

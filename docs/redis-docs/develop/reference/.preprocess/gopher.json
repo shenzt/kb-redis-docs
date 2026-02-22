@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2020593250f7c944dafa48d8eff3fbc746d25bd1",
+  "generated_at": "2026-02-18T06:56:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers Redis's implementation of the Gopher protocol, explaining its historical context, how it works via inline requests, and includes a security warning and configuration instruction, noting support was removed in Redis 7.0.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Gopher protocol",
+    "inline protocol",
+    "requirepass",
+    "gopher-enabled",
+    "RFC 1436"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

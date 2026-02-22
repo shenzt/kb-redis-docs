@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cbd39b0638d6b2e51883db6248e6616cbdd091cf",
+  "generated_at": "2026-02-18T06:57:32Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RediSearch 2.10 release notes document details version requirements, maintenance updates, improvements, and bug fixes for the search module.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "FT.AGGREGATE",
+    "FT.PROFILE",
+    "BM25STD",
+    "Indexing",
+    "Garbage Collection"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

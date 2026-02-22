@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4073bba58451edb765ae90520c95393026edc52e",
+  "generated_at": "2026-02-18T06:56:36Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis FAQ document covers differences from other key-value stores, memory footprint, key expiration behavior, and the origin and pronunciation of the Redis name.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "in-memory database",
+    "RDB",
+    "AOF",
+    "key expiration",
+    "memory footprint"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

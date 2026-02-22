@@ -1,0 +1,44 @@
+---
+Title: Probabilistic data structure configuration compatibility with Redis Software
+alwaysopen: false
+categories:
+- docs
+- operate
+- stack
+confidence: medium
+description: Probabilistic data structure configuration settings supported by Redis
+  Software and Redis Cloud.
+id: 3ce7bd22
+ingested_at: '2026-02-14T15:01:27Z'
+linkTitle: Configuration
+source_commit: a9ff1a3
+source_path: content/operate/oss_and_stack/stack-with-enterprise/bloom/config.md
+source_repo: https://github.com/redis/docs
+title: Config
+toc: 'false'
+weight: 30
+---
+
+## Configure probabilistic data structures in Redis Software
+
+[Redis Software]({{< relref "/operate/rs" >}}) lets you manually change any [RedisBloom configuration setting]({{< relref "/develop/data-types/probabilistic/" >}}configuration/#redisbloom-configuration-parameters).
+
+To change the RedisBloom configuration using the Redis Software Cluster Manager UI:
+
+  1. From the **Databases** list, select the database, then click **Configuration**.
+
+  1. Select the **Edit** button.
+
+  1. In the **Capabilities** section, click **Parameters**.
+
+  1. After you finish editing the module's configuration parameters, click **Done** to close the parameter editor.
+
+  1. Click **Save**.
+
+## Configure probabilistic data structures in Redis Cloud
+
+[Redis Cloud]({{< relref "/operate/rc" >}}) does not let you configure RedisBloom manually. However, if you have a Flexible or Annual [subscription]({{< relref "/operate/rc/subscriptions" >}}), you can contact [support](https://redis.com/company/support/) to request a configuration change. You cannot change RedisBloom configuration for Free or Fixed subscriptions.
+
+## Configuration settings
+
+See [configuration parameters]({{< relref "/develop/data-types/probabilistic/configuration" >}}) in the Develop section for parameter details and compatibility with Redis Software and Redis Cloud.

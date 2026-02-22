@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5ff2343027c6cdd4c0d7d15422b331859a8fa137",
+  "generated_at": "2026-02-18T06:57:46Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This Redis Stack quick start document covers setting up a Redis Cloud database with Redis Stack features and provides links to explore specific Redis Open Source capabilities.",
+  "doc_type": "tutorial",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Stack",
+    "Redis Cloud",
+    "subscription",
+    "database",
+    "public endpoint"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

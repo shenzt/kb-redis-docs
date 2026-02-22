@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1729cc116979cf9273be12887432c87543e08e5c",
+  "generated_at": "2026-02-18T06:57:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redistimeseries 1.6 release notes detail version-specific requirements, maintenance releases, bug fixes, and new features like performance improvements and auto-tiering support.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisTimeSeries",
+    "compaction rules",
+    "SLOWLOG",
+    "keyspace notifications",
+    "Auto Tiering"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6e6ee517340c244e78bcab15882214303acb3ebc",
+  "generated_at": "2026-02-18T06:56:50Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers running Redis Open Source in Docker, including starting the server, connecting with redis-cli, and using a local configuration file.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "docker run",
+    "redis-cli",
+    "redis.conf",
+    "Dockerfile",
+    "volume mount"
+  ],
+  "gap_flags": [
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

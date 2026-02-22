@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:22817c0a62bdddee79cf10a4b6be92e5d19036de",
+  "generated_at": "2026-02-18T06:56:58Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Sentinel provides high availability, monitoring, notification, automatic failover, and configuration for Redis deployments outside of Redis Cluster.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Sentinel",
+    "automatic failover",
+    "monitoring",
+    "TILT mode",
+    "distributed system"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": true
+  }
+}

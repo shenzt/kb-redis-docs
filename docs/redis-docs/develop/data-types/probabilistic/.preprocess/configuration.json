@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:40918cec129dacdfe9df940ed6058b72b1234cd6",
+  "generated_at": "2026-02-18T06:56:28Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Configuration parameters for Redis probabilistic data structures (Bloom and Cuckoo filters), detailing parameter names, runtime settings, compatibility, and deprecated load-time methods.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "bf-error-rate",
+    "bf-initial-size",
+    "cf-max-iterations",
+    "CONFIG SET",
+    "loadmodule"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

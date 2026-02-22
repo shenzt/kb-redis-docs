@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ebf0b1abb86c47eba366bd49ecd785bcfbdccf8e",
+  "generated_at": "2026-02-18T06:57:09Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the `accumulateBy` method in Redis Gears for JVM, which groups and reduces records using an extractor and accumulator function.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "accumulateBy",
+    "ExtractorOperation",
+    "AccumulateByOperation",
+    "ValueInitializerOperation",
+    "GearsBuilder"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

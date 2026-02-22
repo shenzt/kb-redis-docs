@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:068ce007bff866421a3e1d75665e84d25470213f",
+  "generated_at": "2026-02-18T06:57:09Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Gears JVM API document describes the `accumulate` method, a many-to-one reduction function for processing records in a pipeline, detailing its overloaded signatures, parameters, return value, and providing counting examples.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "AccumulateOperation",
+    "GearsBuilder",
+    "initialValue",
+    "accumulator",
+    "many-to-one function"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

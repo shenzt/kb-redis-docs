@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f07a94f9f95497bd565dcf10212d8b70bff7d286",
+  "generated_at": "2026-02-18T06:57:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis design draft #2 proposes the RDB version 7 format with optional info fields for metadata like creation time and Redis version, allowing backward compatibility by skipping unknown fields.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "RDB format",
+    "info fields",
+    "backward compatibility",
+    "little endian",
+    "CRC64 checksum"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:03cc1d589f55df95faa83679a08ebaac9f766eec",
+  "generated_at": "2026-02-21T16:24:50Z",
+  "model": "unknown",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "RediSearch 2.x module enables powerful search queries, full-text searches, and geo-replicated queries over in-memory indexes in Redis databases, supporting hash and JSON document types.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "RediSearch",
+    "document indexing",
+    "full-text search",
+    "geo-replicated queries",
+    "hash documents",
+    "JSON documents"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

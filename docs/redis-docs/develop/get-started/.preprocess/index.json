@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6ff7be7bc2108c2a240885b33ed3feb0d5a18346",
+  "generated_at": "2026-02-21T16:24:05Z",
+  "model": "unknown",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis quick start guides covering three usage scenarios: data structure store, document database, and vector database, with FAQ reference.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "Redis",
+    "data structure store",
+    "document database",
+    "vector database",
+    "quick start"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

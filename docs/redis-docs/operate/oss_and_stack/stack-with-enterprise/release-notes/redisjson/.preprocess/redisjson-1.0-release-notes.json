@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e8fcbb12dc3b961b1b257c30e3d0ec2181715738",
+  "generated_at": "2026-02-18T06:57:38Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "RedisJSON 1.0 release notes detail version requirements and maintenance updates including enhancements like TLS support and bug fixes for commands like JSON.DEBUG and JSON.ARRPOP.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisJSON",
+    "maintenance release",
+    "JSON.DEBUG",
+    "LRU cache",
+    "TLS capability"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

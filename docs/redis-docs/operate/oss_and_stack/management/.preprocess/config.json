@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a7963329438d00ea19654623c60b5e298221ebd9",
+  "generated_at": "2026-02-18T06:56:53Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis configuration covers using configuration files like redis.conf and redis-full.conf, directive syntax, and example setups such as configuring Redis as a cache.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "redis.conf",
+    "redis-full.conf",
+    "configuration directive",
+    "maxmemory",
+    "maxmemory-policy"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

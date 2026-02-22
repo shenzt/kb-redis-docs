@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1aae6f492eb1d60c12f8a20dadc01251e708fda4",
+  "generated_at": "2026-02-18T06:57:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Log class provides static methods for writing messages with optional log levels to the Redis log file from within GearsBuilder JVM scripts.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "GearsBuilder.log",
+    "LogLevel",
+    "DEBUG",
+    "NOTICE",
+    "Redis log file"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

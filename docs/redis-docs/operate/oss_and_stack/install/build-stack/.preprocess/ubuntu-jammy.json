@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f6b56a94495989b07a64defa9a902deb480a9341",
+  "generated_at": "2026-02-18T06:56:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document provides steps to build and run Redis Open Source from source code on Ubuntu 22.04, including installing dependencies, downloading source, building, and starting the server.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis",
+    "CMake",
+    "source code",
+    "dependencies",
+    "modules"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

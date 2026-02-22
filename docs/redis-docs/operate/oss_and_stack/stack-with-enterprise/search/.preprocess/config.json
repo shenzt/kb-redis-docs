@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8ab7424a863d6f16c482149a84f99aea00ed08a2",
+  "generated_at": "2026-02-18T06:57:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers methods for configuring RediSearch in Redis Software and Redis Cloud, detailing UI, CLI, and API approaches while noting subscription-based limitations for Redis Cloud.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "RediSearch",
+    "FT.CONFIG SET",
+    "rladmin tune db",
+    "module_config_params",
+    "Query Performance Factor"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

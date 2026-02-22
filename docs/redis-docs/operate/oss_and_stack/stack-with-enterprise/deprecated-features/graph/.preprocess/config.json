@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9199a80f50b4bb6106852ed9a54e1479635a856c",
+  "generated_at": "2026-02-18T06:57:02Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers methods for configuring RedisGraph settings in Redis Software and Redis Cloud, as the GRAPH.CONFIG SET command is not supported, and includes a table of specific settings.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "GRAPH.CONFIG SET",
+    "rladmin tune db",
+    "REST API",
+    "CACHE_SIZE",
+    "TIMEOUT"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

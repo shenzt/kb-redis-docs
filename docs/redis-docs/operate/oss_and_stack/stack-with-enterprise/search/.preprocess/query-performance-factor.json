@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7e5ec3d6ea326ac9d0854030318c4157396d5bd0",
+  "generated_at": "2026-02-18T06:57:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers configuring the query performance factor to increase Redis database compute capacity and query throughput by allocating more virtual CPUs per shard.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "query performance factor",
+    "virtual CPUs",
+    "shard",
+    "Redis Query Engine",
+    "redis_process_cpu_usage_percent"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

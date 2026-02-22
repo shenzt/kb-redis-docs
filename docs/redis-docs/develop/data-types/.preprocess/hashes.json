@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d4907722329a1af53a5453191cf852a01d4ae60f",
+  "generated_at": "2026-02-18T06:56:25Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis hashes are data types for field-value pairs, covering commands like HSET, HGET, HMGET, and HINCRBY for operations, performance, and limits.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis hashes",
+    "HSET",
+    "HGETALL",
+    "HINCRBY",
+    "field-value pairs"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

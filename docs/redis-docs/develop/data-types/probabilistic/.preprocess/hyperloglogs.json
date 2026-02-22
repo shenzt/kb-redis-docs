@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:689a8a9c17ba31f9c6e30784018676cf333e5c4b",
+  "generated_at": "2026-02-18T06:56:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "HyperLogLog is a probabilistic data structure in Redis for estimating set cardinality with high space efficiency, covering its commands, performance, and limits.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "HyperLogLog",
+    "PFADD",
+    "PFCOUNT",
+    "PFMERGE",
+    "cardinality"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

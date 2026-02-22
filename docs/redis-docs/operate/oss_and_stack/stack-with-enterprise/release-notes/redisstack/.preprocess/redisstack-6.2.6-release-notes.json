@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fb32b97b605aad44738d3a99b5472c10a9ead727",
+  "generated_at": "2026-02-18T06:57:40Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Stack 6.2.6 release notes detail a maintenance update with security fixes for vulnerabilities like RCE and DoS, and list updated component and client library versions.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Stack Server",
+    "CVE-2024-31449",
+    "RediSearch",
+    "Redis Insight",
+    "security fixes"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

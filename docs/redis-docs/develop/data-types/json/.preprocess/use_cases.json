@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:352c1915b09a51324b2908483091e4f82142adff",
+  "generated_at": "2026-02-18T06:56:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis JSON use cases cover the benefits of using Redis JSON over serialized strings for efficient subvalue access, atomic partial updates, and indexing/querying capabilities.",
+  "doc_type": "overview",
+  "quality_score": 5,
+  "key_concepts": [
+    "Redis JSON",
+    "serialized object",
+    "atomic updates",
+    "indexing",
+    "querying"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

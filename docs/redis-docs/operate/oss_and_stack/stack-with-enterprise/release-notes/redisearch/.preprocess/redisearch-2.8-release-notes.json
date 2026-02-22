@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:aa93ac38880397587014cedf94f012b85a2a8ee6",
+  "generated_at": "2026-02-18T06:57:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RediSearch 2.8 release notes document details version requirements, maintenance updates, improvements, and bug fixes for the search module.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "FT.AGGREGATE",
+    "FT.PROFILE",
+    "background indexing",
+    "vector search",
+    "HNSW"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

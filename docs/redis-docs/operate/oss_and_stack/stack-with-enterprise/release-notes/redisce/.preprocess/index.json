@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6a7e6289be8acdffb78732b312251cfde6bb0248",
+  "generated_at": "2026-02-21T16:24:44Z",
+  "model": "unknown",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Version release table displaying major changes across different software versions with release dates.",
+  "doc_type": "reference",
+  "quality_score": 3,
+  "key_concepts": [
+    "version",
+    "release date",
+    "major changes",
+    "table",
+    "changelog"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:94c8559588b0e8dded4e6f57596bdb71493167d6",
+  "generated_at": "2026-02-18T06:57:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RediSearch 2.2 release notes document details version-specific requirements, update urgencies, and lists improvements and bug fixes for maintenance releases like v2.2.10 and v2.2.9.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RediSearch",
+    "JSON indexing",
+    "bug fixes",
+    "FT.SEARCH",
+    "aggregation function"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

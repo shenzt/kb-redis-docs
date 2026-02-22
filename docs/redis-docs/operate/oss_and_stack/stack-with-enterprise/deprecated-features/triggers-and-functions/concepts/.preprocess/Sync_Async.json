@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:767857f99728aa5f52de6f9b8a369a32ef31307d",
+  "generated_at": "2026-02-18T06:57:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Stack's triggers and functions feature covers synchronous and asynchronous function execution, explaining atomicity, background invocation via JS coroutines, and related timeout policies.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "atomicity",
+    "registerAsyncFunction",
+    "JS coroutines",
+    "background thread",
+    "block Redis timeout"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

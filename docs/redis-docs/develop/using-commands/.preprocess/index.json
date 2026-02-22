@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5de1eb7d6dc05d855854bd3ffe10805c6b866eab",
+  "generated_at": "2026-02-21T16:24:13Z",
+  "model": "unknown",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis commands structure, naming conventions, argument patterns, batching techniques including pipelining and transactions for client-server interactions.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "Redis commands",
+    "command structure",
+    "pipelining",
+    "transactions",
+    "batching"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

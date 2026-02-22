@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c5163daa241950e0b56c61cf76f2039eeab264a5",
+  "generated_at": "2026-02-18T06:57:06Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis JavaScript API document details the singleton 'redis' object and its methods for registering functions, triggers, and cluster operations within the Triggers and Functions feature.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "redis.registerFunction",
+    "redis.registerKeySpaceTrigger",
+    "async_client.runOnKey",
+    "functionFlags",
+    "remote function"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

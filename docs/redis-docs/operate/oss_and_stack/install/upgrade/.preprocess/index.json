@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c9b0828a1a521ac6f5afddfa4bcf3514be3bae09",
+  "generated_at": "2026-02-21T16:24:44Z",
+  "model": "unknown",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Upgrade process for Redis Open Source from version 7.x to version 8, including configurations with or without modules and from Redis Stack 7.2 and 7.4.",
+  "doc_type": "guide",
+  "quality_score": 2,
+  "key_concepts": [
+    "Redis Open Source",
+    "version 8",
+    "upgrade",
+    "Redis Stack",
+    "modules"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

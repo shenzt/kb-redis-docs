@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:482bb193eb36c4816862c3e1af21caae00354c66",
+  "generated_at": "2026-02-18T06:57:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document lists and describes search and query commands for Redis, detailing their support across Redis Software, Redis Cloud Flexible & Annual, and Redis Cloud Free & Fixed tiers.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "FT.AGGREGATE",
+    "FT.CONFIG GET",
+    "FT.SEARCH",
+    "FT.TAGVALS",
+    "index alias"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

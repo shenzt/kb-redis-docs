@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e09f355e1ce281fd0914ab1fb4e4b866f51cac33",
+  "generated_at": "2026-02-18T06:57:08Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers user functions in Redis, showing how to define and call JavaScript functions that interact with keys using the TFCALL command.",
+  "doc_type": "example",
+  "quality_score": 8,
+  "key_concepts": [
+    "TFCALL",
+    "redis.registerFunction",
+    "client.call",
+    "JavaScript function",
+    "key types"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

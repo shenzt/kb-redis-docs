@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9e2c759ffef7d13c6d34be64d9cd508a02055b23",
+  "generated_at": "2026-02-18T06:57:43Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redistimeseries 1.8 Release Notes detail version requirements, maintenance updates, bug fixes, improvements, and new features like the alignTimestamp parameter and additional reducers for the time series module.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "TS.RANGE",
+    "TS.DEL",
+    "TS.QUERYINDEX",
+    "alignTimestamp",
+    "reducers"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

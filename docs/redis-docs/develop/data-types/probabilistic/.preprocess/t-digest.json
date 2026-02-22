@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ac293198fcdeefa8241e93377e4bc8951d8869dd",
+  "generated_at": "2026-02-18T06:56:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The t-digest document explains a Redis sketch data structure for estimating percentiles from data streams, covering its purpose, use cases, and associated commands like TDIGEST.CREATE and TDIGEST.QUANTILE.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "t-digest",
+    "percentiles",
+    "sketch",
+    "trimmed mean",
+    "quantile"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

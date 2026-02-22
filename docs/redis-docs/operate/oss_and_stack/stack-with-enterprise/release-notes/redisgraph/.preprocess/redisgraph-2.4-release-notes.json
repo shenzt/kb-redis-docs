@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e11eae88634c38fe30e4286e0c84c3b000ca34a8",
+  "generated_at": "2026-02-18T06:57:37Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "RedisGraph 2.4 release notes detail version-specific requirements, update urgencies, and changes including bug fixes, performance improvements, and new features like configuration options.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisGraph",
+    "update urgency",
+    "bug fixes",
+    "performance improvements",
+    "configuration option"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

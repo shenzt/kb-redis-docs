@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ca50e544e8d0f8e2e635b424f8fa9e6d74e96905",
+  "generated_at": "2026-02-18T06:56:47Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers installing Redis Stack on macOS using Homebrew, including setup for different Mac architectures, connection testing, and uninstallation.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Stack",
+    "Homebrew",
+    "brew cask",
+    "PATH variable",
+    "redis-cli"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

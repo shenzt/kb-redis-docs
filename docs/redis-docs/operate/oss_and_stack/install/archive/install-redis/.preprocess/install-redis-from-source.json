@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cf3620ca594d18b4aab2b7c31dcef5bb64f58e6c",
+  "generated_at": "2026-02-18T06:56:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers compiling and installing Redis from source code, including downloading, building, and basic foreground execution.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis",
+    "make",
+    "redis-server",
+    "redis-cli",
+    "TLS support"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

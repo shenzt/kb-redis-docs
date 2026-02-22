@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9b5c0f8f6ca1f5a949265278286e8c68c41744ac",
+  "generated_at": "2026-02-18T06:56:56Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Diagnosing latency issues in Redis provides a checklist and detailed guidance for identifying and resolving high latency problems, including slow commands, system configuration, and using built-in monitoring tools.",
+  "doc_type": "troubleshooting",
+  "quality_score": 9,
+  "key_concepts": [
+    "latency",
+    "slow log",
+    "transparent huge pages",
+    "intrinsic latency",
+    "latency monitor"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

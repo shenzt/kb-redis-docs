@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b28c74649aaf199143fdb0b1e9f101568885f32d",
+  "generated_at": "2026-02-18T06:56:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Filter expressions in Redis vector sets allow combining vector similarity search with scalar filtering using JSON attributes and a JavaScript-like syntax.",
+  "doc_type": "reference",
+  "quality_score": 9,
+  "key_concepts": [
+    "VSIM",
+    "FILTER",
+    "SETATTR",
+    "FILTER-EF",
+    "vector similarity search"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

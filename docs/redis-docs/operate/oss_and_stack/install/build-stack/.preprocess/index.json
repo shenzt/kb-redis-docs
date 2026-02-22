@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c472f0fb867e7689260d9043b952c5f08cd5b078",
+  "generated_at": "2026-02-21T16:24:18Z",
+  "model": "unknown",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Build instructions for Redis Open Source across multiple platforms.",
+  "doc_type": "guide",
+  "quality_score": 3,
+  "key_concepts": [
+    "Redis Open Source",
+    "build instructions",
+    "platform compatibility"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

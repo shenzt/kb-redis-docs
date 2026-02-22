@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0a62ba81326903cf22391f90dee58632fa753c58",
+  "generated_at": "2026-02-18T06:57:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redistimeseries 1.2 release notes detail maintenance releases, bugfixes, and minor enhancements for the time-series module, including version requirements and specific issue resolutions.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisTimeSeries",
+    "TS.MGET",
+    "TS.MRANGE",
+    "TS.RANGE",
+    "aggregation"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

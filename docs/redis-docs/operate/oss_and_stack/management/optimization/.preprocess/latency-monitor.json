@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d48cf986579f7bbc90e4d46f6396c36d2a0d1596",
+  "generated_at": "2026-02-18T06:56:55Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis latency monitoring document explains the feature's components for detecting and troubleshooting latency spikes, including events, time series, and the LATENCY command interface.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Latency Monitoring",
+    "Events",
+    "Time series",
+    "LATENCY command",
+    "Single threaded"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2e5a5290cd346d7593f65139aecdca2671f664b1",
+  "generated_at": "2026-02-18T06:56:37Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Lua API reference details the sandboxed execution context, available Lua packages, and specific functions for ephemeral scripts and functions within Redis.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "sandboxed Lua context",
+    "ephemeral scripts",
+    "global variables restriction",
+    "bit library",
+    "cjson library"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

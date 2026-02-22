@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f8ad673edd96f8249137225612a6af828fe6684e",
+  "generated_at": "2026-02-18T06:56:50Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document provides steps to install Redis Open Source on Rocky Linux and AlmaLinux versions 8 and 9 using RPM packages, including repository setup and post-installation service management.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "RPM",
+    "repository",
+    "systemctl",
+    "gpgcheck",
+    "yum"
+  ],
+  "gap_flags": [
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

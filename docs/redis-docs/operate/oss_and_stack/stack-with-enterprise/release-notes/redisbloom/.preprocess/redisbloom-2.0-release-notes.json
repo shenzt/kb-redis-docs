@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:814ed70447d215b94881004b90d2e94ca7196936",
+  "generated_at": "2026-02-18T06:57:26Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "RedisBloom 2.0 release notes detail version requirements, performance improvements, and bug fixes for the probabilistic data structures module, including the addition of Top-K and Count-min Sketch.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisBloom",
+    "Top-K",
+    "Count-min Sketch",
+    "replication",
+    "probabilistic data structures"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

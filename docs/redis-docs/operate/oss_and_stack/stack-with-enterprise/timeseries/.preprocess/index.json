@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ea8dc61df7318956fea72b231044cb1d7cb80e66",
+  "generated_at": "2026-02-21T16:24:53Z",
+  "model": "unknown",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis time series data management capabilities including querying, aggregation, memory model, downsampling, and performance comparisons with sorted sets and streams.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "time series",
+    "downsampling",
+    "compaction",
+    "retention policy",
+    "memory chunks"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

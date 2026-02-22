@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9f7705fed7b929753883bfae72aab5b1bb5a7e45",
+  "generated_at": "2026-02-21T16:24:36Z",
+  "model": "unknown",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "RedisGears JVM plugin commands accessed via redis-cli, excluding Python plugin commands prefixed with RG.PY.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "RedisGears",
+    "JVM plugin",
+    "redis-cli",
+    "RG.PY commands",
+    "Redis client"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

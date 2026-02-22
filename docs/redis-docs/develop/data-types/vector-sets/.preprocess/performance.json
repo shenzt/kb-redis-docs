@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b91663edf6f71d5e4f6e6001f1f6ea277163198f",
+  "generated_at": "2026-02-18T06:56:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Performance document for Redis vector sets covers query and insertion performance, quantization effects, and tuning tips for the VSIM and VADD commands.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "VSIM",
+    "VADD",
+    "Quantization",
+    "EF parameter",
+    "CAS option"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

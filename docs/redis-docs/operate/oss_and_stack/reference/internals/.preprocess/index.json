@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:820f634117f9217cc993748b5cdb369c7ab2293e",
+  "generated_at": "2026-02-21T16:24:24Z",
+  "model": "unknown",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis internals documentation written by creator Salvatore Sanfilippo circa 2010, potentially outdated compared to current Redis implementation.",
+  "doc_type": "overview",
+  "quality_score": 2,
+  "key_concepts": [
+    "Redis internals",
+    "Salvatore Sanfilippo",
+    "Redis implementation",
+    "historical documentation"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:26da0ae110066c018af21e2c38fc28fdd054b14e",
+  "generated_at": "2026-02-21T16:24:12Z",
+  "model": "unknown",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis modules API enables extending Redis functionality through external dynamic libraries using a C API, covering module loading, command implementation, data types, and cluster compatibility.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "Redis modules",
+    "redismodule.h",
+    "MODULE LOAD",
+    "RedisModuleCtx",
+    "pool allocator"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

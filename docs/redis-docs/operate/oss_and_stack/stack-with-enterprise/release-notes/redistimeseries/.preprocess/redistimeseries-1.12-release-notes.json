@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9ad0ee20c4e8e744e65cf3b8c3aeceb2846522a6",
+  "generated_at": "2026-02-18T06:57:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redistimeseries 1.12 release notes detail version requirements, update urgencies, and specific bug fixes and improvements for maintenance releases including v1.12.9, v1.12.6, v1.12.5, and the GA version.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "TS.RANGE",
+    "TS.DEL",
+    "TS.QUERYINDEX",
+    "compaction",
+    "AGGREGATION"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

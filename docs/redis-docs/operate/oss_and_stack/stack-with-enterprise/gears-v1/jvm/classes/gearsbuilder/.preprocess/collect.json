@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a8be04cc902c631ffe4ced121f6a8b20ae3d0372",
+  "generated_at": "2026-02-18T06:57:11Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The collect method in GearsBuilder gathers all records to the job's originating shard.",
+  "doc_type": "reference",
+  "quality_score": 6,
+  "key_concepts": [
+    "GearsBuilder",
+    "collect",
+    "records",
+    "shard",
+    "RedisGears job"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

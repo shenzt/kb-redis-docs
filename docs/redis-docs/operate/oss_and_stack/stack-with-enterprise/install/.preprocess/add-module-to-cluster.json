@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f730180b553b060cd58bef011f92461f6e9b7486",
+  "generated_at": "2026-02-18T06:57:24Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to install or upgrade a module on a Redis Software cluster, covering module package requirements, acquisition methods, and installation via UI or REST API.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "module.json",
+    "module binary",
+    "REST API",
+    "Cluster Manager UI",
+    "module package"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

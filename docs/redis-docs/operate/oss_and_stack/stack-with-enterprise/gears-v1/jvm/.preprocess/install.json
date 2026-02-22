@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:13d5273f9ad019661c90bcf85303f9c03444e916",
+  "generated_at": "2026-02-18T06:57:21Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers installing and enabling the RedisGears module and JVM plugin on a Redis Software cluster to use RedisGears with the JVM.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisGears",
+    "JVM plugin",
+    "Redis Software cluster",
+    "RG.JSTATS",
+    "Plugin gears_jvm"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

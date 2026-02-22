@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1164f0524bde842384f0c9281688961f663f7804",
+  "generated_at": "2026-02-18T06:56:45Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This guide covers installing Redis on macOS using Homebrew, including prerequisites, installation, starting/stopping the service, and connecting to test the installation.",
+  "doc_type": "guide",
+  "quality_score": 9,
+  "key_concepts": [
+    "Homebrew",
+    "redis-server",
+    "launchd",
+    "redis-cli",
+    "brew services"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:131572f9985f5f9b5a43f82e05893b45840c209a",
+  "generated_at": "2026-02-18T06:57:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RediSearch 2.4 release notes detail version requirements, maintenance updates including critical bug fixes, and changes to query parser behavior between DIALECT 1 and DIALECT 2.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RediSearch",
+    "bug fixes",
+    "DIALECT",
+    "query parser",
+    "AOF preload"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

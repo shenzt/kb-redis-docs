@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:910f57b3fc83e27955ec53437c4b2bab87fdd551",
+  "generated_at": "2026-02-18T06:57:45Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers upgrading a Redis Software database from RediSearch 1.x to 2.x, detailing architectural changes, prerequisites, limitations, and a step-by-step migration process using a synchronization script.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "RediSearch 2.x",
+    "index replication",
+    "RediSearch_Syncer.py",
+    "FT.INFO",
+    "Active-Active databases"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

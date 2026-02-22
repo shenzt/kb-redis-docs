@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "generated_at": "2026-02-21T16:24:12Z",
+  "model": "unknown",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis reference documentation covering Redis database concepts, commands, and usage patterns.",
+  "doc_type": "reference",
+  "quality_score": 1,
+  "key_concepts": [
+    "Redis"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

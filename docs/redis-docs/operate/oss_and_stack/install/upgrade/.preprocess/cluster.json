@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fe7efd35e0dddd859f57b5a4fe8748538011b9fa",
+  "generated_at": "2026-02-18T06:56:52Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the procedure for upgrading a Redis cluster from version 7.x or Stack 7.2/7.4 to Redis 8, including data backup, node-by-node upgrade steps, and verification.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis cluster",
+    "RDB file",
+    "AOF persistence",
+    "redis-cli",
+    "upgrade path"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

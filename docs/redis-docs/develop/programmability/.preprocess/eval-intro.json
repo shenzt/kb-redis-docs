@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f3385358dbfd3fe1c04d3f00a74546405fb11bb4",
+  "generated_at": "2026-02-18T06:56:36Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers scripting with Lua in Redis, explaining its atomic execution, benefits like data locality, and details on script flags and the Lua 5.1 engine.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Lua scripts",
+    "atomic execution",
+    "data locality",
+    "script flags",
+    "Redis Functions"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

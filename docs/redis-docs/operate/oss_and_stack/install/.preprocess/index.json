@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:194611f56bef304ab8e56fb328611672c4722955",
+  "generated_at": "2026-02-21T16:24:18Z",
+  "model": "unknown",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Open Source installation options across Docker, Linux, macOS, and Windows, with links to installation guides, upgrade instructions, and Redis Insight tool.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "Redis Open Source",
+    "Docker",
+    "Redis Insight",
+    "Redis Cloud",
+    "installation"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

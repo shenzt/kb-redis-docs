@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:25f9fd3e346ec7d6c0d62e85b90e2867d56e7561",
+  "generated_at": "2026-02-18T06:57:21Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The rghibernate recipe document explains how to use RedisGears and Hibernate to implement write-behind, write-through, and read-through caching strategies between Redis and a backend database like MySQL.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "rghibernate",
+    "write-behind",
+    "connector XML",
+    "mapping XML",
+    "SYNC.REGISTERSOURCE"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

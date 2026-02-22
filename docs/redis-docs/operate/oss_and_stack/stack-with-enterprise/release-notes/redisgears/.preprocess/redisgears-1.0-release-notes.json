@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:96353816bc8e07dd1e46aeb1e5d2e42fbd7d1998",
+  "generated_at": "2026-02-18T06:57:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "RedisGears 1.0 release notes detail version-specific requirements, update urgencies, and changes including improvements, features, and bug fixes for maintenance releases.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisGears",
+    "maintenance release",
+    "update urgency",
+    "bug fixes",
+    "keys space notifications"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

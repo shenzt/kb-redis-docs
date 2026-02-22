@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:45b4fcb5000115b40ed39bd309f14071481f3fa2",
+  "generated_at": "2026-02-21T16:24:24Z",
+  "model": "unknown",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Bloom filters are probabilistic data structures that efficiently verify if an element is not in a set, using minimal memory through bit arrays and hash functions, with applications in databases, ad serving, and content recommendation.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Bloom filter",
+    "probabilistic data structure",
+    "false positive rate",
+    "hash function",
+    "scalable Bloom filter"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}
