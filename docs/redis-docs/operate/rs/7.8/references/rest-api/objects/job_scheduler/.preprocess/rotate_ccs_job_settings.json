@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5187296a34608cbd2e7fa47f92e9c1d1429af554",
+  "generated_at": "2026-02-23T23:37:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document rotate_ccs_job_settings.md defines the configuration parameters for scheduling and managing the rotation of CCS RDB files.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "cron_expression",
+    "enabled",
+    "file_suffix",
+    "rotate_max_num",
+    "RDB files"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

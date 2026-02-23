@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b1ea89b16afb59b27787d1e1786bc3b571d2b3b9",
+  "generated_at": "2026-02-23T23:32:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document node_checks_job_settings.md defines the configuration parameters for scheduling and enabling a node checks job.",
+  "doc_type": "reference",
+  "quality_score": 5,
+  "key_concepts": [
+    "cron_expression",
+    "enabled",
+    "node checks",
+    "schedule",
+    "boolean"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

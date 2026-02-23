@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:e370c0011ec0407156f1e0acdb589c2eb739d9ae",
-  "generated_at": "2026-02-18T06:57:36Z",
+  "generated_at": "2026-02-23T23:29:42Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RedisGraph 2.10 release notes detail maintenance updates, bug fixes, and improvements for versions 2.10.15 through 2.10.0, including compatibility requirements and update urgency.",
+  "contextual_summary": "The document redisgraph-2.10-release-notes.md details the requirements, bug fixes, and improvements for maintenance releases of RedisGraph version 2.10, including specific GitHub issue links and update urgencies.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
@@ -13,7 +13,7 @@
     "bug fixes",
     "maintenance release",
     "update urgency",
-    "compatibility"
+    "RDB file"
   ],
   "gap_flags": [
     "incomplete_steps",

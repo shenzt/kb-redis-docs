@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:18fa82c6f0927e557143e11136dc11689f8ccb55",
-  "generated_at": "2026-02-18T06:57:04Z",
+  "generated_at": "2026-02-23T23:29:01Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers setting up a development environment for Redis Triggers and Functions, including installing type declarations, initializing a project, and writing functions that can use third-party npm packages.",
+  "contextual_summary": "The document covers setting up a development environment for RedisGears triggers and functions, including installing type declarations via npm, initializing a project, and writing functions that can use third-party npm packages.",
   "doc_type": "tutorial",
   "quality_score": 8,
   "key_concepts": [
+    "RedisGears",
     "triggers and functions",
-    "gears-api",
     "npm install",
-    "registerFunction",
-    "devDependencies"
+    "type declarations",
+    "registerFunction"
   ],
   "gap_flags": [
     "incomplete_steps"

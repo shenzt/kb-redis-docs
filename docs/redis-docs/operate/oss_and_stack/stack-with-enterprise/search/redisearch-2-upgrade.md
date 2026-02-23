@@ -1,23 +1,15 @@
 ---
-Title: Upgrade a database to Search 2.x
+Title: "Upgrade a database to Search\_2.x"
 alwaysopen: false
 categories:
 - docs
 - operate
 - stack
-confidence: medium
-description: Upgrade a database from Search 1.x to Search 2.x.
-id: 23a2172f
-ingested_at: '2026-02-14T15:01:27Z'
+description: "Upgrade a database from Search 1.x to Search\_2.x."
 linkTitle: Upgrade a database
 module: RediSearch
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/search/redisearch-2-upgrade.md
-source_repo: https://github.com/redis/docs
-title: Redisearch 2 Upgrade
 weight: 30
 ---
-
 RediSearch 2.x includes some significant architectural changes that improve functionality.
 The main change is that RediSearch 2.x stores indexes outside of the Redis database that contains the data.
 This makes commands more efficient and improves replication between clusters because the index changes are managed by the participating clusters rather than being synchronized with the data.

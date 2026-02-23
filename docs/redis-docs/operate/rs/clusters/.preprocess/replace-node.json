@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:12e4b706cf18a09b9295e36c0363b604f9fb0001",
+  "generated_at": "2026-02-23T23:39:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document provides steps for replacing a failed node in a Redis cluster, including preparing a new node, installing software, adding it to the cluster, and updating DNS records.",
+  "doc_type": "tutorial",
+  "quality_score": 7,
+  "key_concepts": [
+    "failed node",
+    "Redis Software",
+    "cluster",
+    "add node",
+    "DNS records"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

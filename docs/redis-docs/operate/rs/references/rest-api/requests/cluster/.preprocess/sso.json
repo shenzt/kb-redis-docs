@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a30430e0f9c2d0e8c62d90d2b7c1f958f9c26c99",
+  "generated_at": "2026-02-23T23:41:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The sso.md document details the REST API endpoints for configuring and managing Single Sign-On (SSO) for a cluster, including methods for retrieving, setting, and clearing SSO configuration and handling SAML metadata.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "SSO configuration",
+    "SAML metadata",
+    "REST API",
+    "service provider",
+    "identity provider"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

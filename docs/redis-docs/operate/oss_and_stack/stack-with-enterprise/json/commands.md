@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Lists JSON commands and provides links to the command reference pages.
-id: d796f691
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Commands
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/json/commands.md
-source_repo: https://github.com/redis/docs
-title: Commands
 toc: 'false'
 weight: 25
 ---

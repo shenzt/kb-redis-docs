@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: Horizontal scaling with Redis Cluster
-id: 3022c99e
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Scale with Redis Cluster
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/management/scaling.md
-source_repo: https://github.com/redis/docs
 title: Scale with Redis Cluster
 weight: 6
 ---
@@ -1012,3 +1006,4 @@ Starting with Redis 5, if not for backward compatibility, the Redis project no l
 * [Redis Cluster specification]({{< relref "/operate/oss_and_stack/reference/cluster-spec" >}})
 * [Linear Scaling with Redis Enterprise](https://redis.com/redis-enterprise/technology/linear-scaling-redis-enterprise/)
 * [Docker documentation](https://docs.docker.com/engine/userguide/networking/dockernetworks/)
+

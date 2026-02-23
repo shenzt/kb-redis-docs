@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:555ae55895c884a42279c0b7ea997b5b4fa55487",
+  "generated_at": "2026-02-23T23:27:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document delete-custom-resources.md provides procedures for deleting Redis Enterprise custom resources (REDB, REC, operator) and their associated data from a Kubernetes namespace, including manual finalizer removal for troubleshooting.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "REDB",
+    "REC",
+    "finalizer",
+    "operator bundle",
+    "Persistent Volume Claim (PVC)"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

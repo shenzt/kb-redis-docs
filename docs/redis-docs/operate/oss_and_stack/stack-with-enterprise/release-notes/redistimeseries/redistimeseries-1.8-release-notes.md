@@ -5,23 +5,15 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Added a time-weighted average aggregator, gap filling, ability to control
   bucket timestamps, ability to control alignment for compaction rules, new reducer
   types, and ability to include the latest (possibly partial) raw bucket samples when
   retrieving compactions
-id: 528e7694
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v1.8 (November 2022)
 min-version-db: 6.0.16
 min-version-rs: 6.2.8
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redistimeseries/redistimeseries-1.8-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redistimeseries 1.8 Release Notes
 weight: 96
 ---
-
 ## Requirements
 
 RedisTimeSeries v1.8.19 requires:

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b936ed54933e1e6fc24e688f22a04d99649bab16",
+  "generated_at": "2026-02-23T23:24:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Full-text search in Redis covers single word, phrase, prefix, suffix, infix, and fuzzy queries with examples, field-specific searches, boolean operators, and Unicode limitations.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "full-text search",
+    "FT.SEARCH",
+    "stop words",
+    "fuzzy search",
+    "Unicode"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

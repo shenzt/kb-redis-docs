@@ -5,20 +5,12 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Aggregations engine.
-id: 55480b11
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v1.1 (April 2018)
 min-version-db: 4.0.0
 min-version-rs: 5.0.0
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisearch/redisearch-1.1-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisearch 1.1 Release Notes
 weight: 99
 ---
-
 ## Requirements
 
 RediSearch v1.1.0 requires:

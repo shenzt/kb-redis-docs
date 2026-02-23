@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:64ff12598eaf8b12b724b10c84886023dfdc95f8",
-  "generated_at": "2026-02-18T06:56:38Z",
+  "generated_at": "2026-02-23T23:25:24Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Redis keyspace notifications allow clients to subscribe to Pub/Sub channels to receive events about operations affecting the Redis dataset, covering configuration, event types, and cluster behavior.",
+  "contextual_summary": "Redis keyspace notifications allow clients to subscribe to Pub/Sub channels to receive events about operations affecting the Redis dataset, covering event types, configuration, and cluster behavior.",
   "doc_type": "overview",
   "quality_score": 7,
   "key_concepts": [
     "keyspace notifications",
-    "key-event notification",
+    "Pub/Sub",
     "notify-keyspace-events",
-    "expired events",
-    "Pub/Sub"
+    "Key-space notification",
+    "Key-event notification"
   ],
   "gap_flags": [
     "incomplete_steps",

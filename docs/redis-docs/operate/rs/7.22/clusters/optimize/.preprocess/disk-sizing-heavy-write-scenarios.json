@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:62a4baa5b3572dbc870aedee3d5a3620c23971c4",
+  "generated_at": "2026-02-23T23:31:08Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document provides a formula and examples for estimating persistent disk space requirements during AOF rewrites in extreme write scenarios for Redis Enterprise.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "AOF rewrite",
+    "database persistence",
+    "shard",
+    "disk space",
+    "append-only files"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

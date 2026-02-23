@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:79b593920193b8a1bc65630db99cfc5309658cec",
+  "generated_at": "2026-02-23T23:24:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers extending RediSearch with custom query expanders and scoring functions by compiling them into dynamic libraries and loading them at server startup.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "RediSearch",
+    "extension",
+    "query expander",
+    "scoring function",
+    "dynamic library"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

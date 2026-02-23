@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e55a124d3d188379ac27b7e9664860fbbfe42cb0",
+  "generated_at": "2026-02-23T23:38:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document log-security.md covers configuring remote syslog logging and the default log rotation policy for Redis Software, including rotation triggers and retention settings.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "syslog",
+    "logrotate",
+    "log rotation",
+    "copytruncate",
+    "maxsize"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

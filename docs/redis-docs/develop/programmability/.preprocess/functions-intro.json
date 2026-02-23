@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:bf901443ec007456bcde0b07ee4da1cdeab57150",
-  "generated_at": "2026-02-18T06:56:37Z",
+  "generated_at": "2026-02-23T23:25:22Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Redis Functions is an API introduced in Redis 7 for managing and executing server-side code, superseding EVAL scripts and offering features like library management and read-only execution flags.",
+  "contextual_summary": "Redis Functions, introduced in Redis 7, is an API for server-side code execution that replaces EVAL scripts, covering their limitations, library management, and usage with flags for read-only operations.",
   "doc_type": "overview",
   "quality_score": 8,
   "key_concepts": [
     "Redis Functions",
     "EVAL",
+    "Lua",
     "FCALL_RO",
-    "redis.register_function",
     "script flags"
   ],
   "gap_flags": [

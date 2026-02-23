@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:575da86885c9a1c411ea6dd13a0b2c43cdbee8f1",
+  "generated_at": "2026-02-23T23:28:00Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md outlines critical considerations and supported upgrade paths for a Redis Enterprise operator, including version constraints, OpenShift SCC issues, and large cluster fixes.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "operator version",
+    "upgrade paths",
+    "OpenShift SCC",
+    "REC nodes",
+    "Kubernetes upgrade"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

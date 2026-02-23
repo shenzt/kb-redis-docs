@@ -5,22 +5,14 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Introduces multi-labeled nodes, indexes over relationship properties,
   and additional expressivity (Cypher construct, functions, and operators). Major
   performance enhancements. Many bug fixes.
-id: 5753c58a
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v2.8 (February 2022)
 min-version-db: 6.2.0
 min-version-rs: 6.2.8
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisgraph/redisgraph-2.8-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisgraph 2.8 Release Notes
 weight: 95
 ---
-
 ## Requirements
 
 RedisGraph v2.8.26 requires:

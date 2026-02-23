@@ -9,19 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Understand how to use Redis for RAG use cases
-id: a4f96baf
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: RAG with Redis
-source_commit: a9ff1a3
-source_path: content/develop/get-started/rag.md
-source_repo: https://github.com/redis/docs
 stack: true
 title: RAG with Redis
 weight: 4
 ---
-
 ### What is Retrieval Augmented Generation (RAG)?
 Large Language Models (LLMs) generate human-like text but are limited by the data they were trained on. RAG enhances LLMs by integrating them with external, domain-specific data stored in a Redis [vector database]({{< relref "/develop/get-started/vector-database" >}}).
 

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d641e56fe3811ad03859e8093beef5dd957391fa",
+  "generated_at": "2026-02-23T23:26:55Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers frequently asked questions about deploying and managing Redis Enterprise on Kubernetes using an Operator, including cluster deployment, security configurations, and administrative tasks.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise cluster (REC)",
+    "Kubernetes Operator",
+    "custom resource definitions (CRDs)",
+    "Pod Security Policy (PSP)",
+    "Security Context Constraint (SCC)"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

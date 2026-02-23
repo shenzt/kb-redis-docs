@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c155846ea740bb95c6a65db9d57b00477373c524",
+  "generated_at": "2026-02-23T23:41:46Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software version 7.2.4-64 maintenance release notes detail enhancements like cluster recovery with modules, configurable port ranges, and security fixes for vulnerabilities including CVE-2023-28856.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster recovery",
+    "rladmin",
+    "reserved_ports",
+    "CVE-2023-28856",
+    "Redis modules"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

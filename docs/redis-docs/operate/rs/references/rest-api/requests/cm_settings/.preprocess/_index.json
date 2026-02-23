@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:082d690104c62451c9be749f1d39b9cdd7323a30",
+  "generated_at": "2026-02-23T23:41:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides a REST API reference for retrieving and updating Cluster Manager UI settings via the /v1/cm_settings endpoint.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "cm_settings",
+    "permissions",
+    "timezone",
+    "REST API",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

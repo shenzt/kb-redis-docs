@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:3e1abbc8c2d977311b7a184be085fe5925c5e9ff",
-  "generated_at": "2026-02-18T06:57:11Z",
+  "generated_at": "2026-02-23T23:29:12Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The GearsBuilder.callNext method allows overriding Redis commands by executing the next command handler or the original command with flexible string arguments.",
+  "contextual_summary": "The callnext.md document explains the callNext method for overriding Redis commands in Gears v1, detailing its parameters, return value, and usage examples.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
@@ -13,7 +13,7 @@
     "CommandOverrider",
     "Redis command",
     "arguments",
-    "gearsbuilder"
+    "GearsBuilder"
   ],
   "gap_flags": [],
   "evidence_flags": {

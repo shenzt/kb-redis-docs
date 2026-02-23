@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b35f0942d82ad307c0aceca477ff80750b8887a6",
+  "generated_at": "2026-02-23T23:30:17Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Cloud release notes for June 2025 cover new features like blocking public endpoints and creating free databases, plus an enhancement for faster database scaling with the Redis hashing policy.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "public endpoints",
+    "free database",
+    "Redis hashing policy",
+    "resharding",
+    "scaling"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

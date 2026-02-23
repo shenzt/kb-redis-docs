@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:ed9ce2c42bfbb99cd3a25e5b4ba8670afe2719c6",
-  "generated_at": "2026-02-18T06:56:27Z",
+  "generated_at": "2026-02-23T23:25:10Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
   "contextual_summary": "Redis lists are linked lists of string values used to implement stacks, queues, and background worker systems, covering basic and blocking commands, examples, limits, performance, and alternatives.",
   "doc_type": "overview",
-  "quality_score": 9,
+  "quality_score": 8,
   "key_concepts": [
     "Redis lists",
     "LPUSH/RPUSH",
-    "LPOP/RPOP",
-    "blocking commands",
-    "O(1) performance"
+    "Blocking commands",
+    "O(1) performance",
+    "Streams alternative"
   ],
   "gap_flags": [],
   "evidence_flags": {

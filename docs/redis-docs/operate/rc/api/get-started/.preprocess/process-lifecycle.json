@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e305857d2aa1611deff0bd80e7966abba2ddfc6a",
+  "generated_at": "2026-02-23T23:30:02Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document describes the asynchronous task lifecycle for Redis Cloud REST API operations, covering processing and provisioning phases, task states, and tracking methods.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "asynchronous operations",
+    "task",
+    "processing phase",
+    "provisioning phase",
+    "taskId"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

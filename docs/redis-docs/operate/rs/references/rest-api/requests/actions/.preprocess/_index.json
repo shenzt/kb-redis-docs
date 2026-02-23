@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5de2aa4ac91c8900a82a83fd05cdd3091557ab42",
+  "generated_at": "2026-02-23T23:40:45Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This API reference document details the endpoints, request/response structures, and permissions for retrieving action statuses (tasks and state machines) via the `/v1/actions` and `/v2/actions` REST APIs.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "action_uid",
+    "state-machine",
+    "GET /v1/actions",
+    "permissions",
+    "status codes"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

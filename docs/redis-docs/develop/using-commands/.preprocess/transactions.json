@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:308c5313b74667d284393dee9f9b0bea91f38225",
-  "generated_at": "2026-02-18T06:56:44Z",
+  "generated_at": "2026-02-23T23:25:57Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Redis Transactions document covers using MULTI, EXEC, DISCARD, and WATCH commands to execute groups of commands sequentially with isolation guarantees and optimistic locking.",
+  "contextual_summary": "Redis Transactions cover the use of MULTI, EXEC, DISCARD, and WATCH commands to group operations with guarantees of sequential execution and atomicity, including optimistic locking and comparisons to scripting.",
   "doc_type": "overview",
   "quality_score": 8,
   "key_concepts": [

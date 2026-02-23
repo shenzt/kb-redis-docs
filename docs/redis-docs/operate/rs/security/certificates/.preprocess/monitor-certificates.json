@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4f8b1f2b531c2815622e4747cec7bb78d68dbf75",
+  "generated_at": "2026-02-23T23:42:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers monitoring Redis Software certificate expiration times using Prometheus metrics from v1 and v2 endpoints, including specific metric names and example queries.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "node_cert_expiration_seconds",
+    "Prometheus",
+    "internode communication TLS encryption",
+    "v1 metrics",
+    "v2 metrics"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: How to install Redis Stack using Docker
-id: aacb139a
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Docker
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/install/archive/install-stack/docker.md
-source_repo: https://github.com/redis/docs
 title: Run Redis Stack on Docker
 weight: 4
 ---

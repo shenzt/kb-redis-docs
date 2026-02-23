@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2379c94b2a8c625a14d2dcce01257f2ed9ba66b7",
+  "generated_at": "2026-02-23T23:37:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document prometheus-metrics-v1.md covers the deprecated v1 metrics for Redis Enterprise Software and provides a reference for transitioning to v2 PromQL.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "Prometheus",
+    "Grafana",
+    "v1 metrics",
+    "v2 PromQL",
+    "Redis Enterprise Software"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

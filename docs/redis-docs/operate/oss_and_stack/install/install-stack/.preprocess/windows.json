@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:e19c7342c1be492c240dd7585c642631dcb642fa",
-  "generated_at": "2026-02-18T06:56:52Z",
+  "generated_at": "2026-02-23T23:28:45Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document explains how to install and run Redis Open Source on Windows using Docker and connecting via redis-cli.",
-  "doc_type": "tutorial",
+  "contextual_summary": "The document explains how to install and run Redis Open Source on Windows by using Docker and connecting via redis-cli.",
+  "doc_type": "guide",
   "quality_score": 4,
   "key_concepts": [
     "Redis Open Source",
@@ -18,8 +18,7 @@
   "gap_flags": [
     "incomplete_steps",
     "missing_command",
-    "missing_config",
-    "missing_example"
+    "missing_config"
   ],
   "evidence_flags": {
     "has_command": true,

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c27dbc57041c1bcfe69e62ffa9ffbaa58aacdd48",
+  "generated_at": "2026-02-23T23:27:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document persistent-volumes.md covers storage requirements and configuration for deploying a Redis Enterprise Cluster on Kubernetes, including supported storage types, persistentSpec field usage, volume sizing, and storage class specifications.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "persistentSpec",
+    "storageClassName",
+    "volumeSize",
+    "block storage",
+    "persistent volume claims"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

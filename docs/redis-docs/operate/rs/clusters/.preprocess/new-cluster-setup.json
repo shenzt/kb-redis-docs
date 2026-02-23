@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:456553ffb2ee208ba2b1124cea1625594e82d9b8",
+  "generated_at": "2026-02-23T23:38:58Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document new-cluster-setup.md provides step-by-step instructions for setting up a new Redis Software cluster via a web UI, including prerequisites, configuration, and post-creation actions.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Software cluster",
+    "FQDN (Fully Qualified Domain Name)",
+    "rack-zone awareness",
+    "HTTPS TLS certificate",
+    "Cluster Manager UI"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

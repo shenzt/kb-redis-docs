@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:fd2c01488799abc6797054a213391432a3b26aba",
-  "generated_at": "2026-02-18T06:56:53Z",
+  "generated_at": "2026-02-23T23:28:47Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers upgrading a standalone Redis instance to version 8, including saving data, performing the upgrade, and verifying the process.",
+  "contextual_summary": "The document provides instructions for upgrading a standalone Redis instance to version 8, including data backup, installation, and verification steps.",
   "doc_type": "guide",
   "quality_score": 8,
   "key_concepts": [
@@ -17,8 +17,7 @@
   ],
   "gap_flags": [
     "incomplete_steps",
-    "missing_config",
-    "missing_example"
+    "missing_config"
   ],
   "evidence_flags": {
     "has_command": true,

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5599f0ba01be3296aece98e1afb8759f9d124f61",
+  "generated_at": "2026-02-23T23:42:18Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers recommended security practices for deploying Redis Software to production, including network placement, antivirus exclusions, logging, and encryption.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "trusted network",
+    "anti-virus exclusions",
+    "TLS protocol",
+    "client certificate authentication",
+    "database backups"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

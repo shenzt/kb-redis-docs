@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:dade577d6cbbc65d733b9f8b1a7e4492cacf959e",
-  "generated_at": "2026-02-18T06:57:07Z",
+  "generated_at": "2026-02-23T23:29:06Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Keyspace triggers allow registering functions to execute on database events like key expiration or modification, demonstrated with JavaScript API examples.",
-  "doc_type": "example",
+  "contextual_summary": "Keyspace triggers document explains how to register functions in Redis that execute on database events like key expiration or modification, including API usage and examples.",
+  "doc_type": "guide",
   "quality_score": 8,
   "key_concepts": [
     "redis.registerKeySpaceTrigger",

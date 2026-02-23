@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:db5e0d898f4043087a1bceb02d9fd1d1b9bd23c6",
+  "generated_at": "2026-02-23T23:25:43Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Insight 2.70.0 release notes cover the GA release, highlighting new features for tagging database connections and improved JSON editing and search capabilities.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Insight",
+    "database tags",
+    "JSON data type",
+    "Monaco Editor",
+    "SHA-256 Checksums"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

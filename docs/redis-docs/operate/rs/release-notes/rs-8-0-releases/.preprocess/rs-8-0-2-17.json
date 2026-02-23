@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:293900f0fdc22e48ddf2def985c54ed5cd581407",
+  "generated_at": "2026-02-23T23:42:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document rs-8-0-2-17.md announces Redis Software version 8.0.2, highlighting new features like vector sets, performance improvements, and security fixes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "vector set",
+    "ACLs",
+    "performance improvements",
+    "security vulnerabilities",
+    "Redis Query Engine"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4ffa52a96145cc3587601864ccc8eb15033df58e",
+  "generated_at": "2026-02-23T23:38:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md outlines the required and optional components for making a REST API request.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "HTTP method",
+    "Base URL",
+    "Endpoint",
+    "Query parameters",
+    "JSON"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

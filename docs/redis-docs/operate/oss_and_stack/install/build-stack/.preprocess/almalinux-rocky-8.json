@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:4209c5505c5464d081f5845f13aff52c7d7fdaaa",
-  "generated_at": "2026-02-18T06:56:47Z",
+  "generated_at": "2026-02-23T23:28:41Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document provides steps to build and run Redis Open Source from source on AlmaLinux or Rocky Linux 8.10, including system preparation, dependency installation, compilation, and startup.",
+  "contextual_summary": "The document provides steps to build and run Redis Open Source from source on AlmaLinux or Rocky Linux 8.10, including system preparation, dependency installation, compilation, and verification.",
   "doc_type": "tutorial",
-  "quality_score": 9,
+  "quality_score": 8,
   "key_concepts": [
-    "Redis Open Source",
-    "source code compilation",
-    "development tools",
+    "Redis",
+    "Development Tools",
     "CMake",
-    "virtual environment"
+    "GCC toolset",
+    "Python virtual environment"
   ],
   "gap_flags": [
     "incomplete_steps"

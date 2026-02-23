@@ -4,13 +4,7 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
-id: 14286e5f
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Debian 12 (Bookworm)
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/install/build-stack/debian-bookworm.md
-source_repo: https://github.com/redis/docs
 title: Build and run Redis Open Source on Debian 12 (Bookworm)
 weight: 15
 ---

@@ -1,5 +1,4 @@
 ---
-aliases: /develop/use/keyspace-notifications
 categories:
 - docs
 - develop
@@ -10,17 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: 'Monitor changes to Redis keys and values in real time
 
   '
-id: 693e35dd
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Keyspace notifications
-source_commit: a9ff1a3
-source_path: content/develop/pubsub/keyspace-notifications.md
-source_repo: https://github.com/redis/docs
 title: Redis keyspace notifications
+aliases: /develop/use/keyspace-notifications
 weight: 4
 ---
 
@@ -200,3 +194,4 @@ Every node of a Redis cluster generates events about its own subset of the keysp
 
 *   `>= 6.0`: Key miss events were added.
 *   `>= 7.0`: Event type `new` added
+

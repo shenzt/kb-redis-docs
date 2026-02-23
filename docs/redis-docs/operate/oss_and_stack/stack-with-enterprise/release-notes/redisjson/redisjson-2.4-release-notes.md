@@ -5,24 +5,16 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Low-level API changes in order to support the multi-value indexing and
   querying support that comes with RediSearch 2.6. RediSearch 2.6 comes with multi-value
   indexing and querying of attributes for any attribute type (Text, Tag, Numeric,
   Geo and Vector) defined by a JSONPath leading to an array or to multiple scalar
   values.
-id: 48c86718
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v2.4 (November 2022)
 min-version-db: 6.0.16
 min-version-rs: 6.2.18
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisjson/redisjson-2.4-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisjson 2.4 Release Notes
 weight: 97
 ---
-
 ## Requirements
 
 RedisJSON v2.4.17 requires:
@@ -195,3 +187,4 @@ RedisJSON 2.4 contains several low-level API changes in order to support the mul
 - Bugs fixes (since 2.4-RC1/ v2.4.0):
 
   - [#850](https://github.com/RedisJSON/RedisJSON/pull/850) Allow repetition of filter relation instead of optional (MOD-4431)
+

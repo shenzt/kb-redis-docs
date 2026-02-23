@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:61c2ba4bc66caa5f164357c037541eeb0ba35616",
+  "generated_at": "2026-02-23T23:25:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisInsight 2.24 release notes cover new features like bulk data upload, image support in tutorials, JSON formatting in Workbench, and added decompression formats, along with detailed improvements and bug fixes.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisInsight",
+    "bulk data upload",
+    "JSON formatter",
+    "decompression formats",
+    "Workbench"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

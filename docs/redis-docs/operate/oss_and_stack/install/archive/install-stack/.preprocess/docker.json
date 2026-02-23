@@ -1,21 +1,22 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:43cecf68a52943ea8e23d7e318cd859e62a363c1",
-  "generated_at": "2026-02-18T06:56:46Z",
+  "generated_at": "2026-02-23T23:28:39Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers running Redis Stack on Docker, including selecting images, starting containers, connecting with redis-cli, and configuring persistence, ports, and environment variables.",
+  "contextual_summary": "The document explains how to run Redis Stack using Docker, covering image selection, basic commands, configuration via volumes, ports, and environment variables.",
   "doc_type": "tutorial",
   "quality_score": 9,
   "key_concepts": [
     "Redis Stack",
     "Docker",
+    "Redis Insight",
     "redis-cli",
-    "persistence",
     "environment variables"
   ],
   "gap_flags": [
+    "incomplete_steps",
     "missing_config"
   ],
   "evidence_flags": {

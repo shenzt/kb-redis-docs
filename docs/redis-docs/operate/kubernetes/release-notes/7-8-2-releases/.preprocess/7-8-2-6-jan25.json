@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d68a563d2072096bb73dc7f9545903ba79b6b498",
+  "generated_at": "2026-02-23T23:28:17Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Enterprise for Kubernetes 7.8.2-6 release notes announce a maintenance release supporting Redis Enterprise Software 7.8.2-60 and list the updated container images and OLM bundle version.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "Redis Enterprise",
+    "Kubernetes",
+    "Operator",
+    "Services Rigger",
+    "OLM operator bundle"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

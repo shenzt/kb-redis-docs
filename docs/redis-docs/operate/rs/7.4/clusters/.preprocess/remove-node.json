@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:396b6f2181d47676e7f52792593bab1e0083be22",
+  "generated_at": "2026-02-23T23:33:52Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers procedures for removing a node from a Redis Enterprise cluster, including permanent removal, replacing faulty nodes, and replacing healthy nodes, along with API usage and prerequisites.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "node removal",
+    "cluster capacity",
+    "shard migration",
+    "persistence files",
+    "faulty node replacement"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d898411e19d2283fd84f7ab9801dbb6f56e9c04e",
+  "generated_at": "2026-02-23T23:26:45Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md covers security settings and configuration for Redis Enterprise for Kubernetes.",
+  "doc_type": "overview",
+  "quality_score": 2,
+  "key_concepts": [
+    "security settings",
+    "configuration",
+    "Redis Enterprise",
+    "Kubernetes"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

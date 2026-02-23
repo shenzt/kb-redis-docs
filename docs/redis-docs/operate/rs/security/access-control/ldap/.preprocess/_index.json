@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8e122d0e740a6426ce98a81d34460338140c93c4",
+  "generated_at": "2026-02-23T23:42:08Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "LDAP authentication in Redis Software supports role-based access control for the Cluster Manager UI and database access, detailing prerequisites, configuration steps, and the authentication workflow.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "LDAP authentication",
+    "role-based access controls",
+    "Distinguished Name",
+    "access control list",
+    "LDAP bind request"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

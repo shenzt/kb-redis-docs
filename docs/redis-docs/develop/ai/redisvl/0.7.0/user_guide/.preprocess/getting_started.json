@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:74f989336167964de3203bc57c766141a239ef79",
+  "generated_at": "2026-02-23T23:23:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document is a tutorial for getting started with RedisVL, covering steps like defining an IndexSchema, creating a SearchIndex, loading data, and performing vector searches.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "IndexSchema",
+    "SearchIndex",
+    "VectorQuery",
+    "redisvl",
+    "vector search"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1d0dce06c3ed97e45d2dad989fa31e39086a8ace",
+  "generated_at": "2026-02-23T23:26:47Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document openshift-cli.md details the three-step rolling update process for upgrading Redis Enterprise software on Kubernetes, covering operator, cluster, and database upgrades with prerequisites and specific commands for OpenShift.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "rolling updates",
+    "Redis Enterprise operator",
+    "Redis Enterprise cluster (REC)",
+    "Redis Enterprise databases (REDB)",
+    "redisUpgradePolicy"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

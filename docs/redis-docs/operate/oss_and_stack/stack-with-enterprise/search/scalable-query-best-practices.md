@@ -5,16 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
-description: Best practices for scalable Redis Query Engine in Redis Software and
-  Redis Cloud.
-id: a7ba9141
-ingested_at: '2026-02-14T15:01:27Z'
+description: Best practices for scalable Redis Query Engine in Redis Software and Redis Cloud.
 linkTitle: Best practices for scalable Redis Query Engine
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/search/scalable-query-best-practices.md
-source_repo: https://github.com/redis/docs
-title: Scalable Query Best Practices
 weight: 25
 ---
 

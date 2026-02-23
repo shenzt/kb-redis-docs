@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:397ac0ecbab21c341cfce9476cf92518734fc285",
-  "generated_at": "2026-02-18T06:57:01Z",
+  "generated_at": "2026-02-23T23:28:56Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
@@ -13,11 +13,10 @@
     "SIGSEGV",
     "RDB file",
     "AOF",
-    "SIGUSR1"
+    "shutdown-timeout"
   ],
   "gap_flags": [
-    "incomplete_steps",
-    "missing_example"
+    "incomplete_steps"
   ],
   "evidence_flags": {
     "has_command": false,

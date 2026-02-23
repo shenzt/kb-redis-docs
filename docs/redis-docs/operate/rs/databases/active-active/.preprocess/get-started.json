@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b8dd35841c6d62c63d1660fb1e8143eb0a1ae7b8",
+  "generated_at": "2026-02-23T23:39:10Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document provides steps to set up a Redis Active-Active database across two local Redis Software clusters using Docker for test and development environments.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Active-Active database",
+    "Redis Software",
+    "Docker containers",
+    "Cluster Manager UI",
+    "CRDB"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

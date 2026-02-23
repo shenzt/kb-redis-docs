@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:365dc0e79ddf51fde0d0953272f75d7681bb7ab6",
-  "generated_at": "2026-02-18T06:56:33Z",
+  "generated_at": "2026-02-23T23:25:16Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers use cases for Redis Time Series, including monitoring data centers, analyzing weather and atmospheric data, recording flight sensor data, and automating stock trading.",
+  "contextual_summary": "The document outlines use cases for Redis Time Series across monitoring, weather analysis, atmospheric tracking, flight data, and stock trading, detailing specific metrics for each application.",
   "doc_type": "overview",
   "quality_score": 6,
   "key_concepts": [
     "Redis Time Series",
-    "secondary indexes",
     "metrics",
+    "secondary indexes",
     "time series",
-    "sensor data"
+    "anomaly detection"
   ],
   "gap_flags": [
     "incomplete_steps",

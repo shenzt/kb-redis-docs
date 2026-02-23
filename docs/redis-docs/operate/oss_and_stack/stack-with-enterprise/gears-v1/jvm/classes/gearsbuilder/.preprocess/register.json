@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:81bfced8503d01b05767ee2db8a03f5015f18e90",
-  "generated_at": "2026-02-18T06:57:16Z",
+  "generated_at": "2026-02-23T23:29:17Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Redis GearsBuilder register method registers a pipeline of functions to run on specified events, detailing its overloads, execution modes, parameters, and return value.",
+  "contextual_summary": "The register.md document details the `register` method for a pipeline, including its overloaded signatures, execution modes, parameters, return value, and a basic usage example.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "register",
     "ExecutionMode",
     "ASYNC",
-    "ASYNC_LOCAL",
-    "SYNC"
+    "registration ID",
+    "OnRegisteredOperation"
   ],
   "gap_flags": [
     "missing_example"

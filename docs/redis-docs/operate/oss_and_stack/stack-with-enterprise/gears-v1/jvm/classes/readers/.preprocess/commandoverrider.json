@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:aeb63054c0c708607622184ba9eba29a88f2c927",
-  "generated_at": "2026-02-18T06:57:18Z",
+  "generated_at": "2026-02-23T23:29:19Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The CommandOverrider class allows Java developers to override and customize Redis commands, such as adding a timestamp field to HSET operations for specific key prefixes.",
+  "contextual_summary": "The CommandOverrider class in Redis Gears allows overriding and customizing Redis commands, demonstrated by adding a timestamp to HSET operations for specific key prefixes.",
   "doc_type": "example",
   "quality_score": 9,
   "key_concepts": [
     "CommandOverrider",
-    "GearsBuilder",
     "RG.JEXECUTE",
-    "register",
-    "HSET"
+    "register()",
+    "GearsBuilder",
+    "ExecutionMode.SYNC"
   ],
   "gap_flags": [],
   "evidence_flags": {

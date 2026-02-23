@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:74f5ec1159858068e81f32ba729a1da50962515c",
+  "generated_at": "2026-02-23T23:35:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document bdb.md describes a REST API endpoint for retrieving the status of state-machine-related actions for a specific database.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "bdb_uid",
+    "action_uid",
+    "state machine",
+    "GET /v1/actions/bdb/{bdb_uid}",
+    "permissions"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

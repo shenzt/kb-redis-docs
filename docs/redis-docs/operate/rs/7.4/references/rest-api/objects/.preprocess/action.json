@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5e47b42641c6832cd0a6a843b517096e1ae9f8fc",
+  "generated_at": "2026-02-23T23:35:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'action.md' describes how cluster maintenance actions are implemented as tasks, detailing their lifecycle, statuses, and the REST API interface for invoking and querying them.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "task_id",
+    "status",
+    "REST API",
+    "error_code",
+    "progress"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

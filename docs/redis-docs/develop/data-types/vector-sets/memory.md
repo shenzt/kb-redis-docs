@@ -8,14 +8,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Learn how to optimize memory consumption in Redis vector sets
-id: 13dd8d5b
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Memory optimization
-source_commit: a9ff1a3
-source_path: content/develop/data-types/vector-sets/memory.md
-source_repo: https://github.com/redis/docs
 title: Memory optimization
 weight: 25
 ---

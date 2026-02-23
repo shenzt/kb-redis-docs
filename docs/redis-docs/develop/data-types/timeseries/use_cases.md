@@ -9,16 +9,10 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: 'Time series use cases
 
   '
-id: 7b673af6
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Use cases
-source_commit: a9ff1a3
-source_path: content/develop/data-types/timeseries/use_cases.md
-source_repo: https://github.com/redis/docs
 title: Use cases
 weight: 5
 ---

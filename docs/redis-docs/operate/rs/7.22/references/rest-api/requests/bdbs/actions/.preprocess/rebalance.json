@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ec95fb868e4856a992397a4e18aa4d2a85fce2dc",
+  "generated_at": "2026-02-23T23:32:54Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The rebalance.md document details the PUT API endpoint for redistributing a database's shards across nodes according to its shard placement policy, including parameters, permissions, and response handling.",
+  "doc_type": "reference",
+  "quality_score": 9,
+  "key_concepts": [
+    "shard rebalance",
+    "dry_run",
+    "shard placement policy",
+    "action_uid",
+    "only_failovers"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

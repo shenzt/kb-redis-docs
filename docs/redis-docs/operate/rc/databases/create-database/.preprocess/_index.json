@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4c56c854db28aba9bd62f010293219814919212c",
+  "generated_at": "2026-02-23T23:30:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers Redis Cloud database creation, describing the Essentials, Free, and Pro subscription plans and linking to specific creation procedures for each.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "database",
+    "subscription plan",
+    "Essentials",
+    "Pro",
+    "Active-Active"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

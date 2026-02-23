@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e35c68efc8718ea5355c193b1532809dffc7ca4a",
+  "generated_at": "2026-02-23T23:34:24Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This quickstart guide provides steps to install Redis Enterprise Software on a Linux host for local testing, covering port configuration, cluster setup, database creation, and connection.",
+  "doc_type": "tutorial",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "cluster",
+    "port availability",
+    "Cluster Manager UI",
+    "database"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

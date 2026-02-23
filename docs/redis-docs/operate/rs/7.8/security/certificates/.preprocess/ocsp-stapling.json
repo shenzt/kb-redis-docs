@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cd60b21876d9f46c1377615a0ce9c026f4308ebc",
+  "generated_at": "2026-02-23T23:38:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to enable and configure OCSP stapling for a Redis Enterprise cluster to validate certificate status during TLS handshakes, covering methods via the UI, REST API, and rladmin.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "OCSP stapling",
+    "TLS handshake",
+    "certificate revocation",
+    "OCSP responder",
+    "rladmin"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

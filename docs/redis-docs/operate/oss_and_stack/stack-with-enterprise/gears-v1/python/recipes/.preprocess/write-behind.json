@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:8f125b7c7a026f350fd96cf33e997e2516542db7",
-  "generated_at": "2026-02-18T06:57:22Z",
+  "generated_at": "2026-02-23T23:29:25Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers installing and configuring the write-behind caching recipe for Redis Software, including driver installation and database connection setup.",
+  "contextual_summary": "The document write-behind.md covers the write-behind caching strategy in Redis Software, including its installation, Oracle driver setup, and configuration with MySQL using RedisGears.",
   "doc_type": "guide",
   "quality_score": 7,
   "key_concepts": [
-    "write-behind",
+    "write-behind caching",
     "RedisGears",
     "Oracle driver",
-    "rladmin",
-    "asynchronous sync"
+    "MySQL connection",
+    "rladmin"
   ],
   "gap_flags": [
     "incomplete_steps",

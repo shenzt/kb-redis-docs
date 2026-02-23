@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cd78f9c7ce45b92568bbc832efafc4f30aad8dc4",
+  "generated_at": "2026-02-23T23:41:18Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The migrate.md document details two REST API endpoints for migrating database shards, including required permissions, request/response formats, and status codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "shard migration",
+    "shard_uids",
+    "target_node_uid",
+    "action_uid",
+    "override_rack_policy"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

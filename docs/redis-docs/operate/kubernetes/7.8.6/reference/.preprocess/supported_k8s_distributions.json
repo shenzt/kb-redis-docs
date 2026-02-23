@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:60e870056beeefe826f21e544a66223b91ecc9d4",
+  "generated_at": "2026-02-23T23:27:28Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document lists supported, deprecated, and end-of-life Kubernetes distributions for various versions of Redis Enterprise for Kubernetes, providing a compatibility matrix for production workloads.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise for Kubernetes",
+    "Kubernetes distributions",
+    "Supported",
+    "Deprecated",
+    "End of life"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

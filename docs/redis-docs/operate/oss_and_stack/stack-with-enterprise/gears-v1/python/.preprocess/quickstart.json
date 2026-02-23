@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:1289a2154222c25c0eb35a1d07f172bb94c282d9",
-  "generated_at": "2026-02-18T06:57:22Z",
+  "generated_at": "2026-02-23T23:29:25Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers registering RedisGears functions for batch processing of existing data and event processing of key space changes using Python.",
+  "contextual_summary": "The quickstart.md tutorial covers using RedisGears for batch processing and event-driven processing with Python, including examples for word count and tracking maximum hash field values.",
   "doc_type": "tutorial",
   "quality_score": 8,
   "key_concepts": [
     "RedisGears",
-    "RG.PYEXECUTE",
     "batch processing",
     "event processing",
+    "RG.PYEXECUTE",
     "GearsBuilder"
   ],
   "gap_flags": [

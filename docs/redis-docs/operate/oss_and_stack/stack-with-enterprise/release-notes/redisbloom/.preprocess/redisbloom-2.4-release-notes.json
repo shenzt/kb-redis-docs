@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:4bb6effe4cdfaf73042b4d934ecf22361b37b238",
-  "generated_at": "2026-02-18T06:57:27Z",
+  "generated_at": "2026-02-23T23:29:31Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RedisBloom 2.4 release notes detail version-specific requirements, update urgencies, and changes including bug fixes, security patches, and improvements for the probabilistic data structures module.",
+  "contextual_summary": "The RedisBloom v2.4 release notes document covers version-specific requirements, maintenance updates, bug fixes, security patches, and new command functionalities for the probabilistic data structures module.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
-    "RedisBloom",
     "CMS.INCRBY",
     "TDIGEST.MERGE",
     "CVE-2024-53993",
-    "Update urgency"
+    "Update urgency",
+    "Maintenance release"
   ],
   "gap_flags": [
     "incomplete_steps",

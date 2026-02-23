@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8e05a4d8df44fd63e29b9d35fa6e2b38cf64d041",
+  "generated_at": "2026-02-23T23:38:56Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Rack-zone awareness in Redis Software clusters ensures high availability by distributing primary shards, replicas, and endpoints across different physical racks or logical zones to survive rack or zone failures.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "rack-zone awareness",
+    "rack-zone ID",
+    "high availability",
+    "shard placement",
+    "node layout"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

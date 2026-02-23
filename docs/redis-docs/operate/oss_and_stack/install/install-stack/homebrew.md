@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: How to install Redis Open Source on macOS using Homebrew
-id: 91f48136
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Homebrew
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/install/install-stack/homebrew.md
-source_repo: https://github.com/redis/docs
 title: Install Redis Open Source on macOS
 weight: 6
 ---

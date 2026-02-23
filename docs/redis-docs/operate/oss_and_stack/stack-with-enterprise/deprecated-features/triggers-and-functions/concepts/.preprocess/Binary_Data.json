@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:ae74b0320ea61eb2a79b9ed2571fcf466ac706f8",
-  "generated_at": "2026-02-18T06:57:05Z",
+  "generated_at": "2026-02-23T23:29:03Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
@@ -15,7 +15,9 @@
     "stream_name_raw",
     "record_raw"
   ],
-  "gap_flags": [],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
   "evidence_flags": {
     "has_command": true,
     "has_config": true,

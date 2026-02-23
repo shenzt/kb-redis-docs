@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/concepts/triggers/user_functions/
 categories:
 - docs
 - develop
@@ -11,17 +9,14 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Execute JavaScript functions via `TFCALL` or `TFCALLASYNC`
-id: e3ed5678
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: User functions
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/concepts/triggers/User_Functions.md
-source_repo: https://github.com/redis/docs
 title: User functions
 weight: 1
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/concepts/triggers/user_functions/
 ---
+
 
 All `TFCALL` command arguments that follow the function name are passed to the function callback. The following example shows how to implement a simple function that returns the value of a key of type string or hash:
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:e135604ce8a436386715b6b91a44491391ae0cc2",
-  "generated_at": "2026-02-18T06:56:23Z",
+  "generated_at": "2026-02-23T23:25:05Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
@@ -13,7 +13,7 @@
     "BITFIELD_RO",
     "atomic operations",
     "counters",
-    "bit length"
+    "binary-encoded strings"
   ],
   "gap_flags": [],
   "evidence_flags": {

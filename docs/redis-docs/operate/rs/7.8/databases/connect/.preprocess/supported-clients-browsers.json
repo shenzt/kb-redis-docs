@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3824f876e95d9e1277bf7e085196017bc02cd31b",
+  "generated_at": "2026-02-23T23:36:39Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers connecting to Redis Enterprise Software databases using client libraries, the redis-cli utility, and recommended clients for use with a discovery service.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "client libraries",
+    "redis-cli",
+    "discovery service",
+    "Sentinel API",
+    "REST API"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

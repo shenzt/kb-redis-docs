@@ -6,15 +6,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
-description: Use Redis on Windows through Memurai, official Redis partner for Windows
-  compatibility
-id: 1b0efe2f
-ingested_at: '2026-02-14T15:01:27Z'
+description: Use Redis on Windows through Memurai, official Redis partner for Windows compatibility
 linkTitle: Windows
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/install/archive/install-redis/install-redis-on-windows.md
-source_repo: https://github.com/redis/docs
 title: Install Redis on Windows
 weight: 1
 ---

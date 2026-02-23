@@ -5,18 +5,10 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: null
-id: 9c3be0f9
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Install
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/installing-redisgears.md
-source_repo: https://github.com/redis/docs
-title: Installing Redisgears
 weight: 60
 ---
-
 Before you can use RedisGears, you have to install the RedisGears module on your Redis Software cluster.
 
 ## Minimum requirements

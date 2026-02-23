@@ -1,22 +1,21 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:6c08e1af19be00f197e425f18e0fc2cc46ffaaee",
-  "generated_at": "2026-02-18T06:57:17Z",
+  "generated_at": "2026-02-23T23:29:18Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The setResult method sets the result for an asynchronous computation in Redis Gears JVM.",
+  "contextual_summary": "The setResult method sets the result for an asynchronous computation, as documented in a Java method reference.",
   "doc_type": "reference",
-  "quality_score": 6,
+  "quality_score": 7,
   "key_concepts": [
     "setResult",
-    "GearsFuture",
     "asynchronous computation",
+    "GearsFuture",
     "asyncFilter",
     "GearsBuilder"
   ],
   "gap_flags": [
-    "incomplete_steps",
     "missing_example"
   ],
   "evidence_flags": {

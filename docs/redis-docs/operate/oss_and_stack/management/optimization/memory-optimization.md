@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: Strategies for optimizing memory usage in Redis
-id: b7e8b170
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Memory optimization
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/management/optimization/memory-optimization.md
-source_repo: https://github.com/redis/docs
 title: Memory optimization
 weight: 1
 ---

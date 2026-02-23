@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:66e360433346ff9d30cb8358c37f8b9757d57a78",
+  "generated_at": "2026-02-23T23:31:21Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers how to configure Redis Enterprise Software databases using the Cluster Manager UI, command-line tools, and REST API, detailing editable settings like general parameters, alerts, replication, and encryption.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "rladmin",
+    "Replica Of",
+    "RESP3",
+    "Internode encryption",
+    "Cluster Manager UI"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

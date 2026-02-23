@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:8857ce1a97b9f260d43cb7c1e2d2bf193eff96a8",
-  "generated_at": "2026-02-18T06:56:58Z",
+  "generated_at": "2026-02-23T23:28:53Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers enabling and using TLS/SSL encryption in Redis, including building with TLS support, generating certificates, running the server and client with TLS, and key configuration directives.",
+  "contextual_summary": "The TLS document covers enabling, building, testing, and configuring TLS support in Redis, including certificate setup, replication, and performance considerations.",
   "doc_type": "guide",
   "quality_score": 8,
   "key_concepts": [
-    "TLS/SSL",
-    "X.509 certificate",
+    "TLS",
+    "certificate",
     "tls-port",
     "tls-replication",
     "OpenSSL"
   ],
   "gap_flags": [
-    "missing_config",
-    "missing_example"
+    "incomplete_steps",
+    "missing_config"
   ],
   "evidence_flags": {
     "has_command": true,

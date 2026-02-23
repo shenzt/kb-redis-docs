@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d7da248511797385e28ede3dd694eb1ae86c45fb",
+  "generated_at": "2026-02-23T23:24:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to perform numeric range queries using the FT.SEARCH command, covering syntax, inclusive/exclusive bounds, open ranges with inf, and result management with LIMIT and SORTBY.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "FT.SEARCH",
+    "range query",
+    "numeric field",
+    "FILTER argument",
+    "LIMIT argument"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:031e074df17397ee439cc2dc86988773dd899882",
+  "generated_at": "2026-02-23T23:32:24Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The _index.md document defines the structure and fields of a bootstrap configuration object used for cluster creation, joining, or recovery in Redis Enterprise.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "bootstrap configuration",
+    "cluster_identity",
+    "dns_suffixes",
+    "credentials",
+    "node_identity"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

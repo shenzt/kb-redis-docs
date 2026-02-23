@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:75312ee85fe81c46a399631eb0bddd9ebe0ea67c",
+  "generated_at": "2026-02-23T23:25:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Insight is a desktop GUI client for visualizing, optimizing, and interacting with Redis data, covering installation, connection management, features, troubleshooting, and API access.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Insight",
+    "connection management",
+    "Redis Data Integration (RDI)",
+    "troubleshooting",
+    "SSPL license"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

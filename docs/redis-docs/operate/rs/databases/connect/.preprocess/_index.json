@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:effbdba3aa42872d39a6f765e2e9f053e1bb3de5",
+  "generated_at": "2026-02-23T23:39:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document explains how to connect to a Redis database after cluster setup, covering endpoint identification, connection methods, and troubleshooting for DNS issues.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "database endpoint",
+    "FQDN",
+    "redis-cli",
+    "TLS",
+    "Cluster Manager UI"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

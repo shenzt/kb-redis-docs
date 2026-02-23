@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Redis Stack 6.2.6 release notes.
-id: d2a9a627
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v6.2.6-v0 (December 2022)
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisstack/redisstack-6.2.6-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisstack 6.2.6 Release Notes
 weight: 100
 ---
 
@@ -1282,3 +1275,4 @@ Note: version numbers follow the pattern:
 * `x.y` Redis major version
 * `z` increases with even numbers as a module x.y version increases.
 * `b` denotes a patch to Redis or a module (any `z` of Redis or modules). `b` will consist of a `v` + numeric value.
+

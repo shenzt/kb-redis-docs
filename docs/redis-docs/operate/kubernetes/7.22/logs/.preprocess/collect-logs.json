@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1aeb2580860eef5fe846944c84b177c472691077",
+  "generated_at": "2026-02-23T23:26:08Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document collect-logs.md describes the Redis Enterprise cluster log collector script, its prerequisites, usage modes, command options, and steps for collecting logs to aid support troubleshooting.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "log_collector.py",
+    "RBAC permissions",
+    "restricted mode",
+    "all mode",
+    "tar.gz"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

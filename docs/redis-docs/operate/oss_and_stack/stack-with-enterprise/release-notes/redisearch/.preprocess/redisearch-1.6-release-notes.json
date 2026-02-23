@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:f8d956f4da1c1a5fb714c08d79a48fc294e7a217",
-  "generated_at": "2026-02-18T06:57:31Z",
+  "generated_at": "2026-02-23T23:29:37Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The RediSearch 1.6 release notes document details version requirements and lists maintenance releases, including bug fixes and minor enhancements for the search engine module.",
+  "contextual_summary": "The document provides release notes for RediSearch version 1.6, detailing requirements, update urgencies, and specific bug fixes and enhancements across multiple sub-releases.",
   "doc_type": "reference",
-  "quality_score": 7,
+  "quality_score": 8,
   "key_concepts": [
-    "FT.ADD",
-    "FT.SEARCH",
+    "FT.ADD REPLACE",
     "SORTBY",
     "FORK GC",
-    "numeric fields"
+    "numeric fields",
+    "stopword list"
   ],
   "gap_flags": [
     "incomplete_steps",

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:347cd9f6f74badeaedbadaca060b35bbd3ed0b57",
+  "generated_at": "2026-02-23T23:24:53Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document provides an example of creating a search index for JSON and hash documents in Redis and running queries against it using the node-redis client library.",
+  "doc_type": "example",
+  "quality_score": 8,
+  "key_concepts": [
+    "search index",
+    "JSON documents",
+    "hash documents",
+    "ft.search()",
+    "query dialect"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e3033eabfd7e635a9af4c7bd21d6d383f28b4315",
+  "generated_at": "2026-02-23T23:37:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The memtier-benchmark.md document covers performance testing of Redis Enterprise Software's Auto Tiering feature using the memtier_benchmark utility, including test considerations, environment setup, and expected results.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "memtier_benchmark",
+    "Auto Tiering",
+    "Redis Enterprise Software",
+    "shards",
+    "throughput"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

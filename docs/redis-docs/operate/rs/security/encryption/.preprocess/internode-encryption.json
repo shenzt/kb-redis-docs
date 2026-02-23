@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3878aa7477408773434c3fef0add2ac95ea9739e",
+  "generated_at": "2026-02-23T23:42:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers Redis Software's internode encryption feature for securing internal cluster communication, including prerequisites, enabling steps, certificate management, and performance considerations.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "internode encryption",
+    "control plane",
+    "data plane",
+    "rladmin",
+    "certificate rotation"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

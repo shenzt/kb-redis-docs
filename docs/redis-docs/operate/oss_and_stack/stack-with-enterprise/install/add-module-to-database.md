@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: null
-id: c924a7c0
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Enable for a database
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/install/add-module-to-database.md
-source_repo: https://github.com/redis/docs
-title: Add Module To Database
 toc: 'true'
 weight: 30
 ---

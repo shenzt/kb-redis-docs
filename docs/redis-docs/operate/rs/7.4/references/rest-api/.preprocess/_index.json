@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c26c4c5329936a011046b52c2272b7bbf6522f43",
+  "generated_at": "2026-02-23T23:34:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides an overview and reference for the Redis Enterprise Software REST API, covering authentication, permissions, certificates, error codes, and linking to detailed endpoints and objects.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "REST API",
+    "Basic Auth",
+    "role-based access controls",
+    "certificates",
+    "HTTP status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

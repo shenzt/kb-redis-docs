@@ -1,5 +1,4 @@
 ---
-aliases: /develop/use/keyspace
 categories:
 - docs
 - develop
@@ -10,19 +9,14 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: 'Managing keys in Redis: Key expiration, scanning, altering and querying
   the key space
 
   '
-id: 14f2e82d
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Keys and values
-source_commit: a9ff1a3
-source_path: content/develop/using-commands/keyspace.md
-source_repo: https://github.com/redis/docs
 title: Keys and values
 weight: 10
+aliases: /develop/use/keyspace
 ---
 
 Every data object that you store in a Redis database has its own unique

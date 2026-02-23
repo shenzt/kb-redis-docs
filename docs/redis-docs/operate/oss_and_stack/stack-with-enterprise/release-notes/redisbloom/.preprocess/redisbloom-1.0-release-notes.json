@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:a82d9f454e53522e8ba892022121318e834a47ea",
-  "generated_at": "2026-02-18T06:57:25Z",
+  "generated_at": "2026-02-23T23:29:30Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RedisBloom 1.0 release notes detail version requirements and specific fixes for versions 1.0.0, 1.0.2, and 1.0.3, including a change to EXISTS command behavior.",
-  "doc_type": "reference",
-  "quality_score": 6,
+  "contextual_summary": "The document redisbloom-1.0-release-notes.md provides version-specific release notes for RedisBloom, detailing requirements and fixes for versions 1.0.0 through 1.0.3.",
+  "doc_type": "overview",
+  "quality_score": 4,
   "key_concepts": [
     "RedisBloom",
     "EXISTS",

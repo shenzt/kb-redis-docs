@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:4ffac2c03fb1d4026054e28464562d055ef87319",
-  "generated_at": "2026-02-18T06:57:10Z",
+  "generated_at": "2026-02-23T23:29:10Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Asyncfilter document describes the asyncFilter function in GearsBuilder for asynchronously filtering records using a GearsFuture object based on a boolean condition.",
+  "contextual_summary": "The asyncFilter.md document describes the asyncFilter function for using a GearsFuture to asynchronously filter records in a pipe based on a boolean condition.",
   "doc_type": "reference",
   "quality_score": 7,
   "key_concepts": [
     "asyncFilter",
     "GearsFuture",
     "AsyncFilterOperation",
-    "GearsBuilder",
-    "boolean"
+    "boolean",
+    "pipe"
   ],
   "gap_flags": [
     "incomplete_steps",

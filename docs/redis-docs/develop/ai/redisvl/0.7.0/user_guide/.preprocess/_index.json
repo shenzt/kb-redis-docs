@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b85ed685afb456040551f9135046fbe01542e80f",
+  "generated_at": "2026-02-23T23:23:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "User Guides for RedisVL cover getting started, querying, semantic caching for LLMs, caching embeddings, and release notes.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "IndexSchema",
+    "SearchIndex",
+    "VectorQuery",
+    "Hybrid Queries",
+    "SemanticCache"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

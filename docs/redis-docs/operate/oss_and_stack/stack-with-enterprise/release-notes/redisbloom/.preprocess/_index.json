@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2a61d4c749a802caec2ed5c8ef39bd2ec1e41bef",
+  "generated_at": "2026-02-23T23:29:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md presents a table listing Redis versions with their release dates, major changes, and minimum required Redis and cluster versions.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "Redis",
+    "version",
+    "cluster",
+    "release date",
+    "major changes"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

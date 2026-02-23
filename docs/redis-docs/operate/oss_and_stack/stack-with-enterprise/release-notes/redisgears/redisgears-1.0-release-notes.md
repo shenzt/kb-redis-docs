@@ -5,21 +5,13 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: First GA release of RedisGears. Built-in C-API and Python interpreter.
   Run a serverless engine in memory next to your Redis data.
-id: 017639d2
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v1.0 (May 2020)
 min-version-db: 6.0.0
 min-version-rs: 6.0.0
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisgears/redisgears-1.0-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisgears 1.0 Release Notes
 weight: 100
 ---
-
 Here's what's changed recently in RedisGears. 
 
 To learn more, see the linked pull requests.

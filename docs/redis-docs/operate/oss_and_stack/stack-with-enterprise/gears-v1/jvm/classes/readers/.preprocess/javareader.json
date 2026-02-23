@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:21cc362ae17e1810192eeafe1a74b7e854949c24",
-  "generated_at": "2026-02-18T06:57:18Z",
+  "generated_at": "2026-02-23T23:29:19Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The JavaReader abstract class enables the creation of custom readers in Java for Redis Gears by extending it and overriding the iterator() function, as demonstrated by the KeysOnlyReader example.",
+  "contextual_summary": "The document javareader.md explains how to create a custom Java reader by extending the abstract JavaReader class and overriding the iterator() method, illustrated with a KeysOnlyReader example.",
   "doc_type": "example",
   "quality_score": 8,
   "key_concepts": [

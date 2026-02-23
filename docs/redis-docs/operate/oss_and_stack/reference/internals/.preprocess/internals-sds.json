@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:e589231230bf972bf8cbd53753ac93312a4b1e41",
-  "generated_at": "2026-02-18T06:56:59Z",
+  "generated_at": "2026-02-23T23:28:56Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers the historical internal structure and memory management of Redis strings (Simple Dynamic Strings), explaining the sdshdr struct and pointer arithmetic trick for O(1) length operations.",
-  "doc_type": "reference",
+  "contextual_summary": "The document covers the internal implementation of Redis strings (SDS), explaining the sdshdr structure, memory layout, and the pointer arithmetic trick used to manage strings efficiently.",
+  "doc_type": "overview",
   "quality_score": 7,
   "key_concepts": [
     "sdshdr",
     "sds",
     "pointer arithmetic",
-    "O(1) operation",
-    "len and free fields"
+    "O(1) length",
+    "dynamic strings"
   ],
   "gap_flags": [
     "incomplete_steps",

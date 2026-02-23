@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fa86be66c65407f93deb37e969683b6e40b75082",
+  "generated_at": "2026-02-23T23:24:55Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document explains how to use Redis Query Engine to index and query vector fields in hash or JSON objects for semantic similarity search using AI-generated text embeddings.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "vector embeddings",
+    "Redis Query Engine",
+    "semantic similarity",
+    "vector distance",
+    "ft.search()"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

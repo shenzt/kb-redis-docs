@@ -5,21 +5,13 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: RESP3 support. Performance improvements.
-id: d8ec4569
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v1.10 (July 2023)
 min-version-db: '7.2'
 min-version-rs: 7.2.4
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redistimeseries/redistimeseries-1.10-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redistimeseries 1.10 Release Notes
 toc: 'true'
 weight: 95
 ---
-
 ## Requirements
 
 RedisTimeSeries v1.10.20 requires:

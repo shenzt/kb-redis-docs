@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9dce269b561547724b6e7534135d39f2bc32e156",
+  "generated_at": "2026-02-23T23:34:06Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This Redis Enterprise document explains shard placement policies for master and replica shards, covering how to view and change the default cluster policy and the policy for individual databases.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "shard placement policy",
+    "master shards",
+    "replica shards",
+    "rladmin",
+    "dense vs sparse"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

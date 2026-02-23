@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c2f51b2d404a5d470b9680b1fd122b08501c8d29",
+  "generated_at": "2026-02-23T23:25:00Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to configure redis-py for client-side geographic failover using MultiDBClient and DatabaseConfig objects to manage connections and automatic failover between weighted endpoints.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Client-side geographic failover",
+    "MultiDBClient",
+    "DatabaseConfig",
+    "weight",
+    "health_check"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

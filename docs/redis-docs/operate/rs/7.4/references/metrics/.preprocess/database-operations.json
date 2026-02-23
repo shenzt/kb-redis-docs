@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0027ab8c90c9ce58b46a6efc79a0f48f655a91eb",
+  "generated_at": "2026-02-23T23:34:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document database-operations.md defines and explains key database performance metrics, including eviction rates, hit ratios, latency, operations per second, and total keys, specifying the components measured for each.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Evicted objects/sec",
+    "Hit ratio",
+    "Latency",
+    "Ops/sec",
+    "Total keys"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: Redis TLS support
-id: f7af41d8
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: TLS
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/management/security/encryption.md
-source_repo: https://github.com/redis/docs
 title: TLS
 weight: 1
 ---

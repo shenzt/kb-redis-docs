@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:c0da23dbb35dcf14ababbb9b604e4f85ca45ccde",
-  "generated_at": "2026-02-18T06:57:40Z",
+  "generated_at": "2026-02-23T23:29:47Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Redis Stack 7.2.0-v13 release notes detail a maintenance update with security fixes for vulnerabilities like RCE and DoS, a bug fix for cluster crashes, and updated module and client library versions.",
-  "doc_type": "reference",
-  "quality_score": 8,
+  "contextual_summary": "Redis Stack 7.2.0-v13 release notes detail a maintenance update with security fixes for vulnerabilities like RCE and DoS, a cluster mode crash fix, and updated module and client library versions.",
+  "doc_type": "overview",
+  "quality_score": 7,
   "key_concepts": [
     "Redis Stack",
     "CVE-2024-31449",
@@ -17,6 +17,8 @@
   ],
   "gap_flags": [
     "incomplete_steps",
+    "missing_command",
+    "missing_config",
     "missing_example"
   ],
   "evidence_flags": {

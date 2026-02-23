@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6df4d0cb5b861cec163e64b9a247d56af13b477f",
+  "generated_at": "2026-02-23T23:30:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Cloud Essentials plan details, including free and paid tiers, their features, resource limits, and upgrade options.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Cloud Essentials",
+    "database size",
+    "concurrent connections",
+    "throughput limits",
+    "bandwidth"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:9fb5b8bfa1847b73f01e1497f8c52be49c30d6d1",
-  "generated_at": "2026-02-18T06:56:34Z",
+  "generated_at": "2026-02-23T23:25:19Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "A quick start guide for Redis as an in-memory data structure store, covering setup, connection, storing and retrieving data by key, and scanning the keyspace.",
-  "doc_type": "guide",
+  "contextual_summary": "A quick start guide for Redis as an in-memory data structure store, covering setup, connection, data storage/retrieval, and keyspace scanning with a bicycle inventory example.",
+  "doc_type": "tutorial",
   "quality_score": 8,
   "key_concepts": [
     "Redis",
@@ -16,6 +16,7 @@
     "AUTH command"
   ],
   "gap_flags": [
+    "incomplete_steps",
     "missing_command",
     "missing_config",
     "missing_example"

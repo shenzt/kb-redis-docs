@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5040c1d9e14fb4221c6dde10b76da106ba729af5",
+  "generated_at": "2026-02-23T23:24:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Release Guides for RedisVL provide guidelines and feature overviews for specific versions, detailing new capabilities like the HybridQuery class and schema validation.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "HybridQuery",
+    "Schema validation",
+    "Vector normalization",
+    "Batch search",
+    "Threshold optimization"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

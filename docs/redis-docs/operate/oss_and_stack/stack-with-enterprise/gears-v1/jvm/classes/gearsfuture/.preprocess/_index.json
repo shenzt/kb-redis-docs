@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:425e583effe5ee5d0eb5723bb5103add7e8f1fc2",
+  "generated_at": "2026-02-23T23:29:17Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The GearsFuture class enables asynchronous record processing in another thread and is used with specific GearsBuilder functions.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "GearsFuture",
+    "asynchronous processing",
+    "GearsBuilder",
+    "asyncFilter",
+    "asyncForeach"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

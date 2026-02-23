@@ -5,20 +5,12 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Added ability to backfill time series.
-id: b2210f04
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v1.4 (September 2020)
 min-version-db: 5.0.0
 min-version-rs: 6.0.12
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redistimeseries/redistimeseries-1.4-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redistimeseries 1.4 Release Notes
 weight: 98
 ---
-
 ## Requirements
 
 RedisTimeSeries v1.4.14 requires:

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6cd69c81368e6cc64ee1bfad31948b5ee3eb42a0",
+  "generated_at": "2026-02-23T23:41:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document is an API reference for local and cluster-wide service management endpoints, including GET and POST methods for listing and modifying Redis Software services.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "local services",
+    "services configuration",
+    "status codes",
+    "operation_type",
+    "cluster-wide changes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

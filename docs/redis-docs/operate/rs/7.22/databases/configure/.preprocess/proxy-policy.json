@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:236dabe7133a025b42d10bdf5bef23f9d6a13fdf",
+  "generated_at": "2026-02-23T23:31:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document proxy-policy.md describes Redis Software's proxy process and the three available proxy policies (Single, All primary shards, All nodes) for database configuration, including their use cases and trade-offs.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "proxy process",
+    "proxy policy",
+    "shards",
+    "rladmin",
+    "failover"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -5,19 +5,12 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Plugins and JVM support. Python async await. Override commands API. Register
   functions on key miss events. Tracks new statistics. Python profiler support. Extended
   RedisAI integration.
-id: e507c586
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v1.2 (February 2022)
 min-version-db: 6.0.0
 min-version-rs: 6.0.12
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisgears/redisgears-1.2-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisgears 1.2 Release Notes
 weight: 99
 ---
 

@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Maps a single input record to one or more output records.
-id: 43446c20
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: flatMap
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/classes/gearsbuilder/flatmap.md
-source_repo: https://github.com/redis/docs
-title: Flatmap
 weight: 50
 ---
 

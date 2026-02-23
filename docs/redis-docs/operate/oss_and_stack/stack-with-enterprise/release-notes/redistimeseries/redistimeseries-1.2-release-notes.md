@@ -5,22 +5,14 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Added compression. Stable ingestion time independent of the number of
   the data points on a time series. API performance improvements. Extended client
   support.
-id: 660d8fb3
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v1.2 (January 2020)
 min-version-db: 5.0.0
 min-version-rs: 6.0.12
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redistimeseries/redistimeseries-1.2-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redistimeseries 1.2 Release Notes
 weight: 99
 ---
-
 ## Requirements
 
 RedisTimeSeries v1.2.7 requires:

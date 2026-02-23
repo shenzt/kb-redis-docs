@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fd26e61bc9c6d7e4908d5c232786a462dc0c1418",
+  "generated_at": "2026-02-23T23:32:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The peer_stats.md document describes REST API endpoints for retrieving statistics from CRDB peer instances, including required permissions, request parameters, and response formats.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "CRDB",
+    "peer_stats",
+    "interval",
+    "permissions",
+    "statistics"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:aee799e8fdb91cb18f49262281f73d98e05eec6b",
+  "generated_at": "2026-02-23T23:36:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers how to disable specific services on Redis Enterprise Software cluster nodes to free system memory, detailing the services that can be turned off and providing methods using the rladmin command and API endpoints.",
+  "doc_type": "guide",
+  "quality_score": 9,
+  "key_concepts": [
+    "rladmin",
+    "services",
+    "API endpoint",
+    "operating_mode",
+    "cluster configuration"
+  ],
+  "gap_flags": [
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

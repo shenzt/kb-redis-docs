@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c960c670ce08d33ecd1b2b6a4fc413f12311c61d",
+  "generated_at": "2026-02-23T23:28:00Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes release notes 6.4.2-8 detail a maintenance update with a new Redis Enterprise software version, specific upgrade considerations for OpenShift and webhook resources, and lists of updated container images.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "ValidatingWebhookConfiguration",
+    "OpenShift SCC",
+    "Operator Lifecycle Manager (OLM)",
+    "Redis Enterprise image",
+    "upgrade path"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:673e21cf094135dadc405ae9071a7c4a6e7ec378",
+  "generated_at": "2026-02-23T23:25:40Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The release notes for Redis Insight 2.56 cover new features including SAML single sign-on for Redis Cloud, automatic sample data for new databases, and UX improvements for TTL management and data formatters.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "SAML single sign-on",
+    "TTL",
+    "vector formatters",
+    "Redis Data Integration (RDI)",
+    "timestamp formatter"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

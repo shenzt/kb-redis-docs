@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:21880012c96b8b59a637d0423e140dfd66c06154",
+  "generated_at": "2026-02-23T23:31:50Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers enabling private and public database endpoints in Redis Enterprise during cluster creation, including configuration steps and endpoint availability.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "private endpoint",
+    "public endpoint",
+    "FQDN",
+    "external IP address",
+    "private IP address"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

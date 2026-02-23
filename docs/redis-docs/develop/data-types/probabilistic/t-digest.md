@@ -9,15 +9,9 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: t-digest is a probabilistic data structure that allows you to estimate
   the percentile of a data stream.
-id: ce6021d9
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: t-digest
-source_commit: a9ff1a3
-source_path: content/develop/data-types/probabilistic/t-digest.md
-source_repo: https://github.com/redis/docs
 stack: true
 title: t-digest
 weight: 40

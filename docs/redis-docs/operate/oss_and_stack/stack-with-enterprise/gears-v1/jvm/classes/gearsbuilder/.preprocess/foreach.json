@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:67f3a24dbfa65ce4db8ae4a2c264994c6005f595",
-  "generated_at": "2026-02-18T06:57:14Z",
+  "generated_at": "2026-02-23T23:29:15Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Foreach method in GearsBuilder defines operations to run for each record in a pipe, as shown in a Java example combining first and last names.",
+  "contextual_summary": "The foreach.md document defines the foreach method in GearsBuilder for applying operations to each record in a data pipe.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [

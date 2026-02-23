@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7728425252553097a38af2c5d8019317b4b554e3",
+  "generated_at": "2026-02-23T23:32:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document database-operations.md defines and explains key performance metrics for a Redis database, including eviction rates, hit ratios, latency, operations per second, and total keys.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Evicted objects/sec",
+    "Hit ratio",
+    "Latency",
+    "Ops/sec",
+    "Total keys"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

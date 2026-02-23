@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:175d8654719e122dbd3141a9bcd6dd927bad0793",
+  "generated_at": "2026-02-23T23:33:14Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This API reference document describes the deprecated v1 GET /v1/endpoints/stats endpoint for retrieving endpoint-proxy link statistics in Redis Enterprise Software, including its request parameters, response format, and required permissions.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "endpoints/stats",
+    "uid format",
+    "query parameters",
+    "view_endpoint_stats",
+    "deprecated API"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

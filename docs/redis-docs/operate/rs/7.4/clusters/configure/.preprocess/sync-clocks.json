@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ce3fe67fd45f1cee3a3d0aad6edc8a97721cfad8",
+  "generated_at": "2026-02-23T23:33:46Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document sync-clocks.md covers synchronizing server clocks using Chrony/NTP to ensure data integrity in Redis Enterprise clusters, including installation checks and OS-specific setup instructions.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Chrony",
+    "NTP",
+    "clock synchronization",
+    "Redis Enterprise",
+    "cluster nodes"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

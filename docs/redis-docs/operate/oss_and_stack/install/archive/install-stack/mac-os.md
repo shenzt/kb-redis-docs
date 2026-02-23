@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: How to install Redis Stack on macOS
-id: c984ea2f
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: MacOS
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/install/archive/install-stack/mac-os.md
-source_repo: https://github.com/redis/docs
 title: Install Redis Stack on macOS
 weight: 2
 ---

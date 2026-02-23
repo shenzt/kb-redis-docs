@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1d7361d15a5e7054cbc34466969674c0716c5063",
+  "generated_at": "2026-02-23T23:36:51Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The install-script.md document lists and describes the command-line options supported by the `./install.sh` script for installing or upgrading Redis Enterprise Software.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "install.sh",
+    "answer file",
+    "installation directory",
+    "configuration directory",
+    "OS user"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

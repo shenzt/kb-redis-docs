@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:962dc31cab6ce0441dd1fcd57dafde0f8f268b7f",
+  "generated_at": "2026-02-23T23:32:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Permissions.md details the predefined roles and associated permissions for user access control in Redis Enterprise, including how administrators assign roles via UI or API.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API permissions",
+    "cluster management role",
+    "admin role",
+    "user_manager",
+    "db_viewer"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

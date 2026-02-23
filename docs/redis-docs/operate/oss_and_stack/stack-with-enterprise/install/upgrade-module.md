@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: null
-id: a21b6283
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Upgrade modules
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/install/upgrade-module.md
-source_repo: https://github.com/redis/docs
-title: Upgrade Module
 weight: 50
 ---
 

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ad09c7b3ac9b3177ffba1b69a4a803851689f9e0",
+  "generated_at": "2026-02-23T23:41:38Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software version 6.4.2-110 is a maintenance release that includes updated Redis Stack modules, bug fixes, and addresses several security vulnerabilities.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "RedisGraph",
+    "CVE-2023-36845",
+    "CRDT syncer",
+    "Redis Stack modules"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

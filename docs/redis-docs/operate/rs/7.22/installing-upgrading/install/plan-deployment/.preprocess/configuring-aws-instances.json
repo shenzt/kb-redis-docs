@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1fef35dc1839b2264c9b2169b2ca33dd8faefad4",
+  "generated_at": "2026-02-23T23:31:39Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Configuring AWS EC2 instances for Redis Enterprise Software, covering storage, instance types, and security group setup.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "EBS-backed volume",
+    "Provisioned IOPS",
+    "Security group",
+    "Instance types",
+    "Persistent storage"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c0a5f9474ed9c408208ce843300f3aad388115af",
+  "generated_at": "2026-02-23T23:29:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers procedures for backing up a Redis Cloud database via API and importing data into it from various storage sources.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "periodicBackupPath",
+    "asynchronous operation",
+    "sourceType",
+    "importFromUri",
+    "backup storage locations"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

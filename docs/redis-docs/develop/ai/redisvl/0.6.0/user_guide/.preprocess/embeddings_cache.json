@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:19378ab80d4656824f980375c2d60baa05e28544",
+  "generated_at": "2026-02-23T23:23:06Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisVL EmbeddingsCache tutorial covers setting up, using, and benchmarking a cache for storing and retrieving embedding vectors with text and metadata to reduce computational costs and latency.",
+  "doc_type": "tutorial",
+  "quality_score": 9,
+  "key_concepts": [
+    "EmbeddingsCache",
+    "vectorizer",
+    "TTL",
+    "metadata",
+    "batch operations"
+  ],
+  "gap_flags": [
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

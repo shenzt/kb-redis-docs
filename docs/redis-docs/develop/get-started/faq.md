@@ -9,20 +9,13 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: 'Commonly asked questions when getting started with Redis
 
   '
-id: 1a112c0f
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: FAQ
-source_commit: a9ff1a3
-source_path: content/develop/get-started/faq.md
-source_repo: https://github.com/redis/docs
 title: Redis FAQ
 weight: 100
 ---
-
 ## How is Redis different from other key-value stores?
 
 * Redis has a different evolution path in the key-value DBs where values can contain more complex data types, with atomic operations defined on those data types. Redis data types are closely related to fundamental data structures and are exposed to the programmer as such, without additional abstraction layers.

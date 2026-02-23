@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2455aeb8517264f064dce3b45b61c42e4d468236",
+  "generated_at": "2026-02-23T23:37:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The _index.md document provides a reference table detailing the fields, types, and descriptions for an API object representing a managed database in a Redis Enterprise cluster.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "uid",
+    "authentication_redis_pass",
+    "tls_mode",
+    "type",
+    "version"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

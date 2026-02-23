@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/development/
 categories:
 - docs
 - develop
@@ -11,15 +9,11 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: How to develop for triggers and functions
-id: a3f4b69b
-ingested_at: '2026-02-14T15:01:27Z'
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/Development.md
-source_repo: https://github.com/redis/docs
 title: Development
 weight: 4
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/development/
 ---
 
 To aid in the development of new libraries of triggers and functions, you can use the type declaration files for the [triggers and functions API]({{< relref "/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/concepts/JavaScript_API" >}}), which allows your preferred development environment to provide autocompletion and type checking. You can install this information using the following command:

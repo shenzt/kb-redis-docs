@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8e59021402ceb2335d5bc506ffc08a5332e8735e",
+  "generated_at": "2026-02-23T23:33:19Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document provides reference information for the deprecated v1 statistics REST API endpoints for nodes, detailing methods, paths, permissions, request parameters, and response formats.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "deprecated",
+    "statistics",
+    "nodes",
+    "permissions"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

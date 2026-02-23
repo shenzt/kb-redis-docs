@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:beba6f836d5410c60a17e93c1280c2539039fe8e",
+  "generated_at": "2026-02-23T23:32:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document maintenance-mode.md explains how to use the rladmin command to activate and deactivate maintenance mode on a Redis Enterprise node, migrating shards and controlling replica behavior.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "maintenance_mode",
+    "quorum node",
+    "shard migration",
+    "rladmin",
+    "replica shards"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

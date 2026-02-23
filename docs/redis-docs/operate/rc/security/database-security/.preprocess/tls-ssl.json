@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4034176586c16490b1912714b824adedefcfffa0",
+  "generated_at": "2026-02-23T23:30:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document TLS-SSL.md covers enabling and using Transport Layer Security (TLS) for Redis Cloud databases, including recommendations, client authentication, and connection examples with the Redis CLI.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Transport Layer Security (TLS)",
+    "client authentication",
+    "Redis CLI",
+    "CA certificate",
+    "private endpoint"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

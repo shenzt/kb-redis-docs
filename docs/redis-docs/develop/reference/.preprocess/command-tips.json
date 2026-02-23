@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:35810d5764d492df2cc98e4de49a56e60701404e",
-  "generated_at": "2026-02-18T06:56:39Z",
+  "generated_at": "2026-02-23T23:25:25Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Redis command tips are an array of strings that provide clients, especially in Redis Cluster, with information on how to execute commands and process their output, covering categories like nondeterministic output and request policies.",
+  "contextual_summary": "Redis command tips are arbitrary strings that provide clients with information about command execution and output processing in clustered deployments, covering tips like nondeterministic_output and request_policy.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
@@ -16,7 +16,7 @@
     "Redis Cluster"
   ],
   "gap_flags": [
-    "missing_example"
+    "incomplete_steps"
   ],
   "evidence_flags": {
     "has_command": false,

@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Asynchronously maps records one-to-one.
-id: 46faaadf
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: asyncMap
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/classes/gearsbuilder/asyncmap.md
-source_repo: https://github.com/redis/docs
-title: Asyncmap
 weight: 50
 ---
 

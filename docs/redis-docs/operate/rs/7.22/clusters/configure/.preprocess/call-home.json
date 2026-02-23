@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0bdbbe38c8335d2295923ef1c4d8898304a787f8",
+  "generated_at": "2026-02-23T23:31:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The call-home.md document details the Redis call home client's data collection, schedule configuration, and disabling procedures for sending operational metrics to Redis.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "call home client",
+    "cron_expression",
+    "usage statistics",
+    "REST API",
+    "operational metrics"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -4,15 +4,9 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: A description of the Redis virtual memory system that was deprecated
   in 2.4 and removed in 2.6. This document exists for historical interest.
-id: b2a50140
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Virtual memory
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/reference/internals/internals-vm.md
-source_repo: https://github.com/redis/docs
 title: Virtual memory (deprecated)
 weight: 1
 ---

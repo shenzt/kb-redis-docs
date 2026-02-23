@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/configuration/
 categories:
 - docs
 - develop
@@ -11,16 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Configure the operation parameters
-id: a3fe76ed
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Configuration
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/Configuration.md
-source_repo: https://github.com/redis/docs
 title: Configuration
 weight: 3
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/configuration/
 ---
 
 Redis Stack's triggers and functions feature provides configuration options to control its operation. These options can be set when the module is bootstrapped and, in some cases, at runtime.

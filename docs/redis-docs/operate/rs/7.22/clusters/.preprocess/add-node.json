@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7dd8a7768fa74d3feca56ec4bedab70177f3b2a2",
+  "generated_at": "2026-02-23T23:31:02Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'add-node.md' covers the prerequisites and step-by-step process for adding a new node to an existing Redis Enterprise Software cluster, including verification methods.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "cluster",
+    "node",
+    "Cluster Manager UI",
+    "rlcheck"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:c3de9139244b9840eae285463598bba3ec2128ae",
-  "generated_at": "2026-02-18T06:56:31Z",
+  "generated_at": "2026-02-23T23:25:16Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers configuration methods for Redis Time Series parameters, detailing load-time versus runtime parameter usage and changes introduced in Redis 8.0.",
+  "contextual_summary": "The document covers setting configuration parameters for Redis time series, detailing load-time methods for versions before 8.0 and runtime methods using CONFIG commands from Redis 8.0 onward.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [

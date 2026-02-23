@@ -1,23 +1,21 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:f298351ba3f68604d350785141be5e70a048e187",
-  "generated_at": "2026-02-18T06:57:14Z",
+  "generated_at": "2026-02-23T23:29:15Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Flatmap document describes a Java method for mapping a single input record to multiple output records in RedisGears, returning a new GearsBuilder object.",
+  "contextual_summary": "The flatmap.md document describes the `flatMap` method in RedisGears, which maps a single input record to multiple output records via an `Iterable`.",
   "doc_type": "reference",
   "quality_score": 7,
   "key_concepts": [
-    "FlatMap",
+    "flatMap",
     "GearsBuilder",
-    "Iterable",
     "FlatMapOperation",
+    "Iterable",
     "template type"
   ],
-  "gap_flags": [
-    "missing_example"
-  ],
+  "gap_flags": [],
   "evidence_flags": {
     "has_command": false,
     "has_config": false,

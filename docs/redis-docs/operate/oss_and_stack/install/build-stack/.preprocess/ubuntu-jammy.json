@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:f6b56a94495989b07a64defa9a902deb480a9341",
-  "generated_at": "2026-02-18T06:56:49Z",
+  "generated_at": "2026-02-23T23:28:42Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document provides steps to build and run Redis Open Source from source code on Ubuntu 22.04, including installing dependencies, downloading source, building, and starting the server.",
+  "contextual_summary": "The document provides steps to build and run Redis Open Source from source code on Ubuntu 22.04, including installing dependencies, downloading source, building, testing, and starting the server.",
   "doc_type": "tutorial",
   "quality_score": 8,
   "key_concepts": [

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c84f1e465e7ea04495f5aae12711a420558c1014",
+  "generated_at": "2026-02-23T23:39:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides an overview of Redis Software's Active-Active geo-distribution, explaining its CRDT-based technology, high availability features, multi-primary replication, and related deployment and development steps.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Active-Active geo-distribution",
+    "CRDT technology",
+    "multi-primary replication",
+    "strong eventual consistency",
+    "high availability"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

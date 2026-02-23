@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a46eae50b200e41cd605452361cf6089b50d9fdc",
+  "generated_at": "2026-02-23T23:25:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to use Redis vector sets to store and retrieve keys based on vector similarity, particularly for text embeddings, with a Python example using sentence-transformers and redis-py.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "vector set",
+    "text embeddings",
+    "SentenceTransformer",
+    "redis-py",
+    "vector distance"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

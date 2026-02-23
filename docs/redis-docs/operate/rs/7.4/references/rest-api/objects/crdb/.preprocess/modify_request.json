@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5f95beb8b3882a703638931bbbecc94e3ad38e0a",
+  "generated_at": "2026-02-23T23:35:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The modify_request.md document defines the object structure and parameters for updating an Active-Active database, including adding or removing instances.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Active-Active database",
+    "CRDB instance_info",
+    "force_update",
+    "remove_instances",
+    "force_remove"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

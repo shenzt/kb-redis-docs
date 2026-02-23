@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3bb25f1d18914e0c93b5a96fd6f190fa41cee426",
+  "generated_at": "2026-02-23T23:25:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The v1.5.0 release notes for RedisInsight announce the general availability of version 1.5.0, highlighting beta support for RedisGears, multi-line query editing for several modules, and improved Redis 6 ACL support.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisInsight",
+    "RedisGears",
+    "ACL",
+    "RediSearch",
+    "RedisGraph"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

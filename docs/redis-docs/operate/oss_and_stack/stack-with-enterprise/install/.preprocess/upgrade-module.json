@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:80d389971fe3bb7e31fb4853f739753e9dd698e5",
-  "generated_at": "2026-02-18T06:57:24Z",
+  "generated_at": "2026-02-23T23:29:27Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Upgrade Module document covers the process of upgrading a module in Redis Software, including prerequisites, steps to upgrade a database's module, and example commands using rladmin.",
+  "contextual_summary": "The document covers the procedure for upgrading a module in a Redis database, including prerequisites, specific commands, and important warnings about service interruption.",
   "doc_type": "guide",
   "quality_score": 8,
   "key_concepts": [
@@ -13,7 +13,7 @@
     "module upgrade",
     "database shards",
     "RediSearch",
-    "module arguments"
+    "module_args"
   ],
   "gap_flags": [
     "incomplete_steps",

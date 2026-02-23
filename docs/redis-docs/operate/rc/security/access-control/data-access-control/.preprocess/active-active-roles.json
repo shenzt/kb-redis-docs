@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1b037c101337622b67b9e3e2be3438a8ce1e1ed4",
+  "generated_at": "2026-02-23T23:30:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document explains how to define and configure roles with region-specific access levels for Active-Active databases, including steps to create or edit roles and assign Redis ACLs.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Active-Active databases",
+    "Roles",
+    "Redis ACL",
+    "No-Access",
+    "Region-specific access"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

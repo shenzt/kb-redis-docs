@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a82d054d498d7be7aa8deee579fdb3d3999c9421",
+  "generated_at": "2026-02-23T23:36:02Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'upgrade-paths.md' references embedded content about Redis Enterprise Software upgrade paths and links to detailed upgrade instructions and product lifecycle information.",
+  "doc_type": "overview",
+  "quality_score": 3,
+  "key_concepts": [
+    "upgrade paths",
+    "Redis Enterprise Software",
+    "upgrade instructions",
+    "product lifecycle",
+    "end-of-life schedule"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

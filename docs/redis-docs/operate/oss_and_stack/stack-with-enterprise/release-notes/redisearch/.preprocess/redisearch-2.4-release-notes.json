@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:131572f9985f5f9b5a43f82e05893b45840c209a",
-  "generated_at": "2026-02-18T06:57:34Z",
+  "generated_at": "2026-02-23T23:29:39Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The RediSearch 2.4 release notes detail version requirements, maintenance updates including critical bug fixes, and changes to query parser behavior between DIALECT 1 and DIALECT 2.",
+  "contextual_summary": "The RediSearch v2.4.16 release notes detail a high-urgency maintenance update for November 2022, listing critical bug fixes and changes, including parser dialect behavior.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "RediSearch",
     "bug fixes",
     "DIALECT",
-    "query parser",
+    "parser",
     "AOF preload"
   ],
   "gap_flags": [

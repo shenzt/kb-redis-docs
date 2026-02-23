@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b10e7ca36780a7d88322b9d14c4ab3fefc591ff6",
+  "generated_at": "2026-02-23T23:38:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document provides a REST API reference for managing node bootstrap status, including GET to retrieve status and POST to initiate bootstrapping with specific actions.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "bootstrap_status",
+    "local_node_info",
+    "bootstrap object",
+    "state",
+    "POST /v1/bootstrap/{action}"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

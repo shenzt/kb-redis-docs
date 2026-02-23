@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2b892d4d72f03251cdcc2d53884ff4435f44db00",
+  "generated_at": "2026-02-23T23:37:51Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document ocsp_status.md defines an API object describing the cluster's OCSP status, listing its read-only fields like cert_status and responder_url.",
+  "doc_type": "reference",
+  "quality_score": 6,
+  "key_concepts": [
+    "OCSP status",
+    "cert_status",
+    "responder_url",
+    "next_update",
+    "this_update"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

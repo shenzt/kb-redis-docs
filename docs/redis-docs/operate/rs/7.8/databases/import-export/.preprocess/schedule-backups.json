@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1da2b754c8e454ddf9e541cd857b91dbd3d1da02",
+  "generated_at": "2026-02-23T23:36:45Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document schedule-backups.md details how to schedule periodic and on-demand backups for Redis Enterprise Software to various storage locations, including configuration steps and considerations.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "periodic backups",
+    "backup storage locations",
+    "RDB files",
+    "database clustering",
+    "backup configuration"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

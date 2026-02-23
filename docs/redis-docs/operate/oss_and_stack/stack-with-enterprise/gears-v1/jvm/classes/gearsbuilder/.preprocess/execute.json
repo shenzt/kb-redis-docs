@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:809cc3e2069416cc5af16f8b17637171cdcb8fce",
-  "generated_at": "2026-02-18T06:57:13Z",
+  "generated_at": "2026-02-23T23:29:13Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The GearsBuilder.execute method runs a Redis command with flexible string arguments, similar to but more flexible than executeArray.",
+  "contextual_summary": "The execute.md document describes the GearsBuilder.execute method for running Redis commands with flexible string argument handling.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
-    "GearsBuilder.execute",
+    "execute",
     "Redis command",
-    "executeArray",
     "String[]",
-    "command result"
+    "GearsBuilder",
+    "executeArray"
   ],
   "gap_flags": [],
   "evidence_flags": {

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fed513a13253fa94381094db94e89a529199b454",
+  "generated_at": "2026-02-23T23:30:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Billing & Payments screen overview shows recent transactions, manages payment methods, applies credits, and provides troubleshooting links for billing issues.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Billing History",
+    "Payment Methods",
+    "Credits",
+    "invoices",
+    "coupon credits"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:26828b4a706eb3f774c5f2642618ab014c21e56f",
-  "generated_at": "2026-02-18T06:56:27Z",
+  "generated_at": "2026-02-23T23:25:11Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Bloom filter document from Redis explains the probabilistic data structure's space efficiency, its guarantee of accurate negative answers and potential for false positives, and outlines use cases like fraud detection and performance characteristics.",
+  "contextual_summary": "The document covers Bloom filters in Redis, a probabilistic data structure for space-efficient set membership checks, including its trade-offs, use cases like fraud detection, performance characteristics, and academic references.",
   "doc_type": "overview",
   "quality_score": 7,
   "key_concepts": [
     "Bloom filter",
     "probabilistic data structure",
-    "false positive",
     "hash functions",
+    "false positive",
     "space-efficient"
   ],
   "gap_flags": [

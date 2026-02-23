@@ -5,20 +5,12 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Redis Open Source 8.0 release notes.
-id: 49a1af21
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v8.0.0 (May 2025)
 min-version-db: blah
 min-version-rs: blah
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisce/redisos-8.0-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisos 8.0 Release Notes
 weight: 80
 ---
-
 ## Redis Open Source 8.0.5 (November 2025)
 
 Update urgency: `HIGH`: There are critical bugs that may affect a subset of users.

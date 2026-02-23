@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9eaf19dd7293dc015bbeffd7e089627800bb10e2",
+  "generated_at": "2026-02-23T23:37:17Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The migrate.md document describes the rladmin migrate command for moving Redis Enterprise shards or endpoints to a new node within the same cluster.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "rladmin migrate",
+    "shard migration",
+    "primary shards",
+    "target_node",
+    "rack aware policy"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

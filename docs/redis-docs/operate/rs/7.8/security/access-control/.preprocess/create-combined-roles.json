@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2d9eeb5e918d162227795baf0d3a87199d153270",
+  "generated_at": "2026-02-23T23:38:40Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to create a combined role for database access and cluster management by defining Redis ACLs and creating a role with those ACLs and a management level.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis ACLs",
+    "Cluster Management UI",
+    "REST API",
+    "roles_permissions",
+    "database configuration"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

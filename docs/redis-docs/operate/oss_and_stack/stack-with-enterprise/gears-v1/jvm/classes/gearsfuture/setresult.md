@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Sets a computation to run asynchronously.
-id: e12db60e
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: setResult
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/classes/gearsfuture/setresult.md
-source_repo: https://github.com/redis/docs
-title: Setresult
 weight: 50
 ---
 

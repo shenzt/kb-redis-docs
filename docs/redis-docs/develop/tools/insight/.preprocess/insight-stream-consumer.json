@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ee5fe904b11089232cb0aa7216fb861b7dd45d19",
+  "generated_at": "2026-02-23T23:25:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers managing Redis streams and consumer groups in Redis Insight, explaining their roles, commands for trimming and deletion, and use cases like IoT sensor data.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "stream",
+    "consumer group",
+    "XADD",
+    "XDEL",
+    "producer"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

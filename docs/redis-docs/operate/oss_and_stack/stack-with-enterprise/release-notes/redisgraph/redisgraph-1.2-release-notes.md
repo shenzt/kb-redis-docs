@@ -5,21 +5,13 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Support multiple relationships of the same type R connecting two nodes.
   Lexer elides escape characters in string creation. Performance improvements.
-id: 1d318f30
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v1.2 (April 2019)
 min-version-db: 4.0.0
 min-version-rs: 5.0.0
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisgraph/redisgraph-1.2-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisgraph 1.2 Release Notes
 weight: 99
 ---
-
 ## Requirements
 
 RedisGraph v1.2.2 requires:

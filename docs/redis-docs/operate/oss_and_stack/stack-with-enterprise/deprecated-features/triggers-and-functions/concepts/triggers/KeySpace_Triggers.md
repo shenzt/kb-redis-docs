@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/concepts/triggers/keyspace_triggers/
 categories:
 - docs
 - develop
@@ -11,16 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Execute a JavaScript function based on a keyspace notification
-id: dd3e4ec1
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Keyspace triggers
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/concepts/triggers/KeySpace_Triggers.md
-source_repo: https://github.com/redis/docs
 title: Keyspace triggers
 weight: 2
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/concepts/triggers/keyspace_triggers/
 ---
 
 Keyspace triggers allow you to register a function that will be executed whenever an event occurs in the database. Most events are triggered by command invocations, but there are two special events that can occur independently of a command:

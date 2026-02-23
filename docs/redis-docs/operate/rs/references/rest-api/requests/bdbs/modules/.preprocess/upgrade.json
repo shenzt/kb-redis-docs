@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1cd3bcf7a64d7ca413f54ebecd07e91124fd45d0",
+  "generated_at": "2026-02-23T23:40:52Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document upgrade.md details the REST API endpoint and procedure for upgrading a module on a specific Redis Enterprise database.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "modules",
+    "upgrade",
+    "REST API",
+    "permissions",
+    "semantic_version"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

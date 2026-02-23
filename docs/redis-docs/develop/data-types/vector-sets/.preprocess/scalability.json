@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:a56a94904e1dc6fe702eb3f54b1154f88ce287aa",
-  "generated_at": "2026-02-18T06:56:33Z",
+  "generated_at": "2026-02-23T23:25:18Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Scalability for vector sets covers horizontal scaling via sharding across Redis instances, including strategies for writes, reads, availability, and latency.",
+  "contextual_summary": "The document 'Scalability' explains how to horizontally scale vector sets in Redis by sharding data across multiple instances, covering strategies, commands, and performance considerations.",
   "doc_type": "guide",
   "quality_score": 8,
   "key_concepts": [
@@ -13,7 +13,7 @@
     "consistent hash",
     "VSIM",
     "VADD",
-    "fault tolerance"
+    "horizontal scaling"
   ],
   "gap_flags": [
     "missing_config"

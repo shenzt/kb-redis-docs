@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2ffb0ee499f15447908594fdd4849d541349cd00",
+  "generated_at": "2026-02-23T23:39:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md lists and describes command-line utilities for managing and testing a Redis Software cluster, distinguishing between public and internal tools.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Software cluster",
+    "CLI tools",
+    "utilities",
+    "troubleshooting",
+    "binaries"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -5,22 +5,14 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Conditional updates. Schema modification. Query spelling correction.
   Phonetic matching. More fuzziness in search. Retrieve and change runtime configuration.
   Unlimited autocomplete results.
-id: d0d5c33d
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v1.4 (August 2018)
 min-version-db: 4.0.0
 min-version-rs: 5.0.0
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisearch/redisearch-1.4-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisearch 1.4 Release Notes
 weight: 97
 ---
-
 ## Requirements
 
 RediSearch v1.4.28 requires:

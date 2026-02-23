@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ffcaa6812616fb1c475f338e54b3b74a8790580a",
+  "generated_at": "2026-02-23T23:25:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers three client tools for connecting to and managing a Redis server: the redis-cli command line interface, the Redis Insight GUI, and the Redis VSCode extension.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "redis-cli",
+    "Redis Insight",
+    "VSCode extension",
+    "REPL mode",
+    "command mode"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

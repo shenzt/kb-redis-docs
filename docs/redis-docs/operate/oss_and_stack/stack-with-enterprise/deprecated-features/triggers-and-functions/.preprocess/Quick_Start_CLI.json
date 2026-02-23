@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:7495b442abca84b2c0827331277f61233a6b5dbc",
-  "generated_at": "2026-02-18T06:57:04Z",
+  "generated_at": "2026-02-23T23:29:02Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "This quick start tutorial covers connecting to Redis Stack, loading and updating JavaScript libraries with TFUNCTION, executing functions with TFCALL, and implementing a keyspace trigger using redis-cli.",
+  "contextual_summary": "This document provides a quick start tutorial for using redis-cli to load and execute JavaScript functions and triggers in Redis Stack.",
   "doc_type": "tutorial",
   "quality_score": 8,
   "key_concepts": [
     "redis-cli",
     "TFUNCTION LOAD",
     "TFCALL",
-    "JavaScript library",
-    "keyspace trigger"
+    "JavaScript Function",
+    "KeySpaceTrigger"
   ],
   "gap_flags": [
     "incomplete_steps",

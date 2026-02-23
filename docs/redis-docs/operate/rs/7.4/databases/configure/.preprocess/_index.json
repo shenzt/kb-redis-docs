@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d2412afab18dff1f03caaebaef7dc5c13072442b",
+  "generated_at": "2026-02-23T23:34:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers configuring Redis Enterprise Software databases using the Cluster Manager UI, command-line tools, and REST API, detailing editable settings like name, port, memory, and security.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "rladmin",
+    "Active-Active database",
+    "Access Control List",
+    "Internode encryption",
+    "Memory limit"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

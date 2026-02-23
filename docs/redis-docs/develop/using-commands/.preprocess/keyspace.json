@@ -1,21 +1,22 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:af7f2c9fa229f28d95f068d79a2fa96c091244cd",
-  "generated_at": "2026-02-18T06:56:43Z",
+  "generated_at": "2026-02-23T23:25:55Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document explains Redis keys and values, covering key format, conventions, best practices for key length, and commands for key management like KEYS and SCAN.",
+  "contextual_summary": "The document covers Redis keys and values, explaining key structure, conventions, best practices for length, and warnings about using the KEYS command.",
   "doc_type": "overview",
   "quality_score": 7,
   "key_concepts": [
     "key",
     "value",
     "key-value pair",
-    "KEYS command",
-    "SCAN command"
+    "binary-safe keys",
+    "KEYS command"
   ],
   "gap_flags": [
+    "incomplete_steps",
     "missing_example"
   ],
   "evidence_flags": {

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:196a7167e1a3bf8fb4fc0cefef1549290ed5db0f",
-  "generated_at": "2026-02-18T06:56:56Z",
+  "generated_at": "2026-02-23T23:28:51Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Redis Cluster is a horizontal scaling deployment topology that automatically shards data across nodes, providing availability during partial failures, with setup, testing, and operational guidance.",
+  "contextual_summary": "Redis Cluster is a horizontal scaling deployment topology that automatically shards data across nodes, provides availability during partial failures, and requires specific TCP port configurations and migration procedures.",
   "doc_type": "overview",
   "quality_score": 7,
   "key_concepts": [
@@ -13,7 +13,7 @@
     "sharding",
     "cluster bus port",
     "availability",
-    "resharding"
+    "migration"
   ],
   "gap_flags": [
     "incomplete_steps",

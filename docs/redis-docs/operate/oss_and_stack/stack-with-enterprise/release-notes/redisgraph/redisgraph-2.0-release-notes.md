@@ -5,21 +5,13 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Enabled graph-aided search and graph visualisation. Cypher coverage.
   Performance improvements.
-id: fe1a88b3
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v2.0 (January 2020)
 min-version-db: 5.0.7
 min-version-rs: 5.4.11
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisgraph/redisgraph-2.0-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisgraph 2.0 Release Notes
 weight: 98
 ---
-
 ## Requirements
 
 RedisGraph v2.0.21 requires:

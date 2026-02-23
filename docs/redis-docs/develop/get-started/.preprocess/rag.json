@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:ba8d4c57d1205da218ad9ab1a3e948fce2c9b4a3",
-  "generated_at": "2026-02-18T06:56:36Z",
+  "generated_at": "2026-02-23T23:25:20Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document RAG with Redis explains how Retrieval Augmented Generation enhances LLMs using Redis as a vector database for real-time data retrieval and outlines its role and key features in a RAG pipeline.",
+  "contextual_summary": "The document explains Retrieval Augmented Generation (RAG) and the role of Redis as a vector database in building RAG applications for enhancing LLMs with real-time data.",
   "doc_type": "overview",
   "quality_score": 7,
   "key_concepts": [
@@ -13,7 +13,7 @@
     "vector database",
     "semantic cache",
     "LLM session manager",
-    "vector embeddings"
+    "RedisVL"
   ],
   "gap_flags": [
     "incomplete_steps"

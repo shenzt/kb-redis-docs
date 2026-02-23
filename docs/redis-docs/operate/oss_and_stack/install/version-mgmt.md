@@ -5,17 +5,10 @@ categories:
 - docs
 - operate
 - oss
-confidence: medium
 description: Describes Redis Open Source supported database versions.
-id: 04b0b0d8
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Version management
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/install/version-mgmt.md
-source_repo: https://github.com/redis/docs
-title: Version Mgmt
-tocEmbedHeaders: true
 weight: 25
+tocEmbedHeaders: true
 ---
 
 Redis Open Source provides comprehensive version management that prioritizes customer control over major changes. 

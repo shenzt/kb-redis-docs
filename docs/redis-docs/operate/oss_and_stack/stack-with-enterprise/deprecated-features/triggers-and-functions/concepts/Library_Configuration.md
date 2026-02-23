@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/concepts/library_configuration/
 categories:
 - docs
 - develop
@@ -11,16 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: How to use configuration in JavaScript functions
-id: 4762549d
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Library configuration
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/concepts/Library_Configuration.md
-source_repo: https://github.com/redis/docs
 title: Library configuration
 weight: 6
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/concepts/library_configuration/
 ---
 
 When writing a library, you may want to provide a loading configuration so that different users can use the same library with slightly different behaviour, without changing the base code. For example, assume you write a library that adds a `__last_updated__` field to a hash (you can see how it can also be done with [keyspace triggers]({{< relref "/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/concepts/triggers/Keyspace_Triggers" >}})), the code will look like this:

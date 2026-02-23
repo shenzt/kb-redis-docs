@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/functions-intro
 categories:
 - docs
 - develop
@@ -11,16 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
+aliases: 
+- /develop/interact/programmability/functions-intro
 description: 'Scripting with Redis 7 and beyond
 
   '
-id: 15b2f0ac
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Functions
-source_commit: a9ff1a3
-source_path: content/develop/programmability/functions-intro.md
-source_repo: https://github.com/redis/docs
 title: Redis functions
 weight: 1
 ---

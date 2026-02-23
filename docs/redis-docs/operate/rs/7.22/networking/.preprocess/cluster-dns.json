@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8f5430b8f111bd5c346bf772d7159176bcfcd536",
+  "generated_at": "2026-02-23T23:31:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software cluster communication covers DNS-based and IP-based connection methods, including the cluster's internal DNS server, FQDN usage, and the Discovery Service for high availability.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "DNS server",
+    "FQDN",
+    "Discovery Service",
+    "IP-based connections",
+    "high availability"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

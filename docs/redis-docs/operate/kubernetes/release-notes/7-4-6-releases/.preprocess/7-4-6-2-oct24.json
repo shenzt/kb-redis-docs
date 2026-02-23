@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4bd637da9531a9ea2809be60eae32c9d2b49fb3a",
+  "generated_at": "2026-02-23T23:28:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes 7.4.6-2 release notes provide image tags for the maintenance release supporting Redis Enterprise Software 7.4.6-77.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "Redis Enterprise",
+    "Kubernetes",
+    "Operator",
+    "Services Rigger",
+    "OLM bundle"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

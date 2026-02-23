@@ -6,14 +6,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: Use Homebrew to install and start Redis on macOS
-id: 287d2480
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: MacOS
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/install/archive/install-redis/install-redis-on-mac-os.md
-source_repo: https://github.com/redis/docs
 title: Install Redis on macOS
 weight: 1
 ---
@@ -112,3 +106,4 @@ Once you have a running Redis instance, you may want to:
 * Connect using one of the [Redis clients]({{< relref "/develop/clients" >}})
 * [Install Redis "properly"]({{< relref "/operate/oss_and_stack/install/archive/install-redis#install-redis-properly" >}})
   for production use.
+  

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f1e5b9f247baf9aae37f0bc8bc6ad12020e11851",
+  "generated_at": "2026-02-23T23:32:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document backup_job_settings.md defines two configuration parameters for a backup job: its schedule and enabled status.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "cron_expression",
+    "enabled",
+    "backup schedule",
+    "boolean",
+    "CRON expression"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

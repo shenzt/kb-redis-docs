@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:13bc398ce013d7571a4e3b9376a3f6d8f17a2791",
-  "generated_at": "2026-02-18T06:57:31Z",
+  "generated_at": "2026-02-23T23:29:35Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The RediSearch 1.0 release notes detail bug fixes and new features for versions 1.0.10 and 1.0.9, including stability improvements, tag prefix completions, Hamming distance scoring, and document deletion options.",
+  "contextual_summary": "The document provides release notes for RediSearch versions 1.0.10 and 1.0.9, detailing bug fixes, new features like tag prefix completions and Hamming distance scoring, and API changes for document deletion and index management.",
   "doc_type": "reference",
-  "quality_score": 7,
+  "quality_score": 8,
   "key_concepts": [
     "RediSearch",
+    "bug fixes",
+    "Hamming distance scoring",
     "FT.DEL",
-    "Hamming distance",
-    "tag prefix completions",
     "FT.DROP"
   ],
   "gap_flags": [

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9beb7a0accb541d7d0b184683e89c5bad699ad72",
+  "generated_at": "2026-02-23T23:41:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document provides API reference for the job scheduler endpoint, detailing GET and PUT methods to retrieve and update settings for various automated jobs like backups and log rotations.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "job_scheduler",
+    "cron_expression",
+    "permissions",
+    "status codes",
+    "REST API"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

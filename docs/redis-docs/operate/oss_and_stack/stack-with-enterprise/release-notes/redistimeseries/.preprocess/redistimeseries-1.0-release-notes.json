@@ -1,24 +1,21 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:2952d5a87e10b58f0b471fa41f74da7dd08cd15d",
-  "generated_at": "2026-02-18T06:57:41Z",
+  "generated_at": "2026-02-23T23:29:47Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers the RedisTimeSeries 1.0 release notes, detailing version requirements, features, fixes, and performance improvements for the time series module.",
+  "contextual_summary": "The document covers the release notes for RedisTimeSeries v1.0.3, detailing its requirements, new features, fixes, performance improvements, and integrations with tools like Prometheus and Grafana.",
   "doc_type": "overview",
-  "quality_score": 7,
+  "quality_score": 8,
   "key_concepts": [
     "RedisTimeSeries",
     "TS.RANGE",
     "TS.MRANGE",
     "TS.INCRBY",
-    "aggregations"
+    "Prometheus"
   ],
-  "gap_flags": [
-    "incomplete_steps",
-    "missing_example"
-  ],
+  "gap_flags": [],
   "evidence_flags": {
     "has_command": true,
     "has_config": false,

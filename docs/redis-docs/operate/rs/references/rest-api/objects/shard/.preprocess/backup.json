@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:94c4d30cc85c30d934624b05cc9b9ea06af6ec5d",
+  "generated_at": "2026-02-23T23:40:39Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document backup.md defines fields for monitoring a shard backup process, including progress percentage and status.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "backup",
+    "shard",
+    "progress",
+    "status",
+    "exporting"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

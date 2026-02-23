@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: How to install Redis Stack on Windows
-id: bac7e2cf
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Windows
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/install/archive/install-stack/windows.md
-source_repo: https://github.com/redis/docs
 title: Install Redis Stack on Windows
 weight: 3
 ---
@@ -29,3 +23,4 @@ If you attempt to use Windows Subsystem for Linux (WSL) or Ubuntu for Windows to
 
 _`systemd` is a suite of basic building blocks for a Linux system._ For more information about its function, see [System and Service Manager](https://systemd.io/). This becomes an issue due to the lack of support for Linux workflows on WSL. But, you can test the instructions listed in [Systemd support is now available in WSL!](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/). Let us know how that worked for you. 
 {{% /alert %}}
+

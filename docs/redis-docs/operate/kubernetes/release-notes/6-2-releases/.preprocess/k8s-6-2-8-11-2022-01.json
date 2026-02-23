@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ff4edb20f62c115209d050b991f7ac0148987791",
+  "generated_at": "2026-02-23T23:27:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Enterprise K8s 6.2.8-11 release document covers support for Redis Enterprise Software 6.2.8, including new features, bug fixes, known limitations, and compatibility with Kubernetes and OpenShift versions.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise",
+    "Kubernetes",
+    "Operator",
+    "Istio",
+    "OpenShift"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

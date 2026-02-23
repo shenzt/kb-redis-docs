@@ -8,14 +8,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Diagnose and debug issues when working with Redis vector sets
-id: dacbe75d
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Troubleshooting
-source_commit: a9ff1a3
-source_path: content/develop/data-types/vector-sets/troubleshooting.md
-source_repo: https://github.com/redis/docs
 title: Troubleshooting
 weight: 30
 ---

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:41652be58d93eb3aed8a0268c754f2125a43c8cf",
-  "generated_at": "2026-02-18T06:56:49Z",
+  "generated_at": "2026-02-23T23:28:42Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document provides steps to build and run Redis Open Source from source code on Ubuntu 20.04, including installing dependencies, setting up GCC 10, installing CMake, downloading source, building, and starting Redis.",
+  "contextual_summary": "The document covers building and running Redis Open Source from source on Ubuntu 20.04, including installing dependencies, setting up GCC 10, downloading source code, compiling, and starting the server.",
   "doc_type": "tutorial",
   "quality_score": 8,
   "key_concepts": [
@@ -13,7 +13,7 @@
     "GCC 10",
     "CMake",
     "make",
-    "source code"
+    "redis-server"
   ],
   "gap_flags": [
     "incomplete_steps",

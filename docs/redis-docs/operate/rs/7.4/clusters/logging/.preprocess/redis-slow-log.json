@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:218dcdfccf4f1371eef1e77099b5d8e289cc6581",
+  "generated_at": "2026-02-23T23:33:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document redis-slow-log.md describes the Redis Enterprise Software Slow Log feature, its enhancements for analyzing command execution complexity, and provides a reference table of command complexities.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Slow Log",
+    "execution time complexity",
+    "single threaded architecture",
+    "latency",
+    "Complexity info"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

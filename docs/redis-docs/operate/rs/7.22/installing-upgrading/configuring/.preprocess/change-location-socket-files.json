@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d83313b3dad53d3ec66de66fefa541b25f2c0297",
+  "generated_at": "2026-02-23T23:31:35Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers changing Redis Enterprise Software socket file locations, including default paths, specifying a location during installation, and methods for altering the location in an existing cluster.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "socket files",
+    "installation script option",
+    "Replica Of",
+    "cluster migration",
+    "node replacement"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

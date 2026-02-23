@@ -1,21 +1,22 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:a80ba947e6ffa14cdbce4943a05665e18ca5d66f",
-  "generated_at": "2026-02-18T06:56:43Z",
+  "generated_at": "2026-02-23T23:25:55Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Multi-key operations in Redis covers command behaviors across five different Redis configurations, including clustering setups and troubleshooting guidance.",
+  "contextual_summary": "Multi-key operations in Redis details command behaviors across five different Redis configurations, including clustering setups and troubleshooting.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "hash slot",
     "cross-slot",
     "single-slot",
-    "ROS/RS clustering",
+    "clustering",
     "hash tags"
   ],
   "gap_flags": [
+    "incomplete_steps",
     "missing_example"
   ],
   "evidence_flags": {

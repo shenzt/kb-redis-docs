@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:10f681b7e15a6c25b459119a7189a7375008e3eb",
+  "generated_at": "2026-02-23T23:38:14Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md is a REST API reference detailing the GET, PUT, and DELETE methods for managing cluster certificates, including endpoints, permissions, requests, and responses.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster certificates",
+    "REST API",
+    "required permissions",
+    "status codes",
+    "HTTP methods"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -9,14 +9,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Choose the best Redis data type for your task.
-id: 8d8f4284
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Compare data types
-source_commit: a9ff1a3
-source_path: content/develop/data-types/compare-data-types.md
-source_repo: https://github.com/redis/docs
 title: Compare data types
 weight: 1
 ---

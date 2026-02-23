@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2d6c26ffc1f87a01d9de23e536af7cc61fcd2007",
+  "generated_at": "2026-02-23T23:24:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers vector quantization and compression techniques like LVQ and LeanVec for scalable search, including their variants, advantages, and specific build instructions for Redis Open Source with Intel optimizations.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Vector Quantization",
+    "LVQ (Locally-adaptive Vector Quantization)",
+    "LeanVec",
+    "Scalar Quantization",
+    "SVS-VAMANA"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

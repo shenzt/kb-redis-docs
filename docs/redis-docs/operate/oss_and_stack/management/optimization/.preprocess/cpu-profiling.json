@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:8a470d8c972bc3321a29d21d1153080b165abc9e",
-  "generated_at": "2026-02-18T06:56:55Z",
+  "generated_at": "2026-02-23T23:28:50Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Redis CPU profiling covers methodologies for identifying CPU bottlenecks, prerequisites for on-CPU analysis, and tools like perf for performance monitoring and event counting.",
+  "contextual_summary": "Redis CPU profiling guide for identifying CPU bottlenecks, covering prerequisites, profiling tools like perf, and interpreting performance metrics.",
   "doc_type": "guide",
-  "quality_score": 7,
+  "quality_score": 8,
   "key_concepts": [
-    "USE Method",
     "CPU profiling",
     "perf",
     "Performance Monitoring Counters (PMCs)",
-    "stack traces"
+    "stack traces",
+    "frame pointer"
   ],
   "gap_flags": [
     "incomplete_steps",

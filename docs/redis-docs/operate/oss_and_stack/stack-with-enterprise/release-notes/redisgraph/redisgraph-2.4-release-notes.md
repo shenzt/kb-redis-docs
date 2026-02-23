@@ -5,17 +5,10 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Added Map and Geospatial Point data types.
-id: fe0ac543
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v2.4 (March 2021)
 min-version-db: 6.0.0
 min-version-rs: 6.0.8
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisgraph/redisgraph-2.4-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisgraph 2.4 Release Notes
 weight: 96
 ---
 

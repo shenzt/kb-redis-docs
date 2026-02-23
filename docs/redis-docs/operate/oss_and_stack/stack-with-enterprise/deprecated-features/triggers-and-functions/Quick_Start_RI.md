@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/quick_start_cli/
 categories:
 - docs
 - develop
@@ -11,16 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Get started with triggers and functions using Redis Insight
-id: d2f1883a
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Quick start (Redis Insight)
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/Quick_Start_RI.md
-source_repo: https://github.com/redis/docs
 title: Quick start using Redis Insight
 weight: 1
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/quick_start_cli/
 ---
 
 Make sure that you have [Redis Stack installed]({{< relref "/operate/oss_and_stack/install/install-stack/" >}}) and running. Alternatively, you can create a [free Redis Cloud account](https://redis.com/try-free/?utm_source=redisio&utm_medium=referral&utm_campaign=2023-09-try_free&utm_content=cu-redis_cloud_users).

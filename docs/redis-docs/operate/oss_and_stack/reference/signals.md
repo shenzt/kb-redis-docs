@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: How Redis handles common Unix signals
-id: 93fe9168
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Signal handling
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/reference/signals.md
-source_repo: https://github.com/redis/docs
 title: Redis signal handling
 weight: 8
 ---

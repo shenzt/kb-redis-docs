@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b3f329dc14e050d839598b51f46e9154aa6e6d80",
+  "generated_at": "2026-02-23T23:39:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers special considerations for installing and running Redis Software on AWS EC2 instances, including storage, instance types, and security group configuration.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "EBS-backed volume",
+    "Provisioned IOPS",
+    "Security group",
+    "Instance types",
+    "Persistent storage"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

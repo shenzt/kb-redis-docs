@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b0d96237250f6b0ab152fe362541d2a896aed2a5",
+  "generated_at": "2026-02-23T23:40:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'action.md' describes the cluster's action system for maintenance tasks, detailing their lifecycle statuses, REST API interface, and associated error codes.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "task_id",
+    "status",
+    "REST API",
+    "error_code",
+    "progress"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

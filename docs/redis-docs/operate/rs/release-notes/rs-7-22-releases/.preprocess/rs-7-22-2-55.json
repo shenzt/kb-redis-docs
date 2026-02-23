@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:362ba3c9ee5e06883a32548671cb32f3c2890a05",
+  "generated_at": "2026-02-23T23:41:50Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The rs-7-22-2-55.md document details a maintenance release for Redis Software version 7.22.2, covering included database versions, compatible modules, and resolved CVEs.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Software 7.22.2",
+    "Redis database versions",
+    "Redis modules",
+    "CVE",
+    "Cluster Manager UI"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

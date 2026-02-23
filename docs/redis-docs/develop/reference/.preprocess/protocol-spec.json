@@ -1,21 +1,22 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:838b6899cee997524a48616a98fd3485ef1756a8",
-  "generated_at": "2026-02-18T06:56:42Z",
+  "generated_at": "2026-02-23T23:25:28Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Redis Serialization Protocol (RESP) specification details the binary-safe, human-readable protocol for client-server communication, covering its versions, data types, and implementation examples.",
-  "doc_type": "reference",
-  "quality_score": 8,
+  "contextual_summary": "The Redis Serialization Protocol (RESP) specification covers its design goals, data types, versions, and implementation details for client-server communication.",
+  "doc_type": "overview",
+  "quality_score": 7,
   "key_concepts": [
     "RESP",
     "binary-safe",
-    "client-server communication",
     "RESP3",
-    "bulk strings"
+    "HELLO command",
+    "client handshake"
   ],
   "gap_flags": [
+    "incomplete_steps",
     "missing_example"
   ],
   "evidence_flags": {

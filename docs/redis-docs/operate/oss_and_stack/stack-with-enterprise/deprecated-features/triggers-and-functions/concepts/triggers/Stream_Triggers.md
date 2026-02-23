@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/concepts/triggers/stream_triggers/
 categories:
 - docs
 - develop
@@ -11,16 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Execute a JavaScript function when an item is added to a stream
-id: 4103dc5c
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Stream triggers
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/concepts/triggers/Stream_Triggers.md
-source_repo: https://github.com/redis/docs
 title: Stream triggers
 weight: 2
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/concepts/triggers/stream_triggers/
 ---
 
 Redis Stack's triggers and functions feature comes with a full stream API to process data from [Redis streams]({{< relref "/develop/data-types/streams" >}}). Unlike RedisGears v1 that provided a micro batching API, the new triggers and functions feature provides a **real streaming** API, which means that the data will be processed as soon as it enters the stream.

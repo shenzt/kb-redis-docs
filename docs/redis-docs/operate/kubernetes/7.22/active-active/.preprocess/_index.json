@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a1a2ec6fc808a5a5782bcc1d1a6b97b529693f8a",
+  "generated_at": "2026-02-23T23:26:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Active-Active databases on Kubernetes enable globally distributed applications with local read/write access, detailing setup methods, steps, and limitations.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisEnterpriseActiveActiveDatabase (REAADB)",
+    "multi-master replication",
+    "RedisEnterpriseRemoteCluster (RERC)",
+    "crdb-cli",
+    "Active-Active controller"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

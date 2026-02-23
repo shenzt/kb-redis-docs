@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:86ba01cafde10500dfd4b2507c3c8d546614ba07",
+  "generated_at": "2026-02-23T23:22:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers installing the RedisVL Python library via pip or source, and details the required Redis distributions (Cloud, Stack, Software) and connection methods including Sentinel.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisVL",
+    "pip install",
+    "Redis Stack",
+    "Redis Sentinel",
+    "Search and Query"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

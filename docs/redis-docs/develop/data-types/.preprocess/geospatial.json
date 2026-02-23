@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:473b117a86ea06e1ecc2d6acdcc1274456a7f23b",
-  "generated_at": "2026-02-18T06:56:25Z",
+  "generated_at": "2026-02-23T23:25:06Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
@@ -15,9 +15,7 @@
     "coordinates",
     "radius"
   ],
-  "gap_flags": [
-    "missing_config"
-  ],
+  "gap_flags": [],
   "evidence_flags": {
     "has_command": false,
     "has_config": false,

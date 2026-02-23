@@ -8,16 +8,10 @@ categories:
 - rc
 - kubernetes
 - clients
-confidence: medium
 description: 'Introduction to Redis strings
 
   '
-id: 6aa0232f
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Strings
-source_commit: a9ff1a3
-source_path: content/develop/data-types/strings.md
-source_repo: https://github.com/redis/docs
 title: Redis Strings
 weight: 10
 ---

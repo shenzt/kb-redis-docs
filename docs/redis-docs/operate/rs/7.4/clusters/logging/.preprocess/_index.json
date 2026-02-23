@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:24e64619903e3801a7a7945698b4287dc8c049b1",
+  "generated_at": "2026-02-23T23:33:47Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers logging of management actions in Redis Enterprise, including what information is logged, how to view logs via the UI and server, and how to configure log timestamps.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "event_log.log",
+    "Logs screen",
+    "REST API",
+    "log timestamps",
+    "server logs"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

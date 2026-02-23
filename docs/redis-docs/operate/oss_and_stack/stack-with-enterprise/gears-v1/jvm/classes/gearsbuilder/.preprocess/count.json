@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:1df34246f590a48bea5c7cf30ede4e8228974c44",
-  "generated_at": "2026-02-18T06:57:13Z",
+  "generated_at": "2026-02-23T23:29:13Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Count method in GearsBuilder counts records in a pipe and returns the total as a single integer record.",
+  "contextual_summary": "The count.md document describes the `count()` method for a GearsBuilder object, which tallies pipe records and returns the total as an Integer.",
   "doc_type": "reference",
   "quality_score": 6,
   "key_concepts": [
     "GearsBuilder",
-    "count",
-    "records",
+    "count()",
+    "Integer",
     "pipe",
-    "Integer"
+    "records"
   ],
   "gap_flags": [
     "incomplete_steps",

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:eb60a9e7635d3cb3a2cd9765323e47933017a3e0",
+  "generated_at": "2026-02-23T23:37:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document running_actions.md describes the rladmin cluster running_actions command for listing active tasks on a cluster.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "rladmin",
+    "cluster",
+    "running_actions",
+    "active tasks",
+    "maintenance_on"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

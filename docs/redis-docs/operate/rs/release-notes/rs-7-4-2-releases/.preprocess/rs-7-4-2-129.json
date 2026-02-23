@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8dfa53e1aa40a57e40f0869ebfc77ff75b4df6eb",
+  "generated_at": "2026-02-23T23:41:52Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software maintenance release 7.4.2-129 fixes bugs and known limitations from version 7.4.2-126, including a boto3 library memory leak, firewalld permissions on RHEL 9, and search command errors.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "maintenance release",
+    "boto3 library",
+    "firewalld",
+    "MD5 checksums"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

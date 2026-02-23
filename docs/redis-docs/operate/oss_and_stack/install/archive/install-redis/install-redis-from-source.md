@@ -6,16 +6,10 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: 'Compile and install Redis from source
 
   '
-id: 16c19a13
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Source code
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/install/archive/install-redis/install-redis-from-source.md
-source_repo: https://github.com/redis/docs
 title: Install Redis from Source
 weight: 5
 ---

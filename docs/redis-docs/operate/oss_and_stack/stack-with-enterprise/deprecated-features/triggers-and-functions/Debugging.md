@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/debugging/
 categories:
 - docs
 - develop
@@ -11,18 +9,13 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Methods for debugging your Redis Stack functions
-id: 1c57d308
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Debugging
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/Debugging.md
-source_repo: https://github.com/redis/docs
 title: Debugging
 weight: 5
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/debugging/
 ---
-
 ## Overview
 
 There are two methods you can use to debug your Redis Stack functions:

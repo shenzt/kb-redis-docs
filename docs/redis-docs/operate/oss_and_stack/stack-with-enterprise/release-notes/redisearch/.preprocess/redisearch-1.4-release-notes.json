@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:ca883864eca7910c37892558478c0af5b48e5abc",
-  "generated_at": "2026-02-18T06:57:31Z",
+  "generated_at": "2026-02-23T23:29:36Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The RediSearch 1.4 release notes document details version-specific requirements, maintenance updates, bug fixes, and new features like query spelling correction and phonetic matching.",
+  "contextual_summary": "The RediSearch v1.4 release notes document covers version requirements, maintenance updates, bug fixes, and new features like query spelling correction and phonetic matching.",
   "doc_type": "reference",
   "quality_score": 7,
   "key_concepts": [

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:f20d4b1f7651ebd74864d941c2a734aed2cb5b4a",
-  "generated_at": "2026-02-18T06:56:24Z",
+  "generated_at": "2026-02-23T23:25:07Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Developer notes for RedisJSON cover setting up a development environment, building the module, running tests, and debugging procedures.",
+  "contextual_summary": "Developer notes cover setting up a development environment, building, testing, and debugging the RedisJSON module for Redis.",
   "doc_type": "guide",
   "quality_score": 8,
   "key_concepts": [

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:526a4ec70a315ced2ac8b2132be4ba686e201a2d",
+  "generated_at": "2026-02-23T23:35:46Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The purge.md document describes a PUT API endpoint for deleting data and configuration from a Redis Enterprise Active-Active database instance that was forcibly removed.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Active-Active database",
+    "crdb_guid",
+    "purge",
+    "instance IDs",
+    "CRDB task object"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

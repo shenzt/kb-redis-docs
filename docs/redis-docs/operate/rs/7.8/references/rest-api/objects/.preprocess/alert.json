@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:63dccc0e00c638086144e64f940926e11149cb73",
+  "generated_at": "2026-02-23T23:37:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document alert.md describes the structure, fields, and configurable properties of alerts that are bound to cluster objects and triggered by cluster state.",
+  "doc_type": "reference",
+  "quality_score": 6,
+  "key_concepts": [
+    "alerts",
+    "cluster object",
+    "severity",
+    "threshold",
+    "enabled"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

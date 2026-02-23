@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5b9c7368f17064c87c180c47445a6bb2c9b09e93",
+  "generated_at": "2026-02-23T23:39:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Software product lifecycle document outlines the cluster version numbering scheme, end-of-life schedule, and supported upgrade paths.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "end-of-life (EOL)",
+    "cluster version",
+    "major release",
+    "minor release",
+    "upgrade paths"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

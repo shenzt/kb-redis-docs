@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:1729cc116979cf9273be12887432c87543e08e5c",
-  "generated_at": "2026-02-18T06:57:42Z",
+  "generated_at": "2026-02-23T23:29:50Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Redistimeseries 1.6 release notes detail version-specific requirements, maintenance releases, bug fixes, and new features like performance improvements and auto-tiering support.",
+  "contextual_summary": "RedisTimeSeries v1.6 release notes detail version requirements, maintenance updates with bug fixes and features, and performance improvements for time-series data handling.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "RedisTimeSeries",
     "compaction rules",
-    "SLOWLOG",
-    "keyspace notifications",
-    "Auto Tiering"
+    "TS.MRANGE",
+    "aggregation buckets",
+    "keyspace notifications"
   ],
   "gap_flags": [
     "incomplete_steps",

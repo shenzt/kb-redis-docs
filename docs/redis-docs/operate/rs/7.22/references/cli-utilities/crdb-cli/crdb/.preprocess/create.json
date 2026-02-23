@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:28a0192139872d2d3d73df00e5b79e96cbac46ba",
+  "generated_at": "2026-02-23T23:31:52Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the command syntax, parameters, prerequisites, and examples for creating an Active-Active database using the crdb-cli tool.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Active-Active database",
+    "crdb-cli",
+    "sharding",
+    "replication",
+    "instance configuration"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

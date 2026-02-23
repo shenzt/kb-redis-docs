@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8a3e981df6b2fb5b197b2e80193d6366bc79ff18",
+  "generated_at": "2026-02-23T23:41:39Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software version 6.4.2-127 is a maintenance release providing internal fixes, updated Redis Stack module versions, and a list of security vulnerabilities addressed in Redis 6.0.x.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "Redis Stack modules",
+    "CVE",
+    "supported platforms",
+    "maintenance release"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

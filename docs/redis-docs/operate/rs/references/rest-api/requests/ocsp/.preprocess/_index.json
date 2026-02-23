@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4094736d90c401973c18aa698305f65b3fa1fc53",
+  "generated_at": "2026-02-23T23:41:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md is a REST API reference detailing the GET and PUT methods for managing a cluster's OCSP configuration, including endpoints, permissions, request/response formats, and error handling.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "OCSP configuration",
+    "REST API",
+    "responder_url",
+    "permissions",
+    "error_codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

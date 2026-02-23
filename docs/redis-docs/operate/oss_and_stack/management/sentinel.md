@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: High availability for non-clustered Redis
-id: a2f680a5
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: High availability with Sentinel
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/management/sentinel.md
-source_repo: https://github.com/redis/docs
 title: High availability with Redis Sentinel
 weight: 4
 ---

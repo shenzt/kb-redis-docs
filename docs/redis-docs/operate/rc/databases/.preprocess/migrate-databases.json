@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b2335cef078953380d2f19f6a201a3840c3b5dad",
+  "generated_at": "2026-02-23T23:30:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers two methods for migrating data between Redis Cloud databases: data import/export and Active-Passive syncing.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Active-Passive replication",
+    "data import",
+    "data export",
+    "memory requirements",
+    "replication considerations"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

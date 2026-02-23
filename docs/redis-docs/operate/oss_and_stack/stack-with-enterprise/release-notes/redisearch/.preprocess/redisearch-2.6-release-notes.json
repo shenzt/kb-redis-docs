@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:06b61ff7d1997d177ed7b058f88c9a5e7ec82d24",
-  "generated_at": "2026-02-18T06:57:34Z",
+  "generated_at": "2026-02-23T23:29:38Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RediSearch 2.6 release notes detail version requirements, maintenance releases with bug fixes and improvements, and major new features like vector similarity search.",
+  "contextual_summary": "The RediSearch 2.6 release notes document outlines version requirements, maintenance releases, bug fixes, improvements, and new features for the RediSearch module.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "RediSearch",
     "bug fixes",
-    "vector similarity",
-    "release notes",
-    "compatibility"
+    "update urgency",
+    "vector data type",
+    "RedisJSON"
   ],
   "gap_flags": [
     "incomplete_steps",

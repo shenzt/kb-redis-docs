@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f224ac9fd394b8dc174ef95b572c824d256e79ee",
+  "generated_at": "2026-02-23T23:36:37Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document proxy-policy.md describes Redis Software proxy policies, including Single, All primary shards, and All nodes, and explains how to view them.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "proxy process",
+    "proxy policy",
+    "shards",
+    "rladmin",
+    "failover"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

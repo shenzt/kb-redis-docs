@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:284d3ec4ba809feb16b6db84e008e7f426eab8b9",
+  "generated_at": "2026-02-23T23:31:20Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise's auto tiering uses SSDs to extend database capacity beyond DRAM, automatically managing hot data in DRAM and warm data in SSDs, including its benefits, use cases, limitations, and compatibility.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Auto Tiering",
+    "DRAM",
+    "SSD",
+    "hot data",
+    "warm data"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

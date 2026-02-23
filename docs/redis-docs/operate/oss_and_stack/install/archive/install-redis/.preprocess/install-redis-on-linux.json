@@ -1,22 +1,21 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:7c523268afffca16efb345e8e03e69d05c56037d",
-  "generated_at": "2026-02-18T06:56:44Z",
+  "generated_at": "2026-02-23T23:28:37Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers installing Redis on various Linux distributions including Ubuntu/Debian, Red Hat/Rocky, and via Snap, with steps for starting, stopping, and connecting to the server.",
+  "contextual_summary": "Install Redis on Linux covers installation steps for Ubuntu/Debian, Red Hat/Rocky, and Ubuntu via Snap, including starting, stopping, and connecting to Redis.",
   "doc_type": "tutorial",
   "quality_score": 8,
   "key_concepts": [
     "Redis",
     "systemctl",
     "redis-cli",
-    "APT",
-    "Snap"
+    "Snap",
+    "APT"
   ],
   "gap_flags": [
-    "incomplete_steps",
     "missing_config"
   ],
   "evidence_flags": {

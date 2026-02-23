@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3c472039f31fe7118ba091fa2590d294e821c3a8",
+  "generated_at": "2026-02-23T23:28:08Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes 7.22.0 release notes detail bug fixes, enhancements, supported software versions, and compatibility with various Kubernetes distributions.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise for Kubernetes",
+    "Kubernetes distributions",
+    "Release notes",
+    "Bug fixes",
+    "Supported versions"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/lua-debugging
 categories:
 - docs
 - develop
@@ -11,14 +9,10 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
+aliases: 
+- /develop/interact/programmability/lua-debugging
 description: How to use the built-in Lua debugger
-id: 81091cbf
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Debugging Lua
-source_commit: a9ff1a3
-source_path: content/develop/programmability/lua-debugging.md
-source_repo: https://github.com/redis/docs
 title: Debugging Lua scripts in Redis
 weight: 4
 ---

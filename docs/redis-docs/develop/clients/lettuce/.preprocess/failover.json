@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8cac9bddeeee9c56c5543522d8b0bde617cc5ee8",
+  "generated_at": "2026-02-23T23:24:50Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to configure Lettuce for client-side geographic failover to Redis, including connection setup, health check tuning, and failback timing.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Client-side geographic failover",
+    "DatabaseConfig",
+    "MultiDbClient",
+    "HealthCheckStrategy",
+    "failback"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

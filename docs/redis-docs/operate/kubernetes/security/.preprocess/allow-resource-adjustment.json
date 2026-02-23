@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b747f3c54db9931a0de0617c531b56d2f4b910fb",
+  "generated_at": "2026-02-23T23:28:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes 7.22.0-6 introduces the ability to disable automatic resource adjustment, which changes container security settings and is the default for new installations and upgrades.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "allowAutoAdjustment",
+    "securityContext",
+    "SYS_RESOURCE",
+    "allowPrivilegeEscalation",
+    "Kubespray"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

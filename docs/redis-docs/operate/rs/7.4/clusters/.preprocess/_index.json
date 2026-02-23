@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f1ed8cc88fd7e96245e4458ba907a771115a722d",
+  "generated_at": "2026-02-23T23:33:43Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document lists the available tools for managing Redis Enterprise Software clusters, including the Cluster Manager UI, command-line utilities, and the REST API.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "Cluster Manager UI",
+    "rladmin",
+    "redis-cli",
+    "REST API"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

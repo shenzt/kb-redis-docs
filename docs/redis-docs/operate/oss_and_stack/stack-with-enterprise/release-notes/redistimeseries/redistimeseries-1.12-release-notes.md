@@ -5,22 +5,13 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
-description: RedisTimeSeries 1.12 adds a highly requested feature - insertion-filter
-  for close samples.
-id: 4f6cb8f8
-ingested_at: '2026-02-14T15:01:27Z'
+description: RedisTimeSeries 1.12 adds a highly requested feature - insertion-filter for close samples.
 linkTitle: v1.12 (July 2024)
 min-version-db: '7.4'
 min-version-rs: 7.8
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redistimeseries/redistimeseries-1.12-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redistimeseries 1.12 Release Notes
 toc: 'true'
 weight: 94
 ---
-
 ## Requirements
 
 RedisTimeSeries v1.12.9 requires:

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b542ed492ff9d44892f270789cc8c72f5d0af6ce",
+  "generated_at": "2026-02-23T23:35:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The config.md document details the POST API endpoint for configuring module arguments on a Redis Enterprise database, including request format, permissions, and error handling.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "modules",
+    "module_args",
+    "runtime configuration",
+    "UID",
+    "permissions"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

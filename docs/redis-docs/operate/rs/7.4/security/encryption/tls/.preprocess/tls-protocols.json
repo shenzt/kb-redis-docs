@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0e2578a8e84789a2395e536815cf1d1dbe38522e",
+  "generated_at": "2026-02-23T23:36:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Configuring TLS protocols for Redis Enterprise cluster security, covering control plane, data plane, and discovery service communications via UI, rladmin, or REST API.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "TLS protocol",
+    "rladmin",
+    "discovery service",
+    "control plane",
+    "data plane"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

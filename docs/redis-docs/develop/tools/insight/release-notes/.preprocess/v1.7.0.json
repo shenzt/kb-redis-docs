@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5dbb437b0b3614be2641821b24e5a4300a34eee6",
+  "generated_at": "2026-02-23T23:25:50Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The v1.7.0.md document covers the release notes for RedisInsight versions 1.7.0 and 1.7.1, detailing new features, bug fixes, and enhancements across various components like Core, Memory Analysis, Browser, CLI, Streams, and modules.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisInsight",
+    "Memory Analysis",
+    "Redis Cluster",
+    "RediSearch",
+    "TLS"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

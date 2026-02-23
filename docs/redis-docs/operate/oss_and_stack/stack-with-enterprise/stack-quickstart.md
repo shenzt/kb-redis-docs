@@ -4,18 +4,11 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: null
-id: 5a82ab27
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Quick start
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/stack-quickstart.md
-source_repo: https://github.com/redis/docs
 title: Redis Open Source quick start
 weight: 1
 ---
-
 To quickly set up a database with Redis Stack (Redis Open Source) features,
 you can sign up for a free [Redis Cloud](https://cloud.redis.io/#/sign-up) subscription and create a Redis Stack database.
 

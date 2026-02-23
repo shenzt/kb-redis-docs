@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6a374b794aea0bb12ccd52a0a3e643f18eaf1d61",
+  "generated_at": "2026-02-23T23:39:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document shard-placement.md covers the default and database-specific shard placement policies in Redis Software, including how to view and change them using rladmin commands.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "shard placement policy",
+    "master shards",
+    "replica shards",
+    "dense",
+    "sparse"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

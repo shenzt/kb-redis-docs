@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:30edfbb42e56f197f56d7010d5702053ea9c0c48",
-  "generated_at": "2026-02-18T06:57:28Z",
+  "generated_at": "2026-02-23T23:29:33Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Redisce 7.4 release notes document details version-specific updates, including security fixes, bug fixes, and new features for Redis Community Edition.",
+  "contextual_summary": "Redis Community Edition 7.4 release notes detail version-specific bug fixes, security patches, and new features from 7.4.0 to 7.4.7.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "CVE",
     "Lua script",
     "redis-cli",
-    "bug fixes",
-    "security fixes"
+    "HyperLogLog",
+    "redis-check-aof"
   ],
   "gap_flags": [
     "incomplete_steps",

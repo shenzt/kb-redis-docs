@@ -1,21 +1,22 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:985c52db0c27363573f9e168e09f138fe3d22bfe",
-  "generated_at": "2026-02-18T06:57:18Z",
+  "generated_at": "2026-02-23T23:29:20Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Keysreader class documentation covers its constructors, parameters, and output records for creating records from keys and values in a Redis database, with support for string and hash data types.",
+  "contextual_summary": "The document keysreader.md details the Java KeysReader class for creating records from keys and values in a Redis database, covering constructors, parameters, output, and examples.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "KeysReader",
-    "constructors",
-    "parameters",
-    "output records",
-    "eventTypes"
+    "Redis database",
+    "eventTypes",
+    "keyTypes",
+    "KeysReaderRecord"
   ],
   "gap_flags": [
+    "incomplete_steps",
     "missing_example"
   ],
   "evidence_flags": {

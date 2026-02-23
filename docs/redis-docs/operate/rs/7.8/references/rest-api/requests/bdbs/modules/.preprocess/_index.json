@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8deefb0989bedf773da7d8453c42eedad00edf70",
+  "generated_at": "2026-02-23T23:38:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides a REST API reference for configuring and upgrading modules on a Redis Enterprise database (BDB).",
+  "doc_type": "reference",
+  "quality_score": 6,
+  "key_concepts": [
+    "REST API",
+    "modules",
+    "configure",
+    "upgrade",
+    "BDB"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:8a0a1fd36d9d74fae239e2c7fc846c1ca73e1e40",
-  "generated_at": "2026-02-18T06:57:10Z",
+  "generated_at": "2026-02-23T23:29:10Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Asyncforeach document describes the asyncForeach function for running asynchronous operations on each record in a Redis Gears pipeline using GearsFuture.",
+  "contextual_summary": "The asyncforeach.md document describes the asyncForeach function for running asynchronous operations on each record in a pipe using a GearsFuture object.",
   "doc_type": "reference",
-  "quality_score": 6,
+  "quality_score": 7,
   "key_concepts": [
     "asyncForeach",
     "GearsFuture",
     "AsyncForeachOperation",
     "GearsBuilder",
-    "asynchronous"
+    "asynchronous operations"
   ],
   "gap_flags": [
     "incomplete_steps"

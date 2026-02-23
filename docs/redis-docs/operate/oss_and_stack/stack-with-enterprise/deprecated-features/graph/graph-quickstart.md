@@ -1,19 +1,12 @@
 ---
-Title: Graph quick start
+Title: "Graph\_quick start"
 alwaysopen: false
 categories:
 - docs
 - operate
 - stack
-confidence: medium
-description: Graph quick start
-id: 0ca5b471
-ingested_at: '2026-02-14T15:01:27Z'
+description: "Graph\_quick start"
 linkTitle: Quick start
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/graph/graph-quickstart.md
-source_repo: https://github.com/redis/docs
-title: Connect to a database
 weight: 20
 ---
 

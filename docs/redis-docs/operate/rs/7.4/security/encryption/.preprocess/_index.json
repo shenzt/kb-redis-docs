@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:93f19992664817007e6407d340f2195ebd56c7e3",
+  "generated_at": "2026-02-23T23:36:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software encryption covers securing data in transit with TLS and internode encryption, data at rest via file system and private key encryption, and data in use through client-side encryption.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "TLS",
+    "Internode encryption",
+    "File system encryption",
+    "Client-side encryption",
+    "PEM encryption"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

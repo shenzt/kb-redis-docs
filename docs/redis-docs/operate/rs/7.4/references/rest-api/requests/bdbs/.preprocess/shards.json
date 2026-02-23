@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c96cc8bbb18d1c4866b5a4172eb39be44bbc3ea8",
+  "generated_at": "2026-02-23T23:35:36Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The shards.md document details the GET API endpoint for retrieving the status of all shards belonging to a specified database, including request parameters, headers, and response format.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "shards",
+    "bdb_uid",
+    "API endpoint",
+    "HTTP request",
+    "JSON response"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

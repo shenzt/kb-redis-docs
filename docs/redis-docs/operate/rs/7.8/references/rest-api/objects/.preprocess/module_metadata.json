@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b4ab221d35fbb792bcda281685100baf5749a955",
+  "generated_at": "2026-02-23T23:37:51Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document module_metadata.md defines the metadata fields and structure for describing a Redis module, including its identification, requirements, capabilities, and author information.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis module",
+    "capabilities",
+    "semantic_version",
+    "crdb",
+    "dependencies"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

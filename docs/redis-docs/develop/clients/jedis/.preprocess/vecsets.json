@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ae3b69525548a297461010afd41a4bc0e5fc6867",
+  "generated_at": "2026-02-23T23:24:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains Redis vector sets for storing and retrieving keys by vector similarity, including setup with Jedis, embedding generation, and search with filtering.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "vector set",
+    "embedding",
+    "Jedis",
+    "vector search",
+    "filter"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

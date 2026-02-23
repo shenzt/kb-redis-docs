@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2d3f7d1e451eac7d70e12873cff8b9b881c2fa96",
+  "generated_at": "2026-02-23T23:31:25Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers connecting to a Redis database after cluster setup, including finding endpoints, troubleshooting DNS, securing with TLS, and using connection methods like redis-cli, Redis Insight, or client libraries.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "database endpoint",
+    "FQDN",
+    "TLS",
+    "redis-cli",
+    "Redis Insight"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

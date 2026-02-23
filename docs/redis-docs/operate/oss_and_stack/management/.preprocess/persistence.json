@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:23c2256e4c53744c6a01a2b8d9c5fb6736abb998",
-  "generated_at": "2026-02-18T06:56:56Z",
+  "generated_at": "2026-02-23T23:28:51Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers Redis persistence options including RDB, AOF, and their combination, detailing advantages, disadvantages, and backup strategies.",
+  "contextual_summary": "Redis persistence covers RDB snapshots, AOF logging, and combined strategies for data durability, including their advantages, disadvantages, and backup best practices.",
   "doc_type": "overview",
   "quality_score": 7,
   "key_concepts": [
     "RDB",
     "AOF",
     "persistence",
-    "snapshot",
-    "backup"
+    "snapshots",
+    "backups"
   ],
   "gap_flags": [
     "missing_command",

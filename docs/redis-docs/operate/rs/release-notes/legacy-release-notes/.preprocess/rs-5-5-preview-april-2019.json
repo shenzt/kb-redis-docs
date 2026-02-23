@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f9df8dc618b851314ef55f03a7b7ee074eb683fe",
+  "generated_at": "2026-02-23T23:41:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software 5.5 Preview introduces support for creating databases with multiple Redis modules, including RediSearch, RedisGraph, and preview modules like RedisAI, and provides installation instructions.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "Redis modules",
+    "preview version",
+    "cluster setup",
+    "installation"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

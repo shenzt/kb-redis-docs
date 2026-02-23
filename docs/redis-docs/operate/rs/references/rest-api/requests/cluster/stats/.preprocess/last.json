@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d3fbde3287a0309a35e06308aee27cfd62d0bfe9",
+  "generated_at": "2026-02-23T23:41:02Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document last.md describes the GET /v1/cluster/stats/last REST API endpoint for retrieving the most recent cluster statistics, including its required permissions, request parameters, and response format.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster statistics",
+    "REST API",
+    "query parameters",
+    "required permissions",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3752134a13a82856b920d26e63c4101f82e17a5c",
+  "generated_at": "2026-02-23T23:30:40Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Cloud security overview covering console, database, and API security domains, including access control, encryption, and network options.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Cloud console",
+    "multi-factor authentication",
+    "encryption at rest",
+    "TLS",
+    "API keys"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

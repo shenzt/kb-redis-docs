@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:963424d0596a3507f21539d698e7b2df1e5b9ca1",
-  "generated_at": "2026-02-18T06:57:38Z",
+  "generated_at": "2026-02-23T23:29:45Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RedisJSON 2.2 release notes detail the requirements, headline feature of JSON as a CRDT for Active-Active databases, and the addition of COPY command support.",
+  "contextual_summary": "RedisJSON v2.2.0 release notes cover requirements, the addition of JSON as a CRDT for Active-Active databases, and the COPY command enhancement.",
   "doc_type": "overview",
   "quality_score": 6,
   "key_concepts": [
     "RedisJSON",
     "CRDT",
     "Active-Active databases",
-    "COPY command",
-    "Redis Enterprise"
+    "Redis Enterprise",
+    "COPY command"
   ],
   "gap_flags": [
     "incomplete_steps",

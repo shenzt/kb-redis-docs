@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ac06eae026644443c8903e44db50215ff11b0136",
+  "generated_at": "2026-02-23T23:36:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers Redis Streams, their implementation in Active-Active databases, and differences in command behavior compared to Redis Open Source.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Stream",
+    "XADD",
+    "Active-Active",
+    "XREADGROUP",
+    "consumer group"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

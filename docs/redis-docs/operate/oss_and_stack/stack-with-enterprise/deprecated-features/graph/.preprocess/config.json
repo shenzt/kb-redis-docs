@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:9199a80f50b4bb6106852ed9a54e1479635a856c",
-  "generated_at": "2026-02-18T06:57:02Z",
+  "generated_at": "2026-02-23T23:29:00Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers methods for configuring RedisGraph settings in Redis Software and Redis Cloud, as the GRAPH.CONFIG SET command is not supported, and includes a table of specific settings.",
+  "contextual_summary": "The config.md document details methods for configuring RedisGraph settings in Redis Software and Redis Cloud, including CLI and API commands, and lists specific settings with their support and defaults.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
@@ -15,7 +15,9 @@
     "CACHE_SIZE",
     "TIMEOUT"
   ],
-  "gap_flags": [],
+  "gap_flags": [
+    "missing_example"
+  ],
   "evidence_flags": {
     "has_command": true,
     "has_config": false,

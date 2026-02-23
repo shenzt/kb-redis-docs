@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8d3472c9b740cfc7efc307e46faa332ea3778e56",
+  "generated_at": "2026-02-23T23:24:17Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The FT.AGGREGATE command reference details the syntax, order of operations, and usage for performing advanced data aggregation, filtering, and transformations on indexed Redis documents.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "FT.AGGREGATE",
+    "GROUPBY",
+    "REDUCE",
+    "APPLY",
+    "FILTER"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,21 +1,22 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:5e70f922c53fc9ff3cb6627fa23040bbdc5615cd",
-  "generated_at": "2026-02-18T06:56:41Z",
+  "generated_at": "2026-02-23T23:25:27Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Redis Modules API reference provides a comprehensive listing of functions for heap allocation, command handling, key operations, data types, replication, logging, and cluster management.",
+  "contextual_summary": "The Modules API reference provides a comprehensive listing of functions and APIs for developing Redis modules, covering areas like memory management, data type operations, replication, and cluster integration.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
-    "Heap allocation raw functions",
-    "Commands API",
-    "Key APIs",
-    "Modules data types",
-    "Thread Safe Contexts"
+    "RedisModule",
+    "API",
+    "Key API",
+    "Replication",
+    "Data Types"
   ],
   "gap_flags": [
+    "incomplete_steps",
     "missing_example"
   ],
   "evidence_flags": {

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ffc6db226d23e0bf54f7cfea9d4d634c4677a00c",
+  "generated_at": "2026-02-23T23:24:22Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'Query attributes' explains the syntax and supported attributes for modifying query clauses, including weight, slop, inorder, phonetic, and newer attributes for vector queries.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "$weight",
+    "$slop",
+    "$inorder",
+    "$phonetic",
+    "vector queries"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

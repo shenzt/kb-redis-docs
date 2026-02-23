@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:0b52a61b79e3b9e51e932c7d573d29297aadc9b4",
-  "generated_at": "2026-02-18T06:57:13Z",
+  "generated_at": "2026-02-23T23:29:13Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The CreateGearsBuilder method documentation explains how to instantiate a GearsBuilder object using a reader to avoid type warnings.",
+  "contextual_summary": "The document creategearsbuilder.md covers the static method CreateGearsBuilder for instantiating a GearsBuilder object from a reader, including its parameters, return value, and a brief example.",
   "doc_type": "reference",
   "quality_score": 7,
   "key_concepts": [
     "GearsBuilder",
     "CreateGearsBuilder",
     "BaseReader",
-    "Serializable",
+    "java.io.Serializable",
     "type parameters"
   ],
   "gap_flags": [

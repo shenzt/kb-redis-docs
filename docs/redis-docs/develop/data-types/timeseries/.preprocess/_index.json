@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:64ce7d11e767ed05939e240a7cb813e8286dcd3b",
+  "generated_at": "2026-02-23T23:25:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis time series data type document covers creating, managing, and querying time series data for applications like metrics and IoT, including integration with tools like Prometheus and Grafana.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "TS.CREATE",
+    "TS.ADD",
+    "retention period",
+    "NaN values",
+    "aggregate functions"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

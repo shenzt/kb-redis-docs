@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6db9a9e54d47dabc68e6b63f49d0ccdfdcbe7de5",
+  "generated_at": "2026-02-23T23:30:02Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document manage-tasks.md explains how asynchronous API operations use tasks, including task IDs, status updates, and lifecycle information.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "taskId",
+    "asynchronous operation",
+    "task status",
+    "GET /v1/tasks",
+    "provisioning lifecycle"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4c241b7311bda3a7af61820e0d0e18ed62145c52",
+  "generated_at": "2026-02-23T23:24:32Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers Redis's high-performance vector database capabilities for semantic search, including creating vector indexes, storing vectors, and performing advanced vector searches with metadata filtering.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "vector index",
+    "HNSW",
+    "KNN",
+    "vector embeddings",
+    "metadata filters"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

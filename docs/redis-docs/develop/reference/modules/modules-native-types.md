@@ -9,14 +9,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: How to use native types in a Redis module
-id: 57ddb20a
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Native types API
-source_commit: a9ff1a3
-source_path: content/develop/reference/modules/modules-native-types.md
-source_repo: https://github.com/redis/docs
 title: Modules API for native types
 weight: 1
 ---

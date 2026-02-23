@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/concepts/sync_async/
 categories:
 - docs
 - develop
@@ -11,16 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Sync and async functions
-id: 01051429
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Sync and async
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/concepts/Sync_Async.md
-source_repo: https://github.com/redis/docs
 title: Sync and async
 weight: 3
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/concepts/sync_async/
 ---
 
 By default, each time a function is invoked, it is executed synchronously. This ensures the atomicity property, meaning that no other commands will be executed on Redis while the function is running. The atomicity property offers several advantages:

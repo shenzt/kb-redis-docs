@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a578c74f7b14f6dc7df05811824b34a7000178d1",
+  "generated_at": "2026-02-23T23:28:06Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Enterprise for Kubernetes 7.22.0-11 release notes announce a maintenance release supporting Redis Enterprise Software 7.22.0-95 and provide download links for container images and an OLM bundle.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "Redis Enterprise",
+    "Kubernetes",
+    "Operator",
+    "OLM bundle",
+    "release notes"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

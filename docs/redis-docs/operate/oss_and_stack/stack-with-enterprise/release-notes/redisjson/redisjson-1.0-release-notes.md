@@ -5,20 +5,12 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Serialization cache for JSON.GET.
-id: 6d7bc665
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v1.0 (December 2017)
 min-version-db: 4.0.0
 min-version-rs: 5.0.0
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisjson/redisjson-1.0-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisjson 1.0 Release Notes
 weight: 100
 ---
-
 ## Requirements
 
 RedisJSON v1.0.8 requires:

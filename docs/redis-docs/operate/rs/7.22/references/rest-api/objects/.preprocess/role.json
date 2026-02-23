@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7c15490f9050aaa480989157fdbb53f90543efb2",
+  "generated_at": "2026-02-23T23:32:39Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The role.md document defines an API object representing a role, detailing its fields including uid, account_id, action_uid, management type, and name.",
+  "doc_type": "reference",
+  "quality_score": 6,
+  "key_concepts": [
+    "uid",
+    "action_uid",
+    "management",
+    "account_id",
+    "API object"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

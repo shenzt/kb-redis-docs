@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ca0697d91545e2f470c235bea61fd603f823ce5a",
+  "generated_at": "2026-02-23T23:27:58Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes 6.4.2-5 is a maintenance release that adds support for Redis Enterprise 6.4.2-61, detailing new images, a bug fix, upgrade prerequisites, and compatibility notes.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise",
+    "Kubernetes operator",
+    "ValidatingWebhookConfiguration",
+    "OpenShift images",
+    "upgrade paths"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

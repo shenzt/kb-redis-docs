@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d0f1ed43bd55254e705c5985b6e364316ab6c80f",
+  "generated_at": "2026-02-23T23:35:50Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This REST API reference document details the endpoints, permissions, request/response formats, and status codes for managing LDAP mappings.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "LDAP mapping",
+    "REST API",
+    "permissions",
+    "status codes",
+    "unique ID (uid)"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3894cbe5d14ab1a3ddec89a2b74057de8d173478",
+  "generated_at": "2026-02-23T23:39:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md covers how Redis Software Active-Active databases simplify developing globally distributed applications by using CRDT-based conflict resolution for cross-region writes.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "Active-Active database",
+    "CRDT",
+    "Multi-Master Replication (MMR)",
+    "conflict resolution",
+    "geo-distributed"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:00586ca14652f0d3f1eab80dece329f9d957cc8b",
-  "generated_at": "2026-02-18T06:57:30Z",
+  "generated_at": "2026-02-23T23:29:34Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Redis Open Source 8.6 release notes detail major performance improvements, new features like XADD idempotency and HOTKEYS command, eviction policies, binary distributions, tested operating systems, and known limitations.",
+  "contextual_summary": "Redis Open Source 8.6.0 release notes detail major changes including performance improvements, new eviction policies, hot key detection, and configuration parameters.",
   "doc_type": "overview",
   "quality_score": 8,
   "key_concepts": [
+    "eviction policies",
     "XADD idempotency",
-    "volatile-lrm eviction policy",
-    "HOTKEYS command",
     "TLS certificate-based authentication",
-    "stream-idmp-duration configuration"
+    "hot keys detection",
+    "stream-idmp-duration"
   ],
   "gap_flags": [
     "incomplete_steps",

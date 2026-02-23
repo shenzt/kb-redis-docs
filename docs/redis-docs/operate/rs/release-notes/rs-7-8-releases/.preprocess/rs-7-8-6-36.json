@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6357d2483a38211c6e0dbcef60103ac0d246f2f3",
+  "generated_at": "2026-02-23T23:42:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Software version 7.8.6 is a maintenance release that includes bug fixes, specifies three included Redis database versions (7.4.0, 7.2.4, 6.2.13) with their compatible modules, and lists security vulnerabilities addressed in previous versions.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Software",
+    "Redis database version",
+    "Redis modules",
+    "CVE",
+    "maintenance release"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

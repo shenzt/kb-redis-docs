@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c648e92d6ac90d9f9b750dde42b4eaeb582232f6",
+  "generated_at": "2026-02-23T23:40:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document check.md describes the GET /v1/cluster/check API endpoint for running a series of system and service health checks on all nodes in a Redis Software cluster.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster/check",
+    "bootstrap_status",
+    "host_settings",
+    "required permissions",
+    "error response"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

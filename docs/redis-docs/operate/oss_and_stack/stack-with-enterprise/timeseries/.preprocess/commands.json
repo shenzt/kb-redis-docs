@@ -1,22 +1,21 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:e9c7e267d70a9a3569ffb072f0edcaa5f2ccdfa6",
-  "generated_at": "2026-02-18T06:57:46Z",
+  "generated_at": "2026-02-23T23:29:53Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document lists and describes Redis Time Series commands, detailing their availability in Redis Software and Redis Cloud deployments.",
+  "contextual_summary": "commands.md lists and describes Redis time series commands, detailing their support in Redis Software and Redis Cloud deployments.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "TS.ADD",
-    "TS.CREATE",
     "TS.ALTER",
-    "TS.CREATERULE",
+    "TS.CREATE",
+    "TS.RANGE",
     "downsampling"
   ],
   "gap_flags": [
-    "incomplete_steps",
     "missing_example"
   ],
   "evidence_flags": {

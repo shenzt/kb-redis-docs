@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e6e031352d5c6cdb64817b894bd5558036a9eb7c",
+  "generated_at": "2026-02-23T23:37:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md lists and describes the public and internal command-line utilities included with Redis Enterprise Software for cluster management and troubleshooting.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "utilities",
+    "/opt/redislabs/bin/",
+    "cluster management",
+    "troubleshooting"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

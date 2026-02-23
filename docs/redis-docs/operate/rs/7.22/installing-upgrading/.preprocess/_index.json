@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:02b3ead97bbddcff8764c4e0c1b7b36fe06aa386",
+  "generated_at": "2026-02-23T23:31:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides an overview and procedural guide for installing, upgrading, and uninstalling self-managed Redis Enterprise Software, including quickstarts and additional configuration options.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "quickstarts",
+    "install",
+    "upgrade",
+    "cluster"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

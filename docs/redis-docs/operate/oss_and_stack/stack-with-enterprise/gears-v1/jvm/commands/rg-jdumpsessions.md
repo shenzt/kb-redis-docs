@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Outputs information about existing Java sessions.
-id: cc1dcf62
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: RG.JDUMPSESSIONS
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/commands/rg-jdumpsessions.md
-source_repo: https://github.com/redis/docs
-title: Rg Jdumpsessions
 weight: 40
 ---
 
@@ -118,3 +111,4 @@ Get more detailed information about a specific session:
            9) "ExecutionThreadPool"
           10) "JVMPool"
 ```
+

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:88a1d48a4c09ddaee75282c18ff1551bcfaa6599",
+  "generated_at": "2026-02-23T23:37:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document log_rotation_job_settings.md defines configuration parameters for a log rotation job, including its schedule and activation status.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "log rotation",
+    "cron_expression",
+    "enabled",
+    "job",
+    "schedule"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

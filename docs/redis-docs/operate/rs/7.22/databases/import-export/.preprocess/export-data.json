@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a8d800876395bf1f6f5fbebe7db82ed4c92e5976",
+  "generated_at": "2026-02-23T23:31:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers how to export data from a Redis Enterprise database to various supported storage destinations, including steps via the Cluster Manager UI and important prerequisites like storage space.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "export",
+    "storage destination",
+    "Cluster Manager UI",
+    "storage space",
+    "shard"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

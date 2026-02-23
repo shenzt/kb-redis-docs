@@ -5,21 +5,13 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Downsampling/compaction. Secondary indexing. Aggregation at read time.
   Integration with Prometheus, Grafana, and Telegraph.
-id: 6072bd82
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v1.0 (June 2019)
 min-version-db: 5.0.0
 min-version-rs: 5.4.0
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redistimeseries/redistimeseries-1.0-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redistimeseries 1.0 Release Notes
 weight: 100
 ---
-
 ## Requirements
 
 RedisTimeSeries v1.0.3 requires:

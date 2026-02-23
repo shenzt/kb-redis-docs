@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f82acfdcf1e3ff78b434a7b738cd0908b538b604",
+  "generated_at": "2026-02-23T23:30:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Data Integration (RDI) is a change data capture system that synchronizes data changes from a non-Redis source database to a Redis target database, which can be used as a performance-enhancing cache.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "Redis Data Integration (RDI)",
+    "change data capture (CDC)",
+    "source database",
+    "target database",
+    "cache"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

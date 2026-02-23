@@ -9,15 +9,9 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Bloom filters are a probabilistic data structure that checks for presence
   of an item in a set
-id: 1760b768
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Bloom filter
-source_commit: a9ff1a3
-source_path: content/develop/data-types/probabilistic/bloom-filter.md
-source_repo: https://github.com/redis/docs
 stack: true
 title: Bloom filter
 weight: 10
@@ -177,3 +171,4 @@ Checking for an item is O(K) or O(K*n) for stacked filters, where n is the numbe
 1. [Developing with Bloom Filters](https://redis.io/blog/bloom-filter/)
 1. [RedisBloom on Redis Software](https://redis.com/redis-enterprise/redis-bloom/)
 1. [Probably and No: Redis, RedisBloom, and Bloom Filters](https://redis.com/blog/redis-redisbloom-bloom-filters/)
+

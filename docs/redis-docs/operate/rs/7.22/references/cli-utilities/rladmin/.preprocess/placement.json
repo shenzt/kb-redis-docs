@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fb930daeaf2fca017c4c922f424d4b3a64dd5e71",
+  "generated_at": "2026-02-23T23:32:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the deprecated rladmin placement command for configuring shard placement policy (dense or sparse) for a Redis database.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "rladmin placement",
+    "shard placement policy",
+    "dense",
+    "sparse",
+    "rladmin status databases"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

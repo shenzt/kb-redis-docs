@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:39a399de4c08bbf81ac2141db41107bb034ddc7b",
+  "generated_at": "2026-02-23T23:26:21Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document rack-awareness.md provides YAML examples and prerequisites for deploying Redis Enterprise on Kubernetes with rack awareness to distribute nodes and shards across failure domains.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "rack awareness",
+    "Kubernetes nodes",
+    "ClusterRole",
+    "node labels",
+    "availability zones"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

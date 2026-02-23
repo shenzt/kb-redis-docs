@@ -4,16 +4,10 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: 'Detailed specification for Redis cluster
 
   '
-id: 9f2d8d5c
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Cluster spec
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/reference/cluster-spec.md
-source_repo: https://github.com/redis/docs
 title: Redis cluster specification
 weight: 9
 ---

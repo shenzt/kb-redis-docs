@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: Guide to the original implementation of Redis strings
-id: 9498efc4
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: String internals
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/reference/internals/internals-sds.md
-source_repo: https://github.com/redis/docs
 title: String internals
 weight: 1
 ---

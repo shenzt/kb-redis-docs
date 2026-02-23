@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:55a389a1dec0e4bd2aa1fa5941a27a3c61c8130d",
+  "generated_at": "2026-02-23T23:39:18Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis clustering partitions the database keyspace into shards managed by multiple processes to scale memory and CPU usage, detailing its use cases, terminology, and operational constraints.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "shard",
+    "hash slot",
+    "keyspace",
+    "clustering",
+    "single endpoint"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

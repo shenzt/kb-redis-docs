@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:62234c34373902abc13aa9400c8debee3da10494",
+  "generated_at": "2026-02-23T23:36:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers the prerequisites and steps for creating and configuring an Active-Active geo-replicated database in Redis Enterprise Software, including setup, verification, and enabling causal consistency.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Active-Active database",
+    "geo-replication",
+    "causal consistency",
+    "service account",
+    "synchronization"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

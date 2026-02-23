@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:18bed82f89a3fe086210df5e0121591881c3f28a",
-  "generated_at": "2026-02-18T06:57:42Z",
+  "generated_at": "2026-02-23T23:29:49Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Redistimeseries 1.4 Release Notes detail the requirements, version history, bug fixes, and new features like backfilling and duplicate policy configuration for the RedisTimeSeries module.",
+  "contextual_summary": "RedisTimeSeries v1.4 release notes detail version requirements, update urgencies, bug fixes, and new features like backfilling and duplicate policy configuration.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "RedisTimeSeries",
-    "bug fixes",
     "update urgency",
+    "bug fixes",
     "duplicate policy",
     "backfilling"
   ],

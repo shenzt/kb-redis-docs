@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:dd61c6778b1dc01210a6aa73b8123b0e909eb0eb",
+  "generated_at": "2026-02-23T23:27:37Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers container image sources for Redis Enterprise deployments, including pulling from public or private registries and managing version compatibility and Docker rate limits.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "container images",
+    "private registry",
+    "Docker rate limits",
+    "operator version",
+    "admission controller"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

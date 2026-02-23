@@ -9,18 +9,13 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Understand how to use Redis as a document database
-id: 7b012d00
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Document database
-source_commit: a9ff1a3
-source_path: content/develop/get-started/document-database.md
-source_repo: https://github.com/redis/docs
 stack: true
 title: Redis as a document database quick start guide
 weight: 2
 ---
+
 
 This quick start guide shows you how to:
 

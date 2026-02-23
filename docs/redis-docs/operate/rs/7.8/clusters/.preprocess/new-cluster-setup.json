@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:54e4c15ad59d75277a3f1e6001dd62376285ab87",
+  "generated_at": "2026-02-23T23:36:22Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document new-cluster-setup.md provides instructions for setting up a new Redis Enterprise Software cluster, including prerequisites, web UI steps, and post-creation actions.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise Software cluster",
+    "FQDN",
+    "rack-zone awareness",
+    "flash storage",
+    "Cluster Manager UI"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

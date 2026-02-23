@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: null
-id: 731bcf79
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Install on a cluster
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/install/add-module-to-cluster.md
-source_repo: https://github.com/redis/docs
-title: Add Module To Cluster
 weight: 10
 ---
 

@@ -1,22 +1,21 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:8ab7424a863d6f16c482149a84f99aea00ed08a2",
-  "generated_at": "2026-02-18T06:57:44Z",
+  "generated_at": "2026-02-23T23:29:51Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "This document covers methods for configuring RediSearch in Redis Software and Redis Cloud, detailing UI, CLI, and API approaches while noting subscription-based limitations for Redis Cloud.",
+  "contextual_summary": "This document explains how to configure RediSearch settings in Redis Software via Cluster Manager UI, rladmin CLI, or REST API, and in Redis Cloud via support, while noting configuration limitations for certain subscriptions.",
   "doc_type": "guide",
   "quality_score": 8,
   "key_concepts": [
     "RediSearch",
-    "FT.CONFIG SET",
-    "rladmin tune db",
-    "module_config_params",
-    "Query Performance Factor"
+    "rladmin",
+    "configuration parameters",
+    "Redis Cloud",
+    "Redis Software"
   ],
   "gap_flags": [
-    "incomplete_steps",
     "missing_config",
     "missing_example"
   ],

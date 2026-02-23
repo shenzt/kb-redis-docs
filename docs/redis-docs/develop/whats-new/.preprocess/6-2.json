@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8cc12c515d715ce0f988ee616f5088518576f272",
+  "generated_at": "2026-02-23T23:25:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis 6.2 introduces new features including multi-value indexing, wildcard query support, the t-digest data structure, and enhancements to streams and time series data processing.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "multi-value indexing",
+    "t-digest",
+    "time series",
+    "Redis streams",
+    "wildcard query"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7369bbdb66f41356b8d692e5dedb701a7ca04324",
+  "generated_at": "2026-02-23T23:34:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Auto-tiering metrics document defines and explains performance and resource utilization metrics for databases using auto-tiering, covering RAM, flash, and calculated statistics.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Auto Tiering",
+    "RAM hit ratio",
+    "Flash I/O operations/sec",
+    "RAM:Flash access ratio",
+    "Calculated metrics"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

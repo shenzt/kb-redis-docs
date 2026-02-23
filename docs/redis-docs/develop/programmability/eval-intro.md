@@ -1,5 +1,4 @@
 ---
-aliases: /develop/interact/programmability/eval-intro
 categories:
 - docs
 - develop
@@ -10,16 +9,11 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
+aliases: /develop/interact/programmability/eval-intro
 description: 'Executing Lua in Redis
 
   '
-id: 3ff5468a
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Lua scripting
-source_commit: a9ff1a3
-source_path: content/develop/programmability/eval-intro.md
-source_repo: https://github.com/redis/docs
 title: Scripting with Lua
 weight: 2
 ---

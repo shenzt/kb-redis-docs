@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:1661ae7430f0c3d00e5a9fea7e566d4bf2d951bf",
-  "generated_at": "2026-02-18T06:57:18Z",
+  "generated_at": "2026-02-23T23:29:19Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The CommandReader class in RedisGears JVM enables the creation of custom commands that trigger registered Java functions via RG.TRIGGER, as demonstrated with an inventory restock example.",
+  "contextual_summary": "The CommandReader.md document explains how to use the CommandReader class to create and trigger custom RedisGears functions via the RG.TRIGGER command.",
   "doc_type": "example",
   "quality_score": 9,
   "key_concepts": [

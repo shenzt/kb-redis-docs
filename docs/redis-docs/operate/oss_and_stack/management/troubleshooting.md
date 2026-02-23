@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: Problems with Redis? Start here.
-id: 1d4c65d2
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Troubleshooting
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/management/troubleshooting.md
-source_repo: https://github.com/redis/docs
 title: Troubleshooting Redis
 weight: 9
 ---

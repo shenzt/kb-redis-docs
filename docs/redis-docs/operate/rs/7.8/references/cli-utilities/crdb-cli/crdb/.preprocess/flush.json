@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3a77b2839f396ad396a66571fc1b63396fad6dbb",
+  "generated_at": "2026-02-23T23:37:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The flush.md document describes the crdb-cli crdb flush command for irreversibly clearing all keys from an Active-Active database, detailing its parameters, behavior, and providing an example.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "crdb-cli",
+    "flush",
+    "Active-Active database",
+    "GUID",
+    "task ID"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

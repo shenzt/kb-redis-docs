@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c5bd65b6e265397908a8b1ffa99400af7d519b19",
+  "generated_at": "2026-02-23T23:33:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document check.md details the GET /v1/cluster/check API endpoint, which runs a series of system and connectivity checks on all nodes in a Redis Enterprise cluster.",
+  "doc_type": "reference",
+  "quality_score": 9,
+  "key_concepts": [
+    "cluster/check",
+    "bootstrap_status",
+    "host_settings",
+    "tcp_connectivity",
+    "view_all_nodes_checks"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

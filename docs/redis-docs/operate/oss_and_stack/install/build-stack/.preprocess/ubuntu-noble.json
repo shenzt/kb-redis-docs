@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:10a25ae1a9449e549fffd3695ad14072da6cfcf5",
-  "generated_at": "2026-02-18T06:56:50Z",
+  "generated_at": "2026-02-23T23:28:42Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document provides steps to build and run Redis Open Source from source on Ubuntu 24.04, including installing dependencies, downloading source, building with options, and starting the server.",
+  "contextual_summary": "The document provides steps to build and run Redis Open Source from source code on Ubuntu 24.04, including installing dependencies, downloading source, building, and starting the server.",
   "doc_type": "tutorial",
   "quality_score": 8,
   "key_concepts": [
-    "Redis source code",
-    "build dependencies",
-    "BUILD_TLS",
-    "make install",
-    "redis-server"
+    "Redis",
+    "build",
+    "source code",
+    "modules",
+    "Ubuntu 24.04"
   ],
   "gap_flags": [
     "incomplete_steps",
-    "missing_config"
+    "missing_example"
   ],
   "evidence_flags": {
     "has_command": true,

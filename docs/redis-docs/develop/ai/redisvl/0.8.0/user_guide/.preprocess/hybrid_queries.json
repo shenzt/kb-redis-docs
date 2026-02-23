@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a017140fcd06b171531dc24fc4df8f5d3be5fae1",
+  "generated_at": "2026-02-23T23:23:26Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document demonstrates performing complex queries with RedisVL, including hybrid search and filtering, using a provided example dataset and schema.",
+  "doc_type": "example",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisVL",
+    "hybrid search",
+    "vector search",
+    "RediSearch",
+    "query filter"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

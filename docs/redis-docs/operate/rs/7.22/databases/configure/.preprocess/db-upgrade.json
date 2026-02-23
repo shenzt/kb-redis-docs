@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:bcf9bb18164d4f2000aef0be940846e53fad60a9",
+  "generated_at": "2026-02-23T23:31:22Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document db-upgrade.md covers editing cluster-wide database upgrade configuration settings, including shard parallel upgrade and RESP3 support, via the UI, CLI, or REST API.",
+  "doc_type": "reference",
+  "quality_score": 9,
+  "key_concepts": [
+    "parallel_shards_upgrade",
+    "resp3_default",
+    "rladmin tune cluster",
+    "cluster policy",
+    "database upgrade"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

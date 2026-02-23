@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:259ce26d79d7f59203f6a7015f15cee93c6a3a07",
+  "generated_at": "2026-02-23T23:25:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document v1.6.0.md details the maintenance releases, bug fixes, and enhancements for RedisInsight version 1.6, covering updates to the Browser, Profiler, Graph, Analytics, Streams, CLI, and Core components.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisInsight",
+    "Browser",
+    "Profiler",
+    "ACL restrictions",
+    "keys explorer"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

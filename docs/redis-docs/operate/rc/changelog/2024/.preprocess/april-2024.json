@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:19733772375560939ff3c46fa4c16fbe004a418b",
+  "generated_at": "2026-02-23T23:30:10Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Cloud document 'april-2024.md' announces new features like Nano billing units and AWS Marketplace Essentials, enhancements to Search throughput, and deprecations for API shard settings.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Nano billing unit",
+    "AWS Marketplace",
+    "throughput",
+    "ops/sec",
+    "deprecations"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

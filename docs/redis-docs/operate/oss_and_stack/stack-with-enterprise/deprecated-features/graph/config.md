@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Graph configuration settings supported by Redis Software.
-id: 2fa030b8
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Configuration
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/graph/config.md
-source_repo: https://github.com/redis/docs
-title: Config
 toc: 'false'
 weight: 30
 ---

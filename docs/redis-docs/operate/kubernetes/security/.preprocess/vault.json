@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d86a83d963a47faa785fc8e0797629e1e8fecde3",
+  "generated_at": "2026-02-23T23:28:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document vault.md explains how to configure HashiCorp Vault as the centralized secret management system for the Redis Enterprise Kubernetes operator, detailing setup, configuration, and troubleshooting.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "HashiCorp Vault",
+    "Redis Enterprise Kubernetes operator",
+    "secret management",
+    "Vault KV secrets engine",
+    "Kubernetes service account token"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

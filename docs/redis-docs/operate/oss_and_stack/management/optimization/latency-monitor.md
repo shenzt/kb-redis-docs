@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: Discovering slow server events in Redis
-id: 1bdc4c21
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Latency monitoring
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/management/optimization/latency-monitor.md
-source_repo: https://github.com/redis/docs
 title: Redis latency monitoring
 weight: 1
 ---

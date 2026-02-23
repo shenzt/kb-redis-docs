@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7f7aa15506a1c82b6486615223c46cd31c110f89",
+  "generated_at": "2026-02-23T23:36:06Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document explains how to map LDAP groups to specific access control roles in Redis Enterprise Software for authentication and authorization.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "LDAP authentication",
+    "access control roles",
+    "Distinguished Name",
+    "database ACLs",
+    "role-based authorization"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

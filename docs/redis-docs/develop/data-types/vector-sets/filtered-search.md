@@ -8,15 +8,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
-description: Use filter expressions to refine vector similarity results with Redis
-  vector sets
-id: d3f965f2
-ingested_at: '2026-02-14T15:01:27Z'
+description: Use filter expressions to refine vector similarity results with Redis vector sets
 linkTitle: Filter expressions
-source_commit: a9ff1a3
-source_path: content/develop/data-types/vector-sets/filtered-search.md
-source_repo: https://github.com/redis/docs
 title: Filter expressions
 weight: 10
 ---

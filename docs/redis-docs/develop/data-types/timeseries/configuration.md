@@ -9,18 +9,11 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Redis time series support multiple configuration parameters.
-id: 608370db
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Configuration
-source_commit: a9ff1a3
-source_path: content/develop/data-types/timeseries/configuration.md
-source_repo: https://github.com/redis/docs
 title: Configuration Parameters
 weight: 3
 ---
-
 ## Redis Open Source - set configuration parameters
 
 Before Redis 8 in Redis Open Source (version 8.0), all time series configuration parameters are load-time parameters.

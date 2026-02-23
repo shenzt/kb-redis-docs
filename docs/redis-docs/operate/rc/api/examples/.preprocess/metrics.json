@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:04769e128b7fe0be2f6bb5f7563793956f4476c7",
+  "generated_at": "2026-02-23T23:29:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document metrics.md states that a REST API for database metrics was a test, is inaccurate, and is unsupported, advising against its use.",
+  "doc_type": "overview",
+  "quality_score": 3,
+  "key_concepts": [
+    "REST API",
+    "database",
+    "metrics",
+    "performance",
+    "unsupported"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

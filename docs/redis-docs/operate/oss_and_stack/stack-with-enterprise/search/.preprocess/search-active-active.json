@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:e022ed5eadd30f2aac4314426ae581667b14ff3e",
-  "generated_at": "2026-02-18T06:57:45Z",
+  "generated_at": "2026-02-23T23:29:53Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document explains how to enable and use RediSearch 2.x with Active-Active databases, covering setup, command compatibility, and synchronization behavior.",
+  "contextual_summary": "The document explains how to enable and use RediSearch 2.x with Active-Active databases, covering setup, command restrictions, and synchronization behavior.",
   "doc_type": "overview",
   "quality_score": 8,
   "key_concepts": [

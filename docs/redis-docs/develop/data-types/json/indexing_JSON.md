@@ -9,15 +9,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
-description: Combine Redis JSON and the Redis Query Engine to index and search JSON
-  documents
-id: 36cae638
-ingested_at: '2026-02-14T15:01:27Z'
+description: Combine Redis JSON and the Redis Query Engine to index and search JSON documents
 linkTitle: Index/Search
-source_commit: a9ff1a3
-source_path: content/develop/data-types/json/indexing_JSON.md
-source_repo: https://github.com/redis/docs
 title: Index/Search JSON documents
 weight: 2
 ---

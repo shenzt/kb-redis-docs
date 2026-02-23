@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3d4636a6326e09b77c3c018bb5a12c4fc492ba44",
+  "generated_at": "2026-02-23T23:24:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document describes the design and implementation of a simple Twitter clone called Retwis using PHP and Redis, explaining how Redis data structures can model an entire application and discussing performance and scaling.",
+  "doc_type": "example",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis",
+    "key-value store",
+    "data structures",
+    "sharding",
+    "scaling"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -5,16 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
-description: Time series configuration settings supported by Redis Software and Redis
-  Cloud.
-id: 4fa6e65d
-ingested_at: '2026-02-14T15:01:27Z'
+description: Time series configuration settings supported by Redis Software and Redis Cloud.
 linkTitle: Configuration
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/timeseries/config.md
-source_repo: https://github.com/redis/docs
-title: Config
 toc: 'false'
 weight: 30
 ---

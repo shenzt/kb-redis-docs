@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4ee0954c03dd0110c872edd333d9a1432fd429c8",
+  "generated_at": "2026-02-23T23:24:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers aggregation queries using the FT.AGGREGATE command, explaining simple mapping with APPLY, grouping data with GROUPBY, and applying aggregation functions like TOLIST.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "FT.AGGREGATE",
+    "APPLY clause",
+    "GROUPBY",
+    "TOLIST function",
+    "LOAD clause"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

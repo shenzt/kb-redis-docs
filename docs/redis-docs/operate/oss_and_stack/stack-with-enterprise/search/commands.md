@@ -5,16 +5,9 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Lists search and query commands and provides links to the command reference
   pages.
-id: 9f4edca5
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Commands
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/search/commands.md
-source_repo: https://github.com/redis/docs
-title: Commands
 toc: 'false'
 weight: 10
 ---
@@ -40,6 +33,7 @@ The following table lists search and query commands. See the command links for m
 | [FT.DROPINDEX]({{< relref "commands/ft.dropindex" >}}) | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</nobr></span> | Deletes an index. |
 | [FT.EXPLAIN]({{< relref "commands/ft.explain" >}}) | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</nobr></span> | Returns the execution plan for a complex query as a string. |
 | [FT.EXPLAINCLI]({{< relref "commands/ft.explaincli" >}}) | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</nobr></span> | Returns the execution plan for a complex query as an [array]({{< relref "develop/reference/protocol-spec/#arrays" >}}). |
+| [FT.HYBRID]({{< relref "commands/ft.hybrid" >}}) | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</nobr></span> | Performs hybrid search combining text search and vector similarity with configurable fusion methods. |
 | [FT.INFO]({{< relref "commands/ft.info" >}}) | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</nobr></span> | Returns index information and statistics.  |
 | [FT._LIST]({{< relref "commands/ft._list" >}}) | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</nobr></span> | Lists all indexes. |
 | [FT.PROFILE]({{< relref "commands/ft.profile" >}}) | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</span> | <span title="Supported">&#x2705; Supported</nobr></span> | Runs [FT.SEARCH]({{< relref "commands/ft.search" >}}) or [FT.AGGREGATE]({{< relref "commands/ft.aggregate" >}}) and reports performance information. |

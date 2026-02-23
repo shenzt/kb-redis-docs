@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: A template for creating custom readers.
-id: 2e0d27ad
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: JavaReader
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/classes/readers/javareader.md
-source_repo: https://github.com/redis/docs
-title: Javareader
 weight: 60
 ---
 

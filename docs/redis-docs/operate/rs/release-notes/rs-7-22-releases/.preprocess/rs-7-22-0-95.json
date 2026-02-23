@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c332287ba5f5088d9be1b2c0b343aedd6440569a",
+  "generated_at": "2026-02-23T23:41:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Software version 7.22.0 release notes highlight new features including performance improvements, a diagnostic logging service, a call home client, and security vulnerability fixes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "diagnostic logging service",
+    "call home client",
+    "REST API",
+    "security vulnerabilities",
+    "performance improvements"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

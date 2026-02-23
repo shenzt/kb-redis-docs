@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:70ceb92356f68d05f72d28ee643245ec083aece0",
+  "generated_at": "2026-02-23T23:27:45Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document db-controller.md covers the lifecycle management of a Redis Enterprise Database (REDB) via a Kubernetes operator, including creation, deletion, and connection.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisEnterpriseDatabase (REDB)",
+    "database controller",
+    "custom resource",
+    "Kubernetes operator",
+    "secret"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

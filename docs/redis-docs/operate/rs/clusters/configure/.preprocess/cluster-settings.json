@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:37cad737343f736b066aa8d36cbe017eeff39d47",
+  "generated_at": "2026-02-23T23:38:54Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document cluster-settings.md covers viewing and setting cluster-wide configurations like license, name, time zone, and email alerts on the Cluster > Configuration page.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "cluster license key",
+    "shards",
+    "time zone",
+    "email server settings",
+    "alerts"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

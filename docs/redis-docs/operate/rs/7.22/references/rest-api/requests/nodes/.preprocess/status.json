@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:031f5de453687b9d86c6c5cb3022c282e7c688d3",
+  "generated_at": "2026-02-23T23:33:21Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The status.md document details the REST API endpoints for retrieving node status information, including the GET methods for all nodes and a specific node, required permissions, request/response formats, and status codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "node status",
+    "maintenance_snapshot",
+    "role",
+    "permissions",
+    "REST API"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

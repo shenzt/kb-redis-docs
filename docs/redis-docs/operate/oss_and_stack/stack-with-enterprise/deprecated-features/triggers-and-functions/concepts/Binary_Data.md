@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/concepts/binary_data/
 categories:
 - docs
 - develop
@@ -11,16 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Working with binary data
-id: f071e05b
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Binary data
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/concepts/Binary_Data.md
-source_repo: https://github.com/redis/docs
 title: Binary data
 weight: 8
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/concepts/binary_data/
 ---
 
 By default, triggers and functions will decode all data as a string and will raise error on failures. Though useful for most users, sometimes there is a need to work with binary data. In order to do so, the library developer has to consider the following:

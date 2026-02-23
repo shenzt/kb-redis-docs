@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6d1d2c6033080fa85fc31c3c473aaa8ffd525143",
+  "generated_at": "2026-02-23T23:27:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document provides instructions for creating an Active-Active database in a Kubernetes environment using Redis Enterprise, covering prerequisites, custom resource creation, and verification steps.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisEnterpriseRemoteCluster (RERC)",
+    "RedisEnterpriseActiveActiveDatabase (REAADB)",
+    "RedisEnterpriseCluster (REC)",
+    "ingressOrRoutes",
+    "ValidatingWebhook"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

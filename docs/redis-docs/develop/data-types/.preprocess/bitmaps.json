@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:ca5cdfa64659baf82889fc13282d5e1f32ae115f",
-  "generated_at": "2026-02-18T06:56:24Z",
+  "generated_at": "2026-02-23T23:25:05Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
@@ -15,9 +15,7 @@
     "bitwise operations",
     "bit vector"
   ],
-  "gap_flags": [
-    "incomplete_steps"
-  ],
+  "gap_flags": [],
   "evidence_flags": {
     "has_command": false,
     "has_config": false,

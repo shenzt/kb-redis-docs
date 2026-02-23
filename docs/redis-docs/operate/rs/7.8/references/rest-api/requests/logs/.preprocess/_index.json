@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8a51321f60fa292b9ab0c9d904a87b5e658ddfc8",
+  "generated_at": "2026-02-23T23:38:25Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides a REST API reference for retrieving cluster events logs via the GET /v1/logs endpoint, detailing request parameters, headers, response format, and required permissions.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "GET /v1/logs",
+    "view_logged_events",
+    "query parameters",
+    "event object",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

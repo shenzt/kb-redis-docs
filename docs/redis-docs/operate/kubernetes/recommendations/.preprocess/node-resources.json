@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e4ca8a00f4bb1b92350b901b2da4518ac3cfc965",
+  "generated_at": "2026-02-23T23:27:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document node-resources.md covers Kubernetes node eviction thresholds and resource quotas for optimal Redis Enterprise operation, including monitoring recommendations and minimum resource settings.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "node-pressure eviction",
+    "eviction-soft-grace-period",
+    "ResourceQuota",
+    "MemoryPressure",
+    "DiskPressure"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

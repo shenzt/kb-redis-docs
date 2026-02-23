@@ -5,21 +5,12 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
-description: New vector data types. Enhanced indexing capabilities. Simplified query
-  syntax. Expanded geospatial search.
-id: 2485f6b9
-ingested_at: '2026-02-14T15:01:27Z'
+description: New vector data types. Enhanced indexing capabilities. Simplified query syntax. Expanded geospatial search.
 linkTitle: v2.10 (July 2024)
 min-version-db: '7.4'
 min-version-rs: 7.8
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisearch/redisearch-2.10-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisearch 2.10 Release Notes
 weight: 90
 ---
-
 ## Requirements
 
 RediSearch v2.10.25 requires:

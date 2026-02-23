@@ -9,17 +9,11 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: 'HyperLogLog is a probabilistic data structure that estimates the cardinality
   of a set.
 
   '
-id: 42579dc8
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: HyperLogLog
-source_commit: a9ff1a3
-source_path: content/develop/data-types/probabilistic/hyperloglogs.md
-source_repo: https://github.com/redis/docs
 title: HyperLogLog
 weight: 1
 ---
@@ -111,3 +105,4 @@ The HyperLogLog can estimate the cardinality of sets with up to 18,446,744,073,7
 
 * [Redis new data structure: the HyperLogLog](http://antirez.com/news/75) has a lot of details about the data structure and its implementation in Redis.
 * [Redis HyperLogLog Explained](https://www.youtube.com/watch?v=MunL8nnwscQ) shows you how to use Redis HyperLogLog data structures to build a traffic heat map.
+

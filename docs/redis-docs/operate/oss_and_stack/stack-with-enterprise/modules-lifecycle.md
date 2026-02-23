@@ -5,18 +5,10 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: null
-id: daffb838
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Module lifecycle
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/modules-lifecycle.md
-source_repo: https://github.com/redis/docs
-title: Modules Lifecycle
 weight: 7
 ---
-
 Redis Software follows the [Redis Software lifecycle]({{< relref "/operate/rs/installing-upgrading/product-lifecycle" >}}).  (For complete details, see the Redis Software [subscription agreement](https://redis.com/software-subscription-agreement).)
 
 The modules included in Redis Stack also follow a release lifecycle and schedule. Here, you'll find the "end-of-life" dates for each module and release.

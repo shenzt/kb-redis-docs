@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:88bd59ab705ac3e1b8cc8251f72f47934e10feb8",
+  "generated_at": "2026-02-23T23:41:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Software version 7.22.2 release notes cover new features like customer-managed certificates for internode encryption, bug fixes, included Redis database versions, compatible modules, and resolved CVEs.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "internode encryption",
+    "customer-managed certificates",
+    "Redis database versions",
+    "Redis modules",
+    "CVEs"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

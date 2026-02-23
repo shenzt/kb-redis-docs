@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3d9460b825da7197507392d8adc0c2654e39306c",
+  "generated_at": "2026-02-23T23:34:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document provides steps to test client connectivity to a Redis database after cluster creation or upgrade, including methods using redis-cli, Redis Insight, and client libraries.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "database endpoint",
+    "redis-cli",
+    "Redis Insight",
+    "client library",
+    "DNS configuration"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

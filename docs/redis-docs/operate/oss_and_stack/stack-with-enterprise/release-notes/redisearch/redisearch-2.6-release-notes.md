@@ -5,22 +5,14 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Search using wildcard queries for TEXT and TAG fields, multi-value indexing
   and querying of attributes for any attribute type, and indexing double-precision
   floating-point vectors and range queries from a given vector.
-id: 37615ce5
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v2.6 (November 2022)
 min-version-db: 6.0.16
 min-version-rs: 6.2.8
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisearch/redisearch-2.6-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisearch 2.6 Release Notes
 weight: 92
 ---
-
 ## Requirements
 
 RediSearch v2.6.32 requires:

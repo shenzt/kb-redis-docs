@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Gets keys and their values from a database.
-id: b22dbc15
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: KeysReader
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/classes/readers/keysreader.md
-source_repo: https://github.com/redis/docs
-title: Keysreader
 weight: 60
 ---
 

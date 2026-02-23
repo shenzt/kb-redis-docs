@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d7f4d0ad629c2b66db729b334a91e4267ffa17e4",
+  "generated_at": "2026-02-23T23:27:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers creating Redis Enterprise Active-Active databases across Kubernetes clusters using the crdb-cli command, including prerequisites, configuration steps, and testing.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Active-Active database",
+    "crdb-cli",
+    "Redis Enterprise cluster (REC)",
+    "replication endpoint",
+    "Kubernetes clusters"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

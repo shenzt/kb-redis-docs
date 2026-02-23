@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d5007e0920de5444f28545372876ceee2f688c6f",
+  "generated_at": "2026-02-23T23:22:10Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to use the LangCache API and SDKs for storing and retrieving LLM, RAG, or agent responses, covering authentication, search, deletion, and flushing operations.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "LangCache API",
+    "Bearer token",
+    "Cache ID",
+    "semantic caching",
+    "flush"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

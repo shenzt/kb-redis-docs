@@ -4,15 +4,9 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: What's an event library, and how was the original Redis event library
   implemented?
-id: be6a2a55
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Event library
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/reference/internals/internals-rediseventlib.md
-source_repo: https://github.com/redis/docs
 title: Event library
 weight: 1
 ---

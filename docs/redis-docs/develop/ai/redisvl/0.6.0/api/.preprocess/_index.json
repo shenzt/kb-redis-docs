@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:91b3b6297eee35724e9e9351f94dc7f43578b567",
+  "generated_at": "2026-02-23T23:23:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisVL API reference documentation covers schema definition, search index classes, query types, filters, vectorizers, rerankers, caching, message history, semantic routing, and threshold optimizers.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "IndexSchema",
+    "SearchIndex",
+    "VectorQuery",
+    "FilterExpression",
+    "Vectorizer"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

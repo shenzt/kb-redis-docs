@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:03cc1d589f55df95faa83679a08ebaac9f766eec",
+  "generated_at": "2026-02-23T23:29:50Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RediSearch 2.x module documentation provides an overview of its search and query capabilities, covering document indexing, supported data types, index management, and operational considerations like persistence and resharding.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "RediSearch",
+    "index",
+    "documents",
+    "hash",
+    "JSON"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

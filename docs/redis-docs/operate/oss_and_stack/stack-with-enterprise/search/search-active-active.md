@@ -5,18 +5,10 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Search and query Active-Active databases.
-id: 2b2ae480
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Search Active-Active databases
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/search/search-active-active.md
-source_repo: https://github.com/redis/docs
-title: Search Active Active
 weight: 30
 ---
-
 Starting with RediSearch 2.x, supported in Redis Software (RS) 6.0 and later, you can [enable search and query]({{< relref "/operate/oss_and_stack/stack-with-enterprise/install/add-module-to-database" >}}) for [Active-Active databases]({{< relref "/operate/rs/databases/active-active" >}}) at the time of creation.
 
 You can run search operations on any instance of an Active-Active database.

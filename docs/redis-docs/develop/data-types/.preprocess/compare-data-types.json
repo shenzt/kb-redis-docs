@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:a8eb961f3bb71739828c052e6815e844abbe247d",
-  "generated_at": "2026-02-18T06:56:24Z",
+  "generated_at": "2026-02-23T23:25:05Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Redis document compares specialized and general-purpose data types and provides a decision guide to help choose the best data type for a given task.",
+  "contextual_summary": "The document compares Redis data types, categorizing them as specialized or general-purpose, and provides a decision tree to help choose the best type based on data structure and access needs.",
   "doc_type": "guide",
   "quality_score": 8,
   "key_concepts": [
     "Geospatial",
+    "Vector sets",
     "Sorted sets",
     "Streams",
-    "Vector sets",
-    "Time series"
+    "Probabilistic data types"
   ],
   "gap_flags": [
     "incomplete_steps",

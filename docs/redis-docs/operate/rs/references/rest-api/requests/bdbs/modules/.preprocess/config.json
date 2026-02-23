@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:306f1abaf1d2b9b5d4e9cffd404168ad1f436505",
+  "generated_at": "2026-02-23T23:40:52Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The config.md document details the deprecated POST /v1/bdbs/{uid}/modules/config REST API endpoint for configuring module arguments on a Redis database, including request format, permissions, and error handling.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "module configuration",
+    "module_args",
+    "error codes",
+    "required permissions"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

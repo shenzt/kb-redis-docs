@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:530b9f75f45252ac54fa7415f11d50316cf4b550",
-  "generated_at": "2026-02-18T06:57:27Z",
+  "generated_at": "2026-02-23T23:29:31Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RedisBloom 2.2 release notes detail version-specific requirements, update urgencies, and changes including bug fixes and enhancements for modules like Bloom filters and Count-Min Sketch.",
+  "contextual_summary": "The document covers the RedisBloom v2.2 release notes, detailing version-specific requirements, update urgencies, bug fixes, and enhancements for modules like Bloom filters, Cuckoo filters, Count-Min Sketch, and Top-K.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "RedisBloom",
-    "Bloom Filter",
     "Cuckoo Filter",
+    "Bloom Filter",
     "Count-Min Sketch",
-    "TOPK.INCRBY"
+    "Top-K"
   ],
   "gap_flags": [
     "incomplete_steps",

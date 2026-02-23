@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: How Redis writes data to disk
-id: 34eb29ec
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Persistence
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/management/persistence.md
-source_repo: https://github.com/redis/docs
 title: Redis persistence
 weight: 7
 ---

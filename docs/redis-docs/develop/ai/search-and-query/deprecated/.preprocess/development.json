@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:934ffc64ffa28fbf88ea32ea8b4faaca212469b2",
+  "generated_at": "2026-02-23T23:24:26Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Developer notes for RediSearch cover setting up a development environment, cloning the repository, working in isolated environments like Docker, installing prerequisites, building the module, running tests, and debugging.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "RediSearch",
+    "Docker",
+    "unit tests",
+    "debugging",
+    "prerequisites"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

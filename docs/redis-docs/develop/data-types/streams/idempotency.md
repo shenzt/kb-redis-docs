@@ -9,14 +9,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Idempotent message processing in Redis Streams
-id: 76ce88f3
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Idempotency
-source_commit: a9ff1a3
-source_path: content/develop/data-types/streams/idempotency.md
-source_repo: https://github.com/redis/docs
 title: Idempotent message processing
 weight: 10
 ---

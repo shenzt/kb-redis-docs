@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8103350e5ffc0e8efcbcbfb6c3ba8b67813bf129",
+  "generated_at": "2026-02-23T23:25:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers Redis SCAN commands and their corresponding iterators in redis-py for retrieving keys and values from different data types in a paginated manner.",
+  "doc_type": "example",
+  "quality_score": 8,
+  "key_concepts": [
+    "SCAN",
+    "iterator",
+    "redis-py",
+    "paging",
+    "cursor"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

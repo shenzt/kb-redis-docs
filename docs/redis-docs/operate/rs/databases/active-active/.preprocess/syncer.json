@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:908ac4c3a29b442c9b4648f597c026cbc720918f",
+  "generated_at": "2026-02-23T23:39:11Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The syncer.md document describes the syncer process in an Active-Active database cluster, covering its role in replication, the differences between partial and full syncs, and methods to restart the syncer.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "syncer process",
+    "Active-Active replication",
+    "partial synchronization",
+    "replication backlog",
+    "full sync"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

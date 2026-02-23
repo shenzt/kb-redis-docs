@@ -9,14 +9,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Introduction to Redis bitmaps
-id: 09b2bae2
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Bitmaps
-source_commit: a9ff1a3
-source_path: content/develop/data-types/bitmaps.md
-source_repo: https://github.com/redis/docs
 title: Redis bitmaps
 weight: 120
 ---

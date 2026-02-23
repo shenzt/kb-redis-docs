@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:2190457788a4e00ce0a201d382d33acfddfc8f95",
-  "generated_at": "2026-02-18T06:56:46Z",
+  "generated_at": "2026-02-23T23:28:39Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers installing Redis Stack on Windows via Memurai or Docker, with a warning about WSL systemd errors.",
+  "contextual_summary": "The document covers installing Redis Stack on Windows via Memurai or Docker, with a warning about using WSL.",
   "doc_type": "guide",
-  "quality_score": 6,
+  "quality_score": 7,
   "key_concepts": [
     "Redis Stack",
     "Memurai",
@@ -17,7 +17,6 @@
   ],
   "gap_flags": [
     "incomplete_steps",
-    "missing_command",
     "missing_config"
   ],
   "evidence_flags": {

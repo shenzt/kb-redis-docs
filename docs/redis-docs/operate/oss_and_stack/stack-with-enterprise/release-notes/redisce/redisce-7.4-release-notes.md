@@ -5,20 +5,12 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Redis Community Edition 7.4 release notes.
-id: e55139ee
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v7.4.0 (July 2024)
 min-version-db: blah
 min-version-rs: blah
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisce/redisce-7.4-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisce 7.4 Release Notes
 weight: 100
 ---
-
 ## Redis Community Edition 7.4.7 (November 2025)
 
 Update urgency: `HIGH`: There is a critical bug that may affect a subset of users.

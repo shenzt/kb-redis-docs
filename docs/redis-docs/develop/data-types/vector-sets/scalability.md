@@ -8,14 +8,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Scale Redis vector sets to handle larger data sets and workloads
-id: ef71c475
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Scalability
-source_commit: a9ff1a3
-source_path: content/develop/data-types/vector-sets/scalability.md
-source_repo: https://github.com/redis/docs
 title: Scalability
 weight: 20
 ---

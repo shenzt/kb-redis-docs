@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/lua-api
 categories:
 - docs
 - develop
@@ -11,16 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
+aliases: 
+- /develop/interact/programmability/lua-api
 description: 'Executing Lua in Redis
 
   '
-id: a9efc34c
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Lua API
-source_commit: a9ff1a3
-source_path: content/develop/programmability/lua-api.md
-source_repo: https://github.com/redis/docs
 title: Redis Lua API reference
 weight: 3
 ---

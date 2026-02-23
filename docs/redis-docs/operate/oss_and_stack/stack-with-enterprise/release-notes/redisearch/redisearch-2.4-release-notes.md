@@ -5,21 +5,13 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Vector Similarity Search (VSS). New query syntax Dialect version 2. Choose
   between Dialect 1 and Dialect 2 for query parser behavior. Hybrid queries.
-id: 6d3d4d95
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v2.4 (March 2022)
 min-version-db: 6.0.0
 min-version-rs: 6.0.0
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisearch/redisearch-2.4-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisearch 2.4 Release Notes
 weight: 93
 ---
-
 ## Requirements
 
 RediSearch v2.4.16 requires:

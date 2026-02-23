@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:871b7037750a62409592a0aab86fb74f0c301aa2",
+  "generated_at": "2026-02-23T23:36:47Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document recover.md details the process for recovering databases and clusters in Redis Enterprise, including prerequisites, manual steps via rladmin, and automatic recovery configuration.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster recovery",
+    "persistence files",
+    "rladmin",
+    "recovery_wait_time",
+    "automatic recovery"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

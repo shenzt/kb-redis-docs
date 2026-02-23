@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:0daf69c5d125178947809eee20174dfc49323822",
-  "generated_at": "2026-02-18T06:57:41Z",
+  "generated_at": "2026-02-23T23:29:48Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Redis Stack 7.4.0-v1 release notes detail a maintenance update with security fixes for vulnerabilities like RCE and DoS, and list updated module and client library versions.",
+  "contextual_summary": "Redis Stack 7.4.0-v1 release notes detail a maintenance release with security fixes for vulnerabilities like RCE and DoS, and list updated component and client library versions.",
   "doc_type": "overview",
-  "quality_score": 8,
+  "quality_score": 7,
   "key_concepts": [
     "Redis Stack",
     "CVE-2024-31449",
     "RediSearch",
     "Redis Insight",
-    "maintenance release"
+    "client libraries"
   ],
   "gap_flags": [
     "incomplete_steps",

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7372f7fcc06bd8df3fa015da43015589a5c0046f",
+  "generated_at": "2026-02-23T23:26:14Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document replica-redb.md explains how to configure a database replica by creating a secret with a source URI and using it in a RedisEnterpriseDatabase custom resource, including retrieving the URI via kubectl.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "replicaSources",
+    "RedisEnterpriseDatabase",
+    "Secret",
+    "replica source URI",
+    "kubectl"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

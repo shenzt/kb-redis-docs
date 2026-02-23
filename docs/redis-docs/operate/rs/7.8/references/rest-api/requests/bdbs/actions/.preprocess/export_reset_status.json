@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:261f3c745b18d673a15fb994166be93bcf3cf135",
+  "generated_at": "2026-02-23T23:38:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document describes a PUT API endpoint to reset a database's export status to idle and clear the export failure reason, provided no export is currently in progress.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "export_status",
+    "export_reset_status",
+    "uid",
+    "permissions",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

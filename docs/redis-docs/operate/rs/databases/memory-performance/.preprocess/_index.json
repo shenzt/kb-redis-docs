@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f74d1efc9cf6b32192142400e5ffcfbc32253b73",
+  "generated_at": "2026-02-23T23:39:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md covers Redis Software's mechanisms for optimizing storage and performance, including memory limits, eviction policies, persistence, flash memory support, and client-side caching.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "memory limits",
+    "eviction policies",
+    "database persistence",
+    "flash memory",
+    "client-side caching"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

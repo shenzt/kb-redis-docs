@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:183b0cb4cdaf867e14146deae398a6e1f149d3a0",
+  "generated_at": "2026-02-23T23:39:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The purge-instance.md document describes the crdb-cli command to delete data from a local database instance and remove it from the Active-Active configuration.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "crdb-cli",
+    "purge-instance",
+    "GUID",
+    "instance-id",
+    "task ID"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

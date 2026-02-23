@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ce744b2502e8ce518d3df16a0987d41e4799ea28",
+  "generated_at": "2026-02-23T23:30:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to download and use the Redis Cloud cost report, detailing its structure, purpose for cost tracking and analysis, and how to access it via the UI or REST API in FOCUS format.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Cloud cost report",
+    "FOCUS format",
+    "Essentials subscriptions",
+    "Pro subscriptions",
+    "billing unit types"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

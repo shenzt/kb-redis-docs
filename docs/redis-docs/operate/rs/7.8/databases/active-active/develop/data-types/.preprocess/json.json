@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:67571aa57cbb93bc6e715bdacd3abee8d95482bf",
+  "generated_at": "2026-02-23T23:36:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document json.md covers enabling and using JSON data structures in Active-Active Redis databases, referencing a specific CRDT design and implementation changes.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "Active-Active databases",
+    "JSON data structures",
+    "conflict resolution rules",
+    "Redis Cloud",
+    "Redis Enterprise Software"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

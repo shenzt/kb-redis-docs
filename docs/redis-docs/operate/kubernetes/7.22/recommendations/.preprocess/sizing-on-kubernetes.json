@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8d14038b8a59d9b98f3f5d709f8feb67d6dd9d24",
+  "generated_at": "2026-02-23T23:26:17Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document sizing-on-kubernetes.md covers sizing and scaling mechanisms for a Redis Enterprise cluster deployment on Kubernetes, including setting node count and compute resources.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "redis-enterprise-cluster.yaml",
+    "redisEnterpriseNodeResources",
+    "kubectl apply",
+    "limits",
+    "requests"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

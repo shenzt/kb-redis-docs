@@ -9,15 +9,9 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Top-K is a probabilistic data structure that allows you to find the most
   frequent items in a data stream.
-id: 73073dca
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Top-K
-source_commit: a9ff1a3
-source_path: content/develop/data-types/probabilistic/top-k.md
-source_repo: https://github.com/redis/docs
 stack: true
 title: Top-K
 weight: 50

@@ -4,13 +4,7 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
-id: e66ce1ca
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Ubuntu 22.04 (Jammy)
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/install/build-stack/ubuntu-jammy.md
-source_repo: https://github.com/redis/docs
 title: Build and run Redis Open Source on Ubuntu 22.04 (Jammy)
 weight: 30
 ---

@@ -8,15 +8,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
-description: Learn how Redis vector sets behave under load and how to optimize for
-  speed and recall
-id: 70ed9306
-ingested_at: '2026-02-14T15:01:27Z'
+description: Learn how Redis vector sets behave under load and how to optimize for speed and recall
 linkTitle: Performance
-source_commit: a9ff1a3
-source_path: content/develop/data-types/vector-sets/performance.md
-source_repo: https://github.com/redis/docs
 title: Performance
 weight: 15
 ---

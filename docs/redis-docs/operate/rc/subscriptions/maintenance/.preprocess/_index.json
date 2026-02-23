@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d35241811f3a6e23a51f7b52c59f1d18e77a9ee3",
+  "generated_at": "2026-02-23T23:30:55Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md covers Redis Cloud maintenance policies, including maintenance windows for Pro and Essentials plans, typical maintenance activities, and how to configure notifications.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Maintenance windows",
+    "Redis Cloud Pro",
+    "Redis Cloud Essentials",
+    "Operational emails",
+    "Urgent maintenance"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

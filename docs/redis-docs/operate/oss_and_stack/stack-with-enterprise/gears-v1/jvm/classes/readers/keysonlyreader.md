@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Gets key names from a database.
-id: 1458af31
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: KeysOnlyReader
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/classes/readers/keysonlyreader.md
-source_repo: https://github.com/redis/docs
-title: Keysonlyreader
 weight: 60
 ---
 
@@ -53,3 +46,4 @@ Only get keys that start with "user:":
 ```java
 KeysOnlyReader reader = new KeysOnlyReader(1000, "user:*");
 ```
+

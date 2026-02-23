@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0d8e3a22db52c6329792bea863c710d067a0ae9f",
+  "generated_at": "2026-02-23T23:40:39Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "An API reference for a Redis shard object, detailing its properties, types, and descriptions.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "shard",
+    "uid",
+    "assigned_slots",
+    "role",
+    "status"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

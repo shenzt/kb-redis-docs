@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:842cf990c2e6a038e893f23f609e1d12a152822f",
+  "generated_at": "2026-02-23T23:35:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The recover.md document details the API endpoints for retrieving a database recovery plan and initiating a database recovery process.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "recovery plan",
+    "data_files",
+    "action_uid",
+    "shard_slots",
+    "ignore_errors"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

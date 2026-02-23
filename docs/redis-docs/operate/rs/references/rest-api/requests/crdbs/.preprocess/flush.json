@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c7944d38528fcc303b219b493b2ffa10c05ba31b",
+  "generated_at": "2026-02-23T23:41:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The flush.md document details the PUT API endpoint for flushing an Active-Active database, including its request parameters, headers, and response codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Active-Active database",
+    "flush",
+    "CRDB task object",
+    "async_flush",
+    "crdb_guid"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

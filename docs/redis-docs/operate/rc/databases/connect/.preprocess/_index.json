@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7dc7cd441335e9e6ce3440eb86195a0d1c3d3f9f",
+  "generated_at": "2026-02-23T23:30:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document explains how to connect to a Redis database after creation, covering obtaining credentials, using the connection wizard, and methods like Redis Insight, redis-cli, and client libraries.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "default user",
+    "connection wizard",
+    "redis-cli",
+    "Role-based access control",
+    "Redis Insight"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

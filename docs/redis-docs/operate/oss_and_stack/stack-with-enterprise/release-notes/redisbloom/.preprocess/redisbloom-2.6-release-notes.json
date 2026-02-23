@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:2a7d339ec14fcf97c1ba9f36cf84e50ea37921c1",
-  "generated_at": "2026-02-18T06:57:27Z",
+  "generated_at": "2026-02-23T23:29:32Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RedisBloom 2.6 release notes detail version requirements, maintenance updates, bug fixes, security patches, and improvements like new OS support and RESP3 compatibility.",
-  "doc_type": "overview",
+  "contextual_summary": "The document redisbloom-2.6-release-notes.md covers the release notes, requirements, and detailed changes including bug fixes, improvements, and security updates for RedisBloom version 2.6.",
+  "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "RedisBloom",
     "CMS.INCRBY",
-    "CVE-2024-53993",
-    "RESP3",
-    "Update urgency"
+    "CMS.MERGE",
+    "TOPK.ADD",
+    "RESP3"
   ],
   "gap_flags": [
     "incomplete_steps",

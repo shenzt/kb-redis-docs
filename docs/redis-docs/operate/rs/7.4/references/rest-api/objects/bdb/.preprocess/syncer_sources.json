@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8a2e1ba6b639aca6e2606d1dc3d1da4d72833680",
+  "generated_at": "2026-02-23T23:35:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document syncer_sources.md defines the fields and parameters for configuring and monitoring a Redis replication source in a syncing system.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "uid",
+    "encryption",
+    "lag",
+    "status",
+    "uri"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

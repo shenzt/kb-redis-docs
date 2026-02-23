@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:df2c274599aee3000e27998f81ff03db479e9d0a",
+  "generated_at": "2026-02-23T23:30:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This guide covers the steps to create a free Redis database, including selecting a subscription type, configuring the database name, version, cloud vendor, and region.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Free database",
+    "Subscription",
+    "Cloud vendor",
+    "Region",
+    "Database version"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

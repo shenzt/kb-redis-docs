@@ -9,15 +9,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
-description: Multi-key command behavior across Redis configurations and clustering
-  setups
-id: 227377d9
-ingested_at: '2026-02-14T15:01:27Z'
+description: Multi-key command behavior across Redis configurations and clustering setups
 linkTitle: Multi-key operations
-source_commit: a9ff1a3
-source_path: content/develop/using-commands/multi-key-operations.md
-source_repo: https://github.com/redis/docs
 title: Multi-key operations
 weight: 35
 ---

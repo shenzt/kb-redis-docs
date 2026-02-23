@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4b644fd29931f47b55d4303b35a8a1abcf6ac6bf",
+  "generated_at": "2026-02-23T23:38:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides a REST API reference for managing OCSP configuration, detailing GET and PUT endpoints for retrieving and updating settings.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "OCSP configuration",
+    "REST API",
+    "permissions",
+    "error codes",
+    "status codes"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

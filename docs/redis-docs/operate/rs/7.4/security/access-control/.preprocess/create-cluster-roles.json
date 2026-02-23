@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:43ef867bde2254c66c175c170d58b0f28784d318",
+  "generated_at": "2026-02-23T23:36:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document create-cluster-roles.md describes the default management roles in Redis Enterprise Software, their associated UI and API permissions, and the process for creating new roles with cluster access.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Cluster management role",
+    "DB Viewer",
+    "Cluster Member",
+    "Admin",
+    "Access Control"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": true
+  }
+}

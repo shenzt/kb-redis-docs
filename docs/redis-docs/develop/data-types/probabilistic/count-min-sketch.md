@@ -9,15 +9,9 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Count-min sketch is a probabilistic data structure that estimates the
   frequency of an element in a data stream.
-id: 5f323784
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Count-min sketch
-source_commit: a9ff1a3
-source_path: content/develop/data-types/probabilistic/count-min-sketch.md
-source_repo: https://github.com/redis/docs
 stack: true
 title: Count-min sketch
 weight: 60

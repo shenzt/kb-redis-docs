@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fe9c49f2aa30dd30af4fc9d8d943e9d8c54f3342",
+  "generated_at": "2026-02-23T23:38:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md is a REST API reference for managing Redis ACLs, detailing endpoints for GET, PUT, POST, and DELETE operations with permissions, request/response examples, and status codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "Redis ACL",
+    "permissions",
+    "HTTP methods",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

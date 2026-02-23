@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:01ad63de392b7976eff215067211e9aef4acb09c",
+  "generated_at": "2026-02-23T23:39:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document outlines prerequisites and planning steps for installing Redis Software, covering hardware, platform selection, networking, and configuration.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "hardware requirements",
+    "deployment platform",
+    "network ports",
+    "cluster DNS",
+    "offline installation"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

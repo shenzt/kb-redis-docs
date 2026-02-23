@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4f77f73a54ef48130fd29c35ae25f6422b9adb51",
+  "generated_at": "2026-02-23T23:36:14Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'enable-tls.md' covers procedures for enabling TLS authentication for client connections, Active-Active synchronization, and Replica Of replication in a database.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "TLS authentication",
+    "mutual TLS",
+    "client connections",
+    "Active-Active synchronization",
+    "Replica Of replication"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: How to run Redis Open Source on Windows
-id: 4a82082f
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Windows
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/install/install-stack/windows.md
-source_repo: https://github.com/redis/docs
 title: Run Redis Open Source on Windows using Docker
 weight: 7
 ---

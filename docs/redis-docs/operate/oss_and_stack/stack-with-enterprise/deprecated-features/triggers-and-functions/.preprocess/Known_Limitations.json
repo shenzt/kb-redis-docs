@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:4bc985b4d02dd29fab147af966c93610fedb39c8",
-  "generated_at": "2026-02-18T06:57:04Z",
+  "generated_at": "2026-02-23T23:29:02Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers known limitations for JavaScript functions in Redis, including write operation restrictions, exclusive keyspace access, available JavaScript variables, and sandboxing constraints.",
+  "contextual_summary": "Known limitations of JavaScript remote functions in Redis, covering write operation restrictions, exclusive keyspace access, available JavaScript variables, and sandboxing.",
   "doc_type": "reference",
   "quality_score": 7,
   "key_concepts": [
     "JavaScript remote functions",
-    "async_client.runOnShards",
-    "registerKeySpaceTrigger",
-    "exclusive single-threaded access",
+    "shard",
+    "keyspace",
+    "asynchronous functions",
     "sandboxed"
   ],
   "gap_flags": [

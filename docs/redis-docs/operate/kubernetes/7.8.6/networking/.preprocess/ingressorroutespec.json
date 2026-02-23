@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ce201624c782f22ed3cb08494972aa731d7035c3",
+  "generated_at": "2026-02-23T23:27:19Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers configuring external access to Redis Enterprise for Kubernetes using Ingress controllers or OpenShift routes, including installation, DNS setup, and patching the REC spec.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Ingress",
+    "ssl-passthrough",
+    "REC spec",
+    "OpenShift routes",
+    "LoadBalancer service"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

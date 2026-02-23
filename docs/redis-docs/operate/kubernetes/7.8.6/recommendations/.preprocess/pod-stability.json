@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:bf8242158799ecf8fd08fde626f56c3ccde79656",
+  "generated_at": "2026-02-23T23:27:25Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document pod-stability.md covers configuring Redis Enterprise node pods in Kubernetes for stability through guaranteed QoS, priority classes, eviction policies, and monitoring.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Guaranteed quality of service",
+    "priority class",
+    "eviction policy",
+    "MemoryPressure",
+    "DiskPressure"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

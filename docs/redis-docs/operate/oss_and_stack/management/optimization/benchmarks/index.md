@@ -4,18 +4,11 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: Use the redis-benchmark utility on a Redis server
-id: fc275d19
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Benchmarking
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/management/optimization/benchmarks/index.md
-source_repo: https://github.com/redis/docs
 title: Redis benchmark
 weight: 1
 ---
-
 ## How fast is Redis?
 
 Redis includes the `redis-benchmark` utility that simulates running commands done

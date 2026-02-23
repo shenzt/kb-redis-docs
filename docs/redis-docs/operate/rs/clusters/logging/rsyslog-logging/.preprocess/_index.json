@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:01e6401adb31dc0b00c34c3ba0ae79b7c1442df5",
+  "generated_at": "2026-02-23T23:38:58Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md covers Redis Software logging concepts, including log entry types, severity configuration via rsyslog, and the structure of log entries for alerts and events.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "syslog",
+    "rsyslog",
+    "log entries",
+    "severity",
+    "alerts"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

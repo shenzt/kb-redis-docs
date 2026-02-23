@@ -4,13 +4,7 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
-id: f4a39d36
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: AlmaLinux/Rocky 8.10
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/install/build-stack/almalinux-rocky-8.md
-source_repo: https://github.com/redis/docs
 title: Build and run Redis Open Source on AlmaLinux/Rocky Linux 8.10
 weight: 5
 ---

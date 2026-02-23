@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:4073bba58451edb765ae90520c95393026edc52e",
-  "generated_at": "2026-02-18T06:56:36Z",
+  "generated_at": "2026-02-23T23:25:19Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Redis FAQ document covers differences from other key-value stores, memory footprint, key expiration behavior, and the origin and pronunciation of the Redis name.",
+  "contextual_summary": "The Redis FAQ document explains Redis's unique features, memory usage, key expiration behavior, name origin, and project history.",
   "doc_type": "overview",
   "quality_score": 7,
   "key_concepts": [
@@ -13,10 +13,10 @@
     "RDB",
     "AOF",
     "key expiration",
-    "memory footprint"
+    "INFO command"
   ],
   "gap_flags": [
-    "missing_command",
+    "incomplete_steps",
     "missing_example"
   ],
   "evidence_flags": {

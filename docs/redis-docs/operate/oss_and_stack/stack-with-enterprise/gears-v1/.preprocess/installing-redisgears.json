@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:6424d47516e789fc72217f73f30574e4188673ad",
-  "generated_at": "2026-02-18T06:57:09Z",
+  "generated_at": "2026-02-23T23:29:08Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers installing, upgrading, and uninstalling the RedisGears module on a Redis Software cluster, detailing both online and offline methods.",
+  "contextual_summary": "The document installing-redisgears.md covers the installation, upgrade, and uninstallation procedures for the RedisGears module on a Redis Software cluster, including online and offline methods.",
   "doc_type": "guide",
   "quality_score": 8,
   "key_concepts": [
@@ -13,7 +13,7 @@
     "offline installation",
     "dependencies",
     "rladmin upgrade",
-    "module"
+    "REST API"
   ],
   "gap_flags": [
     "missing_config",

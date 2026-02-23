@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9a2ad11a3f8c73646817003b3b159dbe979a4e0c",
+  "generated_at": "2026-02-23T23:38:52Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers procedures for demoting a primary node to a secondary node and promoting a secondary node to the primary node in a Redis Software cluster using both the Cluster Manager UI and the rladmin CLI.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "primary node",
+    "secondary node",
+    "rladmin",
+    "demote",
+    "promote"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fa63014bcc43daa116b8bd6d44a01020aa27364c",
+  "generated_at": "2026-02-23T23:40:10Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'auto-tiering.md' lists and describes the additional metrics available in the Redis Software Cluster Manager UI for Redis Flex and Auto Tiering databases.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "% Values in RAM",
+    "Flash key-value operations",
+    "RAM:Flash access ratio",
+    "RAM hit ratio",
+    "Storage engine usage"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:d41741529daeb7700b86acd26979a2eb0670f307",
-  "generated_at": "2026-02-18T06:56:31Z",
+  "generated_at": "2026-02-23T23:25:15Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Redis 8.6 streams support idempotent message processing to prevent duplicate entries, detailing how producers can use unique IDs or automatic content-based IDs with the XADD command for reliable, at-most-once message delivery.",
-  "doc_type": "reference",
+  "contextual_summary": "Redis 8.6 streams support idempotent message processing to prevent duplicate entries, detailing its purpose, producer scenarios, implementation via XADD commands, configuration, and performance.",
+  "doc_type": "overview",
   "quality_score": 8,
   "key_concepts": [
     "idempotent message processing",
     "idempotent ID (iid)",
-    "XADD command",
-    "at-most-once production",
-    "deduplication"
+    "XADD",
+    "IDMP-DURATION",
+    "IDMP-MAXSIZE"
   ],
   "gap_flags": [
     "missing_example"

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:71ef9ec5e39fd0ccdd0446eb4e7c9b3857144e85",
+  "generated_at": "2026-02-23T23:30:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains Redis Flex databases, their SSD and RAM architecture, ideal use cases, data location principles, and provides steps for creating a Redis Flex database on both Redis Cloud Essentials and Pro.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Flex",
+    "working set",
+    "hot data",
+    "flash memory",
+    "RAM hit rate"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

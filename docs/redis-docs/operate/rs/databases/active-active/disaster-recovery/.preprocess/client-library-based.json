@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:44b351bf6e1217f993ee3804d760c5233c093641",
+  "generated_at": "2026-02-23T23:39:09Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers client library-based disaster recovery for Redis Active-Active databases, detailing advantages, considerations, and providing related guides.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "geographic failover",
+    "client libraries",
+    "Active-Active database",
+    "connection pooling",
+    "OSS Cluster API"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

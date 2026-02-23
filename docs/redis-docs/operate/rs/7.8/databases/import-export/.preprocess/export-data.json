@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4a8f5462b1f7d46e6d0ba9422a6cbbd14e3f6d38",
+  "generated_at": "2026-02-23T23:36:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to export data from a Redis Enterprise database to various supported storage destinations, detailing prerequisites, the two-step export process, and UI-based steps.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Export",
+    "Database clustering",
+    "Storage destinations",
+    "Local mount point",
+    "Azure Blob Storage"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

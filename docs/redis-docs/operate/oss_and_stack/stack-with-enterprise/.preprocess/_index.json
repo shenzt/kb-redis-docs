@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c7780e2a69bfc43fceec53b0f91030951154a8e5",
+  "generated_at": "2026-02-23T23:28:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md states that Redis Software and Redis Cloud support all Redis Open Source features, including querying, indexing, full-text search, and support for JSON, time series, and probabilistic data structures.",
+  "doc_type": "overview",
+  "quality_score": 3,
+  "key_concepts": [
+    "Redis Software",
+    "Redis Cloud",
+    "Redis Open Source",
+    "full-text search",
+    "JSON"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

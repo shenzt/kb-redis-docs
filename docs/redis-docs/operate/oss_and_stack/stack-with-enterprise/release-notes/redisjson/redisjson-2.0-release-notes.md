@@ -5,21 +5,13 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Index JSON documents. JSONPath support. Commands operate on multiple
   paths.
-id: 91f82bad
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v2.0 (November 2021)
 min-version-db: 6.0.0
 min-version-rs: 6.0.0
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisjson/redisjson-2.0-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisjson 2.0 Release Notes
 weight: 99
 ---
-
 ## Requirements
 
 RedisJSON v2.0.11 requires:

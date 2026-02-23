@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:52a93cbc60a2006e7113880228a4b1701cce27d3",
+  "generated_at": "2026-02-23T23:24:20Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers Redis 8's enhanced query engine behavior regarding the expiration of keys and hash fields, detailing changes in how active and passive expiration affect query results.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "key expiration",
+    "field expiration",
+    "active expiration",
+    "passive expiration",
+    "Redis Query Engine"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

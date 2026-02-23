@@ -4,16 +4,10 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: 'A guide to debugging Redis server processes
 
   '
-id: '41480601'
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Debugging
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/management/debugging.md
-source_repo: https://github.com/redis/docs
 title: Debugging
 weight: 10
 ---

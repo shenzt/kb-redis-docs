@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7910a7adbddc2dfefab5451c1d036e6ece559082",
+  "generated_at": "2026-02-23T23:34:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document resource-usage.md lists and defines metrics for monitoring database performance, including connections, CPU, memory, disk space, and traffic, specifying the components each metric measures.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Connections",
+    "CPU usage",
+    "Used memory",
+    "Memory limit",
+    "Traffic"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

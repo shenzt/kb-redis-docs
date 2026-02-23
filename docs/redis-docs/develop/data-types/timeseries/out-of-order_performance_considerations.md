@@ -1,9 +1,4 @@
 ---
-aliases:
-- /develop/data-types/timeseries/reference/out-of-order_performance_considerations
-- /develop/data-types/timeseries/reference/out-of-order_performance_considerations/
-- /develop/data-types/timeseries/reference/
-- /develop/data-types/timeseries/reference
 categories:
 - docs
 - develop
@@ -14,16 +9,15 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: 'Out-of-order / backfilled ingestion performance considerations
 
   '
-id: 5debb9af
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Out-of-order/backfill performance
-source_commit: a9ff1a3
-source_path: content/develop/data-types/timeseries/out-of-order_performance_considerations.md
-source_repo: https://github.com/redis/docs
+aliases:
+- /develop/data-types/timeseries/reference/out-of-order_performance_considerations
+- /develop/data-types/timeseries/reference/out-of-order_performance_considerations/
+- /develop/data-types/timeseries/reference/
+- /develop/data-types/timeseries/reference
 title: Out-of-order / backfilled ingestion performance considerations
 weight: 5
 ---

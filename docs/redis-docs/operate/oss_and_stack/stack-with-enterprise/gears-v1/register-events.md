@@ -5,16 +5,9 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Register RedisGears functions to run when certain events occur in a Redis
   database.
-id: 2dfd071b
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Register events
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/register-events.md
-source_repo: https://github.com/redis/docs
-title: Register Events
 toc: 'true'
 weight: 80
 ---

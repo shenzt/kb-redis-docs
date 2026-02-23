@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2a9b84f1421011f310b8d038b605248871415267",
+  "generated_at": "2026-02-23T23:22:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document SVS-VAMANA Vector Search covers a graph-based vector search algorithm optimized with compression for memory efficiency and Intel hardware, including its workings, use cases, and a tutorial structure.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "SVS-VAMANA",
+    "VAMANA graph algorithm",
+    "vector compression",
+    "LeanVec",
+    "CompressionAdvisor"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

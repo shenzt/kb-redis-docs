@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ec9ead6b93b36c4b141655cbf2a48d4b061c388f",
+  "generated_at": "2026-02-23T23:32:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document recover.md describes commands for recovering Redis Enterprise databases from persistence files or S3, including rladmin recover all, recover db, and recover s3_import.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "rladmin recover",
+    "database recovery",
+    "persistence files",
+    "only_configuration",
+    "S3 import"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

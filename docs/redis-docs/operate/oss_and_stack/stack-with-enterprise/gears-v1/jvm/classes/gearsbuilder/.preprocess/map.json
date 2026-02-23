@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:6f0d48b5bec396f9ed23681a3112ed87457af17a",
-  "generated_at": "2026-02-18T06:57:15Z",
+  "generated_at": "2026-02-23T23:29:16Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers the `map` method in GearsBuilder for JVM, which transforms each input record to an output record in a one-to-one mapping.",
+  "contextual_summary": "The map.md document describes the `map` method in GearsBuilder, which transforms each input record to an output record using a MapOperation.",
   "doc_type": "reference",
-  "quality_score": 7,
+  "quality_score": 8,
   "key_concepts": [
     "GearsBuilder",
     "map",
     "MapOperation",
-    "serializable",
+    "Serializable",
     "template type"
   ],
   "gap_flags": [],

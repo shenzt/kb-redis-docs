@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:938bc35beccfb11caecf9b0bd2e733855df2e642",
+  "generated_at": "2026-02-23T23:25:36Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisInsight 2.36.0 release notes cover the GA release from October 2023, highlighting optimizations for handling large Redis strings and improved security for sensitive data.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis strings",
+    "search index",
+    "geo polygon",
+    "Pickle protocol",
+    "security measurement"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

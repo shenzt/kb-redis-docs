@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a9da3393e5b0ff22682b0e927efd821cf758dbba",
+  "generated_at": "2026-02-23T23:24:06Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The LLM Session Manager document covers the SemanticSessionManager class for storing and retrieving user-LLM conversation history using semantic search and Redis.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "SemanticSessionManager",
+    "vectorizer",
+    "distance_threshold",
+    "session_tag",
+    "redis_client"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

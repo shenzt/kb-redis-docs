@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:463f058cc5e76439d5124cbb5cf76895709e016a",
-  "generated_at": "2026-02-18T06:56:53Z",
+  "generated_at": "2026-02-23T23:28:48Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The debugging guide explains how to use GDB to generate crash reports and core dumps for Redis to help developers diagnose issues.",
-  "doc_type": "troubleshooting",
+  "contextual_summary": "This debugging guide covers using GDB to attach to a running Redis process, generate a core dump after a crash, and provide necessary files and information to developers for issue tracking.",
+  "doc_type": "guide",
   "quality_score": 8,
   "key_concepts": [
     "GDB",
-    "core file",
+    "core dump",
     "crash report",
     "stack trace",
     "compiler optimizations"

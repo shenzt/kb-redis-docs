@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: Upgrade a Redis Open Source cluster to Redis 8
-id: a5217945
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Redis cluster
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/install/upgrade/cluster.md
-source_repo: https://github.com/redis/docs
 title: Upgrade a Redis cluster to Redis 8
 weight: 30
 ---

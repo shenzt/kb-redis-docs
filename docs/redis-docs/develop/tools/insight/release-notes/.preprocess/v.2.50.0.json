@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ce4331c0fa154645ff769bf9dd642929befba77c",
+  "generated_at": "2026-02-23T23:25:39Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Insight 2.50 release notes cover a new tutorial for common Redis use cases, UX and performance enhancements for JSON data handling, a Redis Cloud account quick-access button, and a change to lexicographical sorting in the Tree view.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Insight",
+    "JSON data structure",
+    "Redis Cloud",
+    "Tree view",
+    "lexicographical"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

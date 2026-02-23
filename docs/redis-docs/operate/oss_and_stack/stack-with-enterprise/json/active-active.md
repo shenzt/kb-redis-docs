@@ -5,17 +5,10 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: JSON support and conflict resolution rules for Active-Active databases.
-id: 26c32096
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Active-Active databases
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/json/active-active.md
-source_repo: https://github.com/redis/docs
-title: Active Active
-tocEmbedHeaders: true
 weight: 50
+tocEmbedHeaders: true
 ---
 
 RedisJSON v2.2 adds support for JSON in [Active-Active Redis Software databases]({{< relref "/operate/rs/databases/active-active" >}}).

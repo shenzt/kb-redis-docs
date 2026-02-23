@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:59991da4c7ce8df2cef3dfe577c7f5792fc06754",
+  "generated_at": "2026-02-23T23:26:47Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md covers the rolling update process for upgrading Redis Enterprise in Kubernetes, including component order, compatibility considerations, and the pod-by-pod upgrade mechanism.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "rolling upgrade",
+    "Redis Enterprise cluster (REC)",
+    "Redis Enterprise operator",
+    "upgrade compatibility",
+    "primary shard"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

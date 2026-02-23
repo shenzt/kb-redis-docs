@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:03f4a622185916dff73e6181d2662de11c9a951e",
+  "generated_at": "2026-02-23T23:40:54Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md describes the deprecated GET endpoint for retrieving a CRDB's syncer state, including its request format, permissions, and response details.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "syncer state",
+    "CRDB",
+    "deprecated",
+    "endpoint",
+    "permissions"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

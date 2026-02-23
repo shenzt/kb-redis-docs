@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1c20899b5f821222526b6c56a7beba7a797af1f4",
+  "generated_at": "2026-02-23T23:36:02Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Terminology in Redis Enterprise Software explains core architectural components like nodes, shards, proxies, and the cluster manager.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Node",
+    "Redis instance (shard)",
+    "Proxy",
+    "Cluster manager",
+    "High availability"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

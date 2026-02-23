@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:ef75e6ec65871ec0b41c932930eb58be85bf886b",
-  "generated_at": "2026-02-18T06:57:11Z",
+  "generated_at": "2026-02-23T23:29:11Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The asyncMap function in Redis Gears JVM API asynchronously maps each input record to an output record using a GearsFuture object.",
+  "contextual_summary": "The asyncmap.md document describes the asyncMap function for asynchronously mapping input records to output records using GearsFuture in a Java context.",
   "doc_type": "reference",
   "quality_score": 7,
   "key_concepts": [
     "asyncMap",
+    "GearsBuilder",
     "GearsFuture",
     "AsyncMapOperation",
-    "GearsBuilder",
     "asynchronous mapping"
   ],
   "gap_flags": [
-    "missing_example"
+    "incomplete_steps"
   ],
   "evidence_flags": {
     "has_command": false,

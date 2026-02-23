@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a50be65c0db912c9b8c5f270cca74fbc94011878",
+  "generated_at": "2026-02-23T23:40:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'transactions.md' is a compatibility table showing which Redis transaction commands are supported in Redis Software and Redis Cloud for both Standard and Active-Active database deployments.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "DISCARD",
+    "EXEC",
+    "MULTI",
+    "UNWATCH",
+    "WATCH"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

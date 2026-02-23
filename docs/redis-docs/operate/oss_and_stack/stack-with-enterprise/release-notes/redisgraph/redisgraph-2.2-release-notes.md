@@ -5,20 +5,12 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Support for scaling reads, OPTIONAL MATCH, query caching, and GRAPH.SLOWLOG.
-id: b2f10184
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v2.2 (November 2020)
 min-version-db: 5.0.7
 min-version-rs: 6.0.8
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisgraph/redisgraph-2.2-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisgraph 2.2 Release Notes
 weight: 97
 ---
-
 ## Requirements
 
 RedisGraph v2.2.16 requires:

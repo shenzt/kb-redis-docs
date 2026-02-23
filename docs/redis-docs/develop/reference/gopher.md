@@ -9,14 +9,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: The Redis Gopher protocol implementation
-id: 709c3d3f
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Gopher protocol
-source_commit: a9ff1a3
-source_path: content/develop/reference/gopher.md
-source_repo: https://github.com/redis/docs
 title: Redis and the Gopher protocol
 weight: 10
 ---

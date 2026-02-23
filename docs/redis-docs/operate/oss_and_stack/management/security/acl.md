@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: Redis Access Control List
-id: 053594d0
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: ACL
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/management/security/acl.md
-source_repo: https://github.com/redis/docs
 title: ACL
 weight: 1
 ---

@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:94c8559588b0e8dded4e6f57596bdb71493167d6",
-  "generated_at": "2026-02-18T06:57:33Z",
+  "generated_at": "2026-02-23T23:29:37Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The RediSearch 2.2 release notes document details version-specific requirements, update urgencies, and lists improvements and bug fixes for maintenance releases like v2.2.10 and v2.2.9.",
+  "contextual_summary": "The document covers the RediSearch v2.2 release notes, detailing version-specific requirements, update urgencies, improvements, and bug fixes for maintenance releases.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "RediSearch",
     "JSON indexing",
-    "bug fixes",
     "FT.SEARCH",
-    "aggregation function"
+    "aggregation function",
+    "memory leak"
   ],
   "gap_flags": [
     "incomplete_steps",

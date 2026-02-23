@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e63060f0b23a275bedf5725ce2e8a39db5a15b4f",
+  "generated_at": "2026-02-23T23:38:46Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers renewing self-signed certificates and replacing them with CA-signed certificates for Redis Enterprise Software, including script usage and manual procedures.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "self-signed certificates",
+    "certificate authority",
+    "generate_self_signed_certs.sh",
+    "rladmin",
+    "openssl"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

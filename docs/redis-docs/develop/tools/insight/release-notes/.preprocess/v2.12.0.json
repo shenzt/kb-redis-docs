@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3370a2e0a4e293514db778083d8916a46ce1c79a",
+  "generated_at": "2026-02-23T23:25:52Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The release notes for RedisInsight 2.12.0 cover the GA release, highlighting new Database Analysis features, performance improvements for loading keys and processing large results, and bug fixes.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Database Analysis",
+    "Redis Stack",
+    "Performance optimizations",
+    "Workbench",
+    "Sorted sets"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

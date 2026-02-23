@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9c491e54d8a9e08c39fde006a84c4b2b8ea5e7b6",
+  "generated_at": "2026-02-23T23:41:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software 5.4.6 release notes cover new features like the RedisTimeSeries module, updated module versions, additional capabilities, important fixes, and API changes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisTimeSeries",
+    "Active-Active Redis (CRDB)",
+    "CROSSSLOT",
+    "cluster upgrade",
+    "CLIENT UNBLOCK"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

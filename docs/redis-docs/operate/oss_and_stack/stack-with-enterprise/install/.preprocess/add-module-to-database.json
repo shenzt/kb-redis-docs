@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:cb2bcea143d9fd08df22b4241bfd60c918a115e2",
-  "generated_at": "2026-02-18T06:57:23Z",
+  "generated_at": "2026-02-23T23:29:27Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document explains how to add modules to a Redis database during creation, including prerequisites, steps in the Cluster Manager UI, and configuration options for specific modules.",
+  "contextual_summary": "This document explains how to add modules to a Redis database during creation, including prerequisites, UI steps, and configuration options.",
   "doc_type": "guide",
   "quality_score": 7,
   "key_concepts": [

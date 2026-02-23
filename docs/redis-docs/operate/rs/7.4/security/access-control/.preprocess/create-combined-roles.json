@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:efb5cd67a2b2f82f9e40a1cf9b8576a7a4f18e7f",
+  "generated_at": "2026-02-23T23:36:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document provides instructions for creating a combined role in a Redis Enterprise system that grants database access via Redis ACLs and access to the Cluster Management UI and REST API.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis ACLs",
+    "Cluster Management role",
+    "database access",
+    "role creation",
+    "access control"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

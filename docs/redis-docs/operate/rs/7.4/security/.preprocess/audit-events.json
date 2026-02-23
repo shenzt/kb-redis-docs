@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8cc192c88f06b015b4ad14f8ae6b57fc412c3e9b",
+  "generated_at": "2026-02-23T23:36:11Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software from version 6.2.18 allows auditing of database connection, authentication, and disconnect events, sent via TCP to an external listener, with configuration via rladmin commands and error code explanations.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "auditing",
+    "rladmin",
+    "TCP notifications",
+    "authentication events",
+    "audit_protocol"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

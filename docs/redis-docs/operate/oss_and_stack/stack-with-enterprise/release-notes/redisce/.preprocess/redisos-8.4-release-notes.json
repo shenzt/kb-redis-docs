@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:0472c119d1f3a215a1f7d46934d81571d126220c",
-  "generated_at": "2026-02-18T06:57:29Z",
+  "generated_at": "2026-02-23T23:29:34Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
   "contextual_summary": "Redis Open Source 8.4.1 release notes detail security fixes, bug fixes, new features, and known limitations for the February 2026 update.",
-  "doc_type": "reference",
+  "doc_type": "overview",
   "quality_score": 8,
   "key_concepts": [
     "atomic slot migration",
     "FT.HYBRID",
-    "security fixes",
     "RDB load",
-    "cluster management"
+    "personally identifiable information",
+    "cluster traffic"
   ],
   "gap_flags": [
     "incomplete_steps",

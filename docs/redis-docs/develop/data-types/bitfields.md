@@ -9,16 +9,10 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: 'Introduction to Redis bitfields
 
   '
-id: 1a0bd081
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Bitfields
-source_commit: a9ff1a3
-source_path: content/develop/data-types/bitfields.md
-source_repo: https://github.com/redis/docs
 title: Redis bitfields
 weight: 130
 ---

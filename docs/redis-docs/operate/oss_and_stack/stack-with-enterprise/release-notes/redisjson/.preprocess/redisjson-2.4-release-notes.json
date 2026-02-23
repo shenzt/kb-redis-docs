@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:9c2e0dce166f37d6f07b6ac8615464543c8c74ce",
-  "generated_at": "2026-02-18T06:57:38Z",
+  "generated_at": "2026-02-23T23:29:45Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RedisJSON 2.4 release notes detail version-specific requirements, maintenance releases with bug fixes and improvements, and new features like JSONPath filter regex support and performance enhancements.",
+  "contextual_summary": "The RedisJSON v2.4 release notes document covers version requirements, maintenance releases with bug fixes and improvements, and new features like JSONPath filter support and performance enhancements.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [

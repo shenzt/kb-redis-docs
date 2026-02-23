@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Returns a string that maps to the current shard.
-id: fc831b04
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: hashtag
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/classes/gearsbuilder/hashtag.md
-source_repo: https://github.com/redis/docs
-title: Hashtag
 weight: 50
 ---
 

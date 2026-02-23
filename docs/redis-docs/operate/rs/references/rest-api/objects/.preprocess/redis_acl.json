@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1fb9f8faba6cf97081cf00603345e168ddb52cf3",
+  "generated_at": "2026-02-23T23:40:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document redis_acl.md defines an API object representing a Redis access control list (ACL), detailing its fields like uid, acl string, name, and version constraints.",
+  "doc_type": "reference",
+  "quality_score": 6,
+  "key_concepts": [
+    "Redis ACL",
+    "access control list",
+    "API object",
+    "min_version",
+    "max_version"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

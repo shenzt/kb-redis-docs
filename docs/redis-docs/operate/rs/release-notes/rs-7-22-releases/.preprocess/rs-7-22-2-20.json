@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4af5bfd78f5617f5e59ca2776e4eb96d109cc2f5",
+  "generated_at": "2026-02-23T23:41:50Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Software version 7.22.2 release notes highlight bug fixes for the Cluster Manager UI and API, list included Redis database versions (7.4.3, 7.2.7, 6.2.13) with their compatible modules, and detail resolved security vulnerabilities.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Software",
+    "Cluster Manager UI",
+    "Redis database versions",
+    "Redis modules",
+    "CVE"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

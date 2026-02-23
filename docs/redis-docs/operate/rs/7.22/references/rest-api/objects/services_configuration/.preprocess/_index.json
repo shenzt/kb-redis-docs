@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cdae713c60fb81e6791e2baaf227af9d3ee9ca5b",
+  "generated_at": "2026-02-23T23:32:40Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md lists optional cluster services, their types, and descriptions for enabling or disabling each process.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "alert_mgr",
+    "crdb_coordinator",
+    "call_home_agent",
+    "sentinel_service",
+    "stats_archiver"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

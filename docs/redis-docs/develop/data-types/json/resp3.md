@@ -9,14 +9,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: JSON RESP2 to RESP3 replies reference for client developers
-id: f4f29eca
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: RESP3 migration guide
-source_commit: a9ff1a3
-source_path: content/develop/data-types/json/resp3.md
-source_repo: https://github.com/redis/docs
 title: Guide for migrating from RESP2 to RESP3 replies
 weight: 6
 ---

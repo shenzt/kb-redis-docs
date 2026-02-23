@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:7c5bf46bda2a452b138d5bc0d6af4b1c5fb24a87",
-  "generated_at": "2026-02-18T06:57:36Z",
+  "generated_at": "2026-02-23T23:29:42Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RedisGraph 2.2 release notes detail maintenance updates, including requirements, version-specific enhancements, performance improvements, bug fixes, and infrastructure changes.",
+  "contextual_summary": "The document covers the release notes for RedisGraph version 2.2, detailing requirements, specific version updates, and associated enhancements, performance improvements, and bug fixes.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "RedisGraph",
     "query timeouts",
-    "bulk loader",
     "full-text indexes",
+    "bulk loader",
     "performance benchmarks"
   ],
   "gap_flags": [
-    "missing_config",
+    "incomplete_steps",
     "missing_example"
   ],
   "evidence_flags": {

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7c253cf2dcfeb25dbf923e34a2fc557c13949898",
+  "generated_at": "2026-02-23T23:39:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md covers how Active-Active databases use CRDTs and the specific rules and command requirements for handling concurrent writes compared to standard Redis.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "Active-Active databases",
+    "conflict-free replicated data types (CRDTs)",
+    "conflicting concurrent writes",
+    "data types",
+    "commands"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

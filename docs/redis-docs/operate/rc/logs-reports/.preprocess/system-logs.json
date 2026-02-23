@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ab01bacb89ba9f92a8e082ad4d4bdd08bdb2333d",
+  "generated_at": "2026-02-23T23:30:38Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Logs page in the Redis Cloud console displays system events, alerts, and logs, and allows users to sort, export, refresh, and search these logs.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Logs",
+    "CSV export",
+    "sort",
+    "refresh",
+    "search"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

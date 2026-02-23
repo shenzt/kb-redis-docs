@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:44653e7d31cbe0eb550a9efe45fa0873a709d5a2",
+  "generated_at": "2026-02-23T23:28:24Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes 8.0.2 release notes detail bug fixes, enhancements, and known limitations for the software version.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise for Kubernetes",
+    "known limitations",
+    "bug fixes",
+    "upgrades",
+    "internode encryption"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

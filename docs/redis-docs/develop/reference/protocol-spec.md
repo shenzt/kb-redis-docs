@@ -9,15 +9,9 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Redis serialization protocol (RESP) is the wire protocol that clients
   implement
-id: d015a244
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Protocol spec
-source_commit: a9ff1a3
-source_path: content/develop/reference/protocol-spec.md
-source_repo: https://github.com/redis/docs
 title: Redis serialization protocol specification
 weight: 4
 ---
@@ -766,3 +760,4 @@ While comparable in performance to a binary protocol, the Redis protocol is sign
   ```
   EVAL "return { double = tonumber(ARGV[1]) }" 0 1e0
   ```
+

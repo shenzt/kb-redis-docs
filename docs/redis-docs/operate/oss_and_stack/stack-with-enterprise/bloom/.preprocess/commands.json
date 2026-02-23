@@ -1,21 +1,22 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:4527103c8252a0c9b01f82dcf0cdbbfab9e3288e",
-  "generated_at": "2026-02-18T06:57:01Z",
+  "generated_at": "2026-02-23T23:28:58Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document lists and describes probabilistic data structure commands for Bloom filters, Cuckoo filters, Count-Min Sketch, and Top-K/T-Digest in Redis, including their availability across Redis Software and Redis Cloud.",
+  "contextual_summary": "The document commands.md lists and describes probabilistic data structure commands for Bloom filters, Cuckoo filters, Count-min sketch, and T-Digest, including their availability in Redis Software and Redis Cloud.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "Bloom filter",
     "Cuckoo filter",
-    "Count-Min Sketch",
-    "Top-K",
-    "T-Digest"
+    "Count-min sketch",
+    "T-Digest",
+    "probabilistic data structure"
   ],
   "gap_flags": [
+    "incomplete_steps",
     "missing_example"
   ],
   "evidence_flags": {

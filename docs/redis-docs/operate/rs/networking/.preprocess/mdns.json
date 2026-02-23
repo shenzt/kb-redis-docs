@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8c4af5a319842c6c182adef0f26e25ab05f42069",
+  "generated_at": "2026-02-23T23:39:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document mdns.md covers configuring mDNS protocol for client and node preparation, including prerequisite package installation and network requirements, specifically for development and testing environments.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "mDNS",
+    "multicasting",
+    "avahi-daemon",
+    "nsswitch.conf",
+    "IPv6"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

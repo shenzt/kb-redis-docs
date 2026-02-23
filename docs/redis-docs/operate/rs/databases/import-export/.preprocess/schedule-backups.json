@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c13d0c3c4a246b5514d2e8b18ed6cb9ad8da9890",
+  "generated_at": "2026-02-23T23:39:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document schedule-backups.md covers scheduling periodic and on-demand backups for Redis Software, including supported frequencies, storage locations, and configuration steps for Azure Blob Storage.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "periodic backups",
+    "RDB files",
+    "shard",
+    "storage location",
+    "Azure Blob Storage"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

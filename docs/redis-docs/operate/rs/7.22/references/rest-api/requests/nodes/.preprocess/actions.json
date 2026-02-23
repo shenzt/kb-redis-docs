@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fb33fbb8e7b4bd4b0637798a96f55ea7239f22e6",
+  "generated_at": "2026-02-23T23:33:18Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The actions.md document provides a REST API reference for managing node actions, including endpoints to get, initiate, and cancel actions on specific nodes or across all nodes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "node actions",
+    "permissions",
+    "status codes",
+    "endpoints"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

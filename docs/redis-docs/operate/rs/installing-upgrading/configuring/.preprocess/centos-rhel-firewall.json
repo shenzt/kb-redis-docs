@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6836a39d3318f328cd4858a92c1d0c278f6e1e71",
+  "generated_at": "2026-02-23T23:39:26Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers configuring the firewalld firewall on CentOS/RHEL for Redis Software, including default services and security considerations.",
+  "doc_type": "guide",
+  "quality_score": 6,
+  "key_concepts": [
+    "firewalld",
+    "redislabs service",
+    "redislabs-clients service",
+    "public zone",
+    "firewall-cmd"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

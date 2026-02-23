@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c86562132ffa4c8c11f03d6b39f70cc85fc829a6",
+  "generated_at": "2026-02-23T23:33:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This REST API reference document details the endpoints, permissions, requests, and responses for managing users via the /v1/users path, including operations to get, create, update, and delete users.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "permissions",
+    "HTTP methods",
+    "user objects",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

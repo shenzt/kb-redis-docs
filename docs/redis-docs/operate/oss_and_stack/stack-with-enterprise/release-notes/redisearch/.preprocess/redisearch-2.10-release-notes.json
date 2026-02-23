@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:cbd39b0638d6b2e51883db6248e6616cbdd091cf",
-  "generated_at": "2026-02-18T06:57:32Z",
+  "generated_at": "2026-02-23T23:29:37Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The RediSearch 2.10 release notes document details version requirements, maintenance updates, improvements, and bug fixes for the search module.",
+  "contextual_summary": "The RediSearch v2.10.25 release notes detail requirements, improvements, and bug fixes for this maintenance release, including updates to FT.AGGREGATE, FT.PROFILE, and memory management.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "FT.AGGREGATE",
     "FT.PROFILE",
     "BM25STD",
-    "Indexing",
+    "RESP3",
     "Garbage Collection"
   ],
   "gap_flags": [

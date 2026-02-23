@@ -5,21 +5,13 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Introduces new path algorithms, additional expressivity (constructs and
   functions), performance improvements, and bug fixes.
-id: 170cb2da
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v2.10 (November 2022)
 min-version-db: 6.2.0
 min-version-rs: 6.2.8
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisgraph/redisgraph-2.10-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisgraph 2.10 Release Notes
 weight: 94
 ---
-
 ## Requirements
 
 RedisGraph v2.10.15 requires:

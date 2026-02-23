@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0e577c0969d1794fbfdf04fe31ec7db532568c37",
+  "generated_at": "2026-02-23T23:28:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes 7.4.2 release notes detail version changes, breaking changes, deprecations, and known issues for the software release.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "terminationGracePeriodSeconds",
+    "ValidatingWebhookConfiguration",
+    "OpenShift SCC",
+    "breaking changes",
+    "deprecations"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

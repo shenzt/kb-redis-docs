@@ -9,16 +9,10 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: 'Introduction to Redis lists
 
   '
-id: 43b5f91b
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Lists
-source_commit: a9ff1a3
-source_path: content/develop/data-types/lists.md
-source_repo: https://github.com/redis/docs
 title: Redis lists
 weight: 20
 ---

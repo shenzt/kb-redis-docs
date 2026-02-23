@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:92b7cf70635ace22862106b56db8b100d7f26f5c",
+  "generated_at": "2026-02-23T23:39:00Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document optimization.md covers Redis Software performance optimization, including workload stabilization and configuring failure detection sensitivity policies for different environments.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "failure_detection_sensitivity",
+    "watchdog_profile",
+    "rladmin",
+    "performance optimization",
+    "cluster policy"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

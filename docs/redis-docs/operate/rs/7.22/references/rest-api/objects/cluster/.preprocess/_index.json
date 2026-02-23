@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5e254dc8a528a542e112866f8acf944c59b3b8fe",
+  "generated_at": "2026-02-23T23:32:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The _index.md document is a reference table detailing the properties, types, descriptions, and constraints of the cluster API object in Redis Enterprise.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster",
+    "alert_settings",
+    "bigstore_driver",
+    "cm_port",
+    "smtp_tls_mode"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

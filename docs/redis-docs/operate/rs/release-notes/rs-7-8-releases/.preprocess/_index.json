@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5b5a8ae6f9abac26911dc726f68a2a98fab3481a",
+  "generated_at": "2026-02-23T23:41:56Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md announces Redis Software version 7.8, highlighting its features, detailing release notes and version changes, and listing known limitations.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Hash field expiration",
+    "Client-side caching",
+    "Cluster Manager UI",
+    "rladmin upgrade db",
+    "FT.SEARCH"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

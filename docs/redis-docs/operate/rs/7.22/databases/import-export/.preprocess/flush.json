@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a6995916bcb1f7e54644d6d4eca038e218e2d325",
+  "generated_at": "2026-02-23T23:31:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document flush.md explains methods to delete all data from Redis databases, including using redis-cli, the OSS Cluster API, and the Cluster Manager UI/CLI/REST API for Active-Active databases, with warnings and examples.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "flushall",
+    "redis-cli",
+    "OSS Cluster API",
+    "Active-Active database",
+    "FLUSHDB"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

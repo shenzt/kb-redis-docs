@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:aeeab16b6db9306be93c353d459579f9c9306d5b",
+  "generated_at": "2026-02-23T23:27:35Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers preparing Kubernetes clusters for an Active-Active Redis Enterprise database by configuring resources, networking, and collecting credentials.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisEnterpriseCluster (REC)",
+    "ValidatingWebhook",
+    "ingressOrRoutes",
+    "RedisEnterpriseRemoteCluster (RERC)",
+    "Active-Active database"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

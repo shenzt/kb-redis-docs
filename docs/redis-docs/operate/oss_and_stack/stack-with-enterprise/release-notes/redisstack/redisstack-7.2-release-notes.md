@@ -5,18 +5,10 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Redis Stack 7.2 release notes.
-id: 0a0527f7
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v7.2.0-v0 (August 2023)
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisstack/redisstack-7.2-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisstack 7.2 Release Notes
 weight: 100
 ---
-
 ## Redis Stack 7.2.0-v13 (October 2024)
 
 This is a maintenance release for Redis Stack Server 7.2.0.

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8d9741f5855711287a538e4e116f6c53db784096",
+  "generated_at": "2026-02-23T23:41:37Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software version 6.2.4 release notes detail new features like internode encryption, security enhancements, bug fixes, compatibility with Redis 6.2.3, upgrade prerequisites, default database upgrade policy changes, and addressed CVEs.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "internode encryption",
+    "redis_upgrade_policy",
+    "CVE-2021-32687",
+    "upgrade prerequisites",
+    "envoy"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

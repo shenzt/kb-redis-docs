@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b7ba660065a8e3aaab11ef820d9a8e7908ab5f27",
+  "generated_at": "2026-02-23T23:39:45Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The add-instance.md document describes the crdb-cli command for adding a peer replica instance to an existing Active-Active database on a new cluster.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Active-Active database",
+    "peer replica",
+    "crdb-guid",
+    "replication_endpoint",
+    "compression"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

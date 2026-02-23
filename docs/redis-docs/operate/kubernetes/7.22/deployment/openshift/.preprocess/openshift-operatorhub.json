@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:610b6da540b729ee03ccd539e1e6571345a77395",
+  "generated_at": "2026-02-23T23:26:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers deploying Redis Enterprise for Kubernetes on Red Hat OpenShift via the CLI or OperatorHub, including operator installation, security context constraints, and cluster creation.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise Operator",
+    "OperatorHub",
+    "Security Context Constraint",
+    "Custom Resource",
+    "File Descriptor Limits"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

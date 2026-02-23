@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:89e4b35e702a6dfad34dbb5afdc7bb05dfec7769",
+  "generated_at": "2026-02-23T23:29:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to use dry-run requests to obtain cost estimates for creating or modifying subscriptions and databases before deploying changes.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "dry-run request",
+    "cost evaluation report",
+    "subscription",
+    "cloudAccountId",
+    "subscriptionPricing"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

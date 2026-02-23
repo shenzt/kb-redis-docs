@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:f76aa689633353c563e7598463ced3e1f1500dda",
-  "generated_at": "2026-02-18T06:56:58Z",
+  "generated_at": "2026-02-23T23:28:54Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers Redis support for ARM processors and Raspberry Pi, detailing performance benchmarks, building instructions, and alignment requirements for versions 4.0 and above.",
-  "doc_type": "reference",
+  "contextual_summary": "Redis ARM support covers compatibility with ARM processors and Raspberry Pi, performance benchmarks, building instructions, and kernel alignment requirements for versions 4.0 and above.",
+  "doc_type": "overview",
   "quality_score": 7,
   "key_concepts": [
     "ARM processor",
     "Raspberry Pi",
     "unaligned access",
-    "append-only file (AOF)",
+    "append-only file",
     "stream data structure"
   ],
   "gap_flags": [

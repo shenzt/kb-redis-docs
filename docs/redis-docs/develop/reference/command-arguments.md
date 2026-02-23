@@ -9,14 +9,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: How Redis commands expose their documentation programmatically
-id: f52431b9
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Command arguments
-source_commit: a9ff1a3
-source_path: content/develop/reference/command-arguments.md
-source_repo: https://github.com/redis/docs
 title: Redis command arguments
 weight: 7
 ---

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a67c718955327d450db01088261e4925de6ed43c",
+  "generated_at": "2026-02-23T23:30:11Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document july-2024.md announces new features for Redis Cloud, including a preview of a Query performance factor for Pro databases and the availability of Redis 7.4 preview on Essentials databases with details on its breaking changes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Query performance factor",
+    "Redis 7.4",
+    "breaking changes",
+    "Search and query",
+    "hash field expiration"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

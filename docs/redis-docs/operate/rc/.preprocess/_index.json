@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:02bd2e0dbe8ecf768dc86a525f63d6c5fb1697e5",
+  "generated_at": "2026-02-23T23:29:54Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The _index.md document provides an overview of Redis Cloud, a managed database service, covering its features, getting started guides, database management, subscriptions, security, and API.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Cloud",
+    "database-as-a-service",
+    "subscriptions",
+    "REST API",
+    "security"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

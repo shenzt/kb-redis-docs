@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cb53bcc098bc3b6c64a4bc0a4b9955104b5b6eb3",
+  "generated_at": "2026-02-23T23:27:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers adding client certificates to a Redis Enterprise database by creating a Kubernetes secret and editing the REDB custom resource specification.",
+  "doc_type": "tutorial",
+  "quality_score": 7,
+  "key_concepts": [
+    "Kubernetes secret",
+    "client certificate",
+    "REDB custom resource",
+    "clientAuthenticationCertificates",
+    "kubectl apply"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

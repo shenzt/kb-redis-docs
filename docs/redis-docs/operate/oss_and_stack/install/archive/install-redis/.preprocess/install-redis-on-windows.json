@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:7fa0a6d9be8e29e2b7eaad4b80a9f595da6ffeca",
-  "generated_at": "2026-02-18T06:56:45Z",
+  "generated_at": "2026-02-23T23:28:39Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers two methods to install and run Redis on Windows: using the official partner Memurai or via WSL2 with Ubuntu, including installation and connection steps.",
+  "contextual_summary": "The document covers two methods to install and run Redis on Windows: using the official partner Memurai and using WSL2 with Ubuntu, including installation commands and connection testing.",
   "doc_type": "tutorial",
   "quality_score": 8,
   "key_concepts": [

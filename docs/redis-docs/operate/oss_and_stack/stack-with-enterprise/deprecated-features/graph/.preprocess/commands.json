@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:e579826d393807030eef0f6a85ddad8919be9a9e",
-  "generated_at": "2026-02-18T06:57:01Z",
+  "generated_at": "2026-02-23T23:28:59Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document lists and describes RedisGraph commands, detailing their support status across different Redis deployment types (Redis Software, Redis Cloud Flexible & Annual, Redis Cloud Free & Fixed).",
+  "contextual_summary": "commands.md is a reference table listing RedisGraph commands and their support status across different Redis deployment types, including Redis Software and Redis Cloud variants.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "GRAPH.CONFIG GET",
     "GRAPH.DELETE",
     "GRAPH.EXPLAIN",
-    "RedisGraph",
-    "configuration parameter"
+    "RedisGraph configuration",
+    "rladmin"
   ],
   "gap_flags": [
     "missing_example"

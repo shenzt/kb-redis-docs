@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0b4ed692e4fef3b18890fbc98624a306408a027f",
+  "generated_at": "2026-02-23T23:28:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Enterprise K8s 6.0.12-5 operator release supports Redis Enterprise Software 6.0.12-57, includes new features like AKS support and database role permissions, provides bug fixes, and details upgrade instructions, images, compatibility, and deprecations.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise operator",
+    "Kubernetes (K8s)",
+    "REC (Redis Enterprise cluster)",
+    "REDB (Redis Enterprise database)",
+    "container images"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

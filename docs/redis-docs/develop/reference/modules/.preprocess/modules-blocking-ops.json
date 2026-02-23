@@ -1,22 +1,23 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:8be842a8688ff12d57bc818328bc9691d8193a4b",
-  "generated_at": "2026-02-18T06:56:42Z",
+  "generated_at": "2026-02-23T23:25:27Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document explains how Redis modules can implement blocking commands, detailing the API for blocking and resuming clients, and describing patterns like threaded operations.",
-  "doc_type": "reference",
+  "contextual_summary": "Redis modules documentation explains how to implement blocking commands using the RedisModule_BlockClient API, covering blocking/resuming mechanics, threading patterns, and future API developments.",
+  "doc_type": "guide",
   "quality_score": 7,
   "key_concepts": [
     "RedisModule_BlockClient",
     "blocking commands",
-    "threaded commands",
     "reply_callback",
-    "timeout_callback"
+    "timeout_callback",
+    "threaded command"
   ],
   "gap_flags": [
     "incomplete_steps",
+    "missing_command",
     "missing_example"
   ],
   "evidence_flags": {

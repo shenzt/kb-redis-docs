@@ -9,16 +9,10 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: 'How the Redis server manages client connections
 
   '
-id: c5c59021
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Client handling
-source_commit: a9ff1a3
-source_path: content/develop/reference/clients.md
-source_repo: https://github.com/redis/docs
 title: Redis client handling
 weight: 5
 ---

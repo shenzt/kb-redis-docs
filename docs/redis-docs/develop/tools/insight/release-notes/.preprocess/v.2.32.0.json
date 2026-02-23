@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3f83a7e6333ba809fd6f0a6706a0d4ad4059d593",
+  "generated_at": "2026-02-23T23:25:35Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisInsight 2.32 release notes cover the GA release, highlighting free database provisioning for tutorials and a custom Windows installation directory, with details on features, improvements, and bug fixes.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisInsight",
+    "Redis Cloud",
+    "Triggers and Functions",
+    "Vector Similarity Search",
+    "Redis Stack"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

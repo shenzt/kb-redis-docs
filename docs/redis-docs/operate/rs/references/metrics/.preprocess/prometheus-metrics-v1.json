@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7a5e576bdc2dc683a4c6a736d8f3059d9ca9687a",
+  "generated_at": "2026-02-23T23:40:10Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document prometheus-metrics-v1.md covers integrating Redis Software with Prometheus and other monitoring tools, noting the deprecation of v1 metrics and providing a transition reference to v2 PromQL.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "Prometheus",
+    "v1 metrics",
+    "v2 PromQL",
+    "Redis Software",
+    "Grafana"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

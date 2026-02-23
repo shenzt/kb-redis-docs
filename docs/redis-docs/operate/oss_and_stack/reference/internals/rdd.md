@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: A design for the RDB format written in the early days of Redis
-id: da9ee408
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Redis design draft
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/reference/internals/rdd.md
-source_repo: https://github.com/redis/docs
 title: 'Redis design draft #2 (historical)'
 weight: 2
 ---

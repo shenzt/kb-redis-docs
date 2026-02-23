@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:657ea36dfce6166d77f28fcf1d84fb5c677e5a55",
+  "generated_at": "2026-02-23T23:28:02Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes 7.2.4-12 release notes detail a maintenance release supporting Redis Enterprise Software 7.2.4-117, including breaking changes for upgrades and known issues.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "terminationGracePeriodSeconds",
+    "ValidatingWebhookConfiguration",
+    "OpenShift SCC",
+    "breaking changes",
+    "known issues"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b185664d8b5fe74b8206f71dc122fb33db03aa1a",
+  "generated_at": "2026-02-23T23:24:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document Conditional execution explains how NRedisStack uses When conditions and transaction conditions for conditional execution instead of WATCH-based transactions to prevent concurrent write conflicts.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "conditional execution",
+    "When conditions",
+    "transaction conditions",
+    "NRedisStack",
+    "WATCH"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

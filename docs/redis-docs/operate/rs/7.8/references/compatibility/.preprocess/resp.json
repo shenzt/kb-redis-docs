@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e21e6340633811f76db547bde30153b67b4dfa5a",
+  "generated_at": "2026-02-23T23:37:28Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers enabling and deactivating the RESP3 protocol for Redis Enterprise databases, including version support and client configuration examples.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "RESP3",
+    "rladmin tune db",
+    "REST API",
+    "protocol version",
+    "database configuration"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

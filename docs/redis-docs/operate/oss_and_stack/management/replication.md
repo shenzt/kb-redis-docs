@@ -4,14 +4,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: How Redis supports high availability and failover with replication
-id: 58f11147
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Replication
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/management/replication.md
-source_repo: https://github.com/redis/docs
 title: Redis replication
 weight: 5
 ---

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:eead2c68af37e8aeded206670e9fb561acc0c051",
-  "generated_at": "2026-02-18T06:57:09Z",
+  "generated_at": "2026-02-23T23:29:08Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document details compatibility between Redis Open Source features and Redis Software/Redis Cloud, including support status and version requirements.",
+  "contextual_summary": "The document enterprise-capabilities.md details compatibility between Redis Software and Redis Open Source features, including support status and version requirements.",
   "doc_type": "reference",
   "quality_score": 7,
   "key_concepts": [

@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:02cf495d26168f456fd4d64fd4faeb000ede1f28",
-  "generated_at": "2026-02-18T06:57:32Z",
+  "generated_at": "2026-02-23T23:29:37Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RediSearch 2.0 release notes detail version requirements, maintenance releases with bug fixes and enhancements, and major changes including deprecated and removed commands.",
+  "contextual_summary": "The RediSearch 2.0 release notes document details version requirements, maintenance releases with bug fixes and enhancements, and major changes including deprecated and removed commands.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "RediSearch",
-    "FT.AGGREGATE",
     "Garbage Collection",
-    "FT.DROPINDEX",
-    "hash_indexing_failures"
+    "FT.AGGREGATE",
+    "FT.INFO",
+    "DROPINDEX"
   ],
   "gap_flags": [
     "incomplete_steps",

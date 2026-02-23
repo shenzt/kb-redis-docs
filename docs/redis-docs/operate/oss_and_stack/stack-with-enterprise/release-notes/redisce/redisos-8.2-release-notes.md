@@ -5,17 +5,10 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Redis Open Source 8.2 release notes.
-id: 39de5f37
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v8.2.0 (August 2025)
 min-version-db: blah
 min-version-rs: blah
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisce/redisos-8.2-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisos 8.2 Release Notes
 weight: 60
 ---
 

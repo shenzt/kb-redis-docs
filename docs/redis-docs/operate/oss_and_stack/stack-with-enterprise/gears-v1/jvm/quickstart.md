@@ -1,19 +1,12 @@
 ---
-Title: RedisGears JVM quick start
+Title: "RedisGears JVM\_quick start"
 alwaysopen: false
 categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: A quick start to learn how to use RedisGears with Java.
-id: 949b62a1
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Quick start
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/quickstart.md
-source_repo: https://github.com/redis/docs
-title: Quickstart
 weight: 10
 ---
 

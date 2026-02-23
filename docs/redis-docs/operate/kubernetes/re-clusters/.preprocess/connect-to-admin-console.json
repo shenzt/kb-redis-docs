@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0a1789fbe51b69dc98ed222849dd5315b23a0e06",
+  "generated_at": "2026-02-23T23:27:43Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document provides steps to retrieve credentials and use port forwarding to connect to the Redis Enterprise Software admin console in a Kubernetes environment.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Kubernetes secret",
+    "port forwarding",
+    "admin console",
+    "Redis Enterprise cluster (REC)",
+    "kubectl"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

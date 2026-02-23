@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:127e0d36bf46aa9d86ce5cfbeff72650dc0a8e54",
+  "generated_at": "2026-02-23T23:28:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes release notes 7.2.4-2 detail support for Redis Enterprise 7.2.4, a new default engine for Auto Tiering, and include enhancements, resolved issues, API changes, and known limitations.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise 7.2.4",
+    "Auto Tiering",
+    "RedisEnterpriseCluster (REC)",
+    "Kubernetes distributions",
+    "Speedb"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

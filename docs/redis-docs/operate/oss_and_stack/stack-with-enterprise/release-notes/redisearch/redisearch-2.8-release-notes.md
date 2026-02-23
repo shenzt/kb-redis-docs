@@ -5,20 +5,12 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: RESP3 support. Geo Polygon Search. Performance improvements.
-id: 3deeaa34
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v2.8 (July 2023)
 min-version-db: '7.2'
 min-version-rs: 7.2.4
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisearch/redisearch-2.8-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisearch 2.8 Release Notes
 weight: 91
 ---
-
 ## Requirements
 
 RediSearch v2.8.32 requires:

@@ -5,22 +5,14 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Hamming distance scoring. Wildcard queries. Optional deletion of documents
   in FT.DEL. Optionally keep document hashes in FT.DROP. Delete geo-sets when dropping
   an index. Tag prefix completion support.
-id: 500ffd6c
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v1.0 (April 2018)
 min-version-db: 4.0.0
 min-version-rs: 5.0.0
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisearch/redisearch-1.0-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisearch 1.0 Release Notes
 weight: 100
 ---
-
 ## Requirements
 
 RediSearch v1.0.10 requires:

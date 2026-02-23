@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:10b619bc62d0ef28261d8a205f168b638ec4d902",
+  "generated_at": "2026-02-23T23:40:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The revamp.md document details the PUT API endpoint for updating a database's topology configuration and optimizing shard placement, including parameters, permissions, and example requests.",
+  "doc_type": "reference",
+  "quality_score": 9,
+  "key_concepts": [
+    "shards_placement",
+    "replication",
+    "dry_run",
+    "shards_count",
+    "memory_size"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

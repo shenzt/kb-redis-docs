@@ -1,21 +1,23 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:eb140a4e01ee83cadee4420c3fe6f80034ad8d31",
-  "generated_at": "2026-02-18T06:57:21Z",
+  "generated_at": "2026-02-23T23:29:22Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The RG.JEXECUTE command executes or registers Java functions from a JAR file for RedisGears, with immediate execution or event-driven registration.",
+  "contextual_summary": "The rg-jexecute.md document details the RG.JEXECUTE command for executing or registering Java functions from a JAR file in RedisGears.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "RG.JEXECUTE",
     "GearsBuilder.run()",
     "GearsBuilder.register()",
-    "JAR file",
-    "UPGRADE"
+    "UPGRADE",
+    "JAR file"
   ],
-  "gap_flags": [],
+  "gap_flags": [
+    "missing_config"
+  ],
   "evidence_flags": {
     "has_command": true,
     "has_config": false,

@@ -9,15 +9,9 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Cuckoo filters are a probabilistic data structure that checks for presence
   of an element in a set
-id: 1633ae9e
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Cuckoo filter
-source_commit: a9ff1a3
-source_path: content/develop/data-types/probabilistic/cuckoo-filter.md
-source_repo: https://github.com/redis/docs
 stack: true
 title: Cuckoo filter
 weight: 20

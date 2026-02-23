@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:abd92fb0fd5b894df6b8aa1d249d1440685c97f8",
+  "generated_at": "2026-02-23T23:30:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The changelog for Redis Cloud in June 2023 covers new features like Redis 7.2 opt-in and CSV export for Active-Active databases, along with breaking changes and deprecations.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis 7.2",
+    "Active-Active databases",
+    "Fixed subscriptions",
+    "CLUSTER SLOTS",
+    "QUIT"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

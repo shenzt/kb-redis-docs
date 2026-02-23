@@ -9,16 +9,10 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: 'How to implement blocking commands in a Redis module
 
   '
-id: 2f31bd88
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Blocking commands
-source_commit: a9ff1a3
-source_path: content/develop/reference/modules/modules-blocking-ops.md
-source_repo: https://github.com/redis/docs
 title: Redis modules and blocking commands
 weight: 1
 ---

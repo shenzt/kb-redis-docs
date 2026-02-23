@@ -5,18 +5,10 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Redis Stack 7.4 release notes.
-id: '40893428'
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v7.4.0-v0 (July 2024)
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisstack/redisstack-7.4-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisstack 7.4 Release Notes
 weight: 100
 ---
-
 ## Redis Stack 7.4.0-v1 (October 2024)
 
 This is a maintenance release for Redis Stack Server 7.4.0.

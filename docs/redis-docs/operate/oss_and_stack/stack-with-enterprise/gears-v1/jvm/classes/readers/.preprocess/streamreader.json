@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:4bd082b954041cc2a95d153a1675df9c9bc50651",
-  "generated_at": "2026-02-18T06:57:19Z",
+  "generated_at": "2026-02-23T23:29:21Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Streamreader document details a Java class for reading Redis stream data, including its parameters, output record structure, and basic usage examples.",
+  "contextual_summary": "The streamreader.md document details the parameters, output format, and usage examples for a Redis StreamReader component.",
   "doc_type": "reference",
-  "quality_score": 7,
+  "quality_score": 8,
   "key_concepts": [
-    "StreamReader",
     "batchSize",
     "startId",
+    "pattern",
     "FailurePolicy",
-    "HashMap"
+    "trimStream"
   ],
   "gap_flags": [
     "incomplete_steps",
-    "missing_example"
+    "missing_config"
   ],
   "evidence_flags": {
     "has_command": false,

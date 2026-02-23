@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0cd08e0aea9e36e830807f3b81803cd7137ef02e",
+  "generated_at": "2026-02-23T23:31:56Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The cancel.md document describes the crdb-cli command to cancel an Active-Active database task using a required task ID.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "crdb-cli",
+    "task cancel",
+    "task-id",
+    "Active-Active database",
+    "task ID"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

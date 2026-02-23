@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:bfe54186edeed5d0133687853d12bce9ffa027bf",
-  "generated_at": "2026-02-18T06:56:51Z",
+  "generated_at": "2026-02-23T23:28:45Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers installing Redis Open Source on Ubuntu Linux using the snap package manager and testing the connection with redis-cli.",
+  "contextual_summary": "The document covers installing Redis Open Source on Ubuntu Linux using Snap, including installation commands and a basic connection test.",
   "doc_type": "tutorial",
   "quality_score": 7,
   "key_concepts": [

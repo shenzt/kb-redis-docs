@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:84e94fccb21973421c4830c92cee9b3b0d027ae0",
+  "generated_at": "2026-02-23T23:30:53Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document provides steps to manually create IAM resources (instance policy, service role, user policy, programmatic user, and console access role) in the AWS console for use with Redis Cloud.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "IAM policy",
+    "Service role",
+    "Programmatic access",
+    "Console access role",
+    "AWS console"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": true
+  }
+}

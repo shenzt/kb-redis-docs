@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:118059b942ea5208f334205aa35ce91b808eb888",
+  "generated_at": "2026-02-23T23:31:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document provides quickstart links for trying Redis Enterprise Software, including Docker and cluster setup for Auto Tiering, Active-Active, and benchmarking.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "quickstart",
+    "Auto Tiering",
+    "Active-Active cluster",
+    "benchmark"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

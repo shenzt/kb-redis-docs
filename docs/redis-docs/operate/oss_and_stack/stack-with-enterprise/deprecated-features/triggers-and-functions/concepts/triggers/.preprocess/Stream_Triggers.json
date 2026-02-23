@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:88cc1242e4eae6fd81a19f74fd4a9b817474afdf",
-  "generated_at": "2026-02-18T06:57:08Z",
+  "generated_at": "2026-02-23T23:29:07Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Redis Stack's triggers and functions feature provides a real-time streaming API for processing data from Redis streams, covering consumer registration, configuration, data guarantees, and upgrade procedures.",
-  "doc_type": "reference",
-  "quality_score": 8,
+  "contextual_summary": "The document covers Redis Stack's triggers and functions feature for real-time stream processing, including consumer registration, configuration, data guarantees, and upgrade procedures.",
+  "doc_type": "overview",
+  "quality_score": 7,
   "key_concepts": [
-    "stream trigger",
-    "consumer",
+    "stream triggers",
+    "consumer registration",
     "trimming",
-    "exactly once",
-    "primary shard"
+    "data processing guarantees",
+    "upgrades"
   ],
   "gap_flags": [
     "incomplete_steps",

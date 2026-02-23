@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/concepts/cluster_support/
 categories:
 - docs
 - develop
@@ -11,16 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Cluster support for triggers and functions
-id: 71f59c1a
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Cluster support
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/concepts/Cluster_Support.md
-source_repo: https://github.com/redis/docs
 title: Cluster support
 weight: 4
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/concepts/cluster_support/
 ---
 
 **Notice**: On a Redis Open Source cluster, before executing any gears function, you must send a `REDISGEARS_2.REFRESHCLUSTER` command to all the shards so that they will be aware of the cluster topology. Without this step, each shard will act as a single Redis Open Source instance.

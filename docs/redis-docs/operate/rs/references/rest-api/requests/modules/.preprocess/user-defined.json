@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:63c8fe394e736d0ec088feca34cff1312257b2c6",
+  "generated_at": "2026-02-23T23:41:10Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document user-defined.md is an API reference detailing endpoints for managing custom module configurations and artifacts, including listing, uploading, and deleting them.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "custom module artifacts",
+    "API endpoints",
+    "permissions",
+    "status codes",
+    "URL parameters"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -5,21 +5,13 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: RESP3 support. New commands JSON.MERGE and JSON.MSET.
-id: f9a09fe6
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v2.6 (July 2023)
 min-version-db: '7.2'
 min-version-rs: 7.2.4
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisjson/redisjson-2.6-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisjson 2.6 Release Notes
 toc: 'true'
 weight: 96
 ---
-
 ## Requirements
 
 RedisJSON v2.6.22 requires:

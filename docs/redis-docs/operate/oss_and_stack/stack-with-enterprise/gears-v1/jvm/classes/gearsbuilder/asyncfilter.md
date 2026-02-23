@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Asynchronously filters out records in the pipe based on a given condition.
-id: e69dafb4
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: asyncFilter
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/classes/gearsbuilder/asyncfilter.md
-source_repo: https://github.com/redis/docs
-title: Asyncfilter
 weight: 50
 ---
 

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:08a363108f3e86c62bbda5d86edc2ea030834af4",
+  "generated_at": "2026-02-23T23:27:55Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document k8s-6-2-12-1.md details the Redis Enterprise K8s 6.2.12-1 release, covering supported images, feature improvements, bug fixes, API changes, compatibility notes, and known limitations with workarounds.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "container images",
+    "bug fixes",
+    "known limitations",
+    "compatibility"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

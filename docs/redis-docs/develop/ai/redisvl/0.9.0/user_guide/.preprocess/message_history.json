@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:709c8d52e6d3b99e2a8e19f5787648ccfd14cd98",
+  "generated_at": "2026-02-23T23:23:53Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers using Redis to store and retrieve conversational message history for stateless Large Language Models, including adding messages, retrieving recent history, and performing semantic searches.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "MessageHistory",
+    "Redis",
+    "conversational context",
+    "semantic search",
+    "role"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

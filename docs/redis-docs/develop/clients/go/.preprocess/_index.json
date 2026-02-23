@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d112cb23f3a46c1f04113c9487c61bb515de3970",
+  "generated_at": "2026-02-23T23:24:38Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The go-redis guide explains how to install the Go Redis client, connect to a Redis server, and demonstrates basic operations and OpenTelemetry instrumentation.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "go-redis",
+    "Redis client",
+    "connection string",
+    "OpenTelemetry",
+    "context"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

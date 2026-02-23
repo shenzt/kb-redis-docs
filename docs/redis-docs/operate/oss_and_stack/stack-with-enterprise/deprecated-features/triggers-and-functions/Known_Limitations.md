@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/known_limitations/
 categories:
 - docs
 - develop
@@ -11,16 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Overview of the known limitations
-id: 4d158ea4
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Known limitations
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/Known_Limitations.md
-source_repo: https://github.com/redis/docs
 title: Known limitations
 weight: 8
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/known_limitations/
 ---
 
 ## Limited write options

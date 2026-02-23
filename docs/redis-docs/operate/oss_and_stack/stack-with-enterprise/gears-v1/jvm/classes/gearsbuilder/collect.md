@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Collects all records to the origin shard.
-id: 172cf870
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: collect
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/classes/gearsbuilder/collect.md
-source_repo: https://github.com/redis/docs
-title: Collect
 weight: 50
 ---
 

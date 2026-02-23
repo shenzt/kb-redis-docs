@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4ebd30308457baf50d4a59778a33c9f4e747cebc",
+  "generated_at": "2026-02-23T23:40:11Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Software Cluster Manager UI document lists and defines available resource usage metrics, including connections, CPU, memory, disk, and traffic, specifying the components each metric measures.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Connections",
+    "CPU usage",
+    "Used memory",
+    "Memory limit",
+    "Traffic"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,24 +1,14 @@
 ---
 Title: RedisGraph 1.0 release notes
-aliases: /modules/redisgraph/release-notes/redisgraph-1.0-release-notes/
-alwaysopen: false
-categories:
-- Modules
-confidence: medium
-description: Fixed memory leaks. Support ‘*’ within RETURN clause. Added TYPE function.
-  Initial support for UNWIND clause.
-id: a75004bd
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v1.0 (November 2018)
-min-version-db: 4.0.0
-min-version-rs: 5.0.0
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisgraph/redisgraph-1.0-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisgraph 1.0 Release Notes
+description: Fixed memory leaks. Support ‘*’ within RETURN clause. Added TYPE function. Initial support for UNWIND clause.
+min-version-db: "4.0.0"
+min-version-rs: "5.0.0"
 weight: 100
+alwaysopen: false
+categories: ["Modules"]
+aliases: /modules/redisgraph/release-notes/redisgraph-1.0-release-notes/
 ---
-
 ## Requirements
 
 RedisGraph v1.0.15 requires:

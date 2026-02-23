@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4e1a83f84e820240a7811ab9cd85d6245643c7aa",
+  "generated_at": "2026-02-23T23:35:39Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document crdt.md describes a REST API endpoint for retrieving the syncer state of a CRDB (Conflict-Free Replicated Data Type database).",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "CRDB",
+    "syncer state",
+    "REST API",
+    "permissions",
+    "HTTP request"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

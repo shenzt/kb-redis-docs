@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b82fe2915fb2f32fda0e59015081ec5f1a4a7bf5",
+  "generated_at": "2026-02-23T23:37:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The auto-tiering.md document defines and explains metrics for monitoring Redis Enterprise auto-tiering databases, including RAM/flash usage ratios, I/O operations, and calculated statistics.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Auto Tiering",
+    "RAM:Flash access ratio",
+    "Values in flash",
+    "RAM hit ratio",
+    "Flash I/O operations/sec"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

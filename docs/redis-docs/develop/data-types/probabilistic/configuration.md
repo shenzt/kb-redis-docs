@@ -9,18 +9,11 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Redis probabilistic data structures support multiple configuration parameters.
-id: 0065cf20
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Configuration
-source_commit: a9ff1a3
-source_path: content/develop/data-types/probabilistic/configuration.md
-source_repo: https://github.com/redis/docs
 title: Configuration Parameters
 weight: 100
 ---
-
 {{< note >}}
 As of Redis 8 in Redis Open Source (Redis 8), configuration parameters for the probabilistic data structures are now set in the following ways:
 * At load time via your `redis.conf` file.

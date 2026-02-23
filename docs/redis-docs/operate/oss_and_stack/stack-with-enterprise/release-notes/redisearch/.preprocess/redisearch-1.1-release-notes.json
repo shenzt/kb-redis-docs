@@ -1,24 +1,21 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:53ef14e1394d8b85e8c08941d5ae53edc0dc2663",
-  "generated_at": "2026-02-18T06:57:31Z",
+  "generated_at": "2026-02-23T23:29:35Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The RediSearch 1.1.0 release notes detail a major version focused on a new aggregations engine for processing search results, along with minimum requirements and bug fixes.",
+  "contextual_summary": "RediSearch v1.1.0 release notes detail the new aggregations engine, system requirements, and bug fixes from the previous version.",
   "doc_type": "overview",
   "quality_score": 7,
   "key_concepts": [
     "RediSearch",
-    "Aggregations",
-    "FT.AGGREGATE",
+    "aggregations engine",
+    "GROUPBY",
     "SORTABLE fields",
-    "GROUPBY"
+    "FT.AGGREGATE"
   ],
-  "gap_flags": [
-    "incomplete_steps",
-    "missing_example"
-  ],
+  "gap_flags": [],
   "evidence_flags": {
     "has_command": true,
     "has_config": false,

@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:a5219753a0d79451ea5bea083073853ae9ca0153",
-  "generated_at": "2026-02-18T06:56:58Z",
+  "generated_at": "2026-02-23T23:28:54Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Redis Cluster Specification document covers the design goals, implemented features, and technical details of the Redis Cluster distributed system, including its hash slot algorithm and CRC16 implementation.",
+  "contextual_summary": "The Redis Cluster Specification document covers the design goals, implemented features, and technical details of the Redis Cluster distributed system, including its hash slot mechanism and CRC16 algorithm.",
   "doc_type": "reference",
-  "quality_score": 8,
+  "quality_score": 7,
   "key_concepts": [
     "Redis Cluster",
     "hash slots",
-    "hash tags",
     "CRC16",
-    "replicas migration"
+    "replicas migration",
+    "hash tags"
   ],
   "gap_flags": [
     "incomplete_steps",

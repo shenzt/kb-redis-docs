@@ -1,5 +1,4 @@
 ---
-aliases: /develop/use/pipelining
 categories:
 - docs
 - develop
@@ -10,15 +9,10 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: How to optimize round-trip times by batching Redis commands
-id: e716055e
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Pipelining
-source_commit: a9ff1a3
-source_path: content/develop/using-commands/pipelining.md
-source_repo: https://github.com/redis/docs
 title: Redis pipelining
+aliases: /develop/use/pipelining
 weight: 20
 ---
 

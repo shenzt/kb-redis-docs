@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:26815bd65dda397b7d600f7224c76f98866be3c7",
+  "generated_at": "2026-02-23T23:28:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes 7.22.0-7 release notes detail new features, API changes, breaking changes, supported platforms, and downloads for this April 2025 feature release.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "REAADB",
+    "unprivileged mode",
+    "securityContext",
+    "callHomeClient",
+    "Kubernetes platforms"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

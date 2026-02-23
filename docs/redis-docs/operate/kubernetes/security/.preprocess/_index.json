@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cde30bede3d4f29d4a8161e0350664a3b618afcd",
+  "generated_at": "2026-02-23T23:28:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides an overview for configuring security settings in a Redis Enterprise deployment on Kubernetes, covering credentials, certificates, secret management, and resource management.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "TLS encryption",
+    "Kubernetes Secrets",
+    "LDAP authentication",
+    "HashiCorp Vault",
+    "internode encryption"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

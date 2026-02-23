@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:334247532d5ec65f384c9b0a3a4d7303d8b1ebee",
-  "generated_at": "2026-02-18T06:57:19Z",
+  "generated_at": "2026-02-23T23:29:21Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "ShardsIDReader creates a single record on each shard representing the shard's ID for running operations across all shards.",
+  "contextual_summary": "The ShardsIDReader document describes a tool that creates a record on each database shard containing the shard's cluster identifier for running operations per shard.",
   "doc_type": "reference",
   "quality_score": 5,
   "key_concepts": [
     "ShardsIDReader",
     "shard",
-    "record",
     "cluster identifier",
-    "reader"
+    "output records",
+    "parameters"
   ],
   "gap_flags": [
     "incomplete_steps",

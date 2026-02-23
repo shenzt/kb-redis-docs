@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:937e0fe01a14471f8096dc6693c94986f188aa16",
-  "generated_at": "2026-02-18T06:57:14Z",
+  "generated_at": "2026-02-23T23:29:16Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Hashtag class provides a static method to generate a string mapping to the current Redis shard for cluster-aware key creation.",
+  "contextual_summary": "The hashtag.md document describes the `hashtag()` function, which returns a string mapping to the current shard for creating keys on that shard.",
   "doc_type": "reference",
   "quality_score": 7,
   "key_concepts": [
@@ -13,7 +13,7 @@
     "shard",
     "cluster slot mapping",
     "GearsBuilder",
-    "key creation"
+    "hslot"
   ],
   "gap_flags": [],
   "evidence_flags": {

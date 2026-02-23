@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7562591b661c0a95c729050f833705e21ebf584a",
+  "generated_at": "2026-02-23T23:33:54Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'connect.md' provides instructions for connecting to and testing a Redis Active-Active database using redis-cli and a Python application.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "redis-cli",
+    "Active-Active database",
+    "bi-directional replication",
+    "redis-py",
+    "StrictRedis"
+  ],
+  "gap_flags": [
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

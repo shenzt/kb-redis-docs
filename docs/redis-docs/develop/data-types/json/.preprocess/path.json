@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:e180cebfb477dd3298342f053488c606d53328ff",
-  "generated_at": "2026-02-18T06:56:25Z",
+  "generated_at": "2026-02-23T23:25:08Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document explains Redis JSON's path syntax for accessing elements within JSON documents, covering both JSONPath and legacy syntax, their usage, and performance considerations.",
+  "contextual_summary": "The document explains the JSON path syntaxes, JSONPath and legacy, used by Redis JSON to query and access elements within JSON documents, including their syntax rules and performance considerations.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [

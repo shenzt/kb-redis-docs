@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:96353816bc8e07dd1e46aeb1e5d2e42fbd7d1998",
-  "generated_at": "2026-02-18T06:57:34Z",
+  "generated_at": "2026-02-23T23:29:40Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RedisGears 1.0 release notes detail version-specific requirements, update urgencies, and changes including improvements, features, and bug fixes for maintenance releases.",
+  "contextual_summary": "RedisGears release notes document version requirements and changes including bug fixes, features, and update urgencies for versions 1.0.0 through 1.0.9.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [

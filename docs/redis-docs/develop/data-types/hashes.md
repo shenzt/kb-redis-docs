@@ -9,16 +9,10 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: 'Introduction to Redis hashes
 
   '
-id: 396b3f0d
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Hashes
-source_commit: a9ff1a3
-source_path: content/develop/data-types/hashes.md
-source_repo: https://github.com/redis/docs
 title: Redis hashes
 weight: 40
 ---

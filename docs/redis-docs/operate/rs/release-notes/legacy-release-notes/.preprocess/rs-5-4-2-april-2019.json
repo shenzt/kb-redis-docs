@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3d2a8c8bb290421d69749a65e9c69be3513170ab",
+  "generated_at": "2026-02-23T23:41:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software 5.4.2 release notes cover new features like Active-Active Redis compatibility improvements, SFTP and mount point backup destinations, email alerts, and various bug fixes and enhancements.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Active-Active Redis (CRDB)",
+    "SFTP backup",
+    "email alerts",
+    "upgrade procedures",
+    "Redis commands"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4e1a363887b56bbafe4c2161eebd86397cacab54",
+  "generated_at": "2026-02-23T23:34:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the Replica Of feature in Redis Enterprise for active-passive geo-distribution, including its setup, behavior with multiple sources, and replication backlog configuration.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Replica Of",
+    "active-passive replication",
+    "source database",
+    "destination database",
+    "replication backlog"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

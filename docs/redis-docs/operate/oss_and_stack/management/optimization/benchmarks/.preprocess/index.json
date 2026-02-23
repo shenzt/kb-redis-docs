@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:68d6f72d6e61d98a4d1fd59ee616bd7145c60a9f",
-  "generated_at": "2026-02-18T06:56:54Z",
+  "generated_at": "2026-02-23T23:28:50Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Redis benchmark document explains the built-in redis-benchmark utility for performance testing, its command-line options, and mentions third-party benchmarking tools.",
+  "contextual_summary": "The Redis benchmark document describes the redis-benchmark utility, its supported options for performance testing, and mentions third-party benchmarking tools.",
   "doc_type": "reference",
   "quality_score": 7,
   "key_concepts": [

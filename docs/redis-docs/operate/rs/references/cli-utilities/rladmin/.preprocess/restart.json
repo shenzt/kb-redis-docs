@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:33b7ba94d7136e7d1ec99ac0c3ed6f8f2f7e5506",
+  "generated_at": "2026-02-23T23:40:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The restart.md document details the rladmin restart db command for scheduling Redis Software process restarts on database instances, including its parameters and an example output.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "rladmin",
+    "restart",
+    "preserve_roles",
+    "discard_data",
+    "failover"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

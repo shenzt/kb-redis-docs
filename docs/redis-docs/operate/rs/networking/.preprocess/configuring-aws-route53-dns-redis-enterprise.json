@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:37d58ccbe30ea0c73e9c0a166543e774f596af00",
+  "generated_at": "2026-02-23T23:39:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers configuring AWS Route 53 DNS for Redis Enterprise, including creating hosted zones and glue records to enable high availability and failover.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "AWS Route 53",
+    "hosted zone",
+    "glue record",
+    "DNS",
+    "failover"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

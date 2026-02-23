@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:27c8a70b8c94a02a5b2185e729df2ee0dff9ba06",
-  "generated_at": "2026-02-18T06:57:26Z",
+  "generated_at": "2026-02-23T23:29:30Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Redisbloom 1.1 release notes document the version 1.1.0 and 1.1.1 updates and their minimum Redis compatibility requirements.",
+  "contextual_summary": "The document redisbloom-1.1-release-notes.md covers the version requirements and release dates for RedisBloom versions 1.1.0 and 1.1.1.",
   "doc_type": "overview",
   "quality_score": 3,
   "key_concepts": [
     "RedisBloom",
-    "compatibility version",
+    "Redis compatibility version",
     "Redis Enterprise Software",
     "release notes",
-    "database"
+    "version requirements"
   ],
   "gap_flags": [
     "incomplete_steps",

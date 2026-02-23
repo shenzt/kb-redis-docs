@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:9e47b3270ab314b04d35ff11000ff6ed566068b0",
-  "generated_at": "2026-02-18T06:56:32Z",
+  "generated_at": "2026-02-23T23:25:16Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers performance impacts of inserting out-of-order or backfilled data into RedisTimeSeries, analyzing ingestion rates for compressed and uncompressed chunks.",
+  "contextual_summary": "The document covers performance impacts of out-of-order or backfilled data ingestion in RedisTimeSeries, analyzing effects on ingestion rates for compressed and uncompressed chunks.",
   "doc_type": "overview",
   "quality_score": 7,
   "key_concepts": [
     "out-of-order ingestion",
     "compressed chunks",
-    "chunk size",
     "ingestion rate",
+    "chunk size",
     "benchmark"
   ],
   "gap_flags": [
-    "incomplete_steps",
     "missing_command",
+    "missing_config",
     "missing_example"
   ],
   "evidence_flags": {

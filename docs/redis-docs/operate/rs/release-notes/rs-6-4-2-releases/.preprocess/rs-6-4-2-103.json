@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ab9ac84a461f80036bde8d307fcb6ca4f934bd9d",
+  "generated_at": "2026-02-23T23:41:38Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software version 6.4.2-103 is a maintenance release that adds RHEL 8.8 support, includes updated Redis Stack modules, logs CCS schema changes, and provides bug fixes and security vulnerability resolutions.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "RHEL 8.8",
+    "Redis Stack modules",
+    "CCS schema",
+    "CVE"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

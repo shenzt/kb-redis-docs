@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:476433eec9094be66630a8e2387601259e091b69",
+  "generated_at": "2026-02-23T23:37:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "node-metrics.md lists and describes various system and performance metrics for a Redis Enterprise node, including resource availability, traffic, and flash-based DB statistics.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "available_memory",
+    "avg_latency",
+    "bigstore_iops",
+    "provisional_memory",
+    "total_req"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0f60c9f64a20f2fa01993b85154f0eb1db568a5f",
+  "generated_at": "2026-02-23T23:30:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers configuring a CIDR allow list to restrict IP address access to a Redis Cloud database, including prerequisites and step-by-step setup instructions.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "CIDR allow list",
+    "IP addresses",
+    "Redis Cloud",
+    "public endpoint",
+    "private endpoint"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

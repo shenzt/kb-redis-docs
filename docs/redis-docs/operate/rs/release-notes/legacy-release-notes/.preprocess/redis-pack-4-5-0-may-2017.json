@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5064ae0fc58ee393dcc727b147009591c5cbd8af",
+  "generated_at": "2026-02-23T23:41:24Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document redis-pack-4-5-0-may-2017.md provides upgrade instructions, details new features like the Redis Sentinel-compliant Discovery Service and production-ready Auto Tiering v2.0, and lists important fixes for Redis Enterprise Pack version 4.5.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Discovery Service",
+    "Auto Tiering",
+    "Redis Sentinel API",
+    "upgrade instructions",
+    "important fixes"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

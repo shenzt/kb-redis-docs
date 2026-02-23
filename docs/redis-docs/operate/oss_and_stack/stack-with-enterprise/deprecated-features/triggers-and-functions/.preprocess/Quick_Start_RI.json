@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:a144da83f8ce3adb08e5031962e6b0b443086168",
-  "generated_at": "2026-02-18T06:57:04Z",
+  "generated_at": "2026-02-23T23:29:02Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document provides a quick start tutorial for using Redis Insight to connect to Redis Stack, load a JavaScript library, and execute functions using triggers and the TFCALL command.",
+  "contextual_summary": "This document provides a quick start tutorial for using Redis Insight to connect to Redis Stack, load a JavaScript library, and execute a function using the TFCALL command.",
   "doc_type": "tutorial",
   "quality_score": 8,
   "key_concepts": [

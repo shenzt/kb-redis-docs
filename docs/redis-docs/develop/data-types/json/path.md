@@ -12,14 +12,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Access specific elements within a JSON document
-id: 32cbaf35
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Path
-source_commit: a9ff1a3
-source_path: content/develop/data-types/json/path.md
-source_repo: https://github.com/redis/docs
 title: Path
 weight: 3
 ---

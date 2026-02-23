@@ -9,14 +9,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: What are command key specification and how to use them in your client
-id: 195eaa5a
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Command key specifications
-source_commit: a9ff1a3
-source_path: content/develop/reference/key-specs.md
-source_repo: https://github.com/redis/docs
 title: Command key specifications
 weight: 3
 ---

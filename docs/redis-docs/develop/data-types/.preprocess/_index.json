@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:55382bee62ae8460a2fcbe64789fdce28f1b1a73",
+  "generated_at": "2026-02-23T23:25:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document Redis data types lists and briefly describes the core native data types provided by Redis, including Strings, Lists, Sets, Sorted Sets, Streams, and others, with links to detailed overviews and command references.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis strings",
+    "Redis lists",
+    "Sorted set",
+    "Stream",
+    "Time series"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

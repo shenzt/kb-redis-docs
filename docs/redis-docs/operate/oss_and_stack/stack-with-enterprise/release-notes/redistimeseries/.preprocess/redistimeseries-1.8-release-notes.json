@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:9e2c759ffef7d13c6d34be64d9cd508a02055b23",
-  "generated_at": "2026-02-18T06:57:43Z",
+  "generated_at": "2026-02-23T23:29:50Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "Redistimeseries 1.8 Release Notes detail version requirements, maintenance updates, bug fixes, improvements, and new features like the alignTimestamp parameter and additional reducers for the time series module.",
-  "doc_type": "overview",
+  "contextual_summary": "RedisTimeSeries 1.8 release notes detail version-specific requirements, update urgencies, bug fixes, security patches, and new features like the alignTimestamp parameter and additional reducers.",
+  "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "TS.RANGE",
     "TS.DEL",
     "TS.QUERYINDEX",
     "alignTimestamp",
-    "reducers"
+    "reducer"
   ],
   "gap_flags": [
     "incomplete_steps",

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:32e2c0c4b47c37d056e679db2a26ca714f32b5cc",
+  "generated_at": "2026-02-23T23:30:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers procedures for upgrading and manually reverting the version of a Redis Cloud database, including prerequisites and steps for single-region and Active-Active setups.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "database upgrade",
+    "version revert",
+    "Active-Passive setup",
+    "backup",
+    "breaking changes"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

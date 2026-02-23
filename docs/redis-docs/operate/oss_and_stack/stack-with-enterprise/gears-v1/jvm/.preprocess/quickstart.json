@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:6d237c195db6bd9c73f1e5e70823fd602b8d00f5",
-  "generated_at": "2026-02-18T06:57:21Z",
+  "generated_at": "2026-02-23T23:29:23Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The quickstart document covers setting up and running RedisGears JVM code, including prerequisites, creating a Maven project, building a JAR, uploading it, and executing batch or event processing code with RG.JEXECUTE.",
+  "contextual_summary": "The quickstart.md document provides a tutorial for setting up a Maven project, building a JAR, and executing RedisGears Java code for batch or event processing on a Redis cluster.",
   "doc_type": "tutorial",
   "quality_score": 8,
   "key_concepts": [
     "RedisGears",
     "RG.JEXECUTE",
     "Maven project",
-    "JAR",
+    "JAR file",
     "event processing"
   ],
   "gap_flags": [

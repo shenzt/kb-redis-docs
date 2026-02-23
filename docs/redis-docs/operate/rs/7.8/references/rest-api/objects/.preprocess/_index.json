@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0d675c230bf4e43a0ec15029eb248dd0bc284694",
+  "generated_at": "2026-02-23T23:37:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md describes the use of JSON objects in REST API requests and responses for a specific system.",
+  "doc_type": "overview",
+  "quality_score": 3,
+  "key_concepts": [
+    "REST API",
+    "JSON",
+    "request body",
+    "response body",
+    "objects"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

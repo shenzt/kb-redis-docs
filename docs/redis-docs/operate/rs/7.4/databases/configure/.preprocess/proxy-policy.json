@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:bb1a758a1f70f9c32fe76eb495d649874f01d61d",
+  "generated_at": "2026-02-23T23:34:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document proxy-policy.md covers Redis Enterprise Software proxy policies, including Single, All Master Shards, and All Nodes configurations, and their management via rladmin commands.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "proxy policy",
+    "rladmin",
+    "shards",
+    "failover",
+    "database configuration"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

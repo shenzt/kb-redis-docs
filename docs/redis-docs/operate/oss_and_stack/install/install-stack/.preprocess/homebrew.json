@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:e4dbca6885570da2fcf17fb4156372913827e74a",
-  "generated_at": "2026-02-18T06:56:50Z",
+  "generated_at": "2026-02-23T23:28:45Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document provides instructions for installing, running, verifying, and uninstalling Redis Open Source 8.x on macOS using Homebrew, including prerequisite cleanup and PATH configuration.",
+  "contextual_summary": "The document provides instructions for installing, running, verifying, and uninstalling Redis Open Source 8.x on macOS using Homebrew, including prerequisite cleanup and path configuration.",
   "doc_type": "tutorial",
   "quality_score": 9,
   "key_concepts": [
     "Homebrew",
     "redis-cli",
     "PATH",
-    "MODULE LIST",
+    "modules",
     "SHUTDOWN"
   ],
   "gap_flags": [

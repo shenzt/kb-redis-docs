@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c3620c4ef0cfae69a81a4e2d0014078c5c614825",
+  "generated_at": "2026-02-23T23:38:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The snapshots.md document covers the REST API endpoints for retrieving and deleting node snapshots, including their request parameters, permissions, and response formats.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "node snapshots",
+    "REST API",
+    "permissions",
+    "HTTP methods",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

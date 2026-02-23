@@ -1,22 +1,23 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:e2ecebee45cccb51fc8195225a37176f64fffe9e",
-  "generated_at": "2026-02-18T06:57:04Z",
+  "generated_at": "2026-02-23T23:29:01Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document provides examples of using Redis Stack triggers and functions for industry use cases like retail inventory, travel bookings, and subscription services, including code snippets for auditing, data deletion, and automatic session expiration.",
+  "contextual_summary": "The document covers Redis Stack triggers and functions, providing industry use cases and JavaScript code examples for tasks like auditing, data deletion, and automatic session expiration.",
   "doc_type": "example",
   "quality_score": 7,
   "key_concepts": [
     "triggers",
     "functions",
     "keyspace trigger",
-    "TFCALLASYNC",
-    "automatic expiration"
+    "JavaScript",
+    "TFCALLASYNC"
   ],
   "gap_flags": [
-    "incomplete_steps"
+    "incomplete_steps",
+    "missing_example"
   ],
   "evidence_flags": {
     "has_command": false,

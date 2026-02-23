@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Groups records and reduces each group to a single record per group.
-id: 5f440ad6
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: accumulateBy
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/classes/gearsbuilder/accumulateby.md
-source_repo: https://github.com/redis/docs
-title: Accumulateby
 weight: 50
 ---
 

@@ -1,25 +1,24 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:08227cc1d2f84db786b104a984055434d18aa135",
-  "generated_at": "2026-02-18T06:56:45Z",
+  "generated_at": "2026-02-23T23:28:39Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers installing and starting Redis Stack Server from binaries, including adding the binaries to the system PATH.",
-  "doc_type": "tutorial",
+  "contextual_summary": "The document covers installing and starting Redis Stack Server from binaries, including adding the binaries to the PATH and installing required OpenSSL libraries.",
+  "doc_type": "guide",
   "quality_score": 7,
   "key_concepts": [
     "redis-stack-server",
     "PATH",
+    "OpenSSL",
     "binaries",
-    "openssl",
-    "homebrew"
+    "bashrc"
   ],
   "gap_flags": [
     "incomplete_steps",
     "missing_command",
-    "missing_config",
-    "missing_example"
+    "missing_config"
   ],
   "evidence_flags": {
     "has_command": false,

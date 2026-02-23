@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:34dc4ed9f63504cfe27cd7a866bd71b31b737116",
+  "generated_at": "2026-02-23T23:40:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document resume_traffic.md is a REST API reference for resuming read and write traffic on a database using a POST request to a specific endpoint.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "resume_traffic",
+    "action_uid",
+    "required permissions",
+    "status codes",
+    "database traffic"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

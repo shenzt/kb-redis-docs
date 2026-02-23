@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:341700b7b5f2ca12e8b3abbaf9e1903bc8c282a8",
+  "generated_at": "2026-02-23T23:35:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This API reference document details the methods for retrieving, updating, and deleting cluster certificates via specific REST endpoints.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "cluster certificates",
+    "REST API",
+    "permissions",
+    "status codes",
+    "certificate validation"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

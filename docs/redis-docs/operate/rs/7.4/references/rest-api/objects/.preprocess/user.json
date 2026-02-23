@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:75acbaa642c95fddf55dd2382ea06a45033f9b47",
+  "generated_at": "2026-02-23T23:35:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The user.md document defines an API object representing a Redis Enterprise user, detailing its fields including uid, email, role, password handling, and alert settings.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "uid",
+    "role",
+    "password_hash_method",
+    "status",
+    "email_alerts"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

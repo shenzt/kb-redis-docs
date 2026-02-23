@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:a38ee9909c354e1164a445b0b423e1d38ef6dd8e",
-  "generated_at": "2026-02-18T06:57:01Z",
+  "generated_at": "2026-02-23T23:28:59Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "This document covers configuring RedisBloom probabilistic data structures in Redis Software via UI and in Redis Cloud via support requests, with links to detailed parameters.",
+  "contextual_summary": "This document covers how to configure RedisBloom probabilistic data structures in Redis Software via the UI and in Redis Cloud via support, depending on subscription type.",
   "doc_type": "guide",
   "quality_score": 6,
   "key_concepts": [

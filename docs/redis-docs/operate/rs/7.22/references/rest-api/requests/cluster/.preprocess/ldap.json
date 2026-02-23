@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e1a33fa9ce3e8b5536f2641acf971d274686e533",
+  "generated_at": "2026-02-23T23:33:06Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document ldap.md is a REST API reference for managing LDAP configuration, detailing GET, PUT, and DELETE endpoints for retrieving, updating, and clearing LDAP settings.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "LDAP configuration",
+    "bind_dn",
+    "user_dn_query",
+    "required permissions",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:503855fc7f8f393d5dbf9a471ae6bc31f8a663ec",
-  "generated_at": "2026-02-18T06:57:36Z",
+  "generated_at": "2026-02-23T23:29:42Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RedisGraph 2.0 release notes detail version-specific requirements, maintenance updates, bug fixes, and minor enhancements for the graph database module.",
+  "contextual_summary": "The document covers the release notes for RedisGraph version 2.0, detailing requirements, version-specific updates, bug fixes, and minor enhancements.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [

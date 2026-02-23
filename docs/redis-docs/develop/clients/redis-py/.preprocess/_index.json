@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:89303117020f0e4235b32ca270677b0609f79bee",
+  "generated_at": "2026-02-23T23:24:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The redis-py guide explains how to install the Python Redis client, connect to a Redis database, and perform basic operations like setting and retrieving strings and hashes.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "redis-py",
+    "hiredis",
+    "decode_responses",
+    "HSET",
+    "HGETALL"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

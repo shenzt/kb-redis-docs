@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:75a53b549a3b68553329c5cafcd38743b33de77f",
+  "generated_at": "2026-02-23T23:34:20Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document outlines prerequisites for installing Redis Enterprise Software, including hardware setup, platform selection, network configuration, and DNS setup.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Hardware requirements",
+    "Deployment platform",
+    "Network ports",
+    "Cluster DNS",
+    "Offline installation"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

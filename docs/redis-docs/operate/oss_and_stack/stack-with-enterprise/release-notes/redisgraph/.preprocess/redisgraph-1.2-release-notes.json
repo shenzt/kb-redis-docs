@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:86cb2821ca6ba7b49c2aba87e4df4d80f3036b44",
-  "generated_at": "2026-02-18T06:57:35Z",
+  "generated_at": "2026-02-23T23:29:41Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RedisGraph 1.2 release notes detail version requirements, maintenance updates, and new features including support for multiple relationships of the same type and performance improvements for graph queries.",
+  "contextual_summary": "The document redisgraph-1.2-release-notes.md outlines the requirements, new features, performance improvements, and bug fixes for RedisGraph versions 1.2.0 and 1.2.2.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "RedisGraph",
-    "release notes",
-    "performance improvements",
     "GraphBLAS",
-    "MATCH"
+    "MATCH",
+    "performance improvements",
+    "bug fixes"
   ],
   "gap_flags": [
     "incomplete_steps",

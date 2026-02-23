@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/quick_start_ri/
 categories:
 - docs
 - develop
@@ -11,16 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Get started with triggers and functions using redis-cli
-id: 7cddfcce
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Quick start (redis-cli)
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/Quick_Start_CLI.md
-source_repo: https://github.com/redis/docs
 title: Quick start using redis-cli
 weight: 2
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/quick_start_ri/
 ---
 
 Make sure that you have [Redis Stack installed]({{< relref "/operate/oss_and_stack/install/install-stack/" >}}) and running. Alternatively, you can create a [free Redis Cloud account](https://redis.com/try-free/?utm_source=redisio&utm_medium=referral&utm_campaign=2023-09-try_free&utm_content=cu-redis_cloud_users). The triggers and functions preview is available in the fixed subscription plan for the Google Cloud Asia Pacific (Tokyo) and AWS Asia Pacific (Singapore) regions.

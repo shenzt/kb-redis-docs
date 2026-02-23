@@ -1,5 +1,4 @@
 ---
-aliases: /develop/use/client-side-caching/
 categories:
 - docs
 - develop
@@ -10,17 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: 'Server-assisted, client-side caching in Redis
 
   '
-id: 6e575127
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Client-side caching
-source_commit: a9ff1a3
-source_path: content/develop/reference/client-side-caching.md
-source_repo: https://github.com/redis/docs
 title: Client-side caching reference
+aliases: /develop/use/client-side-caching/
 weight: 2
 ---
 
@@ -370,3 +364,4 @@ keys that were not served recently.
 ## Limiting the amount of memory used by Redis
 
 Be sure to configure a suitable value for the maximum number of keys remembered by Redis or alternatively use the BCAST mode that consumes no memory at all on the Redis side. Note that the memory consumed by Redis when BCAST is not used, is proportional both to the number of keys tracked and the number of clients requesting such keys.
+

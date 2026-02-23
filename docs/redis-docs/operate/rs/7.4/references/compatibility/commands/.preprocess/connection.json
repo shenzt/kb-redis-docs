@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b0f78dbe280c2410c86aaf083d92469a0c2db91b",
+  "generated_at": "2026-02-23T23:34:55Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'connection.md' details the compatibility of Redis Open Source connection management commands with standard and Active-Active databases in Redis Enterprise Software and Redis Cloud.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise",
+    "Redis Cloud",
+    "Active-Active databases",
+    "connection management commands",
+    "compatibility"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

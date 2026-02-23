@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e49af09e424d0c2efdc8778b0cab259109bddfb5",
+  "generated_at": "2026-02-23T23:40:24Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document cluster_settings.md defines a cluster resource management policy, detailing configuration parameters for pub/sub ACL, automatic recovery, memory thresholds, encryption, auditing, and other operational controls.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "acl_pubsub_default",
+    "auto_recovery",
+    "bigstore_migrate_node_threshold",
+    "data_internode_encryption",
+    "slave_ha_cooldown_period"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

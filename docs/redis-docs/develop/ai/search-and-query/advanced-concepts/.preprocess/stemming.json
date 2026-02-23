@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ed046ac9f731b1de19cb3a767551093ef0791994",
+  "generated_at": "2026-02-23T23:24:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers RediSearch's stemming feature, explaining how it maps word variations to a common stem using the Snowball library, detailing language support, and providing examples for German and Chinese tokenization.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "stemming",
+    "Snowball stemmer",
+    "LANGUAGE parameter",
+    "tokenization",
+    "FT.CREATE"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

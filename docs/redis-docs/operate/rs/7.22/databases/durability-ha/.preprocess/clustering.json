@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ddb37cc4acafdc89be0c2f3fc29475ea91c6e7dd",
+  "generated_at": "2026-02-23T23:31:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise clustering partitions a database's keyspace into shards across nodes for scaling large datasets and CPU-intensive workloads, detailing terminology, use cases, and operational constraints.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "shard",
+    "hash slot",
+    "keyspace",
+    "clustering",
+    "Redis Enterprise"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -5,16 +5,9 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Write-behind, write-through, and read-through caching between Redis and
   other databases (SQL or NoSQL).
-id: ea7f2e61
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Caching strategies
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/recipes/write-behind.md
-source_repo: https://github.com/redis/docs
-title: Write Behind
 toc: 'true'
 weight: 70
 ---
@@ -205,3 +198,4 @@ redis-cli -x RG.TRIGGER SYNC.REGISTERSOURCE \
 | connector name | Connector to send the data to |
 | policy | WriteBehind/WriteThrough/ReadThrough: <br></br>• On WriteThrough, an extra argument is WriteTimeout <br></br>• On ReadThrough, an extra argument is expire (0 for no expire) |
 | mapping xml | Hibernate XML definition of the mapping |
+

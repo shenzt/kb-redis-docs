@@ -5,15 +5,8 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: Run RedisGears functions on command.
-id: 1edb54ee
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: CommandReader
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/gears-v1/jvm/classes/readers/commandreader.md
-source_repo: https://github.com/redis/docs
-title: Commandreader
 weight: 60
 ---
 

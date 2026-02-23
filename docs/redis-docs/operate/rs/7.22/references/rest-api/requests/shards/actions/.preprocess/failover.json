@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e01d4add052673a6246f63f1db94e55cfed4d206",
+  "generated_at": "2026-02-23T23:33:24Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The failover.md document describes REST API endpoints for manually triggering shard failover, including methods for multiple or specific shards, required permissions, request/response formats, and status codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "failover",
+    "shard",
+    "primary shard",
+    "replica",
+    "dry_run"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

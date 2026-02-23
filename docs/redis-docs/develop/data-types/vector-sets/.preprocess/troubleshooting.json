@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:6114237481a1b33ee7ab1001c2617b1123c9718c",
-  "generated_at": "2026-02-18T06:56:34Z",
+  "generated_at": "2026-02-23T23:25:18Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "This troubleshooting document for Redis vector sets addresses common challenges like low recall, filtering issues, memory usage, graph inspection, deletion spikes, and replication quirks.",
+  "contextual_summary": "This troubleshooting guide covers common challenges with vector sets, including low recall, filtering issues, memory usage, graph inspection, deletion spikes, and replication quirks.",
   "doc_type": "troubleshooting",
   "quality_score": 9,
   "key_concepts": [
     "VSIM",
     "EF parameter",
+    "quantization",
     "VGETATTR",
-    "VLINKS",
-    "quantization"
+    "HNSW"
   ],
   "gap_flags": [
     "missing_config",

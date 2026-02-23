@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:597f4bd278305063bd4ead59ea09b63b3d1b250c",
-  "generated_at": "2026-02-18T06:57:35Z",
+  "generated_at": "2026-02-23T23:29:41Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RedisGraph 1.0 release notes detail version-specific requirements, features, enhancements, and bug fixes from v1.0.1 through v1.0.15.",
+  "contextual_summary": "The document redisgraph-1.0-release-notes.md details version-specific requirements, changes, enhancements, and bug fixes for RedisGraph releases from v1.0.1 through v1.0.15.",
   "doc_type": "reference",
-  "quality_score": 7,
+  "quality_score": 8,
   "key_concepts": [
     "GraphBLAS",
     "WITH clause",

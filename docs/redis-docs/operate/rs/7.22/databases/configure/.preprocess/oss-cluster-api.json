@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7863bf17a8df255d7b17b0aa2cde1ef107123ac6",
+  "generated_at": "2026-02-23T23:31:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers enabling and disabling the OSS Cluster API for Redis Enterprise databases, detailing prerequisites, methods, and multi-key command support.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "OSS Cluster API",
+    "hashing policy",
+    "proxy policy",
+    "multi-key commands",
+    "rladmin"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

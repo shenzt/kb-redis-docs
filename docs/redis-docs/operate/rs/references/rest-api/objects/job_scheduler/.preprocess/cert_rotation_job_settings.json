@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:40852cd490f616d095fab9c3556a57f78a794d8a",
+  "generated_at": "2026-02-23T23:40:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document cert_rotation_job_settings.md defines configuration parameters for a certificate rotation job, including its schedule, activation status, and expiry threshold.",
+  "doc_type": "reference",
+  "quality_score": 6,
+  "key_concepts": [
+    "cron_expression",
+    "enabled",
+    "expiry_days_before_rotation",
+    "certificate rotation",
+    "schedule"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

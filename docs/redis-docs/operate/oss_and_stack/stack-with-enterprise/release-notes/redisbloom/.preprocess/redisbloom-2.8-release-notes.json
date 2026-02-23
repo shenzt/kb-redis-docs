@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:0d63f224ab5df2f11a20d16576143e24ad25427d",
-  "generated_at": "2026-02-18T06:57:28Z",
+  "generated_at": "2026-02-23T23:29:32Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "RedisBloom 2.8 release notes detail version requirements, update urgencies, and specific bug fixes, improvements, and security patches for releases 2.8.10, 2.8.7, 2.8.5, and 2.8 GA.",
+  "contextual_summary": "RedisBloom v2.8 release notes detail version-specific requirements, update urgencies, and changes including bug fixes, security patches, and improvements from v2.8.2 to v2.8.10.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [

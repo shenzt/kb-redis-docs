@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:af1fa64793c9f222eb76aafd2e202e267e6b39d8",
-  "generated_at": "2026-02-18T06:57:03Z",
+  "generated_at": "2026-02-23T23:29:00Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Redis Stack triggers and functions configuration document details bootstrap and runtime configuration options, including execution-threads, lock-redis-timeout, and error-verbosity, for controlling module operation.",
+  "contextual_summary": "The Redis Stack triggers and functions configuration document covers bootstrap and runtime configuration options, including execution-threads and lock-redis-timeout, for controlling module operation.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [

@@ -1,21 +1,22 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:72eb6c19d4213f27620125373098072933d0514d",
-  "generated_at": "2026-02-18T06:57:06Z",
+  "generated_at": "2026-02-23T23:29:05Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document covers the conversion rules between RESP3 protocol replies and JavaScript object types when using the client.call API in Redis functions.",
+  "contextual_summary": "The document details the mapping rules between RESP3 protocol replies and JavaScript object types when using the `client.call` API in Redis.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
     "RESP3",
     "client.call",
     "JavaScript object",
-    "conversion rules",
-    "status"
+    "reply parsing",
+    "type conversion"
   ],
   "gap_flags": [
+    "incomplete_steps",
     "missing_example"
   ],
   "evidence_flags": {

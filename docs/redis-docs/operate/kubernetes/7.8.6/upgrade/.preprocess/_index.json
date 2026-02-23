@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:01509a36fe205ac54008be688dbff38001205424",
+  "generated_at": "2026-02-23T23:27:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document outlines the three-component upgrade process for Redis Enterprise on Kubernetes, covering compatibility requirements and the shift to RHEL9-based images.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise operator",
+    "Redis Enterprise cluster (REC)",
+    "Redis Enterprise databases (REDB)",
+    "RHEL9",
+    "upgrade compatibility"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

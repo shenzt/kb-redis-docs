@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b04e23cbebe5ba797e2d421982d7c0cf41c888ae",
+  "generated_at": "2026-02-23T23:28:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers configuring SAML 2.0 single sign-on for the Redis Enterprise Software Cluster Manager UI, including prerequisites, enabling steps, and required identity provider settings.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "SAML 2.0",
+    "single sign-on (SSO)",
+    "identity provider (IdP)",
+    "service provider (SP)",
+    "just-in-time (JIT) provisioning"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:055154b4682c9d643da2687759704f4173c12eaa",
+  "generated_at": "2026-02-23T23:40:58Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md is a REST API reference for managing cluster certificates, detailing GET, PUT, and DELETE endpoints for retrieving, updating, and removing certificates.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster certificates",
+    "REST API",
+    "required permissions",
+    "status codes",
+    "certificate deletion"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

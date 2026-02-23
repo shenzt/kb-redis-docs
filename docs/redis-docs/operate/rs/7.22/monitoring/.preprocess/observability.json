@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:bbb138b660559aa053cfbe825cb58d2150c5933c",
+  "generated_at": "2026-02-23T23:31:47Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document observability.md covers implementing and configuring observability tools and practices for monitoring system performance and health.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "monitoring",
+    "metrics",
+    "logging",
+    "tracing",
+    "alerting"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

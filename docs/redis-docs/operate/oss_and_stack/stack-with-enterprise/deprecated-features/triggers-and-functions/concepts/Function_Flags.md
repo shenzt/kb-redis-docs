@@ -1,6 +1,4 @@
 ---
-aliases:
-- /develop/interact/programmability/triggers-and-functions/concepts/function_flags/
 categories:
 - docs
 - develop
@@ -11,16 +9,12 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Function flags for JavaScript functions
-id: bd07d2af
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Function flags
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/deprecated-features/triggers-and-functions/concepts/Function_Flags.md
-source_repo: https://github.com/redis/docs
 title: Function flags
 weight: 5
+aliases:
+  - /develop/interact/programmability/triggers-and-functions/concepts/function_flags/
 ---
 
 When registering a function, it is possible to include additional information about its behavior. This information is known as function flags. Function flags are an optional argument that can be specified after the function implementation. The following flags are supported:

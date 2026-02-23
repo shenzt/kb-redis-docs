@@ -4,16 +4,10 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: 'Performance engineering guide for on-CPU profiling and tracing
 
   '
-id: b9415576
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: CPU profiling
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/management/optimization/cpu-profiling.md
-source_repo: https://github.com/redis/docs
 title: Redis CPU profiling
 weight: 1
 ---
@@ -241,3 +235,4 @@ It's important to know that there are two very different ways in which PMCs can
 be used (counting and sampling), and we've focused solely on PMCs counting for
 the sake of this analysis. Brendan Greg clearly explains it on the following
 [link](http://www.brendangregg.com/blog/2017-05-04/the-pmcs-of-ec2.html).
+

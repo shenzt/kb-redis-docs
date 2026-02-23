@@ -9,14 +9,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Understand how to use Redis as a vector database
-id: 23ae8350
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Vector database
-source_commit: a9ff1a3
-source_path: content/develop/get-started/vector-database.md
-source_repo: https://github.com/redis/docs
 stack: true
 title: Redis as a vector database quick start guide
 weight: 3

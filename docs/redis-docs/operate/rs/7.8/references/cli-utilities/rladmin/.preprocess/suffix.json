@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1fb32c31b87d781802cfaa1b597dad5748a05ac8",
+  "generated_at": "2026-02-23T23:37:22Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document suffix.md describes the rladmin commands for managing DNS suffixes in a cluster, including adding, deleting, and listing them.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "DNS suffix",
+    "rladmin",
+    "multicast DNS",
+    "IPv6 support",
+    "frontend DNS servers"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

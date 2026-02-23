@@ -1,22 +1,23 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:7c98592f1ba63ede82a3491e7043a98f07dde990",
-  "generated_at": "2026-02-18T06:56:48Z",
+  "generated_at": "2026-02-23T23:28:42Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The document provides steps to build and run Redis Open Source from source code on a Debian 11 system, including installing dependencies, downloading source, building, verifying, starting, and optionally installing Redis.",
+  "contextual_summary": "The document covers building and running Redis Open Source from source on Debian 11, including installing dependencies, downloading source code, compiling, testing, and starting the server.",
   "doc_type": "tutorial",
   "quality_score": 8,
   "key_concepts": [
     "Redis",
-    "source code",
-    "build",
-    "modules",
-    "Debian 11"
+    "source code compilation",
+    "Debian 11",
+    "dependencies",
+    "modules"
   ],
   "gap_flags": [
-    "incomplete_steps"
+    "incomplete_steps",
+    "missing_config"
   ],
   "evidence_flags": {
     "has_command": true,

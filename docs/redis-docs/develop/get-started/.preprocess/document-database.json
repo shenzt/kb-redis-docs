@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:48eb0af726ce80a04b7636de6dfa41b2fbc68a55",
-  "generated_at": "2026-02-18T06:56:35Z",
+  "generated_at": "2026-02-23T23:25:19Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "This quick start guide demonstrates how to use Redis as a document database by creating indexes, adding JSON documents, and performing searches on a sample bicycle inventory.",
+  "contextual_summary": "This quick start guide demonstrates how to use Redis as a document database by creating an index, adding JSON documents, and performing searches on a sample bicycle inventory.",
   "doc_type": "tutorial",
   "quality_score": 8,
   "key_concepts": [

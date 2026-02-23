@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:cd00b4b7ba2a9139b00c32b5a9f7adba3b7fec09",
-  "generated_at": "2026-02-18T06:57:29Z",
+  "generated_at": "2026-02-23T23:29:33Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Redis Open Source 8.2.4 release notes detail security fixes, bug fixes, and performance improvements for Redis and its modules like RedisJSON, RediSearch, and RedisBloom.",
+  "contextual_summary": "Redis Open Source 8.2.4 release notes detail security fixes, bug fixes, and performance improvements for Redis and its modules like RedisJSON and RediSearch.",
   "doc_type": "reference",
   "quality_score": 8,
   "key_concepts": [
@@ -13,7 +13,7 @@
     "Bug fixes",
     "Performance improvements",
     "Redis modules",
-    "RDB load"
+    "Metrics"
   ],
   "gap_flags": [
     "incomplete_steps",

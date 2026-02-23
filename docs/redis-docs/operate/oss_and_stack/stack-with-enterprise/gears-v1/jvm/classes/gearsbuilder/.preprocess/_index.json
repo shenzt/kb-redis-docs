@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c579223fe88d548540edd4d962af45c600cedb0d",
+  "generated_at": "2026-02-23T23:29:10Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md introduces the GearsBuilder class for creating RedisGears data transformation pipelines and mentions the requirement of a reader.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "GearsBuilder",
+    "RedisGears",
+    "pipeline",
+    "reader",
+    "functions"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

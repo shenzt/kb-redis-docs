@@ -5,22 +5,14 @@ categories:
 - docs
 - operate
 - stack
-confidence: medium
 description: BF.INFO returns bloom filter details. CF.INFO returns cuckoo filter details.
   Scalable bloom and cuckoo filters. Configurable bucket size for cuckoo filters.
   CMS.INCRBY returns count.
-id: c1b62829
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: v2.2 (December 2019)
 min-version-db: 4.0.0
 min-version-rs: 5.0.0
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/stack-with-enterprise/release-notes/redisbloom/redisbloom-2.2-release-notes.md
-source_repo: https://github.com/redis/docs
-title: Redisbloom 2.2 Release Notes
 weight: 97
 ---
-
 ## Requirements
 
 RedisBloom v2.2.18 requires:

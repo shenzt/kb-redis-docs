@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c0a02ec6a9742abc1c49e6759843991b7ddc4622",
+  "generated_at": "2026-02-23T23:25:37Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisInsight 2.40.0 release notes cover the GA release from December 2023, highlighting simplified in-app provisioning for Redis Cloud and optimizations for uploading large command files.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisInsight",
+    "Redis Cloud",
+    "bulk actions",
+    "Tree view",
+    "Redis Sentinel"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

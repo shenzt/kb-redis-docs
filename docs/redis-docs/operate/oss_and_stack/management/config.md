@@ -6,14 +6,8 @@ categories:
 - operate
 - stack
 - oss
-confidence: medium
 description: Overview of redis.conf, the Redis configuration file
-id: 78c947ec
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Configuration
-source_commit: a9ff1a3
-source_path: content/operate/oss_and_stack/management/config.md
-source_repo: https://github.com/redis/docs
 title: Redis configuration
 weight: 2
 ---

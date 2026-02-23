@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:25c860efe08c8695bab9b6c458dbc4e316f563c1",
+  "generated_at": "2026-02-23T23:40:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The actions.md document describes a REST API for managing cluster-wide actions, including endpoints to get status, initiate, and cancel actions.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster actions",
+    "REST API",
+    "permissions",
+    "action status",
+    "HTTP methods"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

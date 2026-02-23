@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c840cbde4992f567b66a7cba419dd222bdb0494e",
+  "generated_at": "2026-02-23T23:41:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Software version 7.22.0 release notes highlight bug fixes, list included Redis database versions (7.4.2, 7.2.7, 6.2.13) with their compatible modules, and detail security vulnerabilities addressed in previous versions.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Software 7.22.0",
+    "Redis database versions",
+    "Redis modules",
+    "CVE-2021-29478",
+    "LDAP authentication"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -9,14 +9,8 @@ categories:
 - oss
 - kubernetes
 - clients
-confidence: medium
 description: Understand how to use basic Redis data types
-id: 99e8c777
-ingested_at: '2026-02-14T15:01:27Z'
 linkTitle: Data structure store
-source_commit: a9ff1a3
-source_path: content/develop/get-started/data-store.md
-source_repo: https://github.com/redis/docs
 title: Redis as an in-memory data structure store quick start guide
 weight: 1
 ---
@@ -106,3 +100,4 @@ You can address more use cases with Redis by reading these additional quick star
 ## Continue learning with Redis University
 
 {{< university-links >}}
+

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cc9e7a67216bfaf8e03608f8b688166c278b3cf4",
+  "generated_at": "2026-02-23T23:39:14Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The OSS Cluster API document covers prerequisites, enabling/disabling procedures, and multi-key command support for databases using this feature.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "OSS Cluster API",
+    "hashing policy",
+    "proxy policy",
+    "multi-key commands",
+    "CLUSTER KEYSLOT"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

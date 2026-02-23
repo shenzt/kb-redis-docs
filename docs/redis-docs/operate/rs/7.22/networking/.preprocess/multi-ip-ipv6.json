@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:00283274790996003474027e047b9460759e4501",
+  "generated_at": "2026-02-23T23:31:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software supports configuring multiple IPv4 or IPv6 addresses for internal and external traffic, detailing setup, limitations, and management commands.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "internal traffic",
+    "external traffic",
+    "IPv6",
+    "bootstrap REST API",
+    "rladmin"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "content_hash": "sha1:b7fdeb449ed89aad139cc1db44ccd4f6e4f1f73d",
-  "generated_at": "2026-02-18T06:56:57Z",
+  "generated_at": "2026-02-23T23:28:53Z",
   "model": "deepseek-chat",
   "prompt_version": "doc_preprocess_v1",
   "llm_status": "ok",
-  "contextual_summary": "The Redis ACL feature controls client access by limiting executable commands and accessible keys through user authentication, covering configuration, backward compatibility, and use cases like Sentinel and replica setup.",
+  "contextual_summary": "The Redis ACL document explains the Access Control List feature for restricting command and key access, covering authentication, default user configuration, backward compatibility, and example rules for Sentinel and replicas.",
   "doc_type": "overview",
   "quality_score": 7,
   "key_concepts": [

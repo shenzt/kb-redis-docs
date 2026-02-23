@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c71431ba96e66665b782fdb043c083c51a80c45b",
+  "generated_at": "2026-02-23T23:25:36Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisInsight 2.4.0 release notes cover the GA release from June 2022, highlighting new support for Redis Pub/Sub, streams consumer groups, and database search functionality.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis pub/sub",
+    "streams consumer groups",
+    "database search",
+    "RedisGraph",
+    "logical database"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}
