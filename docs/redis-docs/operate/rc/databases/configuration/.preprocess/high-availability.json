@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a0d72ef40e351a7a437eceb505e349e6a826b916",
+  "generated_at": "2026-02-24T06:27:55Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document high-availability.md explains database replication in Redis Cloud, covering replication levels, plan support, and configuration for high availability and fault tolerance.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "database replication",
+    "automatic failover",
+    "single-zone replication",
+    "multi-zone replication",
+    "availability zones"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

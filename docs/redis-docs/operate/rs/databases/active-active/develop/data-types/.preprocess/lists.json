@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:282f41a97bd69f2b1f66177bb07b95473e470a82",
+  "generated_at": "2026-02-24T06:33:24Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers Redis lists, their basic operations, and specific behaviors and conflict resolution when used in an Active-Active database environment.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis lists",
+    "Active-Active database",
+    "LPUSH",
+    "Conflict resolution",
+    "RPOP"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

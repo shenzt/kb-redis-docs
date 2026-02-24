@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ea8cdd8cc4246197d0566365eab851f04c1ce8ed",
+  "generated_at": "2026-02-24T06:25:19Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes reference documentation covering custom resources, API specifications, and instructions for creating, configuring, and managing deployments on Kubernetes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "custom resources",
+    "kubectl apply",
+    "YAML manifests",
+    "Active-Active databases",
+    "Redis Enterprise clusters"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

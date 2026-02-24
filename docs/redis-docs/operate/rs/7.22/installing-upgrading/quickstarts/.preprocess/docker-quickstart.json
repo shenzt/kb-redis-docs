@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9d7400d64330a92f24c271665db06b99fd5e8761",
+  "generated_at": "2026-02-24T06:28:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This quickstart document covers running Redis Enterprise Software in Docker containers for development and testing, including installation, container setup, cluster creation, and database connection.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Docker container",
+    "Redis Enterprise Software",
+    "cluster",
+    "database port",
+    "REST API"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

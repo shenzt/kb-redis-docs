@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8ff8ebda706e3e9b912b41cacdc04c0885f4d833",
+  "generated_at": "2026-02-24T06:29:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software performance optimization covers adjusting failure detection sensitivity policies for different environments and provides commands to change the cluster configuration.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "failure_detection_sensitivity",
+    "rladmin",
+    "watchdog_profile",
+    "performance optimization",
+    "cluster policy"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

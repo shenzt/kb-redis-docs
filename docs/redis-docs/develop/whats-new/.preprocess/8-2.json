@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:241af236f603d115366faae08a3e91e4f624fa54",
+  "generated_at": "2026-02-24T06:25:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis 8.2 release notes cover performance optimizations, new commands for Streams and bitmaps, enhanced cluster monitoring, security fixes, and updated metrics.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Streams",
+    "consumer group management",
+    "cluster monitoring",
+    "vector search",
+    "keyspace notifications"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

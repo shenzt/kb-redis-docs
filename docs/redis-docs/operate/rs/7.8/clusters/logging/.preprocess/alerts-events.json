@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:866eae073bdd1a6c3ac49338f0e5857c62ff398f",
+  "generated_at": "2026-02-24T06:31:35Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document alerts-events.md lists and describes various alerts and events that can appear in syslog and the Cluster Manager UI logs, detailing their UI messages, severity levels, and associated notes.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "syslog",
+    "Cluster Manager UI",
+    "alerts",
+    "events",
+    "severity"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

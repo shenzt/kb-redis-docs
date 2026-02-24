@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:19ec0484876b41edf228604fd8021c843a34d2d2",
+  "generated_at": "2026-02-24T06:31:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The config.md document details the POST API endpoint for configuring module arguments on a database, including request format, required permissions, and possible error and status codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "module_args",
+    "edit_bdb_module",
+    "runtime configuration",
+    "error_code",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

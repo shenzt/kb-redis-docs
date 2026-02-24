@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7377eeb8496a54bbcadc5d64fc82b296381d3d07",
+  "generated_at": "2026-02-24T06:28:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This guide details the process of upgrading a Redis Cloud Essentials subscription to Redis Cloud Pro, including creating a new Pro database and migrating data using Active-Passive sync.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Cloud Essentials",
+    "Redis Cloud Pro",
+    "Active-Passive sync",
+    "database migration",
+    "subscription upgrade"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

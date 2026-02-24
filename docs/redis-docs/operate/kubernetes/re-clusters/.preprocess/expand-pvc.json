@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:22567cb31ae206468e4c3297b81b43239c24ad89",
+  "generated_at": "2026-02-24T06:26:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document expand-pvc.md outlines the steps to increase the size of the persistent volume claim for a Redis Enterprise cluster, including prerequisites, the update process, and progress tracking.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "PersistentVolumeClaim (PVC)",
+    "RedisEnterpriseCluster (REC)",
+    "StatefulSet",
+    "storage class",
+    "volumeSize"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

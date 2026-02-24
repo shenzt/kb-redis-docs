@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a7d8ce8f376dea60d273dcc02b6c84be88bc954f",
+  "generated_at": "2026-02-24T06:33:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers monitoring Redis Software clusters by explaining how to view metrics, configure alerts, use the new metrics stream engine, integrate with external tools, and reference detailed metric definitions.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "metrics",
+    "alerts",
+    "metrics stream engine",
+    "Prometheus",
+    "Grafana"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

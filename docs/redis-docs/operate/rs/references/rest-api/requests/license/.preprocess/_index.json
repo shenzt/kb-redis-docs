@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:96e67731d0296fee8942665399e3af42a4748085",
+  "generated_at": "2026-02-24T06:34:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This API reference document details the GET and PUT methods for the /v1/license endpoint, including request/response structures, required permissions, and status codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "license",
+    "permissions",
+    "shards_limit",
+    "activation_date",
+    "expiration_date"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

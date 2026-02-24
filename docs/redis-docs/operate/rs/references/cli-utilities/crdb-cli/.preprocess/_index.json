@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:499bf9b52efae7ad058f0894a6be2e07406741c9",
+  "generated_at": "2026-02-24T06:33:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides an overview of Active-Active databases, describing their architecture and the use of the crdb-cli command-line tool for programmatic management.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Active-Active database",
+    "instance",
+    "participating cluster",
+    "crdb-cli",
+    "CRDTs"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

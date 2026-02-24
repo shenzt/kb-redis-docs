@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d5e1c5274930b22e632a0651703a64d2db50c44b",
+  "generated_at": "2026-02-24T06:31:08Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md is a REST API reference detailing the GET and PUT methods for the /v1/cluster endpoint, including request/response structures, permissions, and status codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster object",
+    "required permissions",
+    "status codes",
+    "dry_run",
+    "error_code"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

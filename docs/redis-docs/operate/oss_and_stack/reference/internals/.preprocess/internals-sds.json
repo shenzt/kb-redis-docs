@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e589231230bf972bf8cbd53753ac93312a4b1e41",
+  "generated_at": "2026-02-24T06:27:00Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the internal implementation of Redis strings (SDS), explaining the sdshdr structure, memory layout, and the pointer arithmetic trick used to manage strings efficiently.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "sdshdr",
+    "sds",
+    "pointer arithmetic",
+    "O(1) length",
+    "dynamic strings"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

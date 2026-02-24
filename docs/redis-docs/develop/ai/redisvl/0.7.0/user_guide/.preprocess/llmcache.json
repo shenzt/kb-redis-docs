@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:05b2624ed57deba27a83840176925dca4b9a49e1",
+  "generated_at": "2026-02-24T06:23:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers using RedisVL's SemanticCache to cache LLM responses, including initialization, basic and advanced usage with filters, to reduce costs and latency.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "SemanticCache",
+    "vector search",
+    "distance_threshold",
+    "filter_expression",
+    "RedisVL"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

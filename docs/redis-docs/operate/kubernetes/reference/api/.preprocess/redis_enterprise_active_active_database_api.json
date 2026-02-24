@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:98fd4525af1adbdb01fcd6d922adcb976f2461f5",
+  "generated_at": "2026-02-24T06:26:18Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisEnterpriseActiveActiveDatabase API reference document defines the schema, spec, and status fields for managing an active-active database resource in a Kubernetes environment.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisEnterpriseActiveActiveDatabase",
+    "participatingClusters",
+    "spec",
+    "status",
+    "replicationStatus"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

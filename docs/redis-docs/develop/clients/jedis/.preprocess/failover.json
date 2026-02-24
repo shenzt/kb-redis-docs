@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:58e7e96413054321c4b6bb0e670d727b40fac66c",
+  "generated_at": "2026-02-24T06:24:19Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to configure Jedis for client-side geographic failover using the resilience4j library, including dependency setup, configuration examples, and troubleshooting tips.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Client-side geographic failover",
+    "resilience4j",
+    "circuit breaker design pattern",
+    "HealthCheckStrategy",
+    "MultiDbConfig"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

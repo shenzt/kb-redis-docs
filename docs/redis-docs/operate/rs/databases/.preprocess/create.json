@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:138301f3b3c294b5f388bb9487a404452fffcd00",
+  "generated_at": "2026-02-24T06:33:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers methods to create a Redis Software database using either the Cluster Manager UI or a REST API request.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Software",
+    "Cluster Manager UI",
+    "REST API",
+    "database creation",
+    "Active-Active replication"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

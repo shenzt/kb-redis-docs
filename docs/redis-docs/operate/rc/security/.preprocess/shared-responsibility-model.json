@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ffb8390274bc76a1215ec99b87ea9c04300a45d6",
+  "generated_at": "2026-02-24T06:28:10Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The shared responsibility model for Redis Cloud security outlines the distinct security duties of Redis, the cloud providers (AWS, Azure, Google Cloud), and the customer.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "shared responsibility model",
+    "Redis Cloud",
+    "cloud provider",
+    "security configurations",
+    "multi-tenant infrastructure"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

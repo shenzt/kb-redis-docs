@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0ff9a9254d78d432fd69dffd328d072f2b144a2f",
+  "generated_at": "2026-02-24T06:33:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The addr.md document explains the rladmin command for setting a node's internal IP address, which can only be done when the node is down, and includes parameters, returns, and a verification example.",
+  "doc_type": "reference",
+  "quality_score": 9,
+  "key_concepts": [
+    "rladmin",
+    "internal IP address",
+    "node status",
+    "addr set",
+    "CLUSTER NODES"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

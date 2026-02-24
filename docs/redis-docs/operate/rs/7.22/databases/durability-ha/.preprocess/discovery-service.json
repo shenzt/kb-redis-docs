@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6d136e69a7c12d7072d33d995d7960b6b98a1757",
+  "generated_at": "2026-02-24T06:28:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Discovery Service document describes an IP-based connection management service for Redis Enterprise Software that uses a Sentinel-compatible API to help applications discover database endpoints during topology changes, serving as an alternative to DNS.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Discovery Service",
+    "Redis Sentinel API",
+    "endpoint",
+    "high availability",
+    "failover"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

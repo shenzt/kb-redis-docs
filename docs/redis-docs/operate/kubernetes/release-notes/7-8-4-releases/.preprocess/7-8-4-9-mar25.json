@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:833bc0fe82aaa7e01b07739bfed00646d421a76d",
+  "generated_at": "2026-02-24T06:26:35Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes 7.8.4-9 release notes detail a maintenance release supporting Redis Enterprise Software 7.8.4-95 and OpenShift 4.17/4.18, including supported Kubernetes distributions and download images.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "Kubernetes distributions",
+    "OpenShift",
+    "Operator",
+    "Maintenance release"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5193dbc8c502b0447f7a4fbbdc3b3abad0810d33",
+  "generated_at": "2026-02-24T06:28:40Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document manage-installation-questions.md lists the interactive prompts during Redis Enterprise Software installation and explains how to perform a silent install using an answer file.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "silent install",
+    "answer file",
+    "installation script",
+    "system tuning",
+    "NTP synchronization"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

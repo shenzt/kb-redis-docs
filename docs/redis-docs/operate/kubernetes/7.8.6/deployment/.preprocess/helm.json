@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:dc347125b78d4e8cdf7bc1c0a28af639cfd5e167",
+  "generated_at": "2026-02-24T06:25:56Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Helm chart installation guide for the Redis Enterprise for Kubernetes operator, covering prerequisites, installation, upgrade, and uninstallation steps.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Helm chart",
+    "Redis Enterprise operator",
+    "Kubernetes namespace",
+    "Custom Resource Definitions (CRDs)",
+    "release"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

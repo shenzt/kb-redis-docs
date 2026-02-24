@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:32a423b725c12aff61bca17ad8ae0f6674ac2bfa",
+  "generated_at": "2026-02-24T06:29:37Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides a REST API reference for the GET and PUT methods of the /v1/diagnostics endpoint, used to retrieve and update diagnostic logging service configuration.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "diagnostic logging service",
+    "cron_expression",
+    "slowlog_target",
+    "required permissions",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

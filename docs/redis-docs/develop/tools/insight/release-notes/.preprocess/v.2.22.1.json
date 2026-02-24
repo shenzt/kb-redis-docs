@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9d3bcd98ee48fce1c16d3aa90bead8b33bb85b86",
+  "generated_at": "2026-02-24T06:24:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisInsight 2.22.1 release notes cover the GA release, highlighting new features for building custom tutorials, taking a product tour, and configuring data decompression formats, along with bug fixes.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisInsight",
+    "tutorials",
+    "decompression",
+    "Browser",
+    "Sentinel"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

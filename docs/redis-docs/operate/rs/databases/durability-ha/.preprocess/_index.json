@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e394b46c5c598eba7c96e078396a8aedd51cfbcc",
+  "generated_at": "2026-02-24T06:33:32Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md covers Redis Software features for data durability and availability, including replication, clustering, persistence, active-active geo-distribution, rack-zone awareness, and the discovery service.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Replication",
+    "Clustering",
+    "Database persistence",
+    "Active-Active geo-distributed replication",
+    "Rack-zone awareness"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

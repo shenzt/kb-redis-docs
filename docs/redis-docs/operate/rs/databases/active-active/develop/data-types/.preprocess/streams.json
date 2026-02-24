@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:46cb7aed74f28a6a4a979f727ebf1f554518c0f3",
+  "generated_at": "2026-02-24T06:33:25Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document streams.md covers Redis Streams as an append-only log data structure, detailing commands like XADD and XREAD, and explains their behavior and limitations in Active-Active database deployments.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Stream",
+    "XADD",
+    "Active-Active",
+    "XREADGROUP",
+    "consumer group"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

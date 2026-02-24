@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:617788ecfe4f76a17ee6194cfcb4b481a8de2075",
+  "generated_at": "2026-02-24T06:35:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software version 7.2.4-105 is a maintenance release introducing a configurable LDAP authentication timeout, RHEL 8.9 support, updated Redis Stack modules, and several resolved issues and security fixes.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "LDAP authentication timeout",
+    "RHEL 8.9 support",
+    "Redis Stack modules",
+    "Resolved issues",
+    "CVE fixes"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

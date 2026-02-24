@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:eb140a4e01ee83cadee4420c3fe6f80034ad8d31",
+  "generated_at": "2026-02-24T06:27:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The rg-jexecute.md document describes the RG.JEXECUTE command for executing or registering Java functions in RedisGears, detailing its arguments, return values, and providing usage examples.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RG.JEXECUTE",
+    "GearsBuilder.run()",
+    "GearsBuilder.register()",
+    "UPGRADE",
+    "JAR file"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

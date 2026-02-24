@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9a80982a988a459e12fb65148cb203a77e8ab506",
+  "generated_at": "2026-02-24T06:29:36Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document lists deprecated REST API paths for downloading debug information in Redis Enterprise Software and provides their replacements.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "REST API",
+    "debug info",
+    "deprecated",
+    "support package",
+    "cluster"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

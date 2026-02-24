@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7e1d2ed686b9f1c4f7c4a9c31883220d38eaa085",
+  "generated_at": "2026-02-24T06:24:35Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Count-Min Sketch is a probabilistic data structure in Redis for estimating element frequencies in a data stream, using sub-linear space with potential over-counting, and is useful primarily for higher counts while ignoring low counts as noise.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Count-Min Sketch",
+    "probabilistic data structure",
+    "error_rate",
+    "threshold",
+    "collisions"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

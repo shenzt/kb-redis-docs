@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:43df421c063aabc282e8193425fcad7a8f7d5837",
+  "generated_at": "2026-02-24T06:22:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'Develop with Redis' provides an overview of getting started with Redis, including server setup options, client libraries for various programming languages, and key features like vector search, document search, and data types.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Cloud",
+    "vector search",
+    "document store",
+    "client libraries",
+    "data types"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

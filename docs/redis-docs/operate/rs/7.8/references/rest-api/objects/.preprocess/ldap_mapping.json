@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f1cf8c6cb349b15a9fa342d4c7bdcaeebca52b43",
+  "generated_at": "2026-02-24T06:32:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The ldap_mapping.md document defines an API object for mapping an LDAP group to database roles, detailing its fields like uid, dn, and role_uids.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "LDAP mapping",
+    "distinguished name (dn)",
+    "role_uids",
+    "email_alerts",
+    "action_uid"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

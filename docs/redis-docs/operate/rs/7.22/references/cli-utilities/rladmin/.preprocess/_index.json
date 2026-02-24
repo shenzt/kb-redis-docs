@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:603ffeda0f3d9bcfbdc106b2f0ac90c187ec5e74",
+  "generated_at": "2026-02-24T06:28:51Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document describes the rladmin command-line utility for performing administrative tasks on a Redis Enterprise Software cluster, including how to access and use its shell.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "rladmin",
+    "Redis Enterprise Software",
+    "cluster",
+    "shell",
+    "administrative tasks"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

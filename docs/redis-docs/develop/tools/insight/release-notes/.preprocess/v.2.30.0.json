@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c636d53bbedd928cf7845a32f6d6c4f4f2d8fd58",
+  "generated_at": "2026-02-24T06:24:50Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisInsight 2.30.0 release notes announce General Availability with highlights on new support for triggers and functions using RedisGears for server-side, event-driven JavaScript execution.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "RedisInsight",
+    "triggers and functions",
+    "RedisGears",
+    "JavaScript engine",
+    "General Availability"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

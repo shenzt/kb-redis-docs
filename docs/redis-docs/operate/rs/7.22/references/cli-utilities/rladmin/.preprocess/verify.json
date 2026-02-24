@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ef8b25e4bfa3eced214c55956dd6c7effd0cd499",
+  "generated_at": "2026-02-24T06:28:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The verify.md document describes the rladmin verify balance and verify rack_aware commands for checking cluster balance and rack awareness compliance.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "proxy policy",
+    "shard placement",
+    "rack awareness",
+    "unbalanced endpoint",
+    "balance report"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

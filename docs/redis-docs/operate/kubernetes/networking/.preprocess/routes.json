@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9d1cf10033ab486c7fd01fd966fc761c03f3012b",
+  "generated_at": "2026-02-24T06:26:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document routes.md explains how to create an OpenShift route and access a Redis database from outside the cluster using TLS and specific client commands.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "OpenShift routes",
+    "TLS termination",
+    "redis-cli",
+    "DMC Proxy certificate",
+    "hostname"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

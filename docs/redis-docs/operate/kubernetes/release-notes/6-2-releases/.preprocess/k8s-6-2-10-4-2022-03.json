@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:06963d7fce806da2c0c496919c971b77ad5af2ce",
+  "generated_at": "2026-02-24T06:26:21Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Enterprise K8s 6.2.10-4 release note covers new features, bug fixes, known limitations, and compatibility for the Redis Enterprise operator and software on Kubernetes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise",
+    "Operator",
+    "REDB",
+    "Services Rigger",
+    "autoUpgrade"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

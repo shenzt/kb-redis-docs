@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4e1c50dc2d68c232b31cf878c255fe8d2a6f26a3",
+  "generated_at": "2026-02-24T06:26:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document node-selection.md covers methods for controlling Redis Enterprise cluster pod scheduling in Kubernetes using node selectors, node pools, and rack awareness.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "nodeSelector",
+    "StatefulSet",
+    "rackAwarenessNodeLabel",
+    "podAntiAffinity",
+    "topologyKey"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "generated_at": "2026-02-24T06:27:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'Concepts' appears to be a placeholder or incomplete overview lacking substantive content.",
+  "doc_type": "overview",
+  "quality_score": 0,
+  "key_concepts": [],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

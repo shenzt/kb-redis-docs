@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2c9ba87d82496ff50e71b504ae2059c85f3321a6",
+  "generated_at": "2026-02-24T06:25:51Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisEnterpriseRemoteCluster API Reference document defines the structure and fields for the RedisEnterpriseRemoteCluster custom resource in Kubernetes, including its spec and status objects.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisEnterpriseRemoteCluster",
+    "apiVersion",
+    "spec",
+    "status",
+    "metadata"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

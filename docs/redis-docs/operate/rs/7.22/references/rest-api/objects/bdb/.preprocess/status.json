@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4718adfd6b2e15834aa0b3aa93525f119e2e4b8a",
+  "generated_at": "2026-02-24T06:29:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document defines the read-only BDB status field, listing its possible values, descriptions, and allowed state transitions.",
+  "doc_type": "reference",
+  "quality_score": 6,
+  "key_concepts": [
+    "BDB status field",
+    "active",
+    "delete-pending",
+    "import-pending",
+    "creation-failed"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:30b53b6ddba240d54579a2aa23fe43217b865760",
+  "generated_at": "2026-02-24T06:24:00Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Configuration parameters for Redis Query Engine (RQE) covers setting parameters at load time via redis.conf or at run time via CONFIG SET, with a summary table of parameters and their compatibility.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RQE configuration parameters",
+    "CONFIG SET",
+    "redis.conf",
+    "FT.CONFIG",
+    "loadmodule"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

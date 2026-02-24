@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:79915452fa864d6dc00ffa1589552e653c255d14",
+  "generated_at": "2026-02-24T06:29:46Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Terminology in Redis Enterprise Software explains key concepts like nodes, shards, and the cluster manager, detailing their roles and configurations within a Redis cluster.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Node",
+    "Redis instance (shard)",
+    "Cluster manager",
+    "High availability",
+    "Clustered Redis database"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

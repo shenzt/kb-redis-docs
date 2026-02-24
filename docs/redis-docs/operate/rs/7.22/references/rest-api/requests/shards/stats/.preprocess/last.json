@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fe9a7a692834e6426af062bf8ea56ccc00a1d473",
+  "generated_at": "2026-02-24T06:29:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document last.md describes two REST API endpoints for retrieving the most recent statistics for database shards, including their required permissions, request parameters, and response formats.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "shards",
+    "statistics",
+    "REST API",
+    "permissions",
+    "query parameters"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

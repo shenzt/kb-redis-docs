@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cb9a4feb9be66522b4f858d24e8889eda388e2d1",
+  "generated_at": "2026-02-24T06:34:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides a REST API reference for two endpoints to get a node's bootstrap status and to initiate bootstrapping actions.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "bootstrap",
+    "REST API",
+    "node",
+    "cluster",
+    "endpoint"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

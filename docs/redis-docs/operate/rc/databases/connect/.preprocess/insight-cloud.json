@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:aa301b2e599a2f1a4d04f77840e25a8ba973a9ea",
+  "generated_at": "2026-02-24T06:27:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document describes Redis Insight, a GUI for Redis, covering its browser-based and installed versions, and detailing features like the Browse, CLI, Workbench, and Insights panels for data visualization and database management.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Insight",
+    "Browse tab",
+    "CLI",
+    "Workbench",
+    "Insights panel"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

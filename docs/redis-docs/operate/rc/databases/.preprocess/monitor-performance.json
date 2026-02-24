@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:dcf8977640f214101ecdde99a457b860bcdd30a8",
+  "generated_at": "2026-02-24T06:27:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document monitor-performance.md describes how to view, promote, and set alerts for performance metrics in Redis Cloud.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Metrics",
+    "Ops/sec",
+    "Alerts",
+    "Replication Lag",
+    "Performance Thresholds"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

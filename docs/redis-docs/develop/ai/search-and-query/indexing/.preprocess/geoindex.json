@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:07e190e97c570ec1b3bab6bfbc4398c8c41e9d0f",
+  "generated_at": "2026-02-24T06:24:08Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to index and query geospatial data in Redis using the GEO and GEOSHAPE schema types, including command examples for creating indexes and performing spatial queries.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "GEO",
+    "GEOSHAPE",
+    "Well-Known Text (WKT)",
+    "FT.CREATE",
+    "FT.SEARCH"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

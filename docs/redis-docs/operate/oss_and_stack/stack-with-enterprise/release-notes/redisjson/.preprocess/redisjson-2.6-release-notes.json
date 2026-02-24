@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ba0edf4e284989600b9dea4ec544fa2913ad32b3",
+  "generated_at": "2026-02-24T06:27:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "RedisJSON v2.6 release notes detail version-specific requirements, update urgencies, bug fixes, improvements, and new features like JSON.MERGE and JSON.MSET.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "JSON.DEL",
+    "JSON.MERGE",
+    "JSON.MSET",
+    "RFC 7396",
+    "RESP3"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

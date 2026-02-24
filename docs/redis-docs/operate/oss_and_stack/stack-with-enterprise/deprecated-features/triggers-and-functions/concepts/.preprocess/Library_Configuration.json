@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6c3c41376864b64b3f9b1f3d54a0a108e1f1adec",
+  "generated_at": "2026-02-24T06:27:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers library configuration in Redis Triggers and Functions, explaining how to pass a JSON config at load time to customize library behavior without changing base code.",
+  "doc_type": "example",
+  "quality_score": 8,
+  "key_concepts": [
+    "library configuration",
+    "redis.config",
+    "TFUNCTION LOAD",
+    "JSON object",
+    "Triggers and Functions"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

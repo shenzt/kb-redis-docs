@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0e9a0b9b8f89d66c88df0fa3ba494dd1ad4cba61",
+  "generated_at": "2026-02-24T06:31:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document create-db-roles.md explains how to create roles in Redis Enterprise that grant database access via Redis ACLs while restricting access to the cluster management UI and API.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis ACLs",
+    "database access",
+    "Cluster management role",
+    "roles",
+    "access control"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:96c993df90be4fc1eec9d494d2acdacd0a58f2b9",
+  "generated_at": "2026-02-24T06:33:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'recovery-path.md' explains how to set a node's local recovery path for storing persistence files used in database recovery.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "recovery path",
+    "persistence files",
+    "node",
+    "rladmin",
+    "database recovery"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

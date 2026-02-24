@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ce647ac7fb4ef965584d3c7e04a3f1a291aa3077",
+  "generated_at": "2026-02-24T06:22:52Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers using the RedisVL library to define an index schema, create a search index, load data, and perform vector searches in Redis for AI applications.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "IndexSchema",
+    "SearchIndex",
+    "VectorQuery",
+    "Redis Stack",
+    "vector"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

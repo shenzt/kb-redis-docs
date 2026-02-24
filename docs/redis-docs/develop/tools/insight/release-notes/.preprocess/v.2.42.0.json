@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7759893aca46284155ed262ecbb6d7e8a697d53c",
+  "generated_at": "2026-02-24T06:24:52Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisInsight 2.42 release notes announce a new developer enablement area with interactive tutorials and the availability of RedisInsight on Docker.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisInsight",
+    "Docker",
+    "developer enablement",
+    "interactive tutorials",
+    "Redis Cloud"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

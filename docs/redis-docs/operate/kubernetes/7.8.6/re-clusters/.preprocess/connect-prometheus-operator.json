@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2d4a1bdec25bfa390053784125cb175157aaa7fb",
+  "generated_at": "2026-02-24T06:26:00Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document explains how to connect a Prometheus server to a Redis Enterprise cluster on Kubernetes using a ServiceMonitor custom resource to collect metrics from port 8070.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "ServiceMonitor",
+    "Prometheus operator",
+    "Redis Enterprise cluster (REC)",
+    "prometheus port (8070)",
+    "namespaceSelector"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

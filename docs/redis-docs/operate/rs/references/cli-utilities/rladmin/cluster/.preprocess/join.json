@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:907c0d30c25f3ff8d7c0bb222e68391ccdfd86ce",
+  "generated_at": "2026-02-24T06:33:54Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The join.md document details the rladmin cluster join command for adding a node to an existing Redis Enterprise cluster, listing its parameters, usage, and an example.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "rladmin cluster join",
+    "node",
+    "rack_id",
+    "persistent_path",
+    "replace_node"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

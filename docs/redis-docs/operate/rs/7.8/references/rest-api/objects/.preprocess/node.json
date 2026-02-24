@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:24912f015b513f51ceac3189c70f7cd300e7c991",
+  "generated_at": "2026-02-24T06:32:35Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The node.md document defines the API object representing a cluster node, detailing its properties, types, and read-only statuses for configuration and monitoring.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "node",
+    "shard",
+    "bigstore",
+    "bootstrap",
+    "read-only"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

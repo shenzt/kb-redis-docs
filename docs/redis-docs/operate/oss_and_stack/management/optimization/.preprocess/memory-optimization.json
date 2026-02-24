@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1f77f097b90ff9d41fff49205b6e88de7c2cb4a2",
+  "generated_at": "2026-02-24T06:26:56Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Memory optimization in Redis covers special encoding for small aggregate data types, 32-bit instance usage, and memory fragmentation management.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "special encoding",
+    "hash-max-ziplist-entries",
+    "32-bit instances",
+    "memory fragmentation",
+    "maxmemory"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0e4738840185fbfe1d2112bed86a1560128e2a14",
+  "generated_at": "2026-02-24T06:26:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes documentation covers deploying, scaling, and managing Redis Enterprise clusters and databases using the Redis Enterprise operator and Kubernetes-native workflows.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise operator",
+    "Custom Resource Definitions (CRDs)",
+    "Redis Enterprise clusters (REC)",
+    "Redis Enterprise databases (REDB)",
+    "Kubernetes"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

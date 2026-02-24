@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7ae8639e71546b24beeb8d764cf3c675515e6bc1",
+  "generated_at": "2026-02-24T06:26:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document cluster-recovery.md explains how to recover a Redis Enterprise cluster in Kubernetes when it loses contact with most nodes, detailing automated steps and prerequisites.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster recovery",
+    "persistent storage",
+    "clusterRecovery flag",
+    "user-defined modules",
+    "Redis Enterprise for Kubernetes"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

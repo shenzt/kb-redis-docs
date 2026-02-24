@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0b3e0e2f53383460c72dd39031dab0209352289f",
+  "generated_at": "2026-02-24T06:27:45Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The October 2023 update introduces a CSV download for shard cost reports and a new token-based process for linking Redis accounts to SAML single sign-on.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "CSV download",
+    "shard cost reports",
+    "SAML single sign-on",
+    "account linking",
+    "tokens"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

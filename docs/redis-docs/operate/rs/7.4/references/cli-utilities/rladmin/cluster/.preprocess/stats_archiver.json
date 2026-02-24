@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c1aa59b0dfa9a09ec0e19186fc8622d214846c71",
+  "generated_at": "2026-02-24T06:30:32Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document stats_archiver.md describes the rladmin command to enable or disable a cluster statistics archiver that logs data in CSV format.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "stats archiver",
+    "rladmin",
+    "cluster",
+    "CSV",
+    "enabled"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

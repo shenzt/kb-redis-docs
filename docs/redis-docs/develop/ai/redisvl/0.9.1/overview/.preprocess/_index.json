@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8947d0e11adb906336d1457f1f1391840770de1b",
+  "generated_at": "2026-02-24T06:23:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document provides an overview of RedisVL installation methods and CLI tool commands and features.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "RedisVL",
+    "installation",
+    "CLI",
+    "index",
+    "Pip"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

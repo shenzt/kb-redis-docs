@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9ed3e5de2725f60ac70c694764a304c100f30ce7",
+  "generated_at": "2026-02-24T06:35:18Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md explains Redis Software's role-based access control (RBAC), covering role and user creation, and distinguishes between cluster access for management and database access for data operations.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "role-based access control (RBAC)",
+    "cluster access",
+    "database access",
+    "default user access",
+    "roles"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

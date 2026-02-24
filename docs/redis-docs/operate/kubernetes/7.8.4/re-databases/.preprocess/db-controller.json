@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5a3d66e5cc9f0dcf76964dc734be683f1cd1704c",
+  "generated_at": "2026-02-24T06:25:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document db-controller.md covers the lifecycle of a Redis Enterprise database (REDB) in Kubernetes, including creation via custom resources, connection retrieval, and management by the database controller.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisEnterpriseDatabase",
+    "custom resource",
+    "database controller",
+    "REDB",
+    "database secret"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

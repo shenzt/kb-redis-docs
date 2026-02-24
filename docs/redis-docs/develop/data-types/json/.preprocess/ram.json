@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d19ec0bf25eb023b512547b8aba78b6d288ce31a",
+  "generated_at": "2026-02-24T06:24:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis JSON RAM Usage covers how Redis JSON stores data in memory, including base overhead, type-specific storage, and the JSON.DEBUG MEMORY command for analysis.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "JSON.DEBUG MEMORY",
+    "memory consumption",
+    "string reuse mechanism",
+    "binary data",
+    "per-key overhead"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

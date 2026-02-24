@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3f69253fc7175d871b6a638bf0a4336a32e36479",
+  "generated_at": "2026-02-24T06:28:09Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers setting up and managing Private Service Connect for Redis Cloud Pro on Google Cloud, including its considerations, setup steps, and limitations.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Private Service Connect",
+    "VPC peering",
+    "CIDR ranges",
+    "network latency",
+    "endpoint"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

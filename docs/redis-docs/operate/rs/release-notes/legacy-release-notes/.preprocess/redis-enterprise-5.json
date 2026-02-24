@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f888bf018644098db8eb6ad3ffb69fb5771e11d2",
+  "generated_at": "2026-02-24T06:34:51Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software 5.0 release notes cover new features like Geo-Distributed Active-Active CRDBs and Redis Cluster API support, upgrade instructions, and a list of resolved issues.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "Geo-Distributed Active-Active CRDB",
+    "Redis Cluster API",
+    "LDAP integration",
+    "upgrade"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

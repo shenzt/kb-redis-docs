@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fb34ffff30cf98a94a8e23a305990615d8ecce4d",
+  "generated_at": "2026-02-24T06:33:53Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The _index.md document outlines rladmin cluster commands for managing configuration and administration, distinguishing between those for already configured clusters and those for new, non-configured clusters.",
+  "doc_type": "reference",
+  "quality_score": 6,
+  "key_concepts": [
+    "rladmin",
+    "cluster",
+    "configuration",
+    "administration",
+    "commands"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

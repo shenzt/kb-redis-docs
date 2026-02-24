@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:dc821e6184441d8eedcb7c54d6b00d8bd3415af6",
+  "generated_at": "2026-02-24T06:24:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers Redis probabilistic data types, which provide approximate calculations for set operations and statistics to trade accuracy for lower memory consumption.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "HyperLogLog",
+    "Top-K",
+    "probabilistic data types",
+    "set operations",
+    "statistics"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

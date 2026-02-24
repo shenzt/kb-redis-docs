@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c54e7347f6d6c8312141bacfa2d2a164fc31c0a7",
+  "generated_at": "2026-02-24T06:27:51Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers integrating Redis Cloud subscriptions via AWS or Google Cloud Marketplace, including billing considerations and recommendations for updating billing details.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "Redis Cloud",
+    "AWS Marketplace",
+    "Google Cloud Marketplace",
+    "billing",
+    "subscription"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

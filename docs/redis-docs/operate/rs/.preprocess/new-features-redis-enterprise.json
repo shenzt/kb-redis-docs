@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8a2a0c6610ff2014fca1ab337e5e019a5d8d82d3",
+  "generated_at": "2026-02-24T06:33:47Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document new-features-redis-enterprise.md details major features, bug fixes, and patches for a release of Redis Enterprise Software, including Geo-Distributed Active-Active CRDBs, Redis modules, Docker support, and LDAP integration.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Geo-Distributed Active-Active CRDB",
+    "Redis modules",
+    "CRDT",
+    "Docker",
+    "LDAP integration"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

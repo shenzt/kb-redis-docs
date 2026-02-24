@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c86562132ffa4c8c11f03d6b39f70cc85fc829a6",
+  "generated_at": "2026-02-24T06:29:45Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md is a REST API reference for user management endpoints, detailing methods, paths, permissions, requests, and responses for operations like GET, POST, PUT, and DELETE on the /v1/users resource.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "permissions",
+    "HTTP methods",
+    "user objects",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

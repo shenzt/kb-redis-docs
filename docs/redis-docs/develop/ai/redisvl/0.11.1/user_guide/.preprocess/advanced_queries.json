@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:40a0c195b42e3aa68ab36d9eae884554378ca647",
+  "generated_at": "2026-02-24T06:22:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers advanced query types in RedisVL, including TextQuery, AggregateHybridQuery, and MultiVectorQuery, for building sophisticated search applications.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "TextQuery",
+    "AggregateHybridQuery",
+    "MultiVectorQuery",
+    "vector search",
+    "hybrid retrieval"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

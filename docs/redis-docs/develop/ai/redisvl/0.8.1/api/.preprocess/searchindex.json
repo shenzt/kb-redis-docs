@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:31688c3dc3e5b128cf93957de4a03c9508e584ed",
+  "generated_at": "2026-02-24T06:23:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the SearchIndex and AsyncSearchIndex classes for writing, reading, and searching data in Redis as a vector database, including initialization, methods, and properties.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "SearchIndex",
+    "AsyncSearchIndex",
+    "IndexSchema",
+    "redis-py",
+    "StorageType"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

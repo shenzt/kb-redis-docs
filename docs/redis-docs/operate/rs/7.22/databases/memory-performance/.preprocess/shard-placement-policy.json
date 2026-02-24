@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4340424402266952c4409db73977f1c07cd8054c",
+  "generated_at": "2026-02-24T06:28:36Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software shard placement policies (dense and sparse) for optimizing database performance and resiliency by controlling master and replica shard distribution across cluster nodes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "shard placement policy",
+    "master shards",
+    "replica shards",
+    "dense policy",
+    "sparse policy"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

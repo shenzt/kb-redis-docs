@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3d755b86fc645b11285e64618479602783592774",
+  "generated_at": "2026-02-24T06:33:25Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains Redis Sorted Sets in Active-Active databases, detailing their conflict resolution phases and providing behavioral examples.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Sorted Sets",
+    "Active-Active database",
+    "Conflict resolution",
+    "OR-Set",
+    "ZINCRBY"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

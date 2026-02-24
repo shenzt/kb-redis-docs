@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c2b4004d37caadac24ae5999b2fc4c38eae3bc89",
+  "generated_at": "2026-02-24T06:29:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The quick-start.md document explains how to send requests to the Redis Enterprise Software REST API, covering fundamentals like authentication and ports, and provides example requests using cURL, Python, and Node.js.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "Basic Auth",
+    "cURL",
+    "node-fetch",
+    "authentication"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

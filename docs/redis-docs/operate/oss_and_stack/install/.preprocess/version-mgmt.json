@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e622970a1e89fe44cecf312ecc3733deff4143c8",
+  "generated_at": "2026-02-24T06:26:54Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document version-mgmt.md covers Redis Open Source's version management, explaining its MAJOR.MINOR.PATCH versioning scheme and listing the status and EOL dates for supported versions.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "MAJOR.MINOR.PATCH",
+    "Major versions",
+    "Minor versions",
+    "Patch versions",
+    "EOL Date"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

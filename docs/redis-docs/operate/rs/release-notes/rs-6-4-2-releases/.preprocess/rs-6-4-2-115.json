@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4fb73b4f94d3d435dfcae32a35aa24eaff6f461d",
+  "generated_at": "2026-02-24T06:35:00Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software version 6.4.2-115 is a maintenance release that includes updated Redis Stack modules and lists security fixes for previous Redis versions.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "Redis Stack modules",
+    "RediSearch",
+    "CVE",
+    "supported platforms"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

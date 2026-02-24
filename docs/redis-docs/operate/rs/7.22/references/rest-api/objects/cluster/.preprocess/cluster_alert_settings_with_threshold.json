@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5bc86d0d650facdd00406be8a49f433db424a05e",
+  "generated_at": "2026-02-24T06:29:10Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document cluster_alert_settings_with_threshold.md defines two configuration parameters for enabling alerts and setting a threshold.",
+  "doc_type": "reference",
+  "quality_score": 3,
+  "key_concepts": [
+    "enabled",
+    "boolean",
+    "threshold",
+    "alert"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

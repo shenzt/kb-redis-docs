@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:89e76e27772f3ed650e81a3b5d9ff22986ba9bb3",
+  "generated_at": "2026-02-24T06:24:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RediSearch document explains how to declare sortable fields in an index and use the SORTBY parameter to order search results by attribute values, including notes on performance and normalization.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "SORTABLE",
+    "SORTBY",
+    "FT.CREATE",
+    "UNF",
+    "Normalization"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

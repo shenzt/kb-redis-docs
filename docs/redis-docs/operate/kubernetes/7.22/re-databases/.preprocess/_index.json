@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a95c2c36207c27de6e23af862cfab509e90edaae",
+  "generated_at": "2026-02-24T06:25:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides an overview of Redis Enterprise databases (REDB) as Kubernetes resources, covering their management, replication, advanced configurations, connectivity, monitoring, and related API references.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise database (REDB)",
+    "Kubernetes resource",
+    "database controller",
+    "Active-Active databases",
+    "database connectivity"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

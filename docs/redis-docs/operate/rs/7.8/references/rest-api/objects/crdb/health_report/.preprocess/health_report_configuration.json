@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:94b0f6528bd62ab46195ce4af0aa847962e9e7fc",
+  "generated_at": "2026-02-24T06:32:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document health_report_configuration.md defines the structure and fields for a database configuration object used in an Active-Active database health report.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Active-Active database",
+    "causal_consistency",
+    "instances",
+    "status",
+    "configuration version"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

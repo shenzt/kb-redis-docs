@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:77c898884059f74b72ea8773c0e26fe3410c2a46",
+  "generated_at": "2026-02-24T06:26:26Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Enterprise for Kubernetes 7.2.4-12 release notes detail a maintenance release, providing download links for container images and the OLM bundle, and referencing security fixes.",
+  "doc_type": "reference",
+  "quality_score": 6,
+  "key_concepts": [
+    "Redis Enterprise",
+    "Kubernetes",
+    "Operator",
+    "Services Rigger",
+    "OLM bundle"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

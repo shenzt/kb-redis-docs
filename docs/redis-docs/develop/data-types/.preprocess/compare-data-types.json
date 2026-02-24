@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a8eb961f3bb71739828c052e6815e844abbe247d",
+  "generated_at": "2026-02-24T06:24:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document compares Redis data types, categorizing them as specialized or general-purpose, and provides a decision tree to help choose the best type for a task.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis data types",
+    "geospatial",
+    "vector sets",
+    "streams",
+    "sorted sets"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

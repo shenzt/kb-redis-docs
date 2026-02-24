@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9c644e5ab0b043556c42a457c42fa10f98bfa412",
+  "generated_at": "2026-02-24T06:34:43Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md is a REST API reference for a GET endpoint that retrieves the migration status of a database in a cluster using Replica Of.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "migration status",
+    "Replica Of",
+    "permissions",
+    "REST API",
+    "database cluster"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

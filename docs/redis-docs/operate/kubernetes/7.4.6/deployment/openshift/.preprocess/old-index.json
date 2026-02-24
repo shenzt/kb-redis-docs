@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c98232385ff2a285330b1f00888c4a54bfe5f0b9",
+  "generated_at": "2026-02-24T06:25:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document outlines prerequisites and steps for deploying Redis Enterprise on an OpenShift Kubernetes cluster using an operator, including logging in and obtaining deployment files.",
+  "doc_type": "tutorial",
+  "quality_score": 6,
+  "key_concepts": [
+    "Redis Enterprise",
+    "OpenShift",
+    "Kubernetes operator",
+    "oc login",
+    "deployment files"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

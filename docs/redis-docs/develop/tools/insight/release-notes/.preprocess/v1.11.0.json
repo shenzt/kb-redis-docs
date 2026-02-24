@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:34160548bbadf2d0de8ea750d12e8683b3083dd6",
+  "generated_at": "2026-02-24T06:24:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document v1.11.0.md details the fixes and new features, including beta RedisAI support and cross-slot bulk actions, in the RedisInsight 1.11.0 and 1.11.1 software releases.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisInsight",
+    "RediSearch",
+    "Bulk actions",
+    "Memory Analysis",
+    "RedisAI"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

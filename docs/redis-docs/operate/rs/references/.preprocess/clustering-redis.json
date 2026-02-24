@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:183f36ba3b332285ade9da986242db9c2aa01be9",
+  "generated_at": "2026-02-24T06:34:00Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document clustering-redis.md covers the challenges of creating a Redis cluster and introduces Redis Software/Cloud as a solution that provides a single endpoint and scalability without code changes.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "Redis cluster",
+    "shards",
+    "scalability",
+    "single endpoint",
+    "data distribution"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

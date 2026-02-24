@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:737522e6629ef0f20d84415be6cbd4712b108fc1",
+  "generated_at": "2026-02-24T06:22:45Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "User Guides for RedisVL cover getting started, hybrid querying, LLM caching, embeddings caching, reranking, message history, and semantic routing.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "SearchIndex",
+    "VectorQuery",
+    "Hybrid Queries",
+    "SemanticCache",
+    "SemanticRouter"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

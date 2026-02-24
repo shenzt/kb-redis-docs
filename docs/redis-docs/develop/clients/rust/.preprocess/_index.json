@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fb0e135e9969bb97aa64c2772e0e006f39842ed0",
+  "generated_at": "2026-02-24T06:24:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The redis-rs guide for Rust covers installing the Redis client library, connecting to a Redis server, and performing basic operations like setting and getting strings and hashes.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "redis-rs",
+    "Commands trait",
+    "AsyncCommands trait",
+    "Cargo.toml",
+    "Redis server"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

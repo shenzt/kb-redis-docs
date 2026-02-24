@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:adf73c09f4136a4de1fa909459c43a11d09a70fc",
+  "generated_at": "2026-02-24T06:30:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document upgrade-os.md details the procedure for performing a rolling upgrade of the operating system on a Redis Enterprise Software cluster without downtime, including prerequisites and step-by-step node replacement.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "rolling upgrade",
+    "Redis Enterprise Software",
+    "rladmin",
+    "node replacement",
+    "supported platforms"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

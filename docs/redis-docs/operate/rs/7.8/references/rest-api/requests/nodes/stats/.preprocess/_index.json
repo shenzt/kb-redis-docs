@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:be7a62e87432b2571dc41bd2ff20eb6aa8500775",
+  "generated_at": "2026-02-24T06:33:00Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document provides a REST API reference for retrieving node statistics, detailing the GET endpoints, required permissions, request parameters, and response formats.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "query parameters",
+    "statistics",
+    "permissions",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

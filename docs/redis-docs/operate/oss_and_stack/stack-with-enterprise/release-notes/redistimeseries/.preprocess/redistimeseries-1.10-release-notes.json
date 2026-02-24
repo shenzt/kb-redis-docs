@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6150c7f853c0d41917751ca85660bab8d3cc083f",
+  "generated_at": "2026-02-24T06:27:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "RedisTimeSeries 1.10 release notes detail version requirements, maintenance updates, bug fixes, security patches, and platform support improvements for the time-series module.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisTimeSeries",
+    "TS.RANGE",
+    "TS.DEL",
+    "TS.QUERYINDEX",
+    "RESP3"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

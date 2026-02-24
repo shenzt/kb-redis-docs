@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9fb94382bb6985daa2d7d76d087d3e81102550f6",
+  "generated_at": "2026-02-24T06:29:08Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The identity.md document defines configuration parameters for a node's identity and network settings when joining or replacing a node in a cluster.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "uid",
+    "accept_servers",
+    "external_addr",
+    "rack_id",
+    "use_internal_ipv6"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

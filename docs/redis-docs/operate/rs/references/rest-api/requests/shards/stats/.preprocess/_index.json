@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:04bb3b6dcae32748ca499ea0d0fafc56fc77a843",
+  "generated_at": "2026-02-24T06:34:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document details the deprecated v1 statistics REST API endpoints for Redis shards, including their methods, paths, required permissions, request parameters, and response formats.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "shards",
+    "deprecated",
+    "metrics",
+    "permissions"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

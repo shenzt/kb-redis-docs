@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:16164dc55731c2e0d1a1c6af0cd1bac82d8b921a",
+  "generated_at": "2026-02-24T06:26:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise K8s 6.2.8-15 maintenance release details bug fixes, known limitations, and compatibility for the Redis Enterprise Software 6.2.8 version.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise",
+    "Kubernetes operator",
+    "CustomResourceDefinition",
+    "PVC",
+    "bug fixes"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:13bc398ce013d7571a4e3b9376a3f6d8f17a2791",
+  "generated_at": "2026-02-24T06:27:25Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RediSearch v1.0.10 release notes detail bug fixes and new features, including stability improvements and tag prefix completions, with requirements for Redis compatibility.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RediSearch",
+    "bug-fix release",
+    "tag prefix completions",
+    "Hamming distance scoring",
+    "FT.DEL"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": true
+  }
+}

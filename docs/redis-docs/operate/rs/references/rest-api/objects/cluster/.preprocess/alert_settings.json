@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2c269945d675cb1b6e26372e778139eca634cf59",
+  "generated_at": "2026-02-24T06:34:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document alert_settings.md defines a table of cluster and node alert settings, including their names, types or default values, and descriptions of the conditions they monitor.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "cluster_alert_settings_with_threshold",
+    "boolean",
+    "cluster_certs_about_to_expire",
+    "node_memory",
+    "cluster_license_about_to_expire"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

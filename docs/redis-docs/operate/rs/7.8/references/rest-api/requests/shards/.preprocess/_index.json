@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:be317a14806045b05f197dc0e98439661c4e257a",
+  "generated_at": "2026-02-24T06:33:02Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides a REST API reference for retrieving information about shards, including endpoints, request parameters, headers, and example responses.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "shards",
+    "REST API",
+    "query parameters",
+    "status codes",
+    "shard object"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

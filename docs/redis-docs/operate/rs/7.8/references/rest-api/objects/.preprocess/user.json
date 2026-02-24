@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0e12a009116d924e70fe22c3668014ff71bd9f50",
+  "generated_at": "2026-02-24T06:32:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The user.md document defines the fields, data types, and descriptions for configuring and managing user accounts within a system, including authentication, roles, and alert settings.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "uid",
+    "auth_method",
+    "role",
+    "password_hash_method",
+    "status"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

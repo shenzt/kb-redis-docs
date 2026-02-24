@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:51fec01e13d1bce8672e5b63827cbd91bcd57d2a",
+  "generated_at": "2026-02-24T06:26:14Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Flex extends node memory using RAM and flash storage, detailing its differences from Auto Tiering and the upgrade process for Redis Enterprise for Kubernetes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Flex",
+    "Auto Tiering",
+    "rofRamSize",
+    "Speedb",
+    "SSD"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

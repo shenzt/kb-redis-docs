@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a667eff925ca1fa0d9fc7834184865ee523e401b",
+  "generated_at": "2026-02-24T06:29:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The replica_sources status field describes the synchronization states for a Redis database using the Replica Of feature.",
+  "doc_type": "reference",
+  "quality_score": 6,
+  "key_concepts": [
+    "replica_sources",
+    "Replica Of",
+    "out-of-sync",
+    "syncing",
+    "in-sync"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

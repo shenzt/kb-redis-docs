@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5e891dcec164908370ba9fde66f63298d8f04536",
+  "generated_at": "2026-02-24T06:32:53Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The policy.md document describes the REST API endpoints for retrieving and updating cluster policy settings, including required permissions, request/response formats, and status codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster policy",
+    "required permissions",
+    "cluster settings object",
+    "status codes",
+    "REST API"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

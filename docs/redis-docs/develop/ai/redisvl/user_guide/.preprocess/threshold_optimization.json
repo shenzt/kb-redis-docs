@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:313e3501ec825cd695d653ee6eb20a48c7a8e2bb",
+  "generated_at": "2026-02-24T06:23:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers optimizing distance thresholds for SemanticRouter or SemanticCache using RedisVL's helper classes, including CacheThresholdOptimizer and RouteThresholdOptimizer.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "distance_threshold",
+    "SemanticCache",
+    "SemanticRouter",
+    "CacheThresholdOptimizer",
+    "RouteThresholdOptimizer"
+  ],
+  "gap_flags": [
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5d9a880af10c04c0e35cc10a664d7aa159fd66b9",
+  "generated_at": "2026-02-24T06:26:10Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides an overview for deploying and managing Redis Enterprise clusters on Kubernetes using the Redis Enterprise operator, covering quick starts, deployment methods, prerequisites, and next steps.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise operator",
+    "custom resource definitions (CRDs)",
+    "Kubernetes distributions",
+    "Redis Enterprise clusters (REC)",
+    "Redis Enterprise databases (REDB)"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

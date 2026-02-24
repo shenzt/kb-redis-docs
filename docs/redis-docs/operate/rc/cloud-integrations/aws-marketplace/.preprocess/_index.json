@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:bc878a1a5e6acbebd071e9dcbb0222e7609de872",
+  "generated_at": "2026-02-24T06:27:51Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers subscribing to Redis Cloud via AWS Marketplace, mapping accounts, switching subscription plans, and disconnecting accounts.",
+  "doc_type": "tutorial",
+  "quality_score": 7,
+  "key_concepts": [
+    "AWS Marketplace",
+    "Redis Cloud",
+    "subscription",
+    "account mapping",
+    "Pay as You Go"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

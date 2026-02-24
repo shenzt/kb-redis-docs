@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:94f141458a54eeff1f163e0b9ec5e1bebb1c94a8",
+  "generated_at": "2026-02-24T06:31:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document license-keys.md covers managing Redis Enterprise Software cluster license keys, including trial mode, viewing, updating, and monitoring license details and shard usage.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster license key",
+    "trial mode",
+    "shard limits",
+    "REST API",
+    "Prometheus integration"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

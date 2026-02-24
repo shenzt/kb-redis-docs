@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7b308e43b85b2fa1686935a700eef7859b689d0b",
+  "generated_at": "2026-02-24T06:24:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This quick start guide covers using Redis as a vector database, including understanding vector databases, creating a Redis vector database, creating and storing vector embeddings, and performing vector searches.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "vector database",
+    "vector embeddings",
+    "vector search",
+    "RedisVL",
+    "unstructured data"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

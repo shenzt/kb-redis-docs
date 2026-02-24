@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4b644fd29931f47b55d4303b35a8a1abcf6ac6bf",
+  "generated_at": "2026-02-24T06:33:00Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This REST API reference document details the GET and PUT methods for retrieving and updating a cluster's OCSP configuration, including endpoints, permissions, request/response examples, and error codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "OCSP configuration",
+    "REST API",
+    "responder_url",
+    "permissions",
+    "error_codes"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

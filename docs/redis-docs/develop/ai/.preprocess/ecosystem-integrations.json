@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7f6612da310ff387b9f37ed28b0f9eeae0f314fc",
+  "generated_at": "2026-02-24T06:22:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'ecosystem-integrations.md' lists and describes various integrations between Redis and AI frameworks, platforms, and tools to enhance AI application development.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis",
+    "AI frameworks",
+    "caching",
+    "vector storage",
+    "RAG"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

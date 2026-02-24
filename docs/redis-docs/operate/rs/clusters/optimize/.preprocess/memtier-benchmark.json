@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a05d44171492ad917a6b4118092c8cf2fa96ae84",
+  "generated_at": "2026-02-24T06:33:20Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The memtier_benchmark.md document provides commands and guidance for using the memtier_benchmark tool to performance test and populate a Redis Enterprise database.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "memtier_benchmark",
+    "Redis Enterprise",
+    "performance benchmark",
+    "database population",
+    "key-pattern"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

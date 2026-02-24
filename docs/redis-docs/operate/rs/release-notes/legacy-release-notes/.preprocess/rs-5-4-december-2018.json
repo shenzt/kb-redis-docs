@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6072e58ad7bf976eef8de0a94eef305fcf085f19",
+  "generated_at": "2026-02-24T06:34:55Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software 5.4 release notes cover new features like Redis 5.0 GA with Streams and the Redis Graph module, upgrade instructions, known issues, and API changes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Streams",
+    "Active-Active Redis (CRDB)",
+    "Redis Graph module",
+    "upgrade instructions",
+    "known issues"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

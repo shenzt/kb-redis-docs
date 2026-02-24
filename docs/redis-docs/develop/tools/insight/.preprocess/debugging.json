@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e49bbb0a5c43007fbaa71396b6cb206bc1ebf5d0",
+  "generated_at": "2026-02-24T06:24:47Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Insight debugging information provides commands and log file locations for troubleshooting connection and other issues across Windows, macOS, and Linux platforms.",
+  "doc_type": "troubleshooting",
+  "quality_score": 9,
+  "key_concepts": [
+    "debug mode",
+    "log files",
+    "DEBUG variable",
+    "LOG_LEVEL",
+    "LOGGER_OMIT_DATA"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": true
+  }
+}

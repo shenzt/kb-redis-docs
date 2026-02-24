@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:bd0673799e9a5dd6eabc385c5ee92b83dc2762a8",
+  "generated_at": "2026-02-24T06:30:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The _index.md document provides a reference table for the cluster API object, detailing its configuration parameters, types, descriptions, and default values.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "alert_settings",
+    "bigstore_driver",
+    "cluster_ssh_public_key",
+    "cm_port",
+    "smtp_tls_mode"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

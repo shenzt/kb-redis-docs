@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:adf1320e622a5a4889be74be7cc67f177b4ff7c5",
+  "generated_at": "2026-02-24T06:34:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The upgrade.md document details the REST API endpoint and parameters for upgrading a Redis Enterprise database, including request format, permissions, and response codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "upgrade",
+    "bdbs",
+    "modules",
+    "shards",
+    "permissions"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

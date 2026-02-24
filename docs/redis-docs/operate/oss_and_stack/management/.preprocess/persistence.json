@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:23c2256e4c53744c6a01a2b8d9c5fb6736abb998",
+  "generated_at": "2026-02-24T06:26:56Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis persistence covers RDB snapshots, AOF logging, and combined strategies for data durability, including their advantages, disadvantages, and backup best practices.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "RDB",
+    "AOF",
+    "persistence",
+    "snapshots",
+    "backups"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

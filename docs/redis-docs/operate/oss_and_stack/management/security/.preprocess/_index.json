@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:41bc19f6fde1ec8c18dc8026295cc616641a9b74",
+  "generated_at": "2026-02-24T06:26:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis security covers the security model, network security, access control, and external attack vectors for Redis deployments.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "security model",
+    "network security",
+    "access control",
+    "ACLs",
+    "GPG key"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:24400e6c8e15883a35efad855cfe393c11c592ef",
+  "generated_at": "2026-02-24T06:32:53Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document module-capabilities.md is a reference for the GET /v1/cluster/module-capabilities API endpoint, detailing its purpose, required permissions, request format, and response structure for listing Redis module capabilities.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "module capabilities",
+    "GET /v1/cluster/module-capabilities",
+    "required permissions",
+    "view_cluster_modules",
+    "JSON response"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

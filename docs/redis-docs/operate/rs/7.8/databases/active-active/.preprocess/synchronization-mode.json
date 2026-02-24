@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1e6a295403a329c9f4c4fc643b6c8dfcb8fbfcae",
+  "generated_at": "2026-02-24T06:31:43Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document explains how to configure a replicated database to use distributed synchronization mode to improve throughput and latency, detailing the required proxy policy and rladmin commands.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "distributed synchronization",
+    "proxy endpoint",
+    "proxy policy",
+    "syncer_mode",
+    "rladmin"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

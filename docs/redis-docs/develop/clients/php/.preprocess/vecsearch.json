@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:488328e9c32bb7fa29fca8796978a89cc2a72aa8",
+  "generated_at": "2026-02-24T06:24:26Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document explains how to index and query vector fields in Redis using the Redis Query Engine, including generating embeddings with a HuggingFace model and performing similarity searches on both hash and JSON documents.",
+  "doc_type": "example",
+  "quality_score": 8,
+  "key_concepts": [
+    "vector embeddings",
+    "Redis Query Engine",
+    "ftSearch",
+    "distance metrics",
+    "KNN"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

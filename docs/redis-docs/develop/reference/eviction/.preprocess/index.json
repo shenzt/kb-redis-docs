@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c221e6a4c6de3a62b51b94ff9e24c25e59298125",
+  "generated_at": "2026-02-24T06:24:45Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Key eviction in Redis covers configuring a memory limit with maxmemory and selecting an eviction policy to automatically remove keys when the cache exceeds that limit.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "maxmemory",
+    "eviction policy",
+    "LRU (Least Recently Used)",
+    "LRM (Least Recently Modified)",
+    "volatile-lrm"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

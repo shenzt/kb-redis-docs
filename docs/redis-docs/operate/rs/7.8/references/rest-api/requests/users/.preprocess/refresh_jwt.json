@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e27f1cb698959fe5963f4c2be4f98bf034430142",
+  "generated_at": "2026-02-24T06:33:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document refresh_jwt.md describes a POST API endpoint for refreshing a JSON Web Token, detailing its request headers, body, response, and status codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "JWT",
+    "authentication",
+    "access_token",
+    "POST",
+    "refresh"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

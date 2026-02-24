@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:89a6e08aa0975f4ec3764e54b5e840acb93f370d",
+  "generated_at": "2026-02-24T06:26:38Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes 7.8.6-8 release notes detail a maintenance release, supported Redis Software version, download components, and reference for known limitations.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "Redis Enterprise for Kubernetes",
+    "maintenance release",
+    "Redis Software 7.8.6-207",
+    "Operator",
+    "known limitations"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

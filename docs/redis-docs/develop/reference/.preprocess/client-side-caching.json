@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b72dad65a3c2f71bd88d375d58b00985b5fcc847",
+  "generated_at": "2026-02-24T06:24:43Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Client-side caching reference details the technique of storing database query results in application server memory to improve performance, covering implementation modes, invalidation strategies, and library hints.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "client-side caching",
+    "invalidation",
+    "TTL",
+    "broadcasting mode",
+    "tracking table"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

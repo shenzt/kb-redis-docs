@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7022e641b950e074196762a11f3a13db8ec6b7ca",
+  "generated_at": "2026-02-24T06:24:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers phonetic matching in Redis Query Engine, explaining how it uses the Double Metaphone algorithm to index and search text fields by pronunciation, with control via the $phonetic query attribute.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "phonetic matching",
+    "Double Metaphone",
+    "PHONETIC attribute",
+    "$phonetic query attribute",
+    "Redis Query Engine"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

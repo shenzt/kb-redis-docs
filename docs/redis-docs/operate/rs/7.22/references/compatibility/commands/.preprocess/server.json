@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b4902181d1f0dbb2a19ca726da7fc0813a31b069",
+  "generated_at": "2026-02-24T06:29:02Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document server.md details the compatibility of Redis Open Source server management commands with standard and Active-Active databases in Redis Enterprise Software and Redis Cloud, including access control and other server commands.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise",
+    "Active-Active databases",
+    "access control list (ACL)",
+    "server management commands",
+    "Redis Cloud"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

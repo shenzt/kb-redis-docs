@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:51e191b43a85d3246638177b35b1279ddfc97917",
+  "generated_at": "2026-02-24T06:34:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers establishing a connection to a Redis database, listing required connection information, available tools and libraries, and basic troubleshooting steps for common connectivity issues.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "endpoint",
+    "redis-cli",
+    "RESP",
+    "SSL",
+    "INFO command"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

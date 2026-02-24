@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:247b86baf43b45e49a79a79c02709cda3d0d1fe5",
+  "generated_at": "2026-02-24T06:25:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis feature sets document defines specific Redis database versions paired with compatible module versions and details new features and required upgrades for each set.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis feature set",
+    "module versions",
+    "XREAD",
+    "field expiration",
+    "gap filling"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

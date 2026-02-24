@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f2ddd21c5af7ee0b235225cc4505f9eda3c66400",
+  "generated_at": "2026-02-24T06:31:26Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document provides a migration checklist and instructions for moving from a deprecated cluster-based LDAP mechanism to the role-based LDAP mechanism in Redis Enterprise Software, including configuration steps and testing procedures.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "role-based LDAP",
+    "migration checklist",
+    "saslauthd_ldap_conf",
+    "access control roles",
+    "database ACLs"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

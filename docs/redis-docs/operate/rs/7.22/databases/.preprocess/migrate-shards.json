@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1f96f66064a4c5b6ede196baf2358b126b313f2a",
+  "generated_at": "2026-02-24T06:28:36Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers migrating database shards using rladmin commands or REST API, including use cases, considerations, and specific commands for migrating primary and replica shards.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "shard migration",
+    "rladmin migrate",
+    "primary shard",
+    "replica shard",
+    "target_node"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

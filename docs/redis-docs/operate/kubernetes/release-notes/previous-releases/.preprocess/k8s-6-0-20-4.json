@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:91982573fb684fe38b82fb24a08965ab4daac63e",
+  "generated_at": "2026-02-24T06:26:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Enterprise K8s 6.0.20-4 release is a major operator update supporting Redis Enterprise Software 6.0.20-69, detailing new features, bug fixes, images, known limitations, compatibility notes, and deprecations.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise K8s operator",
+    "container images",
+    "Hashicorp Vault integration",
+    "OpenShift 4.7",
+    "known limitations"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

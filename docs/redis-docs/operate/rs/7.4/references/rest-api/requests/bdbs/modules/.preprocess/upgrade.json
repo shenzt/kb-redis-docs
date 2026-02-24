@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8337474afbf6ef54d0b733ae4218a5874136e95f",
+  "generated_at": "2026-02-24T06:31:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The upgrade.md document details the REST API endpoint and process for upgrading a module on a specific Redis Enterprise database (BDB).",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "modules",
+    "upgrade",
+    "BDB",
+    "REST API",
+    "permissions"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

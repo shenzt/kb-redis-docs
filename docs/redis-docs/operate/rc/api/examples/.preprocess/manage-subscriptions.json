@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3fcf8fa3fae616cc02646a1905735da6487a4f6a",
+  "generated_at": "2026-02-24T06:27:39Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Cloud REST API document covers creating, updating, and deleting both Essentials and Pro subscriptions, including required API endpoints and parameters.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "subscription",
+    "paymentMethodId",
+    "planId",
+    "taskId",
+    "Essentials"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

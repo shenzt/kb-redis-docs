@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:45b4fcb5000115b40ed39bd309f14071481f3fa2",
+  "generated_at": "2026-02-24T06:27:00Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "A Bloom filter is a space-efficient, probabilistic data structure used to test set membership, avoiding expensive lookups, with explanations of its operation, variants, and applications.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Bloom filter",
+    "probabilistic data structure",
+    "false positives",
+    "scalable Bloom filter",
+    "hash"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

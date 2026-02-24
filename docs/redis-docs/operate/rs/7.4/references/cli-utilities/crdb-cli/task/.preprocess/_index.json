@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:abadb41bc17972f75aecc288f53fbc70c95f18f7",
+  "generated_at": "2026-02-24T06:30:28Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md covers the purpose and restricted use of the `crdb-cli task` commands for investigating Active-Active database performance issues.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "crdb-cli",
+    "task commands",
+    "Active-Active database",
+    "performance issues",
+    "Support"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9f8183fd14b8ea5491289647f20aa03beeaab24c",
+  "generated_at": "2026-02-24T06:28:09Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document explains how to block public endpoints for Redis Cloud Pro databases to enhance security, covering procedures for new and existing subscriptions and listing supported private connectivity methods.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "public endpoint",
+    "private endpoint",
+    "private connectivity method",
+    "VPC peering",
+    "AWS PrivateLink"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

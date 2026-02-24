@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:429edeec029b9de08b7e302ca07e1313392c4b06",
+  "generated_at": "2026-02-24T06:34:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This API reference document details two GET endpoints for verifying database and database endpoint availability, including their parameters, permissions, and response codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "endpoint availability",
+    "extend_check",
+    "availability_lag_tolerance_ms",
+    "permissions",
+    "error codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6b7d5639aeae21c7dccfc509c423c6d2f351c32e",
+  "generated_at": "2026-02-24T06:29:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document describes the deprecated v1 cluster statistics REST API endpoint, detailing its GET method, request parameters, response format, permissions, and example usage.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "cluster stats",
+    "deprecated",
+    "permissions",
+    "query parameters"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

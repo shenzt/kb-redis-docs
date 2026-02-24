@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b516fcbd71d0f711922c8fa6476f2fbf8f09c990",
+  "generated_at": "2026-02-24T06:33:18Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document sync-clocks.md covers synchronizing clocks on cluster nodes using Chrony/NTP to ensure data integrity, including installation checks and OS-specific setup instructions.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Chrony",
+    "NTP",
+    "clock synchronization",
+    "cluster nodes",
+    "Cron job"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2e8202ab689627df0ea784900ab255f00047bfb3",
+  "generated_at": "2026-02-24T06:25:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document openshift-operatorhub.md details deploying Redis Enterprise for Kubernetes on OpenShift via the CLI or OperatorHub, covering operator installation, security context constraints, and custom resource creation.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise Operator",
+    "Security Context Constraint",
+    "RedisEnterpriseCluster",
+    "OperatorHub",
+    "custom resources"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

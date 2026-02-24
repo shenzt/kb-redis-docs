@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:750f275e2602b97f016b630e34d602c5bfd04c44",
+  "generated_at": "2026-02-24T06:33:20Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document disk-sizing-heavy-write-scenarios.md provides a formula and examples for estimating persistent disk space requirements during AOF rewrites in extreme write scenarios.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "AOF rewrite",
+    "database persistence",
+    "shard",
+    "disk space",
+    "append-only files"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

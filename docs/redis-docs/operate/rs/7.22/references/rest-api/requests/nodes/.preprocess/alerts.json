@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ea7311e31a0570215b3796185d41653f05acf1e4",
+  "generated_at": "2026-02-24T06:29:40Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This REST API reference document details methods for retrieving node alert states, including endpoints, permissions, parameters, and response formats.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "alert states",
+    "node UID",
+    "ignore_settings",
+    "required permissions",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

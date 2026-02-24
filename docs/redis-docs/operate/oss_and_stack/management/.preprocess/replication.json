@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7f3595900ce5e480839b4f2eeb092d9e45be99e3",
+  "generated_at": "2026-02-24T06:26:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis replication covers the leader-follower replication mechanism, including partial and full resynchronization, asynchronous replication, and replica memory management.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "leader follower replication",
+    "partial resynchronization",
+    "full resynchronization",
+    "asynchronous replication",
+    "replica-ignore-maxmemory"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

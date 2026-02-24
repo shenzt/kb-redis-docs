@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c633eef77d78b612fe1c74d4d79b7fdd63563139",
+  "generated_at": "2026-02-24T06:24:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers using Redis pipelines to batch commands for efficiency and transactions with optimistic locking for atomic execution.",
+  "doc_type": "tutorial",
+  "quality_score": 7,
+  "key_concepts": [
+    "Pipelines",
+    "Transactions",
+    "Optimistic locking",
+    "Execute() method",
+    "AddCondition()"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

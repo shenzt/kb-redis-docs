@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:29260a327a03e2ba6ce216d4143514b15e3c28d1",
+  "generated_at": "2026-02-24T06:24:14Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The go-redis library documentation explains explicit error handling patterns, common error types, and implementation strategies for production code.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "redis.Nil",
+    "context.DeadlineExceeded",
+    "net.OpError",
+    "redis.ResponseError",
+    "OpenTelemetry"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

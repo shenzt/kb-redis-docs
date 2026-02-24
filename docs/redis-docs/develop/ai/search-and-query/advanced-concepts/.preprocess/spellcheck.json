@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cde8ab53665a3ac233b5aec2976f04df54f0a521",
+  "generated_at": "2026-02-24T06:24:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Spellchecking in RediSearch corrects misspelled query terms using indexed terms and custom dictionaries, with commands for dictionary management and spellchecking.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Spellchecking",
+    "Levenshtein distance",
+    "Custom dictionaries",
+    "FT.SPELLCHECK",
+    "Stop word"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:52d3c5dabb250d35f07ec313fa6e9ecf2e08cc2c",
+  "generated_at": "2026-02-24T06:30:18Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The offline-installation.md document explains the manual steps required to install Redis Enterprise Software on a machine without an internet connection, covering dependency package installation and NTP time synchronization setup.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "offline installation",
+    "dependency packages",
+    "NTP time synchronization",
+    "Redis Enterprise Software",
+    "installation process"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

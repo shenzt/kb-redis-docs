@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ba896f5f1899798f92f03086392bb692fd3bf412",
+  "generated_at": "2026-02-24T06:27:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers cluster support for Redis Gears, detailing the need for a REFRESHCLUSTER command, declaring and calling remote functions, and their limitations.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "REDISGEARS_2.REFRESHCLUSTER",
+    "redis.registerClusterFunction",
+    "remote function",
+    "async_client.runOnShards",
+    "remote-task-default-timeout"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

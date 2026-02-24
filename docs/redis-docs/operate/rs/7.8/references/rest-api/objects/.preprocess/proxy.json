@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:094234ada449d63a196ad54e6010e5566d6d525f",
+  "generated_at": "2026-02-24T06:32:35Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The proxy.md document defines an API object representing a proxy server in a cluster, detailing its configuration parameters such as thread limits, connection settings, and logging levels.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "proxy",
+    "threads",
+    "connections",
+    "log_level",
+    "TCP keepalive"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fdce8a2c950cb3d73542d57c395352cf0b050ea9",
+  "generated_at": "2026-02-24T06:33:02Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md is a REST API reference for managing proxies, detailing endpoints for retrieving and updating proxy configurations with associated permissions, request/response formats, and status codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "proxy objects",
+    "permissions",
+    "REST API",
+    "status codes",
+    "request body"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

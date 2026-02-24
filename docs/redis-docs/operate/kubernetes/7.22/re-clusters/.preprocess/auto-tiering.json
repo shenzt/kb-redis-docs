@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9cb07127b86e2fed018d32a665181cd762b09e48",
+  "generated_at": "2026-02-24T06:25:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document auto-tiering.md details prerequisites and configuration steps for enabling Auto Tiering (formerly Redis on Flash) in Redis Enterprise for Kubernetes version 7.22.2-22, covering cluster and database setup using RAM and flash storage.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Auto Tiering",
+    "Persistent Volumes",
+    "StorageClass",
+    "redisOnFlashSpec",
+    "rofRamSize"
+  ],
+  "gap_flags": [
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3fa5192059f5d5d88ad57ce4122cb73ea459643f",
+  "generated_at": "2026-02-24T06:24:54Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The release notes for Redis Insight 2.62 cover the GA release, highlighting support for multiple key name delimiters in Tree View and persistent Redis Copilot authentication, along with details on features, improvements, bug fixes, and SHA-256 checksums.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Tree View",
+    "key name delimiters",
+    "Redis Copilot",
+    "serialized formatters",
+    "SHA-256 Checksums"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

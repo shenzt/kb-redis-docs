@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:807a153ae90d73704986c3498b05e7312a7361b6",
+  "generated_at": "2026-02-24T06:28:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document provides a tutorial for using HashiCorp Terraform to create AWS IAM resources required for Redis Cloud subscription access, including code placement, initialization, and resource creation steps.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Terraform",
+    "IAM resources",
+    "AWS credentials",
+    "Redis Cloud",
+    "Cloud Account"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

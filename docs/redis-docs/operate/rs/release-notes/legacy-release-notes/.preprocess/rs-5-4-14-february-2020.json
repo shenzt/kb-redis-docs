@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:79cf32d09117c2a9a1f3a176a7ce55c9eda57b6f",
+  "generated_at": "2026-02-24T06:34:54Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software 5.4.14 release notes announce the availability of the update, which bundles OSS Redis 5.0.7 and new Redis Modules versions, and details new features, enhancements, and bug fixes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "OSS Redis",
+    "Redis Modules",
+    "REST API",
+    "Discovery Service"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

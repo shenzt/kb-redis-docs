@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:076fa21600872524bcdf11f09d0862ad16854279",
+  "generated_at": "2026-02-24T06:33:43Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides procedures for upgrading Redis Software, Redis databases, and the operating system on a cluster, detailing prerequisites and different upgrade methods.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Software upgrade",
+    "in-place upgrade",
+    "rolling upgrade",
+    "Active-Active database",
+    "operating system upgrade"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

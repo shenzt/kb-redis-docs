@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3a0a2f1d0b7cd55175557c4dae4926bc47471126",
+  "generated_at": "2026-02-24T06:30:17Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document explains how to create a Redis support package for debugging, detailing its contents, generation methods via UI, CLI, and REST API, and the included files.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "support package",
+    "debuginfo",
+    "cluster configuration store (CCS)",
+    "REST API",
+    "database ID (bdb_uid)"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

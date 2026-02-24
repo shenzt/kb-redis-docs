@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d16a51e038fe8705760ec5268b759e11e12eac7d",
+  "generated_at": "2026-02-24T06:33:07Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'create-users.md' provides instructions for adding users and assigning roles in a Redis Enterprise cluster using the Cluster Manager UI.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "role-based access control (RBAC)",
+    "Cluster Manager UI",
+    "roles",
+    "access control lists (ACLs)",
+    "alerts"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:883b71e3f62a1e8f55380de91d07ee4cc03bc2ed",
+  "generated_at": "2026-02-24T06:28:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers the procedures for creating a new database user and assigning data access roles to existing users within the Redis Cloud console.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Data Access Control",
+    "database user",
+    "data access role",
+    "ACL user password",
+    "Redis Cloud console"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

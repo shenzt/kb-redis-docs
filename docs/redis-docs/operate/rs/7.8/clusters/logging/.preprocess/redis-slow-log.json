@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b4620e6f25473d5ae453f6912d7549fe37bc9607",
+  "generated_at": "2026-02-24T06:31:35Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers Redis slow log enhancements in Redis Software, including how to configure the slow log threshold and maximum entries, and provides a table of command complexities.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis slow log",
+    "slowlog-log-slower-than",
+    "slowlog-max-len",
+    "Complexity info",
+    "CONFIG SET"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

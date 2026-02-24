@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b7e34538c9de6550836a2c76c88be504c87dfd1a",
+  "generated_at": "2026-02-24T06:28:14Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document explains how to view and manage a Redis Cloud Pro subscription's details, including its status, databases, and configuration tabs for security and regions.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Cloud Pro subscription",
+    "subscription details",
+    "Databases tab",
+    "Security tab",
+    "Active-Active subscription"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

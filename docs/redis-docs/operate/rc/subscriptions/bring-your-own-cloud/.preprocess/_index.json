@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e5be227014930bc6796abbad516323124f0801bc",
+  "generated_at": "2026-02-24T06:28:11Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Cloud BYOC allows organizations to deploy Redis Cloud on their own cloud infrastructure for data control and compliance while Redis manages the service.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Cloud BYOC",
+    "Data Residency",
+    "Compliance",
+    "Infrastructure Costs",
+    "Service Disruption"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:985c52db0c27363573f9e168e09f138fe3d22bfe",
+  "generated_at": "2026-02-24T06:27:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The keysreader.md document details the Java KeysReader class for extracting keys and values from a Redis database, covering its constructors, parameters, output records, and usage examples.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "KeysReader",
+    "Redis data types",
+    "eventTypes",
+    "keyTypes",
+    "KeysReaderRecord"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

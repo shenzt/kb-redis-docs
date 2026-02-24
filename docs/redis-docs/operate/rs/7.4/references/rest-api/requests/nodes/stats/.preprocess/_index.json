@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:aabad7a4e22f1e5bbf3e491b42d1d7fb1122a7e2",
+  "generated_at": "2026-02-24T06:31:17Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides a REST API reference for retrieving node statistics, detailing two GET endpoints, their required permissions, request parameters, and response formats.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "query parameters",
+    "statistics",
+    "permissions",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

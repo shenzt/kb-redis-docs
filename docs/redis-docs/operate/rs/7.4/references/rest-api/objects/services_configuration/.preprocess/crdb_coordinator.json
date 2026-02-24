@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e0f14ae050262d7f4d7b0000d72cb4afc6065da7",
+  "generated_at": "2026-02-24T06:30:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document crdb_coordinator.md defines the operating_mode configuration parameter for enabling or disabling the CRDB coordinator process.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "CRDB coordinator",
+    "operating_mode",
+    "disabled",
+    "enabled",
+    "configuration"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

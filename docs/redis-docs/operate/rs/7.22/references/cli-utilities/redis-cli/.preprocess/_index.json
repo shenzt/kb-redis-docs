@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8808a9c2bc939583b51835f3ecab4ac9a26978df",
+  "generated_at": "2026-02-24T06:28:51Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers using the redis-cli command-line utility to install, connect to a Redis database, and run commands in both direct and interactive modes.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "redis-cli",
+    "interactive mode",
+    "TLS connection",
+    "slowlog",
+    "bigkeys"
+  ],
+  "gap_flags": [
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

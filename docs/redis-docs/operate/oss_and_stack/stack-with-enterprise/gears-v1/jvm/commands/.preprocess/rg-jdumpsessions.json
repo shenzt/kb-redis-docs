@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:75816e5efcfcd057e58be3814371c97283c85e05",
+  "generated_at": "2026-02-24T06:27:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document rg-jdumpsessions.md describes the RedisGears RG.JDUMPSESSIONS command for outputting information about existing Java sessions created by RG.JEXECUTE.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RG.JDUMPSESSIONS",
+    "Java session",
+    "VERBOSE",
+    "SESSIONS",
+    "registrations"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:650af74d97867ebe4623093a51d1421b96fc5383",
+  "generated_at": "2026-02-24T06:32:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The help.md document lists all options and parameters for the `rladmin` command-line tool, explaining how to use the help subcommand to get information about available commands and their specific usage.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "rladmin",
+    "command",
+    "parameters",
+    "help",
+    "options"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

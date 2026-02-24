@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0a6fe23264fe81beb9af64f28aa6099657783a8b",
+  "generated_at": "2026-02-24T06:33:22Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers tools for managing Redis Software databases, including the Cluster Manager UI, command-line utilities, and the REST API.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "Redis Software",
+    "Cluster Manager UI",
+    "rladmin",
+    "redis-cli",
+    "REST API"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

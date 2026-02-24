@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:bfc9d992d561ad8006d817fc778127bfc59db004",
+  "generated_at": "2026-02-24T06:35:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software version 7.2.4-72 is a maintenance release featuring new Cluster Manager UI enhancements for database upgrade configuration, defaults, user lockout, and TLS, along with resolved issues and security fixes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Cluster Manager UI",
+    "database upgrade configuration",
+    "user lockout parameters",
+    "TLS configuration",
+    "Redis modules"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

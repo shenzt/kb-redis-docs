@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3809d36aa1b0588d2a1d3fd7bf1ee3332e31be85",
+  "generated_at": "2026-02-24T06:29:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This API reference document details endpoints for listing and managing Redis Enterprise services on a local node and cluster-wide, including warnings about usage.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "local services",
+    "services configuration",
+    "operation_type",
+    "status codes",
+    "REST API"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

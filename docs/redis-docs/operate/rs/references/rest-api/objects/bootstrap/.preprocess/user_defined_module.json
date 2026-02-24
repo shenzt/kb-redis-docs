@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:58efc7bb7790bc75f94f1670555e04f9f48ef993",
+  "generated_at": "2026-02-24T06:34:11Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document user_defined_module.md defines the configuration object and packaging requirements for a user-defined module in a bootstrap operation.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "module configuration",
+    "location object",
+    "module.json",
+    "module binary",
+    "bootstrap operations"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

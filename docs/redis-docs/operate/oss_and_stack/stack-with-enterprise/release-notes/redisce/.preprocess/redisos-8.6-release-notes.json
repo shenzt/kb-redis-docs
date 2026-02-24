@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:00586ca14652f0d3f1eab80dece329f9d957cc8b",
+  "generated_at": "2026-02-24T06:27:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Open Source 8.6.0 release notes detail major changes like performance improvements, new eviction policies, hot keys detection, and configuration parameters.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "eviction policies",
+    "XADD idempotency",
+    "TLS certificate-based authentication",
+    "hot keys detection",
+    "stream-idmp-duration"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

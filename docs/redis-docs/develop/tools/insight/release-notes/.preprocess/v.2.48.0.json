@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e2534fd2ae479f57950b26b1d57acd3cb21a967f",
+  "generated_at": "2026-02-24T06:24:53Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Insight 2.48 release document covers a new UI, a feature to upload sample data for empty databases, and Docker proxy support via the RIPROXYPATH environment variable.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Insight",
+    "Docker",
+    "proxy subpath",
+    "RIPROXYPATH",
+    "sample data"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

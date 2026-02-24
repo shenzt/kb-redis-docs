@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ae456ef2e664170bf514511e34f7338ff136643d",
+  "generated_at": "2026-02-24T06:27:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers release notes for Redis Open Source versions 8.0.5 and 8.0.4, detailing bug fixes, security vulnerabilities, new features, and ACL behavior for specific commands.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "CVE",
+    "HGETEX",
+    "Bloom filter",
+    "ACL",
+    "FT.SEARCH"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

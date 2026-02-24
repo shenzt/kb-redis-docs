@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1287aed022bb66683dbd5be0dd8140eb10dda3b8",
+  "generated_at": "2026-02-24T06:33:24Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how applications handle failover and failback for Active-Active Redis deployments, covering failure detection, mechanisms, and configuration constraints.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "Active-Active Redis",
+    "failover",
+    "failback",
+    "replication lag",
+    "database availability API"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8a221637ba5c01759381d8e99dd77f3b7af73cd8",
+  "generated_at": "2026-02-24T06:28:02Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This Redis Cloud quick start document covers creating an account, setting up a free database, and connecting to it via various clients.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Cloud",
+    "database",
+    "connection string",
+    "redis-cli",
+    "Essentials plan"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

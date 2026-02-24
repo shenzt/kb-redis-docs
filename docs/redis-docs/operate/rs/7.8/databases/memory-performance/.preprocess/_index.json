@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fee1bea503fbc0f59dc97867da4a8e480407d080",
+  "generated_at": "2026-02-24T06:31:51Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software document covers memory limits, eviction policies, database persistence, flash storage, and client-side caching for optimizing storage and performance.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "memory limits",
+    "eviction policies",
+    "database persistence",
+    "flash storage",
+    "client-side caching"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

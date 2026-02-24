@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:625e27c0767b5ea0fca7a4198c45fb3ad35a825e",
+  "generated_at": "2026-02-24T06:28:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Enterprise Software product lifecycle document covers version numbering, end-of-life schedules, and upgrade paths for the software.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "End-of-life (EOL)",
+    "Major release",
+    "Minor release",
+    "Build number",
+    "Upgrade paths"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

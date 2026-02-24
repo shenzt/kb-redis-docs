@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1e6b0ab32b5adbed68a466f6ce367ffa79832fd4",
+  "generated_at": "2026-02-24T06:29:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document sync_source_stats.md is a REST API reference detailing endpoints and parameters for retrieving synchronization source statistics for Redis Enterprise databases.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "sync_source_stats",
+    "bdb_uid",
+    "interval",
+    "ingress_bytes",
+    "local_ingress_lag_time"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

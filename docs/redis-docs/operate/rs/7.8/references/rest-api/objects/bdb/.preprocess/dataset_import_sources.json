@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3c51171ad7f90e2841be8e97821bb71b14497fc0",
+  "generated_at": "2026-02-24T06:32:24Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document dataset_import_sources.md details the supported location types and required parameters for importing RDB-format data into a database from sources like HTTP/S, FTP, S3, and cloud storage.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RDB format",
+    "import location type",
+    "SFTP",
+    "S3 bucket",
+    "mount point"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:bba42b562d4d41338452e391e155cbae4e505962",
+  "generated_at": "2026-02-24T06:32:50Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This REST API reference document details the endpoints, methods, permissions, and status codes for managing cluster-wide actions, including retrieving status, initiating, and canceling actions.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster actions",
+    "REST API",
+    "permissions",
+    "status codes",
+    "action object"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:32797d5e23735b701254eaea137031f40446c1f2",
+  "generated_at": "2026-02-24T06:35:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software version 6.4.2-81 maintenance release details new email alerts for backup/HA failures, includes Redis Stack v6.2.6 modules, lists resolved issues, and notes an OS limitation for SHA1 certificates on Ubuntu 20.04.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "MD5 checksums",
+    "replica HA",
+    "Redis Stack",
+    "persistence_mgr",
+    "SHA1 certificates"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

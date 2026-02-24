@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c3de9139244b9840eae285463598bba3ec2128ae",
+  "generated_at": "2026-02-24T06:24:38Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Configuration Parameters for Redis time series covers setting load-time and runtime parameters for Redis versions before and after 8.0, including methods like command-line arguments, configuration files, and CONFIG commands.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "CONFIG SET",
+    "loadmodule",
+    "runtime parameters",
+    "ts-num-threads",
+    "OSS_GLOBAL_PASSWORD"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

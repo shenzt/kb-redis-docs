@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c77bcfb2457aa5bc6c71534a51e0d7f4a465d72d",
+  "generated_at": "2026-02-24T06:24:36Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis sets are unordered collections of unique strings used for tracking unique items, representing relations, and performing set operations, with explanations of basic commands, examples, performance, and alternatives.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis set",
+    "SADD",
+    "SINTER",
+    "SCARD",
+    "SISMEMBER"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

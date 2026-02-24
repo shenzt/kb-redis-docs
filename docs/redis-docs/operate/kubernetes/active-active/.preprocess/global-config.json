@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7acdf665bbbeaf749e18d0385c0b5f4264643878",
+  "generated_at": "2026-02-24T06:26:08Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers editing global configurations and secrets for a Redis Enterprise Active-Active database (REAADB) custom resource in Kubernetes, including patching settings and troubleshooting role permissions.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "REAADB",
+    "globalConfigurations",
+    "kubectl patch",
+    "rolesPermissions",
+    "participating clusters"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

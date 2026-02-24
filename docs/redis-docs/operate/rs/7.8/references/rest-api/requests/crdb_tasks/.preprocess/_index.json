@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2dfe17f85d7a799a32d39d78b72fae37d848aa36",
+  "generated_at": "2026-02-24T06:32:54Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This REST API reference document details the endpoints for managing CRDB tasks, including retrieving all tasks, getting a specific task's status, and canceling a task.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "CRDB task",
+    "task_id",
+    "REST API",
+    "status codes",
+    "query parameters"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

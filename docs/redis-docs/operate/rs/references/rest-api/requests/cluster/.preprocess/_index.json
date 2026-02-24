@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:df405d6e6b2e70d937f2e0249bda38dca40c207f",
+  "generated_at": "2026-02-24T06:34:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document provides a REST API reference for cluster management, detailing GET and PUT endpoints to retrieve and update cluster information and settings.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster object",
+    "required permissions",
+    "status codes",
+    "error codes",
+    "dry_run"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

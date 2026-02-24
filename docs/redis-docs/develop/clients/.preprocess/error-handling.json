@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5e53197738dad7953d3c46cc0c58e78882e3e2fe",
+  "generated_at": "2026-02-24T06:24:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Error handling in Redis covers categories of errors like connection, command, data, and resource errors, including their causes, examples, and handling strategies.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "ConnectionError",
+    "TimeoutError",
+    "ResponseError",
+    "OOM",
+    "Connection pool"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

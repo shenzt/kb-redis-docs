@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:35381446c221d85ad192ae226718baf69210fe93",
+  "generated_at": "2026-02-24T06:24:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers connecting to Redis servers using Node.js, including basic connections, cluster connections, TLS for production, and handling connection events.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "createClient",
+    "connection string",
+    "createCluster",
+    "TLS",
+    "client events"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

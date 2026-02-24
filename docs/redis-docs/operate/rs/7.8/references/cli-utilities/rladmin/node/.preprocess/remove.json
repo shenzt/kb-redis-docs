@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:eba40ecce642189eae6129f8a20b8c3e618644e6",
+  "generated_at": "2026-02-24T06:32:14Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The remove.md document describes the rladmin command for removing a specified node from a cluster, including its parameters, return value, and an example.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "rladmin",
+    "node removal",
+    "wait_for_persistence",
+    "cluster policy",
+    "persistent_node_removal"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

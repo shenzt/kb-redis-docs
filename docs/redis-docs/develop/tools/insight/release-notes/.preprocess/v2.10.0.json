@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ed923774fa068a67f44ad0de43ccfe95565a7464",
+  "generated_at": "2026-02-24T06:25:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisInsight 2.10.0 release notes detail new features including formatters for Protobuf, Binary, PHP, and Java objects, a cluster database overview, Workbench configuration, and bug fixes.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisInsight",
+    "Formatters",
+    "Cluster Databases",
+    "Workbench",
+    "Protobuf"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

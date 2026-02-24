@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:975fec577322b251a87d1d3079cc2336a29d72ee",
+  "generated_at": "2026-02-24T06:26:20Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Multi-namespace deployment for Redis Enterprise operator enables managing clusters and databases across different namespaces for resource isolation and centralized management.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "multi-namespace deployment",
+    "operator namespace",
+    "consumer namespaces",
+    "RBAC",
+    "cluster role binding"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

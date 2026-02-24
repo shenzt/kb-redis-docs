@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d7cb32139eafa39b045a7a382281430463be28be",
+  "generated_at": "2026-02-24T06:25:19Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The API reference for the Redis Enterprise operator details Kubernetes CRDs for managing clusters and databases, including API versions, resource types, and kubectl usage.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisEnterpriseCluster (REC)",
+    "RedisEnterpriseDatabase (REDB)",
+    "Custom Resource Definitions (CRDs)",
+    "kubectl",
+    "API versions"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

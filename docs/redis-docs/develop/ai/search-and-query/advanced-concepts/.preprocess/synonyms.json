@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:63da242bb0c11b2311e8502d40043a846e4e2a35",
+  "generated_at": "2026-02-24T06:24:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers Redis Open Source's synonym support, explaining the synonym data structure, the search technique using a HashMap and inverted index, concurrency handling with read-only copies, and provides a usage example.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "synonym data structure",
+    "inverted index",
+    "HashMap",
+    "reference count",
+    "FT.SYNUPDATE"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

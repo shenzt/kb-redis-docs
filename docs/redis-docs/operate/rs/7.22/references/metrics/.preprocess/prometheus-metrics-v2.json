@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:61510f9f02d9eb297a0985a231f704e353952b77",
+  "generated_at": "2026-02-24T06:29:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document prometheus-metrics-v2.md provides a partial list of v2 metrics for Redis Enterprise Software version 7.8.0, covering integration with Prometheus and Grafana and referencing transition help from v1 metrics.",
+  "doc_type": "reference",
+  "quality_score": 6,
+  "key_concepts": [
+    "Prometheus",
+    "v2 metrics",
+    "Redis Enterprise Software",
+    "Grafana",
+    "node_exporter"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

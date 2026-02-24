@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:511b69899c561a990697e1d6a92ebfa6d12ac0de",
+  "generated_at": "2026-02-24T06:25:08Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document global-config.md covers editing global configurations and secrets for a Redis Enterprise Active-Active database custom resource, including patching settings and troubleshooting role permissions.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "globalConfigurations",
+    "REAADB",
+    "kubectl patch",
+    "rolesPermissions",
+    "secrets"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

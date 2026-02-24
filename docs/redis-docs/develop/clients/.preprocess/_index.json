@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0d2dbfa9d6ba838724221f81350c1c34084c7355",
+  "generated_at": "2026-02-24T06:24:10Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document lists and compares Redis client API libraries for various programming languages, including Python, C#, JavaScript, Java, Go, PHP, C, and Rust, and provides a decision tree for selecting the appropriate client.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis client libraries",
+    "redis-py",
+    "node-redis",
+    "Jedis",
+    "decision tree"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

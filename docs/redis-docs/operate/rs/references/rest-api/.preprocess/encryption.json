@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:aa59a61bd7b0609cb1284fde91a7fe3e1934a814",
+  "generated_at": "2026-02-24T06:34:06Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document encryption.md explains how to disable HTTP support to enforce HTTPS encryption for Redis Software API endpoints, including the required command.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "HTTPS",
+    "API endpoints",
+    "HTTP support",
+    "encryption",
+    "rladmin"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

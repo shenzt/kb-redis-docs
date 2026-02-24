@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:008a0a8d334ce8c5731ec9de57899be63c7ead70",
+  "generated_at": "2026-02-24T06:28:46Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers setting up a Redis Enterprise cluster using a load balancer to provide service discovery and endpoints in environments without DNS.",
+  "doc_type": "guide",
+  "quality_score": 6,
+  "key_concepts": [
+    "load balancer",
+    "DNS",
+    "database endpoints",
+    "Active-Active",
+    "Replica Of"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

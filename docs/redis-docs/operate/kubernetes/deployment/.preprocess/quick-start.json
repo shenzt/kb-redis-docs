@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8bae5e2fa6a4801fd76cee3958a12d8191eeecf6",
+  "generated_at": "2026-02-24T06:26:11Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The quick-start.md document provides steps to deploy Redis Enterprise Software for Kubernetes, including prerequisites, namespace creation, operator installation, and cluster and database setup.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise cluster (REC)",
+    "Kubernetes operator",
+    "namespace",
+    "Redis Enterprise Database (REDB)",
+    "user-defined modules"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

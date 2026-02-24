@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3cf356f1513f524d10a6b312a46cfe16c31f282c",
+  "generated_at": "2026-02-24T06:26:22Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Enterprise K8s 6.2.18-41 maintenance release document details bug fixes, known limitations, and compatibility notes for the Kubernetes operator supporting Redis Enterprise Software 6.2.18.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise",
+    "Kubernetes operator",
+    "bug fixes",
+    "OpenShift",
+    "upgrade"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:db6c64657e99ad4a3e7129f80316b9d0df5be06c",
+  "generated_at": "2026-02-24T06:24:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers Redis pipelines and transactions, explaining how to batch commands for efficiency and atomicity, including execution methods and optimistic locking with key watching.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Pipelines",
+    "Transactions",
+    "Exec()",
+    "Watch()",
+    "Optimistic locking"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

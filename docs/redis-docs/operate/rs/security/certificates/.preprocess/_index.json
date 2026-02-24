@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:aed4ba58fe93add1d70bc9fb4fa2b51464b138ea",
+  "generated_at": "2026-02-24T06:35:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers Redis Software's use of self-signed and CA-signed certificates for securing connections, listing supported certificate types and their purposes.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "self-signed certificates",
+    "certificate authority",
+    "internode encryption",
+    "REST API",
+    "Cluster Manager UI"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

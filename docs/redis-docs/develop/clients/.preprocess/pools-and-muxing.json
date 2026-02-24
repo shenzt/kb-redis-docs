@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1099a01e10235ad02061f3ccadc08c644a62ebe9",
+  "generated_at": "2026-02-24T06:24:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains connection pooling and multiplexing as Redis client approaches to manage connections efficiently, listing which libraries support each method.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "connection pooling",
+    "multiplexing",
+    "pipeline",
+    "overhead",
+    "BLPOP"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

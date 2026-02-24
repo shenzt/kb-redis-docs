@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:afd3a413978503e478884357974e45d8cf71ac03",
+  "generated_at": "2026-02-24T06:28:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document replica-ha.md explains how enabling replica high availability in Redis Enterprise Software automatically creates a new replica shard after a failure to maintain data redundancy.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "replica high availability (replica_ha)",
+    "replica shard",
+    "primary shard",
+    "replica migration",
+    "cooldown period"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

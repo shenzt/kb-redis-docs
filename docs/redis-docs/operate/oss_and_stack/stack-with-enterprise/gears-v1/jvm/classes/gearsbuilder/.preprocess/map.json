@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6f0d48b5bec396f9ed23681a3112ed87457af17a",
+  "generated_at": "2026-02-24T06:27:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The map.md document describes the `map` method in GearsBuilder, which transforms each input record to an output record using a MapOperation.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "GearsBuilder",
+    "map",
+    "MapOperation",
+    "Serializable",
+    "template type"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

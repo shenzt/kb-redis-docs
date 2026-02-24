@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6e64f90c82b71e7f1036e15951d978540e228d32",
+  "generated_at": "2026-02-24T06:28:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers creating and configuring a LangCache service in Redis Cloud, including prerequisites, creation steps, and next steps for using the API.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "LangCache",
+    "Redis Cloud",
+    "vector search",
+    "API key",
+    "embedding provider"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

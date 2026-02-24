@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:62292523bae9b9b598cee7da7da7800a7dd72e91",
+  "generated_at": "2026-02-24T06:32:54Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The purge.md document details the PUT API endpoint for purging data from a forcibly removed instance of an Active-Active database, including request parameters, body, and response codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Active-Active database",
+    "crdb_guid",
+    "purge",
+    "instance IDs",
+    "CRDB task object"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

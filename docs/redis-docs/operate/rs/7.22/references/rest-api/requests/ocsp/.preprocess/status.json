@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f1debf1d59c3a1976f006992d6f35840bc9e6492",
+  "generated_at": "2026-02-24T06:29:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document status.md describes the GET /v1/ocsp/status API endpoint for retrieving the latest cached OCSP response status of a proxy certificate, including its request format, required permissions, response object, and potential error and status codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "OCSP status",
+    "GET /v1/ocsp/status",
+    "view_ocsp_status permission",
+    "OCSP status object",
+    "responder_url"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

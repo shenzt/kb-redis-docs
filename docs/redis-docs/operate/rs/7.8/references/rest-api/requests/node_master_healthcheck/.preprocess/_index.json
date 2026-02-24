@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:39d5cdf7baece60d1f8da1bf2462598bf3b73c9d",
+  "generated_at": "2026-02-24T06:32:58Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md describes a GET API endpoint for checking a node's connection to the cluster's primary node and configuration store.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "master_healthcheck",
+    "primary node",
+    "Cluster Configuration Store (CCS)",
+    "permissions",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

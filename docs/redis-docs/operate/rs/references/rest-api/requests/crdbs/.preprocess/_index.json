@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4e49c35d55c667c1b9050c5c890e8ee74fca6a45",
+  "generated_at": "2026-02-24T06:34:39Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document is a REST API reference for managing Active-Active databases (CRDBs), detailing endpoints for GET, POST, PATCH, and DELETE operations with their parameters, headers, and status codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "Active-Active database",
+    "CRDB",
+    "REST API",
+    "crdb_guid",
+    "task object"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

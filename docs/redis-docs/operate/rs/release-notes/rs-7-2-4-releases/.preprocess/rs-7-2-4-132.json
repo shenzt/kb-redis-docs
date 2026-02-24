@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7296fe77cdb2362ea15f822a51b221691a3d5a90",
+  "generated_at": "2026-02-24T06:35:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software version 7.2.4-132 is a maintenance release that fixes a bug for mismatched key counts in Active-Active databases after cluster recovery and lists included Redis Stack modules and resolved security issues.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Active-Active databases",
+    "Redis Stack modules",
+    "CVE-2023-28856",
+    "cluster recovery",
+    "RediSearch"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

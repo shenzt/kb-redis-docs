@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f4da6920d283f7f969136a9fa6d35bc23e4ba4b1",
+  "generated_at": "2026-02-24T06:27:11Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The filter.md document describes the `filter` method in GearsBuilder, which removes records from a data pipe based on a user-defined boolean condition.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "GearsBuilder",
+    "filter",
+    "FilterOperation",
+    "boolean",
+    "pipe"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:524bd8ca9050c2f682449f5184cfa8965c579bb2",
+  "generated_at": "2026-02-24T06:26:22Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This Redis Enterprise for Kubernetes 6.2.18-41 maintenance release document covers new image versions, a critical upgrade warning for OpenShift, supported upgrade paths, and links to detailed compatibility and security notes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise",
+    "Kubernetes Operator",
+    "OpenShift",
+    "upgrade paths",
+    "Services Rigger"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

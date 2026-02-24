@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:216c98ecf1731d60cc5b95030766441b947907c4",
+  "generated_at": "2026-02-24T06:28:51Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document describes the crdb-cli task status command for checking the status of an Active-Active database task using a required task ID.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "crdb-cli",
+    "task status",
+    "Active-Active database",
+    "task-id",
+    "verbose"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

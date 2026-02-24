@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f891be0c722bc083c7e7d2bf70335af8c2265ea2",
+  "generated_at": "2026-02-24T06:28:43Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document upgrade-cluster.md covers methods, prerequisites, and procedures for upgrading a Redis Enterprise Software cluster, including in-place and rolling upgrades.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "rolling upgrade",
+    "in-place upgrade",
+    "rlcheck",
+    "rladmin",
+    "maintenance mode"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

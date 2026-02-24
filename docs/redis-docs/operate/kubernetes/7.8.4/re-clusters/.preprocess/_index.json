@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9b8339f4353642636768b248c060fee444c380d1",
+  "generated_at": "2026-02-24T06:25:46Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides articles for managing Redis Enterprise clusters.",
+  "doc_type": "overview",
+  "quality_score": 2,
+  "key_concepts": [
+    "Redis Enterprise clusters",
+    "REC",
+    "articles",
+    "manage"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

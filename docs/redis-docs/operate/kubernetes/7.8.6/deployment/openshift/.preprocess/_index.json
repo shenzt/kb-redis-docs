@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:dc1a9ded1414f63736e511a653fe5c795e9e8509",
+  "generated_at": "2026-02-24T06:25:56Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md covers deploying Redis Enterprise clusters on Kubernetes using an operator, with specific instructions for OpenShift via OperatorHub and CLI, including prerequisites and version compatibility.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise operator",
+    "Kubernetes CRD",
+    "OpenShift OperatorHub",
+    "kubectl",
+    "version compatibility"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c0ff54113aee220f701908a6b6e495b0353a5aae",
+  "generated_at": "2026-02-24T06:23:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document demonstrates using RedisVL with Redis Hash and JSON data types for storing and querying data, including vector similarity search, with practical code examples.",
+  "doc_type": "example",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Hash",
+    "Redis JSON",
+    "VectorQuery",
+    "SearchIndex",
+    "RediSearch"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

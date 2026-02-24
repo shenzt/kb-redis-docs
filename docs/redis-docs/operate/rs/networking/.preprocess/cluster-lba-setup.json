@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7afe62e4fa6a8342af7cb7a7915efc920a2fb6c0",
+  "generated_at": "2026-02-24T06:33:46Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers setting up a Redis Software cluster using a load balancer for service discovery and traffic direction in environments without DNS.",
+  "doc_type": "guide",
+  "quality_score": 6,
+  "key_concepts": [
+    "load balancer",
+    "DNS",
+    "virtual IPs (VIPs)",
+    "Active-Active",
+    "Replica Of"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

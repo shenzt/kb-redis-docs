@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f3f97851386044e9c1bf39e9760df6fd3f1f9e7a",
+  "generated_at": "2026-02-24T06:26:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Enterprise K8s 6.0.20-12 release is a major operator update providing support for Redis Enterprise Software 6.0.20-97, including new features like EKS support and Hashicorp Vault integration GA, along with bug fixes and compatibility changes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise operator",
+    "Hashicorp Vault integration",
+    "EKS support",
+    "admission controller",
+    "REC (Redis Enterprise Cluster)"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

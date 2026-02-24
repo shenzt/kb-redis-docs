@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c383a6e409a7a3a3c229909ef67bda32c1b735d5",
+  "generated_at": "2026-02-24T06:25:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document edit-clusters.md provides procedures for adding and removing a participating cluster from a Redis Enterprise Active-Active database for Kubernetes.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Active-Active database (REAADB)",
+    "participating cluster",
+    "REC credentials secret",
+    "ValidatingWebhookConfiguration",
+    "kubectl"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

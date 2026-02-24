@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:be0a30ceea38ff38121dec157686ee2ce70eb449",
+  "generated_at": "2026-02-24T06:31:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'recommended-security-practices.md' covers recommended security practices for deploying and operating Redis Enterprise Software in production, including network placement, antivirus exclusions, logging, and encryption.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "trusted network",
+    "antivirus exclusions",
+    "syslog",
+    "TLS protocol",
+    "client certificate authentication"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

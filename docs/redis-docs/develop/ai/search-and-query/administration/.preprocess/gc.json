@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:088557ad3fa59e9a30b8d615dbdf5861b10c72fd",
+  "generated_at": "2026-02-24T06:24:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers garbage collection in Redis, explaining why it's needed due to document deletions and updates, and describes background algorithms for cleaning single-term and numeric indexes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "garbage collection",
+    "inverted index",
+    "deleted documents",
+    "FORK GC",
+    "numeric indexes"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

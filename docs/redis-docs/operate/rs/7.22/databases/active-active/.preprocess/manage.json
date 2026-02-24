@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a496ca76bec277e9d73c24513f6137581ee7989b",
+  "generated_at": "2026-02-24T06:28:28Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document manage.md covers configuring and managing an Active-Active database, including global and local settings, topology changes, replication backlogs, and data persistence, using the Cluster Manager UI or command-line tools like crdb-cli and rladmin.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Active-Active database",
+    "crdb-cli",
+    "participating clusters",
+    "replication backlog",
+    "data persistence"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

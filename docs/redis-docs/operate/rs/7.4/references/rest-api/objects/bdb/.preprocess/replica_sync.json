@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5dc0d9126902e9963d8c957605c1de54917f7d6a",
+  "generated_at": "2026-02-24T06:30:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The replica_sync.md document explains the BDB replica_sync field for enabling, disabling, or pausing the Replica Of data synchronization process between Redis databases.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "replica_sync",
+    "Replica Of",
+    "BDB",
+    "sync process",
+    "sync_sources"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

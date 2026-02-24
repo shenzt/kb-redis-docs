@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:00ce57b4fd662e80a04b42748793bd688c32235c",
+  "generated_at": "2026-02-24T06:29:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document details the deprecated v1 statistics REST API endpoints for Redis Enterprise Software, specifically the GET methods for retrieving shard statistics, including request parameters, permissions, and response formats.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "shard statistics",
+    "deprecated endpoints",
+    "query parameters",
+    "required permissions"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

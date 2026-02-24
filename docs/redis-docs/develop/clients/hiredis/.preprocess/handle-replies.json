@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:46c260118c1dea09d2875eca5977348d91df5f8b",
+  "generated_at": "2026-02-24T06:24:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers handling command replies in Hiredis, including checking and freeing redisReply objects, understanding error handling via the redisContext, and the different RESP protocol reply formats.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "redisReply",
+    "redisCommand",
+    "freeReplyObject",
+    "redisContext",
+    "RESP protocol"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

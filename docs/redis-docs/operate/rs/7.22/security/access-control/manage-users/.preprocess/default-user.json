@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d447fbfe6970d1a0d9fc44e16fcadf38297dafcc",
+  "generated_at": "2026-02-24T06:29:51Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document default-user.md covers configuring authentication, changing the password, and deactivating the default user for a Redis database, including security warnings.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "default user",
+    "authentication",
+    "AUTH command",
+    "Access Control Lists (ACLs)",
+    "role-based access control"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

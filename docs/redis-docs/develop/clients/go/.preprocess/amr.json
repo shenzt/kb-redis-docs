@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5cb5aa70488877c7d0c226da14115ace5efa15d3",
+  "generated_at": "2026-02-24T06:24:14Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers connecting to Azure Managed Redis using the go-redis-entraid package for authentication via Microsoft Entra ID, including installation and credential provider setup.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "go-redis-entraid",
+    "StreamingCredentialsProvider",
+    "Azure Managed Redis",
+    "Microsoft Entra ID",
+    "managed identity"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

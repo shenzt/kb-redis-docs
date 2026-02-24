@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fb13d1c1383ebc8f936b933976d0b6d2d7f55924",
+  "generated_at": "2026-02-24T06:24:50Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisInsight 2.34 release notes cover new features like UX improvements for provisioning a free Redis Cloud database, refreshing search indexes, and system theme following, along with bug fixes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Cloud",
+    "search indexes",
+    "Triggers and Functions",
+    "Slow Log",
+    "vector similarity search"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

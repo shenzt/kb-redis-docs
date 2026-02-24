@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:503855fc7f8f393d5dbf9a471ae6bc31f8a663ec",
+  "generated_at": "2026-02-24T06:27:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the release notes for RedisGraph version 2.0, detailing requirements, version-specific updates, bug fixes, and minor enhancements.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisGraph",
+    "Cypher queries",
+    "GRAPH.EXPLAIN",
+    "GRAPH.PROFILE",
+    "RediSearch"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

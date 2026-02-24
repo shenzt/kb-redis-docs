@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:047b1a5be7cb94f74a966856735ae0980b2e7f09",
+  "generated_at": "2026-02-24T06:28:06Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Cloud supports SAML SSO with IdP-initiated and SP-initiated flows, including just-in-time user provisioning, integration guides for popular identity providers, and instructions for activation, deactivation, and user deprovisioning.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "SAML SSO",
+    "identity provider (IdP)",
+    "just-in-time (JIT) provisioning",
+    "SCIM",
+    "IdP-initiated"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

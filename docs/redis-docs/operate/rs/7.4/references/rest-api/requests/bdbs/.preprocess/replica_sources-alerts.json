@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:56cdb1a7b30be8ad4247a577ceb34861d0435a8c",
+  "generated_at": "2026-02-24T06:31:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This API reference document details the REST endpoints for retrieving replica source alert states for databases, including request formats, permissions, and example responses.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "replica sources",
+    "alert states",
+    "BDB",
+    "REST API",
+    "permissions"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

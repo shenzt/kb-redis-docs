@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:050754b9558fb865b5ba6ebfaba5cce445ffd05f",
+  "generated_at": "2026-02-24T06:28:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Active-Active database replication for strings and bitfields, covering last-write-wins semantics and special conflict resolution for string counters.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Active-Active databases",
+    "last write wins",
+    "string counters",
+    "replication semantics",
+    "bitfield"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

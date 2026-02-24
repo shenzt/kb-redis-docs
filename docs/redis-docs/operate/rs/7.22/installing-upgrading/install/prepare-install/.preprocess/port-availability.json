@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:940f8bd69eecd3b16d14ed7674596fec40500ee5",
+  "generated_at": "2026-02-24T06:28:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers verifying port availability and updating system configuration to avoid conflicts before installing Redis Enterprise Software.",
+  "doc_type": "guide",
+  "quality_score": 4,
+  "key_concepts": [
+    "port availability",
+    "sysctl.conf",
+    "port collisions",
+    "port 53",
+    "Redis Enterprise Software"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

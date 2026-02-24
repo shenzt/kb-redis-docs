@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:44ccef7ff8129eaf7ed3ddd8f19c6e3da162b30e",
+  "generated_at": "2026-02-24T06:24:46Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Copilot FAQ covers the AI assistant's features, how it works, data privacy, access within Redis Insight, and feedback channels.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Copilot",
+    "Redis Insight",
+    "OpenAI API",
+    "context-aware chatbot",
+    "data privacy"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

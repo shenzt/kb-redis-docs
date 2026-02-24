@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "generated_at": "2026-02-24T06:32:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md is a placeholder or index file with no substantive content.",
+  "doc_type": "overview",
+  "quality_score": 0,
+  "key_concepts": [],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

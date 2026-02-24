@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f9a925e1d1d3237ac3a00319684b4e94835557d0",
+  "generated_at": "2026-02-24T06:35:06Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software maintenance release 7.2.4-92 details new UI enhancements, a module API field, automatic removal of deprecated roles/ACLs, bundled Redis Stack modules, and resolved security vulnerabilities.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "Cluster Manager UI",
+    "module REST API",
+    "predefined roles and ACLs",
+    "CVE"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

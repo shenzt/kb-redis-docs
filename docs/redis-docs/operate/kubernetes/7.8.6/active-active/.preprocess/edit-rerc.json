@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:68ac8f7d8fecab9bb525484d8a334a260bddd2ca",
+  "generated_at": "2026-02-24T06:25:55Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document edit-rerc.md explains how to edit and update a RedisEnterpriseRemoteCluster (RERC) custom resource to configure it for participation in an Active-Active database, including patching the resource and updating its secret.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisEnterpriseRemoteCluster (RERC)",
+    "Active-Active database",
+    "kubectl patch",
+    "external load balancer",
+    "NAT hairpinning"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

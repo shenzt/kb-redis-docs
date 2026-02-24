@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0e5734db226cf8072603a59834274eb96c6c2062",
+  "generated_at": "2026-02-24T06:34:00Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers client-side caching requirements, supported versions, and configuration for Redis Software and Redis Cloud, including database version prerequisites and invalidation table settings.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "client-side caching",
+    "tracking_table_max_keys",
+    "RESP3",
+    "CLIENT TRACKING",
+    "default_tracking_table_max_keys_policy"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

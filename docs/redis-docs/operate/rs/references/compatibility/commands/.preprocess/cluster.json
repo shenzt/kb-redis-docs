@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fed05b55bd06aa96a34fcd7aa24ebcfa4b42d073",
+  "generated_at": "2026-02-24T06:34:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document cluster.md details how clustering differs in Redis Software and Redis Cloud compared to Redis Open Source, listing the support status of specific cluster commands across these deployment types.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "clustering",
+    "Redis Software",
+    "Redis Cloud",
+    "cluster commands",
+    "OSS cluster API"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

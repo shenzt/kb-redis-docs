@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:39c004f877155bef6008ee85431adfe6e4459fb4",
+  "generated_at": "2026-02-24T06:24:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Client-side geographic failover covers concepts and client library support for automatically switching Redis connections between endpoints based on priority and health to improve availability.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Client-side geographic failover",
+    "Failover",
+    "Failback",
+    "Health checks",
+    "Active-Active databases"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7aa798a3caf2a688fe68b3d8b4eed3b5cae120f4",
+  "generated_at": "2026-02-24T06:23:14Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the Semantic Router API, detailing its class initialization, methods for managing route vectors, and related data structures like RouteMatch and DistanceAggregationMethod.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "SemanticRouter",
+    "Route",
+    "vectorizer",
+    "RouteMatch",
+    "DistanceAggregationMethod"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ca332c66ce3986ef8b7b25d343dc30fff3dd82d5",
+  "generated_at": "2026-02-24T06:27:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides a table for selecting a month to view a more detailed changelog.",
+  "doc_type": "overview",
+  "quality_score": 3,
+  "key_concepts": [
+    "changelog",
+    "table",
+    "month",
+    "detailed changelog",
+    "major changes"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

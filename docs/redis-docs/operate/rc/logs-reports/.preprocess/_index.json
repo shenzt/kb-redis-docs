@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b2dfe7facfa9ff30c232a01071c60b5b3b08b60d",
+  "generated_at": "2026-02-24T06:28:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md covers using Redis Cloud logs and reports to track activity and usage statistics.",
+  "doc_type": "overview",
+  "quality_score": 2,
+  "key_concepts": [
+    "Redis Cloud",
+    "logs",
+    "reports",
+    "activity",
+    "usage statistics"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

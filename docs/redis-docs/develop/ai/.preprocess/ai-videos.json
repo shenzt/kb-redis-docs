@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9c2d94719fbb7132e2f25e6890d97a9afe442650",
+  "generated_at": "2026-02-24T06:22:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document ai-videos.md presents a collection of video tutorials and demonstrations on using Redis for AI applications, covering topics like vector search, RAG pipelines, semantic caching, and integrations with tools like LangGraph and AWS.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "vector database",
+    "semantic search",
+    "RAG pipeline",
+    "LangGraph",
+    "semantic cache"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

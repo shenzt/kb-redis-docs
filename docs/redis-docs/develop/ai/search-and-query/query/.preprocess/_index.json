@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:343c5d40dd80bffaf4456805fb24944c261e6861",
+  "generated_at": "2026-02-24T06:24:09Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers querying data in Redis Open Source, distinguishing between the FT.SEARCH command for selections and projections and the FT.AGGREGATE command for applying functions, grouping, or aggregating data, with SQL comparisons and links to detailed query articles.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "FT.SEARCH",
+    "FT.AGGREGATE",
+    "selection",
+    "projection",
+    "aggregation"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:004902ff0a09755a30567e8b102beb824933192b",
+  "generated_at": "2026-02-24T06:28:02Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Usage Report document describes how to view and filter daily memory and shard usage data for databases, and how to download a related cost report.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "Usage Report",
+    "memory usage",
+    "shard usage",
+    "subscription",
+    "cost report"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

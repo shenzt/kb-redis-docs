@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:43b1314db36cb9cdae0599985b4a55e6dcbc9fc2",
+  "generated_at": "2026-02-24T06:24:46Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Sentinel client specification covers how Redis clients can implement support for Redis Sentinel to enable automatic service discovery and configuration during master failovers.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Sentinel",
+    "automatic failover",
+    "service discovery",
+    "master name",
+    "Pub/Sub"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fe7efd35e0dddd859f57b5a4fe8748538011b9fa",
+  "generated_at": "2026-02-24T06:26:53Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document provides instructions for upgrading a Redis cluster to version 8, including saving data, upgrading nodes, and verifying the process.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis cluster",
+    "upgrade",
+    "RDB file",
+    "AOF persistence",
+    "replica"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

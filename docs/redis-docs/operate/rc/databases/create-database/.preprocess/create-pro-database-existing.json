@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a53325bbda683bc02ddd2fb1d9cc8aecb0f24c0c",
+  "generated_at": "2026-02-24T06:27:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This guide explains how to create a new Pro database within an existing Redis Cloud Pro subscription, detailing the console steps and configuration sections.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Pro subscription",
+    "CIDR allow list",
+    "Transport layer security (TLS)",
+    "Alerts",
+    "Billing unit types"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

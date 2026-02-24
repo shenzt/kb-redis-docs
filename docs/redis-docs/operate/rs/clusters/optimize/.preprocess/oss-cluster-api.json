@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3bdc93c2812211ed8b61c319dc00bc3e2a22a971",
+  "generated_at": "2026-02-24T06:33:21Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers using the Redis OSS Cluster API for high performance, low latency, and application awareness of cluster topology changes, with links to enable it in Redis Software, Redis Cloud, and Kubernetes.",
+  "doc_type": "overview",
+  "quality_score": 5,
+  "key_concepts": [
+    "OSS Cluster API",
+    "cluster topology",
+    "high availability",
+    "Redis Enterprise Software",
+    "Redis Cloud"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

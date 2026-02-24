@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fce0a8fffd1a38ca5d55304a2a65c31149679a6a",
+  "generated_at": "2026-02-24T06:32:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers monitoring Redis Enterprise Software performance using metrics and alerts via the UI or REST API, integrating with external tools, and referencing metric definitions.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "Redis Enterprise Software",
+    "metrics",
+    "alerts",
+    "Prometheus",
+    "monitoring"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

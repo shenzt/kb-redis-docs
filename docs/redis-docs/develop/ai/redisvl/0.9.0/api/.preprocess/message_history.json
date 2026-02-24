@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e6bcbc50eeb58329ae2744fe2a58cced6bc0d2b1",
+  "generated_at": "2026-02-24T06:23:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the SemanticMessageHistory class API for storing and retrieving LLM conversation history with semantic search capabilities using Redis.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "SemanticMessageHistory",
+    "vectorizer",
+    "distance_threshold",
+    "session_tag",
+    "redis_client"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

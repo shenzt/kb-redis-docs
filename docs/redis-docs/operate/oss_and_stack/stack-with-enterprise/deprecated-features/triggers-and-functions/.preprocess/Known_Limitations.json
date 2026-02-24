@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4bc985b4d02dd29fab147af966c93610fedb39c8",
+  "generated_at": "2026-02-24T06:27:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Known limitations of JavaScript remote functions in Redis, covering write operation restrictions, exclusive keyspace access, available JavaScript variables, and sandboxing constraints.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "JavaScript remote functions",
+    "write operations",
+    "exclusive access",
+    "sandboxed",
+    "redis global variable"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

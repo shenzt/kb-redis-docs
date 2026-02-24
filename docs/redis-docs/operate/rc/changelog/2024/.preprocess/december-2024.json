@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c99b35428eacf039cb3548e89c0d23f8e0ce3975",
+  "generated_at": "2026-02-24T06:27:45Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers new features for December 2024, including the addition of a Logs Viewer role for API access and the preview availability of Redis Flex databases on Redis Cloud Essentials.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Logs Viewer role",
+    "Redis Cloud API",
+    "Redis Flex",
+    "SSD",
+    "Access Management"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3534ae5a6746dadfcd007356460b1aeb9694181c",
+  "generated_at": "2026-02-24T06:27:35Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document provides best practices for optimizing Redis Query Engine indexes and queries to maximize performance scaling via query performance factors, covering candidate query types and result sets.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "query performance factors",
+    "SORTABLE",
+    "UNF option",
+    "indexing",
+    "anti-patterns"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

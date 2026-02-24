@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ff257a0f49d3343fa29794cde54d1f5f5c318e14",
+  "generated_at": "2026-02-24T06:33:14Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md covers Transport Layer Security (TLS) for securing communications to and within Redis Enterprise, including supported use cases and configurable protocols and ciphers.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "Transport Layer Security (TLS)",
+    "TLS protocols",
+    "ciphers",
+    "Replica Of",
+    "Active-Active"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

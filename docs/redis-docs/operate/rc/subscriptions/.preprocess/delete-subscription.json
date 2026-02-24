@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:45aa10ae6e9dbfe67ef1c3f9b5d639dd1538e88b",
+  "generated_at": "2026-02-24T06:28:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document provides steps for deleting a subscription, including prerequisites like removing all databases and using the UI to confirm deletion.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "subscription",
+    "databases",
+    "delete",
+    "backup",
+    "confirmation"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

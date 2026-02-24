@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cf87123323e649f72e2e5a556fededffe639ed75",
+  "generated_at": "2026-02-24T06:30:36Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The status.md document describes the rladmin status command for displaying cluster status, node topology, database endpoints, and shard information.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "rladmin status",
+    "cluster status",
+    "shards",
+    "issues_only",
+    "extra parameter"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

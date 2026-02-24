@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1585e85a994bf3cb7e188e1af2a5dff6db538d5e",
+  "generated_at": "2026-02-24T06:33:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The _index.md document provides an overview and entry point for Redis Software, covering its enterprise features, quickstart guides, installation, database management, security, and links to related resources and archived documentation.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Software",
+    "cluster",
+    "Active-Active database",
+    "enterprise-grade",
+    "self-managed"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

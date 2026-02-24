@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5782858539444416f0eaf876fd96038c91bdb66b",
+  "generated_at": "2026-02-24T06:30:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The config.md document details the rladmin cluster config command, listing its parameters, types, descriptions, and an example for updating cluster configuration settings.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "rladmin",
+    "cluster config",
+    "audit_address",
+    "sentinel_tls_mode",
+    "upgrade_mode"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

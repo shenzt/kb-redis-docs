@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:117057857d42cb3ae75cff69df061ae8b97f98dd",
+  "generated_at": "2026-02-24T06:27:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document announces the availability of Redis 8.4 for Redis Cloud Essentials databases in select regions and references its new features.",
+  "doc_type": "overview",
+  "quality_score": 5,
+  "key_concepts": [
+    "Redis 8.4",
+    "Redis Cloud Essentials",
+    "cluster operations",
+    "string manipulation",
+    "stream processing"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

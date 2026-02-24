@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0a3e3f2cc6a282fc57d94d975441d09714d773f0",
+  "generated_at": "2026-02-24T06:30:24Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers configuring mDNS for Redis Enterprise clusters, including prerequisites, installation steps for different Linux distributions, and network requirements for clients and nodes.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "mDNS",
+    "multicasting",
+    "nss-mdns",
+    "avahi-daemon",
+    "/etc/nsswitch.conf"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

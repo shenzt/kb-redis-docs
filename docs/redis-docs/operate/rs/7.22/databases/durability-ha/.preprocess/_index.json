@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ec51ecc28fbf28e2e738562bc7f8e7f3f10a0d75",
+  "generated_at": "2026-02-24T06:28:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software features for data durability and availability, including replication, clustering, persistence, active-active geo-distribution, rack-zone awareness, and the discovery service.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Replication",
+    "Clustering",
+    "Database persistence",
+    "Active-Active geo-distributed replication",
+    "Rack-zone awareness"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

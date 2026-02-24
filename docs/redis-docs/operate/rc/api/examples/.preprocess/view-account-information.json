@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9f776067d08437f2f671ab3102bc0a1002488280",
+  "generated_at": "2026-02-24T06:27:40Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "A draft document describing a REST API operation to retrieve account, user, and API key information, including an example request and response.",
+  "doc_type": "reference",
+  "quality_score": 5,
+  "key_concepts": [
+    "API operation",
+    "account information",
+    "API Key",
+    "allowedSourceIps",
+    "httpSourceIp"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

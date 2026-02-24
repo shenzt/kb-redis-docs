@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:764148a46faa39989d4ea767d026a73347efa56c",
+  "generated_at": "2026-02-24T06:34:52Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document rlec-0-99-february-2015.md provides upgrade instructions for version 0.99.5-11, including restart commands and database upgrade recommendations, and lists changes, fixes, and a known issue with the management UI.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "upgrade",
+    "rladmin",
+    "memtier_benchmark",
+    "node failover",
+    "management UI"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

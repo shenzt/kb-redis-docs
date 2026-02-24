@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:401208990f3b9cb723965ef250a0ef830fb58c47",
+  "generated_at": "2026-02-24T06:27:08Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisGears JVM plugin document provides classes and functions for use in Java code.",
+  "doc_type": "overview",
+  "quality_score": 3,
+  "key_concepts": [
+    "RedisGears",
+    "JVM plugin",
+    "Java",
+    "classes",
+    "functions"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

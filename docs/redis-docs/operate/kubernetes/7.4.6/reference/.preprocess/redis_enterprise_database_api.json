@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d5fe903fb506da15246566852e04f51fa68d6698",
+  "generated_at": "2026-02-24T06:25:37Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RedisEnterpriseDatabase API Reference document defines the schema, spec, and status fields for the RedisEnterpriseDatabase custom resource in Kubernetes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisEnterpriseDatabase",
+    "spec",
+    "status",
+    "custom resource",
+    "Kubernetes API"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

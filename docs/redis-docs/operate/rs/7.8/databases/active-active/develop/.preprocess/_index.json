@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6dbed49a51ba1eb477e77a92dc022405c404403e",
+  "generated_at": "2026-02-24T06:31:39Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md explains how Redis Enterprise Software's Active-Active databases use CRDT-based conflict resolution to simplify developing globally distributed applications.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Active-Active database",
+    "CRDT",
+    "conflict resolution",
+    "Multi-Master Replication (MMR)",
+    "synchronization"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

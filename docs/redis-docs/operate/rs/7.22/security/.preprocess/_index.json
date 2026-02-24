@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0cfb45164ec8b14ec82050c8e16df7ecc0482ae3",
+  "generated_at": "2026-02-24T06:29:47Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides an overview of Redis Enterprise Software security features, organized into categories like login and passwords, users and roles, encryption and TLS, and certificates and audit, with links to detailed pages and recommended practices.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "TLS",
+    "Redis ACLs",
+    "LDAP integration",
+    "certificates",
+    "password complexity"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

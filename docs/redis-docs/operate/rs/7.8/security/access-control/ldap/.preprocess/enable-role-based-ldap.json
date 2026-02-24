@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9981484886de10220f31d6f19b6592f138fe6061",
+  "generated_at": "2026-02-24T06:33:08Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document enable-role-based-ldap.md explains how to configure role-based LDAP authentication and authorization for Redis Enterprise Software users via the Cluster Manager UI.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "LDAP",
+    "bind credentials",
+    "authentication query",
+    "authorization query",
+    "Distinguished Name"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

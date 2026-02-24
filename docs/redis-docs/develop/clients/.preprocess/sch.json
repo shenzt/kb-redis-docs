@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:be5209d0ec6c8edfdf02bb546c2ea872c09d154d",
+  "generated_at": "2026-02-24T06:24:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Smart client handoffs (SCH) is a Redis feature for planned server maintenance that notifies clients in advance to enable graceful reconnection and relaxed timeouts, minimizing service disruption.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Smart client handoffs (SCH)",
+    "relaxed timeouts",
+    "transparent reconnection",
+    "client_maint_notifications",
+    "RESP3"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

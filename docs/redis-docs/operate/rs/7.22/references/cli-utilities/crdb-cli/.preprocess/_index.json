@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e567ea30255474aab418575c342c28da3b7d3bab",
+  "generated_at": "2026-02-24T06:28:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides an overview of Active-Active databases in Redis Enterprise, explaining their purpose, structure, and the crdb-cli command-line tool for programmatic management.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Active-Active database",
+    "instance",
+    "participating cluster",
+    "crdb-cli",
+    "CRDTs"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6eb787bf33bb811e2a8220021b56674c4ea1b59a",
+  "generated_at": "2026-02-24T06:28:50Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The health-report.md document provides the command, parameters, and example output for retrieving the API management layer health report of an Active-Active database using the crdb-cli.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "crdb-cli",
+    "health-report",
+    "GUID",
+    "Active-Active database",
+    "API management layer"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:72dc85cc3f926dc06e6a4c2600f9988a84ed19f4",
+  "generated_at": "2026-02-24T06:30:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers default and changed socket file locations in Redis Enterprise Software, including a procedure to change them after installation or upgrade.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "socket files",
+    "Redis Enterprise Software",
+    "rlutil",
+    "rladmin",
+    "master node"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

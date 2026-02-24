@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3126ebb9ff186eccaadbd844f2f7eb66c7277d8b",
+  "generated_at": "2026-02-24T06:29:22Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document db-metrics.md lists deprecated v1 database metrics for Redis Enterprise Software, including latency, throughput, and resource usage statistics, with notes on BigRedis-specific fields.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "avg_latency",
+    "BigRedis",
+    "used_memory",
+    "total_req",
+    "shard_cpu_system"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

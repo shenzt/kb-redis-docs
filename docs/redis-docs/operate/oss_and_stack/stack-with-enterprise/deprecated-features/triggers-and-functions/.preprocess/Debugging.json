@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6209b17963d55f0cb5a78f52895d5609057c1cc7",
+  "generated_at": "2026-02-24T06:27:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers two methods for debugging Redis Stack functions: using the `redis.log` function to write to the Redis log file and using Redis pub/sub for message-based logging.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "redis.log",
+    "pub/sub",
+    "TFCALL",
+    "client.call",
+    "debugging"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

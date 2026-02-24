@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:045fcb84dbb8e9efbf654d5fabfb13938d34cd87",
+  "generated_at": "2026-02-24T06:29:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The auto-tiering.md document lists and defines additional metrics for monitoring Auto Tiering databases, including RAM and flash usage, operation rates, and calculated statistics.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Auto Tiering",
+    "RAM:Flash access ratio",
+    "RAM hit ratio",
+    "Values in flash",
+    "Calculated metrics"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

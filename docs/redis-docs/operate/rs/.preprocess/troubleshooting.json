@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4f93141b08971751210e6dedc20007f6160e281b",
+  "generated_at": "2026-02-24T06:35:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The troubleshooting.md document provides links to resources for general Redis cluster diagnostics, specific issue troubleshooting, knowledge base articles, and support contact information.",
+  "doc_type": "troubleshooting",
+  "quality_score": 6,
+  "key_concepts": [
+    "rladmin status",
+    "rlcheck",
+    "support package",
+    "TLS troubleshooting",
+    "endpoint flapping"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

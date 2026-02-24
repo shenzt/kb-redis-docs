@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:03fcedec8a3397bfb6d1470e7b8567751102bae8",
+  "generated_at": "2026-02-24T06:26:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The _index.md document covers the API reference for Redis custom resources and supported distributions.",
+  "doc_type": "reference",
+  "quality_score": 2,
+  "key_concepts": [
+    "API reference",
+    "Redis",
+    "custom resources",
+    "supported distributions"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

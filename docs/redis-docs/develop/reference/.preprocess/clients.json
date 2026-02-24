@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1c756862e6198f5ede8496d10d965c5da24ba280",
+  "generated_at": "2026-02-24T06:24:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis client handling covers network-layer topics like connection acceptance, request serving order, client timeouts, output buffers, and client commands for versions 2.6 and greater.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "maxclients",
+    "TCP_NODELAY",
+    "output buffer",
+    "CLIENT KILL",
+    "TCP keepalive"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

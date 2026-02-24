@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c14881cde5b9634970e23020deb924065852a244",
+  "generated_at": "2026-02-24T06:24:58Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document contains release notes for RedisInsight versions 1.2.0, 1.2.1, and 1.2.2, detailing bug fixes, enhancements, and new features like TLS client authentication support.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "TLS client authentication",
+    "RediSearch",
+    "RedisTimeSeries",
+    "bug fixes",
+    "maintenance release"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

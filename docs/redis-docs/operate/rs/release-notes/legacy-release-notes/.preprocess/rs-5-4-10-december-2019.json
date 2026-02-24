@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d9b7dfdaf2ce88b8d1a73812863e903d5f49d91d",
+  "generated_at": "2026-02-24T06:34:54Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software 5.4.10 release notes cover new features like an improved synchronization mechanism for Active-Active Redis, OpenSSL requirements for RHEL 7, bundled Redis modules, and various bug fixes and limitations.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Active-Active Redis",
+    "Replica-of",
+    "OpenSSL",
+    "Redis Modules",
+    "PSYNC2"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:72ffbeecde3c3d93acb22a2e1295141c43c4d1ce",
+  "generated_at": "2026-02-24T06:32:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The crdb_task.md document defines the structure and properties of an Active-Active (CRDB) task object, detailing its read-only fields, statuses, and error/progress data formats.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "CRDB task",
+    "crdb_guid",
+    "status",
+    "errors",
+    "progress"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

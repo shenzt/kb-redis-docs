@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:c6fd5f3ceecbdbb3fcd118be14b4702a8b76fa46",
+  "generated_at": "2026-02-24T06:30:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document bind.md describes the rladmin bind command for managing proxy policies, including excluding nodes and setting policies, for specific database endpoints.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "rladmin bind",
+    "proxy policy",
+    "endpoint",
+    "exclude nodes",
+    "all-master-shards"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

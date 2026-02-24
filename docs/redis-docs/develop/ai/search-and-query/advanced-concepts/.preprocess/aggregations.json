@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e5fdff3e080700e191e09dbe64a8c8e274518ef6",
+  "generated_at": "2026-02-24T06:24:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Aggregations process search query results through a dynamic pipeline of grouping, sorting, transforming, and limiting operations to extract analytics and enable faceted search.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Aggregations",
+    "Aggregation Pipeline",
+    "GROUPBY",
+    "REDUCE",
+    "Cursor"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

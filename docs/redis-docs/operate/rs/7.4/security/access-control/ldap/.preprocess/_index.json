@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cc6625d3f7b90e87317a6705afb4f2f241d82488",
+  "generated_at": "2026-02-24T06:31:24Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software supports LDAP authentication and authorization via RBAC for Cluster Manager UI and database access, detailing prerequisites, configuration steps, and how the integration works.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "LDAP authentication",
+    "role-based access controls (RBAC)",
+    "LDAP bind request",
+    "access control list (ACL)",
+    "Distinguished Name"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

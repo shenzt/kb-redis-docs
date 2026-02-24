@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fa850610bce682416c6d5a1a56a775bda28e97e5",
+  "generated_at": "2026-02-24T06:32:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document external-addr.md covers commands for configuring a node's external IP addresses to accept inbound user connections, including add, set, and remove operations.",
+  "doc_type": "reference",
+  "quality_score": 9,
+  "key_concepts": [
+    "external IP address",
+    "rladmin",
+    "node",
+    "inbound user connections",
+    "external_addr"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:597a54d4b8365dda146757bd8af76de7532b244e",
+  "generated_at": "2026-02-24T06:24:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains Redis vector sets for storing and retrieving keys based on vector similarity, including setup with Lettuce, embedding generation, and search with filtering.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "vector set",
+    "text embedding",
+    "Lettuce",
+    "vector distance",
+    "filter"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

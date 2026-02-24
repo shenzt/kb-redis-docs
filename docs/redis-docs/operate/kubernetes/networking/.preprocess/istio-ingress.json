@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d6c5028cf0bc3df27f085ced5b339e4558490083",
+  "generated_at": "2026-02-24T06:26:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers configuring Istio Ingress as an alternative ingress controller for Redis Enterprise on Kubernetes using Gateway and VirtualService custom resources.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Istio Ingress",
+    "Gateway",
+    "VirtualService",
+    "Redis Enterprise Cluster (REC)",
+    "external access"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

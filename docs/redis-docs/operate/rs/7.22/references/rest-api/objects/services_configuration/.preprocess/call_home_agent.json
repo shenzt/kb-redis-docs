@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:386cf6738cc32bd2ea633518fef246a11e548148",
+  "generated_at": "2026-02-24T06:29:18Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The call_home_agent.md document defines a configuration parameter for enabling or disabling a process that sends daily usage statistics to Redis.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "call_home_agent",
+    "operating_mode",
+    "disabled",
+    "enabled",
+    "usage statistics"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

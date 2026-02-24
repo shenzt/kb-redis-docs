@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7dc1139a8e9d2f947d391749996ffe1fbaf8f3fd",
+  "generated_at": "2026-02-24T06:23:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document demonstrates performing complex queries, including hybrid search with filters and vector similarity, using the RedisVL library on user data stored in a Redis index.",
+  "doc_type": "example",
+  "quality_score": 8,
+  "key_concepts": [
+    "RedisVL",
+    "hybrid search",
+    "vector similarity",
+    "RediSearch",
+    "index schema"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

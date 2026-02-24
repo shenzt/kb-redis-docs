@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d79eaf21c7f5e10e6b5156d86666ece86d4f251b",
+  "generated_at": "2026-02-24T06:33:38Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This Redis Software installation guide covers the installation process, required permissions, and post-installation configuration options for setting up a cluster.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "installation",
+    "permissions",
+    "redislabs group",
+    "umask",
+    "cluster"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ce647ac7fb4ef965584d3c7e04a3f1a291aa3077",
+  "generated_at": "2026-02-24T06:23:28Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers a tutorial for getting started with the RedisVL Python library, including defining an IndexSchema, creating a SearchIndex, loading data, and performing vector searches.",
+  "doc_type": "tutorial",
+  "quality_score": 9,
+  "key_concepts": [
+    "IndexSchema",
+    "SearchIndex",
+    "VectorQuery",
+    "Redis Stack",
+    "vector search"
+  ],
+  "gap_flags": [
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

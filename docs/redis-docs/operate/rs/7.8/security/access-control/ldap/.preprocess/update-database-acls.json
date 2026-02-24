@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:10fc78ef5dd5888e462aa8e3bc4f77767bb8e07a",
+  "generated_at": "2026-02-24T06:33:09Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document explains how to grant LDAP users access to a database by assigning mapped roles to the database's access control list (ACL) in the Cluster Manager UI, including a note on role ordering.",
+  "doc_type": "tutorial",
+  "quality_score": 7,
+  "key_concepts": [
+    "access control list (ACL)",
+    "LDAP users",
+    "mapped access role",
+    "Cluster Manager UI",
+    "role-based access"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

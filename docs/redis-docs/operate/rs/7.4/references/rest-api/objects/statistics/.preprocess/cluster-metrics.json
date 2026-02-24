@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:aaf7de399e7fb8e7f31c0fcad398cf6555931b3b",
+  "generated_at": "2026-02-24T06:30:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document cluster-metrics.md lists and describes various system and performance metrics for monitoring a Redis Enterprise cluster, including resource availability, CPU usage, network traffic, and BigRedis-specific statistics.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "BigRedis",
+    "cluster endpoints",
+    "flash",
+    "shards",
+    "latency"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e3465147b9726d909ee7b1a9b1fdf9082c89d078",
+  "generated_at": "2026-02-24T06:33:39Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document customize-user-and-group.md explains how to specify a custom user and group for Redis Software installation on Linux, including considerations and the required command-line options.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Software",
+    "installation user",
+    "os-user",
+    "os-group",
+    "install.sh"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

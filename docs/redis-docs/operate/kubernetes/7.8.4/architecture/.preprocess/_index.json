@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8c4f8fd23dfd46704f52757b7701f0f2a7dbd05f",
+  "generated_at": "2026-02-24T06:25:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes documentation explains its integration with Kubernetes, covering lifecycle considerations, architecture, operator functionality, and key custom resources for deployment and management.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise Cluster (REC)",
+    "Redis Enterprise Active-Active Database (REAADB)",
+    "Kubernetes Operator",
+    "ServiceMonitor",
+    "Prometheus"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

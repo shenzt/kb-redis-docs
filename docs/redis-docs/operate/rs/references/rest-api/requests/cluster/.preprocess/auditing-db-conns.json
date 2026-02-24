@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:791bb8efcc410067b4a035dae43252dd3e9ceccf",
+  "generated_at": "2026-02-24T06:34:36Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This REST API reference document details the endpoints for retrieving, updating, and deleting database connection auditing settings within a cluster.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "auditing",
+    "database connections",
+    "REST API",
+    "configuration object",
+    "permissions"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

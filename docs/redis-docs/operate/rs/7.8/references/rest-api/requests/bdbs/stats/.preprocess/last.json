@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:04d578cdeb99c5b2a36ae659219fdf119f72496d",
+  "generated_at": "2026-02-24T06:32:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document last.md describes two REST API endpoints for retrieving the most recent statistics for all databases or a specific database, including their methods, paths, permissions, request parameters, and response formats.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "statistics",
+    "metrics",
+    "permissions",
+    "query parameters"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

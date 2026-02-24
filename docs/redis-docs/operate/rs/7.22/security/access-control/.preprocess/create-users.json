@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:faf4398f7a21325820e730f5a54c2884d9864d9d",
+  "generated_at": "2026-02-24T06:29:47Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers the prerequisites and steps for creating users and assigning roles in Redis Enterprise Software using the Cluster Manager UI.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "role-based access control (RBAC)",
+    "Cluster Manager UI",
+    "roles",
+    "permissions",
+    "alerts"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

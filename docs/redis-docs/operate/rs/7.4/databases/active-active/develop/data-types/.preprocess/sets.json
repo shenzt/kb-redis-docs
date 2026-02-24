@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:15d70a859396d79cd49c3cb089cce70a76fd7d13",
+  "generated_at": "2026-02-24T06:30:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document sets.md describes Redis sets as unordered, unique string collections and explains their behavior in Active-Active databases, including OR-Set conflict resolution with add-wins and observed-remove rules.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis set",
+    "OR-Set",
+    "Active-Active database",
+    "observed remove",
+    "add wins"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8013f03086b137995c229a3263f88d3451d84f2e",
+  "generated_at": "2026-02-24T06:34:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md is a REST API reference detailing the endpoints, methods, permissions, requests, and responses for managing user resources via the /v1/users path.",
+  "doc_type": "reference",
+  "quality_score": 9,
+  "key_concepts": [
+    "REST API",
+    "HTTP methods",
+    "permissions",
+    "user objects",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

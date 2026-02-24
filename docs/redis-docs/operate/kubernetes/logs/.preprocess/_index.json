@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:499394f706b7a836c6ab5f1e9b9c389d61a6ade4",
+  "generated_at": "2026-02-24T06:26:11Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers accessing and managing Redis Enterprise logs on Kubernetes, including log collection methods and using a sidecar container to access logs stored in /var/opt/redislabs/log.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise logs",
+    "Kubernetes",
+    "sidecar container",
+    "/var/opt/redislabs/log",
+    "redis-enterprise-storage"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

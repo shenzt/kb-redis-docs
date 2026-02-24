@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e34f3385ae7c9dbf79060ccf84488d5abfdf5467",
+  "generated_at": "2026-02-24T06:33:36Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The eviction-policy.md document explains how different eviction policies manage memory when a database reaches its limit, including defaults and specific considerations for Active-Active databases.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "eviction policy",
+    "volatile-lru",
+    "noeviction",
+    "Active-Active databases",
+    "memory limit"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b15bf01bf694be80e32963e34bd0989fadea30b9",
+  "generated_at": "2026-02-24T06:27:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Triggers and functions in Redis Stack covers running JavaScript functions on-demand or via event-driven and stream processing triggers, including cluster support.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "JavaScript engine",
+    "Keyspace triggers",
+    "Stream triggers",
+    "Async handling",
+    "Cluster support"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

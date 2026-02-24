@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:afb1f00eabc541456934358242173f563053fe78",
+  "generated_at": "2026-02-24T06:24:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers using Redis pipelines to batch commands and transactions with optimistic locking for uninterrupted execution and conflict handling.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Pipelines",
+    "Transactions",
+    "Optimistic locking",
+    "WATCH",
+    "execute()"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

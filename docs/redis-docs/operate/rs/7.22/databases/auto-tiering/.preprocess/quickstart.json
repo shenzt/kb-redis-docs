@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8a2ede4f990bd32097dc1f5d9058fb733d0e882e",
+  "generated_at": "2026-02-24T06:28:28Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This quickstart guide provides steps to set up a single-node Redis Enterprise Software cluster with Auto Tiering for testing, covering installation, cluster setup, database creation, and connection.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Auto Tiering",
+    "Redis Enterprise Software",
+    "prepare_flash script",
+    "Docker container",
+    "cluster setup"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

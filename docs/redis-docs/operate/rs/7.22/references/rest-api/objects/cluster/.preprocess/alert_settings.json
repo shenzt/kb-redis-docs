@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9c168561697590e6d51f7d2576c965160f8fad46",
+  "generated_at": "2026-02-24T06:29:11Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document alert_settings.md defines a table of cluster and node alert settings for Redis Enterprise, including their types, default values, and descriptions.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster_alert_settings_with_threshold",
+    "boolean",
+    "cluster_certs_about_to_expire",
+    "node_memory",
+    "cluster_license_about_to_expire"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

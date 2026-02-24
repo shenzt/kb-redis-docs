@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cd4d27384f1f072e43beef62d1d10b81021219ce",
+  "generated_at": "2026-02-24T06:30:22Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document upgrade-cluster.md provides prerequisites and step-by-step instructions for upgrading a Redis Enterprise Software cluster, including verifying system state and executing the upgrade process on each node.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "rlcheck",
+    "rladmin",
+    "maintenance mode",
+    "upgrade path",
+    "install.sh"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3d9ea3e088cd30a6e142bc446aafe3e9b21faab5",
+  "generated_at": "2026-02-24T06:30:34Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The enslave.md document describes the 'node enslave' command for converting a node's endpoints and shards into replicas, including its parameters, return value, and a verification example.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "node enslave",
+    "replicas",
+    "rladmin",
+    "shards",
+    "retry_timeout_seconds"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:433d4b96bafd46746f4b095d477419cf9c701752",
+  "generated_at": "2026-02-24T06:34:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document stop_traffic.md details the REST API POST method to stop read and write traffic for a specific database, including required permissions, request parameters, and response details.",
+  "doc_type": "reference",
+  "quality_score": 9,
+  "key_concepts": [
+    "stop_traffic",
+    "action_uid",
+    "update_bdb_with_action",
+    "active-change-pending",
+    "POST /v1/bdbs/{uid}/actions/stop_traffic"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

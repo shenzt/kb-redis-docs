@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:171f0e16d045abe45de61075af0f37cdfce3f279",
+  "generated_at": "2026-02-24T06:30:25Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document details major features of a Redis Enterprise Software release, including Geo-Distributed Active-Active CRDBs, Redis modules, Docker support, and LDAP integration.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Geo-Distributed Active-Active CRDB",
+    "Redis modules",
+    "CRDT",
+    "Docker",
+    "LDAP integration"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

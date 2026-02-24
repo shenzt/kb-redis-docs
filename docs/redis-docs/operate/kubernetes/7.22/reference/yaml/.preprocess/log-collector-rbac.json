@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:90ab0ef550179c9027417be52ca51980e3ec018a",
+  "generated_at": "2026-02-24T06:25:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document log-collector-rbac.md provides YAML examples for configuring RBAC permissions for the Redis Enterprise log collector tool in Kubernetes, detailing the required permissions for its restricted and all collection modes.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "RBAC permissions",
+    "log collector",
+    "restricted mode",
+    "all mode",
+    "ClusterRole"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

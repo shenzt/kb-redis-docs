@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:7e2790b00e00c9e9908997309757943e149d32a5",
+  "generated_at": "2026-02-24T06:35:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis ACL overview covers defining named permissions for commands, keys, and channels, including syntax, predefined ACLs, and version-specific limitations.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis ACLs",
+    "command categories",
+    "key patterns",
+    "pub/sub channels",
+    "predefined ACLs"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:06b61ff7d1997d177ed7b058f88c9a5e7ec82d24",
+  "generated_at": "2026-02-24T06:27:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The RediSearch 2.6 release notes document outlines version requirements, maintenance releases, bug fixes, improvements, and new features for the RediSearch module.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "RediSearch",
+    "bug fixes",
+    "update urgency",
+    "vector queries",
+    "RedisJSON"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

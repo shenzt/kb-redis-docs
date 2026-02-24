@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d1928dbb939c6739fbeef19778c2ae879b89d342",
+  "generated_at": "2026-02-24T06:30:35Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The placement.md document configures the shard placement policy (dense or sparse) for a specified Redis database using the rladmin placement command.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "shard placement policy",
+    "rladmin placement",
+    "dense",
+    "sparse",
+    "rladmin status databases"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b40549ec47dda685620b6b3bc1ba2c5d0402c5da",
+  "generated_at": "2026-02-24T06:24:03Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Query Engine document covers storing, indexing, and querying geospatial data using GEO and GEOSHAPE schema types, including query types like WITHIN and INTERSECTS, and notes limitations of geographical coordinates.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "geospatial data",
+    "GEO",
+    "GEOSHAPE",
+    "WITHIN",
+    "INTERSECTS"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b555fb5abbc4b7f3f2480c3623a571126fdcb481",
+  "generated_at": "2026-02-24T06:34:49Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md describes the GET /v1/usage_report API endpoint for retrieving a cluster's database usage report as a gzip file containing NDJSON data.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "NDJSON",
+    "MD5 hash",
+    "usage report",
+    "shard_type",
+    "provisioned_memory"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

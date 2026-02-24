@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:bf3fff2732996ba8c9fa31fd30c37545b32d3d14",
+  "generated_at": "2026-02-24T06:28:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document replication.md covers database replication for high availability, including auto-failover mechanisms, configuration tuning with rack-zone awareness and replica HA, and specific considerations and commands for Auto Tiering and Active-Active replication.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "database replication",
+    "auto-failover",
+    "replica shard",
+    "rack-zone awareness",
+    "CRDT replication backlog"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

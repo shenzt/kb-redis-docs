@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e684dc3a4022400808f7eb93d4eacbcee62224e5",
+  "generated_at": "2026-02-24T06:32:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the rladmin command for activating and deactivating maintenance mode on a node, including parameters for shard migration and example outputs.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "maintenance_mode",
+    "quorum node",
+    "shard migration",
+    "rladmin",
+    "evict_dbs"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

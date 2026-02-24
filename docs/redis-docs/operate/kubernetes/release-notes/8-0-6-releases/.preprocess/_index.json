@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8d8c876bd3fec1bb1796a0afd69b5087e042c953",
+  "generated_at": "2026-02-24T06:26:39Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes 8.0.6 release notes detail bug fixes, enhancements, known limitations, and support for Redis Enterprise Software 8.0.6.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise for Kubernetes",
+    "release notes",
+    "known limitations",
+    "bug fixes",
+    "Active-Active database"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

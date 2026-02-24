@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9ddf7f2480f66e834b9c4266c4726676d3c379c2",
+  "generated_at": "2026-02-24T06:33:28Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The planning.md document covers special considerations and limitations for planning an Active-Active Redis database using CRDT technology, including participating clusters, memory limits, and unsupported features.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Active-Active geo-distribution",
+    "CRDT (conflict-free replicated data type)",
+    "participating clusters",
+    "memory limits",
+    "replication"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

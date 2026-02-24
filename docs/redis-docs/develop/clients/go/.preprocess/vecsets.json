@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:21691b891e1e4f62172d68395c88082d25b8ddf3",
+  "generated_at": "2026-02-24T06:24:15Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document explains how to use Redis vector sets to store and retrieve keys based on vector similarity, particularly with text embeddings, using the go-redis client and Hugot library.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "vector set",
+    "text embeddings",
+    "go-redis",
+    "Hugot",
+    "vector search"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

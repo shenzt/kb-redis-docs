@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:db9a796ad55947e7d3f2d7a340015028776979db",
+  "generated_at": "2026-02-24T06:33:18Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document 'alerts-events.md' lists and describes system alerts and events for a Redis Labs Enterprise Cluster, detailing their UI messages, severity levels, and associated notes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "syslog",
+    "Cluster Manager UI",
+    "alerts",
+    "events",
+    "severity"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

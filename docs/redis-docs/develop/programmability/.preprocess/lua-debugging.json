@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:99ccfbfc0a6544e97d662ae0bee469cef84b830b",
+  "generated_at": "2026-02-24T06:24:42Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the Redis Lua debugger (LDB), detailing its features like remote debugging, forked sessions, breakpoints, and integration with clients.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "LDB",
+    "forked session",
+    "breakpoints",
+    "redis-cli",
+    "synchronous debugging"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

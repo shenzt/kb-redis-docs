@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:9cf44320a73f02b784d99a9ee1d0a9589a41e2a9",
+  "generated_at": "2026-02-24T06:24:32Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis JSON capability document covers storing, updating, and querying JSON data in Redis, including primary features, basic commands, formatting, installation, and limitations.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "JSON.SET",
+    "JSONPath",
+    "JSON.GET",
+    "Redis Query Engine",
+    "atomic operations"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

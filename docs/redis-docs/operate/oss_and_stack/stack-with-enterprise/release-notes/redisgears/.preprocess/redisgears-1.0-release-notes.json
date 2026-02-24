@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:96353816bc8e07dd1e46aeb1e5d2e42fbd7d1998",
+  "generated_at": "2026-02-24T06:27:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "RedisGears release notes document version requirements and changes for maintenance releases v1.0.9 through v1.0.0, including improvements, features, and bug fixes.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "RedisGears",
+    "keys space notifications",
+    "Python interpreter",
+    "stream reader",
+    "RedisAI integration"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

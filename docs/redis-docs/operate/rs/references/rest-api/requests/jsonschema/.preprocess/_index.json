@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:03dd74eda5066e0d1d2919f693575c884cd52713",
+  "generated_at": "2026-02-24T06:34:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md describes the GET /v1/jsonschema API endpoint for retrieving the JSON schema of Redis Software REST API objects, including request and response details.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "JSON schema",
+    "API object",
+    "GET request",
+    "Query parameters",
+    "Status codes"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ecdc94856988ae555016b87d0660518ce31b3420",
+  "generated_at": "2026-02-24T06:33:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document export-data.md explains how to export database data to various supported storage destinations, detailing the process, space requirements, and specific configuration steps for locations like Azure Blob Storage.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "export",
+    "storage destination",
+    "database clustering",
+    "local mount point",
+    "Azure Blob Storage"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

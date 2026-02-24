@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a196433e5ac8a11a102e4f719fa4aed1f33bf1d8",
+  "generated_at": "2026-02-24T06:26:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers configuring networking and external access methods for Redis Enterprise deployments on Kubernetes, including database connectivity, ingress routing, and OSS Cluster API support.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Ingress routing",
+    "RedisEnterpriseCluster (REC)",
+    "OSS Cluster API",
+    "LoadBalancer services",
+    "external access"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

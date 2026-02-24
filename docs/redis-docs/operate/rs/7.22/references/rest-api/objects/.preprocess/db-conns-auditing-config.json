@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:59daa6775880e893cc4ef8fb81511f8313b0af2f",
+  "generated_at": "2026-02-24T06:29:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document db-conns-auditing-config.md details configuration parameters for setting up database connection auditing, including address, port, protocol, and reconnection settings.",
+  "doc_type": "reference",
+  "quality_score": 6,
+  "key_concepts": [
+    "audit_address",
+    "audit_port",
+    "audit_protocol",
+    "audit_reconnect_interval",
+    "audit_reconnect_max_attempts"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

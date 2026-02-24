@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:3815365e8a4d80375ffa06ade232a59cb4892fa7",
+  "generated_at": "2026-02-24T06:29:47Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document describes the predefined cluster management roles in Redis Enterprise Software, detailing their UI and API permissions and providing instructions for creating new roles.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster management roles",
+    "REST API permissions",
+    "Cluster Manager UI",
+    "Admin role",
+    "ACLs"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

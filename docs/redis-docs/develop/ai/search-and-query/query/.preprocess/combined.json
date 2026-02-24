@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:8053cc8e0e2cfa06a52dddf2cff03250d2584eaf",
+  "generated_at": "2026-02-24T06:24:09Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Combined queries combine multiple query types like exact match, range, full-text, geospatial, and vector search using logical operators, with notes on dialect differences and pre-filtering for KNN vector queries.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "combined query",
+    "logical operators",
+    "KNN query",
+    "pre-filter",
+    "DIALECT 2"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

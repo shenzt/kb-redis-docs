@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cb8d2bf7df87047c46df632d2ed3346d0d89fabd",
+  "generated_at": "2026-02-24T06:28:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This Redis Cloud Essentials documentation explains how to view and manage a subscription, including upgrading plans, changing high availability settings, and interpreting subscription details.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Cloud Essentials",
+    "subscription",
+    "high availability",
+    "data persistence",
+    "upgrade plan"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

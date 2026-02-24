@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:733b4826a8fdcf8381961cea679227ca8bc57596",
+  "generated_at": "2026-02-24T06:25:05Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis 7.4 introduces new features like hash field expiration, memory-efficient AI data types, time series filters, and simplified secondary indexing, along with behavior and component changes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "hash field expiration",
+    "BFLOAT16",
+    "secondary indexing",
+    "time series",
+    "ACL LOAD"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

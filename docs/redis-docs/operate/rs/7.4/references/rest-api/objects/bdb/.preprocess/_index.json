@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:2bdf9818ccfa5b49b117fc8a63ec8868922f300b",
+  "generated_at": "2026-02-24T06:30:43Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md is a reference for an API object representing a managed database, detailing its configuration fields, types, descriptions, and allowed values.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "uid",
+    "authentication_redis_pass",
+    "tls_mode",
+    "type",
+    "shards_count"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

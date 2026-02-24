@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e9a739d7a42aac9efd90d6e79619752e43a55d2a",
+  "generated_at": "2026-02-24T06:26:33Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise for Kubernetes 7.4.6-6 release notes detail a maintenance release supporting Redis Enterprise Software 7.4.6-102, including a resolved service rigger crash issue and container image download information.",
+  "doc_type": "overview",
+  "quality_score": 6,
+  "key_concepts": [
+    "Redis Enterprise",
+    "Kubernetes",
+    "Services Rigger",
+    "Operator",
+    "OpenShift"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

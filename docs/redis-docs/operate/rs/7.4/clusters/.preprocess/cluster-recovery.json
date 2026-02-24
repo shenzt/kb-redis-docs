@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cb6ec00675125da3f479c3ad3aec368969005aba",
+  "generated_at": "2026-02-24T06:29:56Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document cluster-recovery.md details the prerequisites and step-by-step process for recovering a failed Redis Enterprise Software cluster using configuration and database persistence files.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "cluster configuration file (ccs-redis.rdb)",
+    "persistent storage",
+    "rladmin cluster join",
+    "quorum loss",
+    "database recovery"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

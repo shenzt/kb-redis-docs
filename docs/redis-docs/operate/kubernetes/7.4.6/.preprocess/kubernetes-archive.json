@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:66b2539e49fbef23067aa2d0fbebf204ab2eba0c",
+  "generated_at": "2026-02-24T06:25:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document kubernetes-archive.md provides links to archived documentation for previous versions of Redis Enterprise for Kubernetes.",
+  "doc_type": "overview",
+  "quality_score": 2,
+  "key_concepts": [
+    "Kubernetes",
+    "Redis Enterprise",
+    "documentation archive",
+    "v7.4",
+    "v6.x"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

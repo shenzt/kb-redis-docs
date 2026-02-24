@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1becf9373531296ce34f45e44eab50e134799a62",
+  "generated_at": "2026-02-24T06:34:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document details the deprecated v1 statistics REST API endpoints for Redis nodes, including the GET methods for retrieving stats for all nodes or a single node, their required permissions, request parameters, and response formats.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "REST API",
+    "deprecated",
+    "statistics",
+    "nodes",
+    "permissions"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

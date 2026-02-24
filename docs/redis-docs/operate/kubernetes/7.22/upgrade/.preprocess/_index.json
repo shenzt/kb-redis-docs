@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0acc5035bb1d2033b1cb421a07604c76674937da",
+  "generated_at": "2026-02-24T06:25:23Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document outlines methods and the sequential process for upgrading Redis Enterprise deployments on Kubernetes, including operator, cluster, and database components.",
+  "doc_type": "guide",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise operator",
+    "Redis Enterprise cluster (REC)",
+    "Redis Enterprise databases (REDB)",
+    "RHEL9-based image",
+    "upgrade compatibility"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": true
+  }
+}

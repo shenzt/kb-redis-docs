@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e9ce86c2195003ad082c5a1984b760bae24bee63",
+  "generated_at": "2026-02-24T06:24:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Integration guides explain how to use the hiredis library with C and C++ via included adapters.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "hiredis",
+    "integration",
+    "adapters",
+    "C++",
+    "C"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

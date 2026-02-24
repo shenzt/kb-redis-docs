@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:b4ca20c02fbb7f64f4f1d94131c3ff86206a6754",
+  "generated_at": "2026-02-24T06:26:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document ingress.md provides prerequisites and steps for creating a Kubernetes Ingress resource to expose a TLS-enabled RedisEnterpriseDatabase, emphasizing the need for an Ingress controller with ssl-passthrough.",
+  "doc_type": "tutorial",
+  "quality_score": 7,
+  "key_concepts": [
+    "Ingress",
+    "ssl-passthrough",
+    "RedisEnterpriseDatabase",
+    "LoadBalancer",
+    "TLS"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fb1c5efd9d249248d4f7058af176896f358fe837",
+  "generated_at": "2026-02-24T06:34:27Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This API reference document details the REST endpoints for managing databases (bdbs) in a cluster, including operations to get, create, update, and delete them.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "bdbs",
+    "REST API",
+    "permissions",
+    "query parameters",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

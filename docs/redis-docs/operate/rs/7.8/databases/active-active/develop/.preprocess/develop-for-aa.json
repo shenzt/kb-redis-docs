@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:dc487d3c73deb1a100f36fa734848af799bf5624",
+  "generated_at": "2026-02-24T06:31:43Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Active-Active databases simplify geo-distributed application development by using multi-master replication and CRDTs to automatically handle conflicting writes across Redis Enterprise clusters.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Active-Active databases",
+    "multi-master replication (MMR)",
+    "Conflict-free Replicated Data Types (CRDTs)",
+    "geo-distributed",
+    "synchronization"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

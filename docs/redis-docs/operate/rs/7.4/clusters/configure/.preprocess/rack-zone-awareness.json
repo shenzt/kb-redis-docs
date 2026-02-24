@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:f83711e5e8016f79abafe2594ba4d9b44433f4c4",
+  "generated_at": "2026-02-24T06:29:57Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document rack-zone-awareness.md explains how to configure and use rack-zone awareness in a Redis Enterprise Software cluster to ensure high availability by distributing shards and endpoints across different physical racks or logical zones.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "rack-zone awareness",
+    "rack-zone ID",
+    "shard placement",
+    "high availability",
+    "node layout"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

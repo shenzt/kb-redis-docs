@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d39c0a3501b611ad03d71da57736a6a910565a0e",
+  "generated_at": "2026-02-24T06:34:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document database-operations.md lists and defines the performance metrics available for monitoring databases and shards in the Redis Software Cluster Manager UI.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "Evicted objects/sec",
+    "Hit ratio",
+    "Latency",
+    "Operations/sec",
+    "Total keys"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

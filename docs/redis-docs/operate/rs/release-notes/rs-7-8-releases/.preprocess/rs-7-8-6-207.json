@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d684b5b1c0e239c4ad7946d789ecb8c43939c607",
+  "generated_at": "2026-02-24T06:35:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Software version 7.8.6 is a maintenance release that includes enhanced timeout diagnostics for shard restarts, a bug fix for viewing shard memory metrics in the Cluster Manager UI, and lists included Redis database versions, compatible modules, and security fixes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Software",
+    "shard restart",
+    "Cluster Manager UI",
+    "Redis database version",
+    "Redis modules"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

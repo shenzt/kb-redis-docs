@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:60f2ff3f84db7d055ee704d9d21efdf9487dd8a6",
+  "generated_at": "2026-02-24T06:34:18Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document redis_cleanup_job_settings.md describes a deprecated Redis cleanup schedule setting that has been replaced by persistence_cleanup_scan_interval.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "redis_cleanup_job_settings",
+    "deprecated",
+    "persistence_cleanup_scan_interval",
+    "cron_expression",
+    "Redis cleanup schedule"
+  ],
+  "gap_flags": [
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

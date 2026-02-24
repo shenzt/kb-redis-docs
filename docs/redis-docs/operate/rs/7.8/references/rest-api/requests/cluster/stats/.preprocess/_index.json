@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:d75dc38f49c81f5ff329694b083926a1e33b2c44",
+  "generated_at": "2026-02-24T06:32:53Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document is a REST API reference for the GET /v1/cluster/stats endpoint, detailing its request parameters, permissions, response format, and example usage.",
+  "doc_type": "reference",
+  "quality_score": 9,
+  "key_concepts": [
+    "GET /v1/cluster/stats",
+    "query parameters",
+    "permissions",
+    "statistics object",
+    "status codes"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

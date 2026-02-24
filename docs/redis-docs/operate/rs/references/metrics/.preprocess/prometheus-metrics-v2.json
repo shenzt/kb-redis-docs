@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:77b5161af9d2bed3bbc4e953cf417d2098b11f53",
+  "generated_at": "2026-02-24T06:34:04Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document prometheus-metrics-v2.md covers the integration of Redis Software version 7.8.0+ with Prometheus and other monitoring tools, detailing available v2 metrics and the scraping endpoint.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "Prometheus",
+    "v2 metrics",
+    "scraping endpoint",
+    "node_exporter",
+    "PromQL"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

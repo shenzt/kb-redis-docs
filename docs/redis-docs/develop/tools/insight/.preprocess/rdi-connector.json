@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:394fa5c48fe97b023d5a88165555fb32a94906a0",
+  "generated_at": "2026-02-24T06:24:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers using Redis Insight version 2.54.0+ to connect to Redis Data Integration (RDI), create and deploy data pipelines, and view RDI analytics.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Data Integration (RDI)",
+    "ingest pipeline",
+    "RDI management plane",
+    "config.yaml",
+    "RDI analytics"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:257093dc94c646966cde6ca6e219f1c27a06beca",
+  "generated_at": "2026-02-24T06:25:38Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers enabling and configuring LDAP authentication and authorization for Redis Enterprise Software and Kubernetes, including configuration examples and known limitations.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "LDAP",
+    "RedisEnterpriseCluster",
+    "authenticationQuery",
+    "authorizationQuery",
+    "bindCredentialsSecretName"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1e18da010f402a5aeb36120d8784bb4c11472108",
+  "generated_at": "2026-02-24T06:27:58Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers the process of importing datasets into a Redis Cloud instance from a Redis server or an RDB file, including prerequisites and warnings about data overwrite.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Redis Cloud",
+    "RDB file",
+    "Active-Active database",
+    "import",
+    "sharded databases"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

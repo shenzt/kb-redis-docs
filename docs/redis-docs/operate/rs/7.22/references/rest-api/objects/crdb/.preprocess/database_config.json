@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:11e6352d650481d356eacfa16c4c2c3f46b37cae",
+  "generated_at": "2026-02-24T06:29:12Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The database_config.md document defines the configuration parameters, types, defaults, and descriptions for setting up a database, including persistence, authentication, sharding, and memory settings.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "data_persistence",
+    "sharding",
+    "authentication_admin_pass",
+    "memory_size",
+    "tls_mode"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

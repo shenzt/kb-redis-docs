@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:bcb35ce89deaebcb4a88935b63dfdd8aa60e3fa7",
+  "generated_at": "2026-02-24T06:23:25Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the VectorQuery class in RedisVL, detailing its parameters and methods for performing vector searches with optional filters.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "VectorQuery",
+    "filter_expression",
+    "vector_field_name",
+    "return_fields",
+    "dialect"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

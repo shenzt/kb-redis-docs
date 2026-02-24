@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:47d2658961fef72d88c52a67a88a8f9a5add0755",
+  "generated_at": "2026-02-24T06:34:29Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document describes a deprecated REST API endpoint for retrieving optimized shard placement for a Redis database and the subsequent process to apply that blueprint.",
+  "doc_type": "reference",
+  "quality_score": 7,
+  "key_concepts": [
+    "optimize_shards_placement",
+    "shards_blueprint",
+    "cluster-state-id",
+    "shards_placement",
+    "dry_run"
+  ],
+  "gap_flags": [
+    "incomplete_steps"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

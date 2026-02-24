@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:fe165985cb64cc8699d6bf026d7b11193c49aec0",
+  "generated_at": "2026-02-24T06:30:44Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document snapshot_policy.md defines two parameters, secs and writes, that control the timing and triggering of snapshot creation.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "snapshot",
+    "secs",
+    "writes",
+    "interval",
+    "trigger"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

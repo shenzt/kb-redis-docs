@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:a13fdab453c3f94801d9597d9891ef9d2753e166",
+  "generated_at": "2026-02-24T06:33:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document provides steps to download the Redis installation package from the official download page after signing in.",
+  "doc_type": "guide",
+  "quality_score": 6,
+  "key_concepts": [
+    "Redis",
+    "installation package",
+    "download page",
+    "AWS EC2",
+    "configuration requirements"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

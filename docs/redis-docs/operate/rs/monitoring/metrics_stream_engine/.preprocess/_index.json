@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:cc3f9b131305946c648ec665c77bafc4dd8c0c6e",
+  "generated_at": "2026-02-24T06:33:45Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document covers the availability and features of the new metrics stream engine in Redis Software 8.0, including its v2 Prometheus endpoint, integration with external monitoring tools, and guidance for transitioning from v1 metrics.",
+  "doc_type": "overview",
+  "quality_score": 8,
+  "key_concepts": [
+    "metrics stream engine",
+    "Prometheus v2",
+    "scraping endpoint",
+    "external monitoring tools",
+    "transition from v1 to v2"
+  ],
+  "gap_flags": [],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6d7d2cecfbcc264cb993c4ad4bf4afc95c6ecaee",
+  "generated_at": "2026-02-24T06:26:59Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis event library document, written by Salvatore Sanfilippo, explains the purpose and internal implementation of Redis's custom event-driven I/O system, covering its initialization, file event handling, and time event processing.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "aeEventLoop",
+    "aeCreateFileEvent",
+    "processTimeEvents",
+    "non-blocking I/O",
+    "file descriptor"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

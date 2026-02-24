@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:5189d2f802bf101abfa8bd03aa6855e1bac87fec",
+  "generated_at": "2026-02-24T06:29:13Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document bdb_alert_settings_with_threshold.md defines two configuration parameters for an alert system: its enabled status and threshold value.",
+  "doc_type": "reference",
+  "quality_score": 4,
+  "key_concepts": [
+    "enabled",
+    "threshold",
+    "boolean",
+    "alert",
+    "configuration"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

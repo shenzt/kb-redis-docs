@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6a7e6289be8acdffb78732b312251cfde6bb0248",
+  "generated_at": "2026-02-24T06:27:31Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document _index.md provides a structured table listing different software versions with their release dates and major changes.",
+  "doc_type": "overview",
+  "quality_score": 4,
+  "key_concepts": [
+    "_index.md",
+    "table-children",
+    "Version",
+    "Release date",
+    "Major changes"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:966ac853fd24fb0b7cb48d0a4bd2ad71e1844338",
+  "generated_at": "2026-02-24T06:22:41Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis LangCache is a managed semantic caching service that reduces LLM costs and improves response times by storing and reusing responses to similar queries.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "semantic caching",
+    "LLM (Large Language Model)",
+    "cache hit rates",
+    "embedding generation",
+    "REST API"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": true,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

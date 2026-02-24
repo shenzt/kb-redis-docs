@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:ecc937491ef774859c1478228da1240c50b1111e",
+  "generated_at": "2026-02-24T06:34:30Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document import.md is a REST API reference for initiating a manual dataset import to a database via a POST request to a specific endpoint, detailing permissions, request parameters, and response codes.",
+  "doc_type": "reference",
+  "quality_score": 8,
+  "key_concepts": [
+    "dataset_import_sources",
+    "uid",
+    "start_bdb_import",
+    "import_status",
+    "email_notification"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

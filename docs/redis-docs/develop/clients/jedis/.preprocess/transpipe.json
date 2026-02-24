@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:e274c5f812694d004711970ccb67312203621d63",
+  "generated_at": "2026-02-24T06:24:19Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "This document covers using Redis pipelines to batch commands for reduced network overhead and transactions to ensure atomic execution, including examples for execution and optimistic locking.",
+  "doc_type": "tutorial",
+  "quality_score": 8,
+  "key_concepts": [
+    "Pipelines",
+    "Transactions",
+    "Response objects",
+    "Optimistic locking",
+    "WATCH"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

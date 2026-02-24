@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:6d983215f4875fc16558821b9e8ad8490e149b5f",
+  "generated_at": "2026-02-24T06:31:46Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document db-tags.md explains how to create, add, and edit custom tags for categorizing databases within a Redis Software cluster using the Cluster Manager UI.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "database tags",
+    "Cluster Manager UI",
+    "tag key",
+    "tag value",
+    "database configuration"
+  ],
+  "gap_flags": [
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

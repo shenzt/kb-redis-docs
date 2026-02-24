@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:37d6c9e755c4900274b83e4cab08bf0cf69cbe31",
+  "generated_at": "2026-02-24T06:28:01Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document describes how to view and manage databases in the Redis Cloud console, including viewing details, configuration settings, and managing the database list.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "Databases menu",
+    "Configuration tab",
+    "slowlog",
+    "subscription plan",
+    "General settings"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

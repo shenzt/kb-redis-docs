@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:4ab77305a872a5b604ef85fce8337fff5b30b757",
+  "generated_at": "2026-02-24T06:34:53Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "Redis Enterprise Software 5.2 release notes cover new features like active-active Redis support for sorted sets and lists, causal consistency, enhanced security, upgrade instructions, important fixes, and known limitations.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Active-Active Redis (CRDB)",
+    "Causal consistency",
+    "Sorted Sets",
+    "REST API",
+    "Upgrade instructions"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": false,
+    "has_code_block": true,
+    "has_steps": false
+  }
+}

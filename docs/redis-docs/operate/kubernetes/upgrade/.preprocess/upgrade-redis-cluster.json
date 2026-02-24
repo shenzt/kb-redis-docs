@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:0ac4069af8867d5f9badc415dd6d2c2250a6e4f8",
+  "generated_at": "2026-02-24T06:26:46Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document upgrade-redis-cluster.md details the rolling update process for upgrading Redis Enterprise components in Kubernetes, covering operator, cluster, and database upgrades with prerequisites and troubleshooting.",
+  "doc_type": "guide",
+  "quality_score": 8,
+  "key_concepts": [
+    "rolling updates",
+    "Redis Enterprise operator",
+    "Redis Enterprise cluster (REC)",
+    "Redis Enterprise databases (REDB)",
+    "user-defined modules"
+  ],
+  "gap_flags": [
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:1ed2fab7e4076e15b7e32085a99e3c833fa256c8",
+  "generated_at": "2026-02-24T06:26:16Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The modules.md document covers Redis Enterprise modules, including prerequisites, bundled modules like RediSearch and RedisJSON, and their automatic enablement in Redis 8 and later.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "Redis Enterprise modules",
+    "bundled modules",
+    "RediSearch",
+    "RedisJSON",
+    "automatic enablement"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": true,
+    "has_config": true,
+    "has_code_block": true,
+    "has_steps": true
+  }
+}

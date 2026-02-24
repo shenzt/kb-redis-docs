@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:223483f7018d98ac25b02955028a491228519fe2",
+  "generated_at": "2026-02-24T06:27:48Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The document announces new Redis Cloud features including a refreshed UI with dark mode and the ability to map multiple Redis Cloud accounts to a single marketplace account.",
+  "doc_type": "overview",
+  "quality_score": 5,
+  "key_concepts": [
+    "Redis Cloud",
+    "dark mode",
+    "user interface",
+    "Google Cloud Marketplace",
+    "AWS Marketplace"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_config",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}

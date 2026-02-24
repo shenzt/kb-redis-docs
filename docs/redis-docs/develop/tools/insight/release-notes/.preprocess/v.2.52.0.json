@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "content_hash": "sha1:81d1bbd00a13bff567cda707b0a7557ab75db122",
+  "generated_at": "2026-02-24T06:24:53Z",
+  "model": "deepseek-chat",
+  "prompt_version": "doc_preprocess_v1",
+  "llm_status": "ok",
+  "contextual_summary": "The Redis Insight 2.52 release notes cover new features like hash field expiration and a RAG tutorial, along with UX improvements and bug fixes.",
+  "doc_type": "overview",
+  "quality_score": 7,
+  "key_concepts": [
+    "hash field expiration",
+    "Retrieval Augmented Generation (RAG)",
+    "JSON formatting",
+    "slot refresh timeout",
+    "clustered databases"
+  ],
+  "gap_flags": [
+    "incomplete_steps",
+    "missing_command",
+    "missing_example"
+  ],
+  "evidence_flags": {
+    "has_command": false,
+    "has_config": false,
+    "has_code_block": false,
+    "has_steps": false
+  }
+}
